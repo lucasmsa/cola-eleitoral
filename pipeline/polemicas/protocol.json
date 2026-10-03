@@ -1,0 +1,270 @@
+{
+ "queries_per_candidate": [
+  "<nome> réu OR denunciado OR condenado processo",
+  "<nome> investigado Polícia Federal OR inquérito OR operação",
+  "<nome> TCU OR TCE OR TRE OR TSE decisão",
+  "<nome> checagem Lupa OR Aos Fatos OR Jornal da Paraíba falso",
+  "<nome> patrimônio declarado TSE (bem_candidato 2018-2026)",
+  "<nome> histórico de candidaturas TSE"
+ ],
+ "sources_searched": [
+  "STF/STJ/TSE/TRE notícias",
+  "MPPB/MPF notas",
+  "TCU/TCE-PB",
+  "Agência Senado (CPI)",
+  "TSE bem_candidato",
+  "TSE historico_candidatura",
+  "Folha/Estadão/Globo/UOL/Metrópoles/CNN/Agência Brasil",
+  "Jornal da Paraíba/PB Agora",
+  "Lupa/Aos Fatos/Jornal da Paraíba checagem"
+ ],
+ "patrimonio_rule": "patrimonio item only if 2026 total >= 2x the earliest TSE declaration 2018-2024 AND the increase is >= R$ 500 mil",
+ "candidates": {
+  "presidente-13": {
+   "kept": [
+    "lula-lava-jato",
+    "lula-checagem"
+   ],
+   "dropped": [
+    [
+     "Aos Fatos checagem Flow",
+     "covered by the uniform Lupa roundup used for all six presidential candidates"
+    ],
+    [
+     "patrimônio",
+     "declared total fell 2018->2026; rule not met"
+    ]
+   ]
+  },
+  "presidente-22": {
+   "kept": [
+    "flavio-rachadinha",
+    "flavio-checagem",
+    "flavio-patrimonio"
+   ],
+   "dropped": [
+    [
+     "Aos Fatos/Lupa live de 01/10",
+     "covered by Lupa roundup"
+    ]
+   ]
+  },
+  "presidente-14": {
+   "kept": [
+    "renan-danos-morais",
+    "renan-checagem",
+    "renan-experiencia"
+   ],
+   "dropped": [
+    [
+     "André Fernandes indenização (midiagem.com)",
+     "single non-major outlet; not cached"
+    ]
+   ]
+  },
+  "presidente-70": {
+   "kept": [
+    "cury-proposta-bolsa",
+    "cury-checagem",
+    "cury-experiencia"
+   ],
+   "dropped": [
+    [
+     "IFI/TCU costing of plan",
+     "no official costing found"
+    ],
+    [
+     "patrimônio R$ 242,6 mi",
+     "no earlier TSE declaration to compare; rule not applicable"
+    ]
+   ]
+  },
+  "presidente-55": {
+   "kept": [
+    "caiado-tre-go",
+    "caiado-checagem",
+    "caiado-patrimonio"
+   ],
+   "dropped": [
+    [
+     "STJ rejeitou queixa-crime contra Caiado (Migalhas)",
+     "complaint against him dismissed by STJ; minor and closed"
+    ],
+    [
+     "TSE judgment of the R$ 60 mil fine",
+     "no outcome found; status kept as 'cabia recurso'"
+    ]
+   ]
+  },
+  "presidente-30": {
+   "kept": [
+    "zema-rejeito",
+    "zema-checagem",
+    "zema-patrimonio"
+   ],
+   "dropped": [
+    [
+     "Mídia Ninja / CUT-MG pieces",
+     "opinion or partisan outlets"
+    ],
+    [
+     "whether Zema himself is investigated",
+     "no source states it either way; claim limited to the decree being cited"
+    ]
+   ]
+  },
+  "governador-11": {
+   "kept": [
+    "lucas-aije",
+    "lucas-checagem"
+   ],
+   "dropped": [
+    [
+     "second AIJE (uso político do gabinete, Fonte 83)",
+     "preliminary data-preservation order; not cached"
+    ],
+    [
+     "patrimônio",
+     "+141% but +R$ 433 mil; rule not met"
+    ]
+   ]
+  },
+  "governador-22": {
+   "kept": [
+    "efraim-suplente",
+    "efraim-checagem"
+   ],
+   "dropped": [
+    [
+     "'fantasmas de Efraim' (Jornal da Paraíba, ~2010)",
+     "refers to his father Efraim Morais, not the candidate"
+    ],
+    [
+     "photo at INSS-fraud suspect's ranch / Vorcaro emendas (Vitrine do Cariri)",
+     "regional outlet, no status for the candidate; not verified in major press"
+    ],
+    [
+     "patrimônio",
+     "+93%; rule not met"
+    ]
+   ]
+  },
+  "governador-15": {
+   "kept": [
+    "cicero-registro-tse",
+    "cicero-territorio-livre",
+    "cicero-confraria",
+    "cicero-checagem"
+   ],
+   "dropped": [
+    [
+     "agressão a policiais em ato de campanha (out/2026)",
+     "involves an aide; no claim about the candidate"
+    ],
+    [
+     "Hospital de Mangabeira improbidade re-examination",
+     "status unclear; not cached"
+    ]
+   ]
+  },
+  "governador-80": {
+   "kept": [
+    "yuri-experiencia"
+   ],
+   "dropped": [
+    [
+     "searches",
+     "nothing documented"
+    ]
+   ]
+  },
+  "governador-29": {
+   "kept": [
+    "camilo-experiencia"
+   ],
+   "dropped": [
+    [
+     "searches",
+     "nothing documented"
+    ],
+    [
+     "no assets declared",
+     "not a jump; not a controversy"
+    ]
+   ]
+  },
+  "senador-400": {
+   "kept": [
+    "joao-calvario",
+    "joao-propaganda-2022"
+   ],
+   "dropped": [
+    [
+     "Livânia Faria delação (Congresso em Foco)",
+     "covered by the Calvário item, which records the archiving"
+    ],
+    [
+     "patrimônio",
+     "+82%; rule not met"
+    ]
+   ]
+  },
+  "senador-155": {
+   "kept": [
+    "veneziano-stf"
+   ],
+   "dropped": [
+    [
+     "queixa-crime de Hugo Motta (Portal da Capital, 30/09/2026)",
+     "partisan outlet states he 'passa a responder a processo', which overstates a just-filed complaint; not confirmed in major press"
+    ]
+   ]
+  },
+  "senador-100": {
+   "kept": [
+    "nabor-tce",
+    "nabor-tse-publicidade"
+   ],
+   "dropped": [
+    [
+     "MPF denúncia por atestado médico falso (2014)",
+     "outcome not found"
+    ],
+    [
+     "ação de improbidade do Procon de Patos (2017)",
+     "outcome not found"
+    ],
+    [
+     "TCE multa R$ 2 mil Rivaldão (Fonte 83)",
+     "not cached"
+    ]
+   ]
+  },
+  "senador-222": {
+   "kept": [
+    "queiroga-cpi"
+   ],
+   "dropped": [
+    [
+     "patrimônio",
+     "+178% but +R$ 306 mil; rule not met"
+    ]
+   ]
+  },
+  "senador-300": {
+   "kept": [
+    "major-fabio-nada"
+   ],
+   "dropped": [
+    [
+     "TRE-PB ordered removal of 59 posts",
+     "procedural ruling about the disclosure address, not misconduct"
+    ],
+    [
+     "'experiência' category",
+     "not applicable: he served as federal deputy (camara.leg.br/deputados/149327)"
+    ]
+   ]
+  }
+ }
+}

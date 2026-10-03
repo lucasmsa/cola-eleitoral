@@ -1,0 +1,3133 @@
+[
+ {
+  "questionId": "eco-reforma-tributaria",
+  "whatItIs": [
+   {
+    "text": "A reforma tributária (PEC 45/2019) troca cinco tributos sobre consumo (ICMS, ISS, IPI, PIS e Cofins) por três: IBS, CBS e Imposto Seletivo.",
+    "support": "O texto prevê a substituição de cinco tributos (ICMS, ISS, IPI, PIS e Cofins) por três: Imposto sobre Bens e Serviços (IBS), Contribuição sobre Bens e Serviços (CBS) e Imposto Seletivo (IS).",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-whatItIs-0"
+   },
+   {
+    "text": "IBS e CBS são um IVA, Imposto sobre Valor Agregado: cada etapa da produção paga só sobre o valor que acrescentou, sem imposto sobre imposto. Esse modelo existe em mais de 170 países.",
+    "support": "Esse tipo de tributo incide somente sobre o que foi agregado em cada etapa da produção de um bem ou serviço, excluindo valores pagos em etapas anteriores. O IVA já é adotado em mais de 170 países.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-whatItIs-1"
+   },
+   {
+    "text": "O Imposto Seletivo, apelidado de \"imposto do pecado\", cobra a mais de produtos que fazem mal à saúde ou ao meio ambiente, como cigarro e bebida alcoólica.",
+    "support": "funcionará como uma espécie de “taxa extra” sobre bens e serviços prejudiciais à saúde e ao meio ambiente. É o caso de cigarros e de bebidas alcoólicas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-whatItIs-2"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "O imposto passa a ser cobrado no local onde o produto é consumido, e não onde é produzido. A ideia é acabar com a guerra fiscal, em que estados dão descontos de imposto para atrair empresas.",
+    "support": "a cobrança de impostos deixará de ser feita na origem (local de produção) e passará a ser feita no destino (local de consumo). A mudança visa dar fim à chamada guerra fiscal",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-inPractice-0"
+   },
+   {
+    "text": "Itens da cesta básica nacional, como arroz e feijão, ficam isentos, e famílias de baixa renda recebem de volta parte do imposto (o chamado cashback).",
+    "support": "o texto também prevê a devolução de parte do imposto pago pelos consumidores, o chamado “cashback”. A medida vale para famílias de baixa renda",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-inPractice-1"
+   },
+   {
+    "text": "A Emenda inclui uma \"trava\": a carga dos novos tributos não pode passar da média de 2012 a 2021, medida em proporção do PIB.",
+    "support": "o limite para a carga tributária será a média de 2012 a 2021, na proporção com o Produto Interno Bruto (PIB)",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O líder do governo no Congresso, senador Randolfe Rodrigues, disse que a reforma reduz tributos para os mais pobres e citou alíquota zero para arroz e feijão.",
+    "support": "afirmou que a aprovação da PEC é “histórica” e que vai garantir uma redução de tributos para a população mais pobre. Ele ressaltou que o texto prevê alíquota zero para arroz e feijão",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-argsFor-0"
+   },
+   {
+    "text": "O relator, senador Eduardo Braga, afirmou que o modelo não aumenta a carga tributária.",
+    "support": "Se o receio é que aprovação da PEC acarrete aumento de carga tributária, temos a convicção de que o modelo garante que isso não ocorrerá — disse Braga.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O líder da oposição, senador Rogerio Marinho, disse que a reforma aumentaria a carga para a maior parte da população e que o texto foi \"desconfigurado\" por exceções a setores.",
+    "support": "afirmou que a reforma vai na prática aumentar a carga tributária para a maior parte da população. Segundo o senador, a proposta foi “desconfigurada” e está longe de simplificar o atual modelo.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-argsAgainst-0"
+   },
+   {
+    "text": "O senador Oriovisto Guimarães argumentou que a transição deixa o sistema mais complexo e que estados e municípios perdem arrecadação.",
+    "support": "o sistema tributário vai ficar ainda mais complexo durante o período de transição, porque os atuais tributos vão coexistir com os novos. Ele ainda alertou sobre os riscos da reforma para o equilíbrio federativo.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Boa parte da divergência não é sobre trocar os impostos, e sim sobre quantos setores ganham regime diferenciado. Transportes, combustíveis, saneamento, planos de saúde e bancos estão na lista.",
+    "support": "Entre os setores que terão regimes diferenciados segundo o texto estão transportes, combustíveis, saneamento, planos de saúde, setor imobiliário, jogos de prognósticos, loterias, instituições financeiras, incluindo bancos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-nuance-0"
+   },
+   {
+    "text": "A alíquota final ainda estava em disputa na votação: emendas da oposição para limitar a soma das alíquotas a 20% ou 25% foram rejeitadas.",
+    "support": "senadores rejeitaram destaques apresentados por senadores da oposição para limitar a soma das alíquotas dos tributos. Uma das emendas previa o teto de 20%; outra estabelecia um limite de 25%.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-eco-reforma-tributaria-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "eco-arcabouco",
+  "whatItIs": [
+   {
+    "text": "O arcabouço fiscal (Lei Complementar 200/2023) é a regra que limita quanto o governo federal pode gastar a cada ano. Ele substituiu o teto de gastos.",
+    "support": "novo regime para as contas da União que vai substituir o teto de gastos públicos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 31/08/2023"
+    },
+    "checkId": "exp-eco-arcabouco-whatItIs-0"
+   },
+   {
+    "text": "A despesa pode crescer, acima da inflação, até 70% do crescimento real da receita. Se a meta de resultado primário for descumprida, esse percentual cai para 50%. Resultado primário é a diferença entre receitas e despesas sem contar os juros da dívida.",
+    "support": "- 70% da variação real da receita caso seja cumprida a meta de resultado primário do ano anterior ao de elaboração da Lei Orçamentária Anual ( LOA ); ou",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Todo ano o gasto cresce pelo menos 0,6% e no máximo 2,5% acima da inflação, mesmo que a receita suba mais.",
+    "support": "todo ano ela crescerá ao menos 0,6%, com base na variação da receita. Já o máximo de aumento será equivalente a 2,5%, mesmo que a aplicação dos 70% da variação da receita resulte em valor maior.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-inPractice-0"
+   },
+   {
+    "text": "Se a meta não for cumprida, o governo é obrigado a adotar medidas de contenção de gastos.",
+    "support": "Cajado incluiu ainda a obrigatoriedade de o governo adotar medidas de contenção de despesas caso não seja atingido o patamar mínimo para a meta de resultado primário",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O governo argumenta que a regra é mais flexível que o teto e permite \"acomodar choques econômicos\" sem perder o controle do Orçamento.",
+    "support": "Segundo o governo, o novo regime fiscal é mais flexível, o que permitirá \"acomodar choques econômicos, mas sem comprometer a consistência do Orçamento no médio e longo prazo\".",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/993734-lei-do-arcabouco-fiscal-e-sancionada-novo-regime-substitui-o-teto-de-gastos-publicos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 31/08/2023"
+    },
+    "checkId": "exp-eco-arcabouco-argsFor-0"
+   },
+   {
+    "text": "O deputado Alencar Santana (PT-SP) disse que a regra garante o aumento real do salário mínimo e o Bolsa Família, que não estavam assegurados no teto de gastos.",
+    "support": "destacou o compromisso com o aumento real do salário mínimo e com o Bolsa Família, que não estavam garantidos sob o regime do teto de gastos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Pela direita, o deputado Marcel van Hattem (Novo-RS) disse que a regra vai \"incentivar a gastança\" e defendeu o modelo do teto de gastos.",
+    "support": "O deputado Marcel van Hattem (Novo-RS) afirmou que o novo regime fiscal vai \"incentivar a gastança\".",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-argsAgainst-0"
+   },
+   {
+    "text": "Pela esquerda, o deputado Chico Alencar (Psol-RJ) chamou a regra de \"regime de emagrecimento das políticas públicas\", por limitar o crescimento dos gastos.",
+    "support": "\"É um regime de emagrecimento das políticas públicas. Limitar de 0,6% a 2,5% de gastos não é teto?\", questionou.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A regra é criticada pelos dois lados: uns acham que permite gastar demais, outros que corta políticas públicas. Discordar da frase pode significar qualquer uma das duas posições.",
+    "support": "Para alguns deputados, no entanto, o ideal é o modelo do teto de gastos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-nuance-0"
+   },
+   {
+    "text": "Parte das discussões é sobre o que fica dentro ou fora do limite, como o Fundeb, fundo que financia a educação básica.",
+    "support": "Muitos deputados, no entanto, destacaram preocupação com a inclusão do Fundeb nos limites da meta.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/964821-camara-aprova-texto-base-do-projeto-do-arcabouco-fiscal-votacao-prossegue-nesta-quarta-feira/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 23/05/2023"
+    },
+    "checkId": "exp-eco-arcabouco-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "eco-privatizacao",
+  "whatItIs": [
+   {
+    "text": "Privatizar é vender o controle de uma empresa estatal para acionistas privados. A MP 1031/2021 abriu caminho para privatizar a Eletrobras, que responde por cerca de 30% da energia gerada no país.",
+    "support": "viabiliza a desestatização da Eletrobras, estatal vinculada ao Ministério de Minas e Energia que responde por 30% da energia gerada no País.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/761755-camara-aprova-mp-que-viabiliza-desestatizacao-da-eletrobras",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 20/05/2021"
+    },
+    "checkId": "exp-eco-privatizacao-whatItIs-0"
+   },
+   {
+    "text": "O modelo usado foi a emissão de novas ações vendidas no mercado sem a participação do governo, que assim perdeu o controle de voto.",
+    "support": "O modelo de desestatização prevê a emissão de novas ações da Eletrobras, a serem vendidas no mercado sem a participação do governo, resultando na perda do controle acionário de voto mantido atualmente pela União.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/761755-camara-aprova-mp-que-viabiliza-desestatizacao-da-eletrobras",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 20/05/2021"
+    },
+    "checkId": "exp-eco-privatizacao-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A União manteve uma \"golden share\", ação especial com poder de veto, para impedir que um acionista ou grupo tenha mais de 10% do capital votante.",
+    "support": "a União terá uma ação de classe especial ( golden share ) que lhe garante poder de veto em decisões da assembleia de acionistas a fim de evitar que algum deles ou um grupo de vários detenha mais de 10% do capital votante da Eletrobras.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/761755-camara-aprova-mp-que-viabiliza-desestatizacao-da-eletrobras",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 20/05/2021"
+    },
+    "checkId": "exp-eco-privatizacao-inPractice-0"
+   },
+   {
+    "text": "Eletronuclear (usinas de Angra) e Itaipu ficaram fora da venda: pela Constituição, ambas precisam continuar sob controle da União.",
+    "support": "Por questões constitucionais, ambas devem ficar sob controle da União.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/761755-camara-aprova-mp-que-viabiliza-desestatizacao-da-eletrobras",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 20/05/2021"
+    },
+    "checkId": "exp-eco-privatizacao-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "Leandro Moreira, do Ministério da Economia, argumentou que a perspectiva de privatização trouxe eficiência e que o valor de mercado da empresa subiu de R$ 7,4 bilhões em 2013 para R$ 48 bilhões.",
+    "support": "o valor de mercado da Eletrobras passou de R$ 7,4 bilhões em 2013 para R$ 48 bilhões atualmente. Ele salientou que a perspectiva de desestatização trouxe eficiência e produtividade.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/614978-governo-aponta-vantagens-na-privatizacao-da-eletrobras-deputados-veem-riscos-a-soberania/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência sobre a privatização da Eletrobras, 2019"
+    },
+    "checkId": "exp-eco-privatizacao-argsFor-0"
+   },
+   {
+    "text": "Leandro Moreira também argumentou que o Estado deve garantir abastecimento, qualidade e preço, e não necessariamente ser o dono da empresa, já que mantém regulação e fiscalização.",
+    "support": "o Estado brasileiro, mesmo com as privatizações, mantém o controle da concessão, da regulação, da fiscalização e da operação do setor elétrico.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/614978-governo-aponta-vantagens-na-privatizacao-da-eletrobras-deputados-veem-riscos-a-soberania/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência sobre a privatização da Eletrobras, 2019"
+    },
+    "checkId": "exp-eco-privatizacao-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Gustavo Teixeira, da Federação Nacional dos Urbanitários, afirmou que os investimentos não dependem da privatização e que estatais têm papel importante em crises.",
+    "support": "afirmou que os investimentos no setor elétrico não dependem da desestatização e que especialistas reforçam o papel significativo das estatais em períodos de crise econômica.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/614978-governo-aponta-vantagens-na-privatizacao-da-eletrobras-deputados-veem-riscos-a-soberania/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência sobre a privatização da Eletrobras, 2019"
+    },
+    "checkId": "exp-eco-privatizacao-argsAgainst-0"
+   },
+   {
+    "text": "A deputada Professora Marcivânia (PCdoB-AP) disse que a empresa era superavitária e estratégica para a soberania nacional, e lembrou que em vários países o setor hidrelétrico é majoritariamente estatal.",
+    "support": "acrescentou que em vários países o setor hidrelétrico é majoritariamente estatal por questões estratégicas.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/614978-governo-aponta-vantagens-na-privatizacao-da-eletrobras-deputados-veem-riscos-a-soberania/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência sobre a privatização da Eletrobras, 2019"
+    },
+    "checkId": "exp-eco-privatizacao-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Os próprios representantes do governo da época admitiram que as tarifas subiram nos anos anteriores mesmo com privatizações no setor, então o efeito no preço da luz é disputado.",
+    "support": "Os representantes do governo admitiram que, mesmo com a privatização de parte do setor elétrico, as tarifas para o consumidor aumentaram nos últimos anos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/614978-governo-aponta-vantagens-na-privatizacao-da-eletrobras-deputados-veem-riscos-a-soberania/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência sobre a privatização da Eletrobras, 2019"
+    },
+    "checkId": "exp-eco-privatizacao-nuance-0"
+   },
+   {
+    "text": "A pergunta é geral: concordar não obriga a privatizar todas as estatais. O próprio modelo da Eletrobras deixou empresas estratégicas sob controle público.",
+    "support": "O texto autoriza o governo federal a criar uma empresa pública ou sociedade de economia mista para administrar a Eletronuclear (que controla as usinas de Angra) e a Itaipu Binacional.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/761755-camara-aprova-mp-que-viabiliza-desestatizacao-da-eletrobras",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 20/05/2021"
+    },
+    "checkId": "exp-eco-privatizacao-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "eco-bc-autonomo",
+  "whatItIs": [
+   {
+    "text": "A Lei Complementar 179/2021 deu ao Banco Central autonomia formal: presidente e diretores têm mandatos fixos de quatro anos que não coincidem com o do presidente da República.",
+    "support": "Os mandatos serão de quatro anos e haverá um escalonamento para que apenas no terceiro ano de um mandato presidencial a maioria da diretoria e o presidente do BC tenham sido indicados pelo mandatário do Poder Executivo.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/727367-CAMARA-APROVA-PROJETO-DE-AUTONOMIA-DO-BANCO-CENTRAL",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 10/02/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-whatItIs-0"
+   },
+   {
+    "text": "O presidente da República continua indicando os nomes, que passam por sabatina no Senado, mas não pode demiti-los livremente.",
+    "support": "O presidente continua escolhendo. Mas o que entra não pode exonerar.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2021/03/01/autonomia-do-banco-central-ja-e-lei",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 01/03/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A meta de inflação continua sendo fixada pelo Conselho Monetário Nacional (CMN), que inclui o governo. O BC decide como atingi-la, principalmente pela taxa de juros.",
+    "support": "as metas relacionadas ao controle da inflação anual continuam a cargo do Conselho Monetário Nacional (CMN), e o Banco Central terá os mesmos instrumentos atuais de política monetária.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/727367-CAMARA-APROVA-PROJETO-DE-AUTONOMIA-DO-BANCO-CENTRAL",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 10/02/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-inPractice-0"
+   },
+   {
+    "text": "Um diretor só pode ser exonerado por pedido próprio, doença, condenação ou \"desempenho insuficiente\", e neste último caso o Senado precisa aprovar.",
+    "support": "Neste último caso, caberá ao CMN submeter o pedido ao presidente da República; e a exoneração terá de passar também pelo Senado, com quórum de maioria absoluta para aprovação.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/727367-CAMARA-APROVA-PROJETO-DE-AUTONOMIA-DO-BANCO-CENTRAL",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 10/02/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O autor da lei, senador Plínio Valério, argumentou que mandatos fixos protegem as decisões do BC contra interferência do governo e do mercado.",
+    "support": "A ideia de mandatos fixos para os diretores do Banco Central é assegurar que eles tomem decisões sem interferências do mercado ou do próprio presidente da República ou ministro da Economia",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2021/03/01/autonomia-do-banco-central-ja-e-lei",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 01/03/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-argsFor-0"
+   },
+   {
+    "text": "O relator na Câmara, deputado Silvio Costa Filho, disse que a regra traz previsibilidade e permite um debate \"independente do governo de plantão\".",
+    "support": "\"Sobretudo para que a gente possa fazer um debate independente do governo de plantão. Se é um governo de centro, de esquerda, de direita\", defendeu.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/939810-camara-discute-aumento-das-taxas-de-juros-e-autonomia-do-bc/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2023"
+    },
+    "checkId": "exp-eco-bc-autonomo-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O então líder do PT, Enio Verri, defendeu que o BC também tivesse metas de emprego, como nos Estados Unidos, para evitar \"especulação financeira pura\".",
+    "support": "Se é importante a autonomia, por que não damos duplo papel, como nos Estados Unidos, cujo órgão tem de se preocupar também com o emprego, evitando a especulação financeira pura?",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/727367-CAMARA-APROVA-PROJETO-DE-AUTONOMIA-DO-BANCO-CENTRAL",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 10/02/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Chico Alencar (Psol-RJ) argumentou que o BC deveria estar a serviço do interesse público e criticou a ligação de diretores com o mercado financeiro.",
+    "support": "“Na verdade, um ente público como o BC tem que estar a serviço do interesse público e não como é hoje.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/939810-camara-discute-aumento-das-taxas-de-juros-e-autonomia-do-bc/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2023"
+    },
+    "checkId": "exp-eco-bc-autonomo-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há posições intermediárias: manter a autonomia, mas incluir o pleno emprego como objetivo. Uma emenda nesse sentido foi rejeitada em 2021, embora a lei cite fomentar o emprego como objetivo secundário.",
+    "support": "O principal objetivo da instituição continuará sendo assegurar a estabilidade de preços, mas também deverá zelar pela estabilidade e pela eficiência do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/727367-CAMARA-APROVA-PROJETO-DE-AUTONOMIA-DO-BANCO-CENTRAL",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 10/02/2021"
+    },
+    "checkId": "exp-eco-bc-autonomo-nuance-0"
+   },
+   {
+    "text": "O debate costuma se misturar ao nível dos juros, mas são coisas diferentes: a autonomia define quem decide, não qual juro é o certo. Economistas divergem sobre se os juros altos de 2023 eram necessários.",
+    "support": "Logo, economistas como Armínio Fraga, ex-presidente do Banco Central, afirmaram que a taxa é alta mesmo; mas que só pode baixar quando existirem sinais mais claros de que as contas públicas ficarão equilibradas.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/939810-camara-discute-aumento-das-taxas-de-juros-e-autonomia-do-bc/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2023"
+    },
+    "checkId": "exp-eco-bc-autonomo-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "eco-ir-alta-renda",
+  "whatItIs": [
+   {
+    "text": "O PL 1.087/2025 zera, na prática, o Imposto de Renda de quem ganha até R$ 5 mil por mês a partir de 2026 e reduz parcialmente para quem ganha até R$ 7.350.",
+    "support": "isenta do imposto os rendimentos mensais de até R$ 5 mil de pessoas físicas, e reduz parcialmente a tributação de rendas entre R$ 5.000,01 a R$ 7.350.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/entenda-as-regras-para-isencao-do-imposto-de-renda-e-taxacao-de-altas-rendas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-whatItIs-0"
+   },
+   {
+    "text": "Para compensar, cria um imposto mínimo para quem ganha a partir de R$ 600 mil por ano, que sobe gradualmente até 10% para rendas acima de R$ 1,2 milhão, contando dividendos.",
+    "support": "Haverá uma alíquota mínima de IR para quem ganha a partir de R$ 600 mil por ano. O texto prevê uma progressão, partindo de 0% e chegando a 10% para rendimentos acima de R$ 1,2 milhão por ano, incluindo dividendos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/entenda-as-regras-para-isencao-do-imposto-de-renda-e-taxacao-de-altas-rendas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "O mínimo só é cobrado de quem paga menos que ele: quem já recolhe 10% ou mais sobre a renda total não paga nada a mais.",
+    "support": "o valor mínimo só será exigido se o imposto total já pago pelo contribuinte for inferior ao piso calculado.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/entenda-as-regras-para-isencao-do-imposto-de-renda-e-taxacao-de-altas-rendas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-inPractice-0"
+   },
+   {
+    "text": "Dividendos acima de R$ 50 mil por mês de uma mesma empresa para uma pessoa passam a ter 10% retidos na fonte.",
+    "support": "em valor total maior de R$ 50.000 no mês ficará sujeita à incidência do IRPF de 10% sobre o pagamento",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/entenda-as-regras-para-isencao-do-imposto-de-renda-e-taxacao-de-altas-rendas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-inPractice-1"
+   },
+   {
+    "text": "Segundo a Câmara, cerca de 141,4 mil pessoas de alta renda pagavam em média 2,5% de IR sobre seus rendimentos totais, enquanto trabalhadores em geral pagam de 9% a 11%.",
+    "support": "pode atingir cerca de 141,4 mil contribuintes pessoas físicas de alta renda que hoje recolhem, em média, com alíquota efetiva de 2,5% de IR sobre seus rendimentos totais",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1206672-camara-aprova-projeto-que-isenta-do-imposto-de-renda-quem-ganha-ate-r$-5-mil-por-mes",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 01/10/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator no Senado, Renan Calheiros, resumiu a lógica: \"Quem tem menos, paga menos; quem tem mais, paga mais\".",
+    "support": "Quem tem menos, paga menos; quem tem mais, paga mais — disse o relator.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-argsFor-0"
+   },
+   {
+    "text": "A senadora Eliziane Gama defendeu a medida como forma de reduzir desigualdade por meio da \"justiça tributária\".",
+    "support": "A justiça social se dá pelo resultado da justiça tributária — afirmou",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O líder do PL na Câmara, Sóstenes Cavalcante, chamou a isenção de \"troco\" e disse que o partido é \"sempre contra o aumento de impostos\".",
+    "support": "\"O nosso partido é sempre contra o aumento de impostos\", disse.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1206672-camara-aprova-projeto-que-isenta-do-imposto-de-renda-quem-ganha-ate-r$-5-mil-por-mes",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 01/10/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Capitão Alden (PL-BA) argumentou que os mais ricos vão levar recursos para o exterior e defendeu compensar a isenção com corte de gastos.",
+    "support": "Ele acredita que os brasileiros mais ricos que serão tributados devem transferir seus recursos para o exterior.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1206672-camara-aprova-projeto-que-isenta-do-imposto-de-renda-quem-ganha-ate-r$-5-mil-por-mes",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 01/10/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Mesmo críticos apoiam isentar quem ganha menos. O debate é sobre como pagar a isenção: imposto mínimo sobre altas rendas ou corte de gastos.",
+    "support": "Para o parlamentar, a isenção deveria subir para até R$ 10 mil, mas com a compensação dos recursos a ser feita por ações de austeridade do governo federal.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1206672-camara-aprova-projeto-que-isenta-do-imposto-de-renda-quem-ganha-ate-r$-5-mil-por-mes",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 01/10/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-nuance-0"
+   },
+   {
+    "text": "Há quem apoie a medida mas queira ir além: o senador Weverton disse que \"os especuladores ainda ganham muito mais do que os empreendedores\" e pediu correções mais amplas.",
+    "support": "Ainda temos um grave problema: os especuladores ainda ganham muito mais do que os empreendedores.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 05/11/2025"
+    },
+    "checkId": "exp-eco-ir-alta-renda-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-saidinha",
+  "whatItIs": [
+   {
+    "text": "A saída temporária, a \"saidinha\", permitia que presos do regime semiaberto saíssem sem vigilância direta até cinco vezes por ano, em geral em feriados, para visitar a família ou estudar. Semiaberto é o regime em que o preso fica em colônia agrícola ou local parecido.",
+    "support": "Atualmente eles podem sair até cinco vezes ao ano, sem vigilância direta, para visitar a família, estudar fora da cadeia ou participar de atividades que contribuam para a ressocialização.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/20/senado-aprova-restricao-as-saidinhas-de-presos-texto-volta-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-whatItIs-0"
+   },
+   {
+    "text": "Para sair, o preso precisava ter bom comportamento e ter cumprido pelo menos 16,6% da pena, ou 25% se reincidente, com autorização do juiz.",
+    "support": "ter cumprido no mínimo 16,6% da pena, se for sua primeira condenação; ou 25%, se reincidente",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/23/debate-sobre-fim-dos-saidoes-expoe-desafios-da-ressocializacao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 23/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A saída em feriados já acabou: em maio de 2024 o Congresso derrubou o veto da Presidência da República e manteve só a saída para estudar.",
+    "support": "Com a derrubada do veto, volta a valer o sentido original do texto aprovado no Congresso: o benefício da saída temporária será concedido aos detentos em regime semiaberto apenas se for para cursar supletivo profissionalizante, ensino médio ou superior.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/05/28/pela-segunda-vez-congresso-acaba-com-saidas-temporarias-de-presos-em-feriados",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/05/2024"
+    },
+    "checkId": "exp-seg-saidinha-inPractice-0"
+   },
+   {
+    "text": "No 1º semestre de 2023, 11.415 presos não voltaram depois das saídas, segundo a Senappen, o equivalente a 6,27% dos presos do semiaberto.",
+    "support": "11.415 presos não retornaram depois das saídas temporárias do primeiro semestre de 2023. Isso representa 6,27% de todos presos que cumprem regime semiaberto no país",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/23/debate-sobre-fim-dos-saidoes-expoe-desafios-da-ressocializacao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 23/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Sergio Moro (União-PR) argumentou que, somando quatro ou cinco feriados por ano, o número de presos que não voltam é grande e parte deles comete novos crimes.",
+    "support": "Se nós formos pensar em quatro ou cinco feriados por ano, 5% a cada uma dessas oportunidades, nós temos um número substancial de presos que não retornam.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/23/debate-sobre-fim-dos-saidoes-expoe-desafios-da-ressocializacao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 23/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-argsFor-0"
+   },
+   {
+    "text": "O senador Fabiano Contarato (PT-ES), ex-delegado, votou pelo fim da saidinha e disse que o benefício passa \"a certeza da impunidade\".",
+    "support": "por entender que é mais um benefício dado e que vai passar não a sensação, mas a certeza da impunidade — disse.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/20/senado-aprova-restricao-as-saidinhas-de-presos-texto-volta-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O autor do projeto original, deputado Pedro Paulo (PSD-RJ), citou dados de São Paulo: de 34 mil presos na saída de Natal de 2023, só 81 cometeram algum delito.",
+    "support": "Desses, 1,7 mil não retornaram no prazo. Muitos, depois, retornaram, mas só 81 cometeram algum tipo de delito, não necessariamente gravoso, ou seja: 0,23% — argumentou.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/05/28/pela-segunda-vez-congresso-acaba-com-saidas-temporarias-de-presos-em-feriados",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/05/2024"
+    },
+    "checkId": "exp-seg-saidinha-argsAgainst-0"
+   },
+   {
+    "text": "A deputada Érika Kokay (PT-DF) defendeu a saída para ver a família porque \"a família é agente fundamental de ressocialização\".",
+    "support": "Porque a família é agente fundamental de ressocialização.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/05/28/pela-segunda-vez-congresso-acaba-com-saidas-temporarias-de-presos-em-feriados",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/05/2024"
+    },
+    "checkId": "exp-seg-saidinha-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Concordar com a frase hoje significa manter o fim da saidinha em feriados, que já está em lei. A saída para estudar continua permitida.",
+    "support": "o benefício da saída temporária será concedido aos detentos em regime semiaberto apenas se for para cursar supletivo profissionalizante, ensino médio ou superior.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/05/28/pela-segunda-vez-congresso-acaba-com-saidas-temporarias-de-presos-em-feriados",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/05/2024"
+    },
+    "checkId": "exp-seg-saidinha-nuance-0"
+   },
+   {
+    "text": "Os mesmos números são lidos de formas opostas: o Conselho Nacional de Política Criminal chamou de \"ínfimo\" o número de presos que não voltam, e Moro discordou.",
+    "support": "“Trata-se de um quantitativo ínfimo se comparado ao número daqueles que cumpriram com as determinações legais e retornaram”, analisa o Conselho Nacional de Política Criminal e Penitenciária",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/23/debate-sobre-fim-dos-saidoes-expoe-desafios-da-ressocializacao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 23/02/2024"
+    },
+    "checkId": "exp-seg-saidinha-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-drogas",
+  "whatItIs": [
+   {
+    "text": "A PEC 45/2023, aprovada no Senado em 2024 e enviada à Câmara, coloca na Constituição que é crime portar ou guardar droga ilícita em qualquer quantidade.",
+    "support": "A PEC 45/2023 insere no art. 5º da Constituição a determinação de que é crime a posse ou porte de qualquer quantidade de droga ou entorpecente",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-whatItIs-0"
+   },
+   {
+    "text": "Ela foi uma reação ao STF, que decidiu que portar maconha para uso pessoal não é crime e fixou 40 gramas como referência para separar usuário de traficante.",
+    "support": "Foi estabelecido o parâmetro de 40g para diferenciar usuários de traficantes.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "exp-seg-drogas-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Mesmo com a PEC, o usuário não iria preso: o texto prevê penas alternativas e tratamento. A Lei de Drogas de 2006 já não prevê prisão para quem porta para consumo.",
+    "support": "O texto aprovado nesta terça-feira não altera a Lei de Entorpecentes, que já prevê a diferenciação entre traficantes e usuários. Foi essa lei que extinguiu a pena de prisão para usuários no país.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-inPractice-0"
+   },
+   {
+    "text": "Pela decisão do STF, portar maconha continua ilegal, e o uso em público segue proibido. A diferença é que a punição passa a ser administrativa, não criminal.",
+    "support": "O porte de maconha para consumo próprio segue sendo uma conduta ilegal, o que significa que o uso em espaços públicos continua proibido.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "exp-seg-drogas-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O autor, senador Rodrigo Pacheco, argumentou que não existe tráfico sem comprador e que a decisão do STF invade a competência do Congresso e da Anvisa.",
+    "support": "O motivo desta dupla criminalização é que não há tráfico de drogas se não há interessado em adquiri-las.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-argsFor-0"
+   },
+   {
+    "text": "O senador Alessandro Vieira afirmou que, nos países que liberaram, os indicadores mostram aumento da dependência e do consumo.",
+    "support": "porque todos os indicadores dos países que foram nesse sentido são de aumento da dependência, aumento do consumo",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O senador Jaques Wagner (PT-BA) disse que \"não será entupindo as cadeias\" que o problema das drogas será resolvido.",
+    "support": "Não será entupindo as cadeias que nós vamos resolver os problemas das drogas no Brasil — disse Jaques Wagner.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-argsAgainst-0"
+   },
+   {
+    "text": "O senador Marcelo Castro (MDB-PI), psiquiatra, chamou a criminalização de retrocesso e disse que dependentes precisam de atendimento médico.",
+    "support": "Já o senador Marcelo Castro, MDB do Piauí, acredita que dependentes químicos precisam de atendimento médico e não ser tratados como criminosos. Para ele, a criminalização é um retrocesso.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "exp-seg-drogas-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Os dois lados concordam que traficante e usuário são diferentes. A disputa é se portar pouca quantidade deve ser crime ou infração administrativa, e quem decide isso: Congresso ou STF.",
+    "support": "Eles defenderam que é o Congresso Nacional que deve traçar políticas públicas sobre drogas, não o STF.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "exp-seg-drogas-nuance-0"
+   },
+   {
+    "text": "Discordar da frase não é o mesmo que defender a legalização da venda. A decisão do STF trata só do porte de maconha para uso pessoal.",
+    "support": "Os ministros do Supremo Tribunal Federal (STF) mantiveram o entendimento de que o porte de maconha para consumo pessoal não configura crime.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "exp-seg-drogas-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-8-janeiro",
+  "whatItIs": [
+   {
+    "text": "Até abril de 2026, o STF havia condenado 1.402 pessoas pelos atos de 8 de janeiro de 2023; 431 receberam pena de prisão.",
+    "support": "at é abril de 2026 1.402 pessoas haviam sido condenadas pelos atos de 8 de janeiro. Desse total, 431 foram condenados a penas de prisão",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/05/08/promulgada-lei-que-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/05/2026"
+    },
+    "checkId": "exp-seg-8-janeiro-whatItIs-0"
+   },
+   {
+    "text": "A Lei da Dosimetria (Lei 15.402/2026) reduz essas penas. Foi vetada pela Presidência, e o Congresso derrubou o veto. Dosimetria é o cálculo do tamanho da pena.",
+    "support": "O veto foi derrubado em sessão do Congresso Nacional no dia 30 de abril.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/05/08/promulgada-lei-que-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/05/2026"
+    },
+    "checkId": "exp-seg-8-janeiro-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Quando vários crimes contra o Estado acontecem no mesmo contexto, o juiz passa a aplicar só a pena do mais grave, em vez de somar. Exemplo: 20 anos viram 12.",
+    "support": "Como exemplo, uma pessoa condenada às penas máximas pelos dois crimes teria uma pena total de 20 anos (8 anos pela abolição violenta do Estado democrático de direito, mais 12 anos pelo crime de golpe de Estado). Com a nova regra, a pena total será de 12 anos",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/05/08/promulgada-lei-que-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/05/2026"
+    },
+    "checkId": "exp-seg-8-janeiro-inPractice-0"
+   },
+   {
+    "text": "Quem agiu \"em multidão\" sem financiar nem liderar ganha redução de um terço a dois terços. A revisão não é automática: cada defesa precisa pedir ao STF.",
+    "support": "A redução das penas não é automática. A definição dos novos tempos de condenação deve ocorrer quando a defesa de cada um dos condenados ingressar com o pedido",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/05/08/promulgada-lei-que-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/05/2026"
+    },
+    "checkId": "exp-seg-8-janeiro-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator, senador Esperidião Amin, disse que \"a mão foi muito pesada\" nas condenações e que o projeto corrige distorções.",
+    "support": "Há um consenso de que a mão [nos julgamentos] foi muito pesada.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/17/pl-da-dosimetria-segue-para-sancao",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 17/12/2025"
+    },
+    "checkId": "exp-seg-8-janeiro-argsFor-0"
+   },
+   {
+    "text": "A senadora Tereza Cristina reconheceu que houve crimes, mas disse que as penas impostas pelo STF são desproporcionais.",
+    "support": "Já a senadora Tereza Cristina (PP-MS) reconheceu que houve crimes no 8 de janeiro, mas afirmou que as penas impostas pelo STF são desproporcionais.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senadores-divergem-sobre-pl-da-dosimetria",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 17/12/2025"
+    },
+    "checkId": "exp-seg-8-janeiro-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O senador Renan Calheiros disse que os direitos dos condenados foram respeitados e que \"o que pacifica o país é golpista cumprir pena\".",
+    "support": "O que pacifica o país é golpista cumprir pena.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senadores-divergem-sobre-pl-da-dosimetria",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 17/12/2025"
+    },
+    "checkId": "exp-seg-8-janeiro-argsAgainst-0"
+   },
+   {
+    "text": "O senador Fabiano Contarato criticou a lei por ter \"endereço certo\": o ex-presidente Bolsonaro e seus auxiliares condenados.",
+    "support": "Estamos aqui legislando com endereço certo: o ex-presidente Bolsonaro e sua claque.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senadores-divergem-sobre-pl-da-dosimetria",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 17/12/2025"
+    },
+    "checkId": "exp-seg-8-janeiro-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há três posições, não duas: manter as penas, reduzi-las (o que virou lei) ou anistiar. Senadores como Marcos Rogério e Sergio Moro preferiam anistia e votaram na redução como \"ganho possível\".",
+    "support": "Ele registrou que preferia votar a anistia, mas admitiu que a redução de pena é o ganho possível para o momento.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senadores-divergem-sobre-pl-da-dosimetria",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 17/12/2025"
+    },
+    "checkId": "exp-seg-8-janeiro-nuance-0"
+   },
+   {
+    "text": "A lei também alcança os condenados do chamado núcleo central, como o ex-presidente Jair Bolsonaro, condenado a 27 anos e 3 meses.",
+    "support": "figuram o ex-presidente Jair Bolsonaro (27 anos e 3 meses de prisão)",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/05/08/promulgada-lei-que-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/05/2026"
+    },
+    "checkId": "exp-seg-8-janeiro-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-blindagem",
+  "whatItIs": [
+   {
+    "text": "A PEC 3/2021, chamada por defensores de \"PEC das Prerrogativas\" e por críticos de \"PEC da Blindagem\", exigiria autorização da Câmara ou do Senado para o STF abrir processo criminal contra um parlamentar.",
+    "support": "prevê autorização da Câmara ou do Senado para o Supremo Tribunal Federal (STF) processar deputado ou senador",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1200769-camara-aprova-em-2-turno-o-texto-base-da-pec-das-prerrogativas",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 17/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-whatItIs-0"
+   },
+   {
+    "text": "A Câmara aprovou a PEC em setembro de 2025, e a CCJ do Senado a rejeitou por 26 votos a 0.",
+    "support": "Foram 26 votos pela rejeição da PEC na CCJ, e nenhum contrário.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Regra parecida valeu de 1988 até 2001, quando a Emenda Constitucional 35 acabou com a exigência de licença.",
+    "support": "Essa prerrogativa vigorou de 1988 até 2001.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-inPractice-0"
+   },
+   {
+    "text": "Hoje o parlamentar já não pode ser punido por opiniões, palavras e votos, e a Casa pode suspender processos que considerar abusivos.",
+    "support": "O exercício do mandato já é suficientemente protegido pela Constituição, com a imunidade material e o direito da Casa Legislativa de sustar os processos que entender abusivos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator na Câmara, Claudio Cajado, disse que as prerrogativas são garantias para o parlamentar trabalhar com independência, sem temer perseguições.",
+    "support": "Segundo Cajado, as imunidades previstas na Constituição são indispensáveis para congressistas exercerem suas atribuições com independência, sem temer perseguições políticas ou intimações.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1200769-camara-aprova-em-2-turno-o-texto-base-da-pec-das-prerrogativas",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 17/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-argsFor-0"
+   },
+   {
+    "text": "O deputado Carlos Jordy (PL-RJ) disse que o texto protege deputados de \"processo criminal abusivo\", muitas vezes por suas falas.",
+    "support": "Já o deputado Carlos Jordy (PL-RJ), vice-líder da Minoria , afirmou que o texto da PEC está longe do ideal, mas protege deputados de \"processo criminal abusivo\"",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1200769-camara-aprova-em-2-turno-o-texto-base-da-pec-das-prerrogativas",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 17/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O relator no Senado, Alessandro Vieira, disse que a PEC abriria as portas do Legislativo para \"criminosos de todos os tipos\".",
+    "support": "Configura-se em portas abertas para a transformação do Legislativo em abrigo seguro para criminosos de todos os tipos — disse o relator.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Kim Kataguiri (União-SP) lembrou que, quando a licença existia, nenhuma investigação foi autorizada.",
+    "support": "Durante o período da Constituição de 1988, quando o texto que querem aprovar agora estava em vigor, nenhuma investigação foi autorizada",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1200769-camara-aprova-em-2-turno-o-texto-base-da-pec-das-prerrogativas",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 17/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há um meio-termo defendido por alguns: proteger só opiniões e votos. O senador Sergio Moro foi contra a PEC, mas defendeu reforçar a proteção para crimes contra a honra.",
+    "support": "O senador defendeu que a abrangência da proteção seja somente para crimes contra a honra",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-nuance-0"
+   },
+   {
+    "text": "O voto secreto para decidir a licença também dividiu os deputados e acabou retirado do texto na Câmara.",
+    "support": "No começo da madrugada desta quarta, o Plenário rejeitou, por insuficiência de quórum, a exigência de votação secreta",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1200769-camara-aprova-em-2-turno-o-texto-base-da-pec-das-prerrogativas",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 17/09/2025"
+    },
+    "checkId": "exp-seg-blindagem-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-armas",
+  "whatItIs": [
+   {
+    "text": "O Estatuto do Desarmamento (Lei 10.826/2003) controla quem pode comprar e portar armas. Os detalhes são definidos por decretos do presidente, por isso as regras mudam a cada governo.",
+    "support": "O decreto regulamenta o Estatuto do Desarmamento ( Lei 10.826, de 2003 )",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-seg-armas-whatItIs-0"
+   },
+   {
+    "text": "Em 2023, o Decreto 11.615 restringiu o acesso: passou a fiscalização do Exército para a Polícia Federal e limitou os CACs (caçadores, atiradores e colecionadores).",
+    "support": "transferiu do Comando do Exército para a Polícia Federal a competência para fiscalização do registro de armas. Também reduziu a validade dos Certificados de Registros de Armas de Fogo e restringiu a atividade dos caçadores, atiradores e colecionadores (CACs).",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-seg-armas-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Segundo pesquisadora da Secretaria Nacional de Segurança Pública, as armas particulares passaram de cerca de 1,3 milhão em 2018 para quase 3 milhões em 2023.",
+    "support": "Salta de cerca de 1,3 milhão para quase 3 milhões de armas",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-inPractice-0"
+   },
+   {
+    "text": "O número de CACs registrados foi de cerca de 60 mil em 2017 para mais de 800 mil em 2022, segundo o policial federal e pesquisador Roberto Uchôa.",
+    "support": "Nós tínhamos, em 2017, cerca de 60 mil CACs registrados em todo o Brasil. A gente fecha 2022 com mais de 800 mil CACs registrados.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Marcio Bittar (PL-AC), relator de projetos para derrubar o decreto de 2023, disse que ele limita o tiro desportivo e traz perdas a fabricantes e comerciantes.",
+    "support": "Ele afirma que o Decreto 11.615 contém “vícios” que, entre outros aspectos, limitam a prática do tiro desportivo, trazem perdas a fabricantes e comerciantes de armas",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-seg-armas-argsFor-0"
+   },
+   {
+    "text": "O senador Magno Malta argumentou que o processo para o cidadão ter arma exige testes psicológicos, antecedentes e prova de tiro.",
+    "support": "Você vai para uma escola [de tiro], você tem que se inscrever, tem seus documentos, tem psicólogos, tem psiquiatras, você faz teste psicológico, traz antecedentes criminais",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Michele dos Ramos, da Secretaria Nacional de Segurança Pública, disse que o país ficou \"muito mais armado\" sem mecanismos de controle suficientes.",
+    "support": "O Brasil que chegou a 2023 é um país muito mais armado, nós temos hoje em mãos civis mais do que o dobro de armas particulares que havia em 2018.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-argsAgainst-0"
+   },
+   {
+    "text": "Carolina Taboada, do Instituto Igarapé, apontou que só 2,3% dos acervos de CACs e clubes foram fiscalizados em 2020 e que armas com registro vencido escapam do controle.",
+    "support": "em 2020, somente 2,3% dos arcervos de CACs, clubes e entidades de tiros foram fiscalizados",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há posições no meio: o policial federal e pesquisador Roberto Uchôa não fala em proibir, mas aponta que muitos viraram CAC como forma de circular armados sem ter porte.",
+    "support": "e viam na possibilidade de se tornar CAC uma forma de circularem armados.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-seg-armas-nuance-0"
+   },
+   {
+    "text": "Parte da disputa é sobre quem decide: autores de projetos no Senado dizem que o decreto de 2023 foi além do que um decreto pode fazer, e o tema também passa pelo Congresso.",
+    "support": "Para os autores dos projetos, o decreto teria ido além da competência regulamentar do Poder Executivo.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-seg-armas-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-maioridade",
+  "whatItIs": [
+   {
+    "text": "Hoje quem tem menos de 18 anos não responde a processo criminal. Cumpre medidas socioeducativas do ECA (Estatuto da Criança e do Adolescente), com internação de no máximo três anos.",
+    "support": "Atualmente, jovens que cometem infrações graves cumprem medidas socioeducativas de internação por, no máximo, três anos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1273975-ccj-adia-analise-de-propostas-que-reduzem-a-maioridade-penal-para-16-anos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2026"
+    },
+    "checkId": "exp-seg-maioridade-whatItIs-0"
+   },
+   {
+    "text": "Em 2015, a Câmara aprovou a PEC 171/1993, que reduz a maioridade para 16 anos em crimes hediondos, homicídio doloso e lesão corporal seguida de morte.",
+    "support": "a maioridade será reduzida nos casos de crimes hediondos – como estupro e latrocínio – e também para homicídio doloso e lesão corporal seguida de morte.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/467647-camara-aprova-em-2o-turno-reducao-da-maioridade-penal-em-crimes-graves/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 19/08/2015"
+    },
+    "checkId": "exp-seg-maioridade-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Pela PEC de 2015, jovens de 16 e 17 anos cumpririam pena em local separado dos adolescentes e dos adultos.",
+    "support": "os jovens de 16 e 17 anos deverão cumprir a pena em estabelecimento separado dos adolescentes que cumprem medidas socioeducativas e dos maiores de 18 anos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/467647-camara-aprova-em-2o-turno-reducao-da-maioridade-penal-em-crimes-graves/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 19/08/2015"
+    },
+    "checkId": "exp-seg-maioridade-inPractice-0"
+   },
+   {
+    "text": "Uma alternativa aprovada no Senado em 2025 não mexe na maioridade: aumenta a internação de 3 para até 5 anos, ou até 10 em crimes violentos.",
+    "support": "O Senado aprovou em outubro do ano passado o projeto de lei que aumenta de três para até cinco anos o tempo máximo de internação de adolescentes infratores.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/02/morte-do-cao-orelha-reacende-debate-sobre-maioridade-penal",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 02/02/2026"
+    },
+    "checkId": "exp-seg-maioridade-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O deputado Mendonça Filho (PL-PE) defendeu a redução como \"demanda de mais de 80% da população para crimes violentos\".",
+    "support": "O deputado Mendonça Filho (PL-PE) defendeu a redução, afirmando que “é uma demanda de mais de 80% da população para crimes violentos”.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1273975-ccj-adia-analise-de-propostas-que-reduzem-a-maioridade-penal-para-16-anos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2026"
+    },
+    "checkId": "exp-seg-maioridade-argsFor-0"
+   },
+   {
+    "text": "O deputado Rogério Rosso disse que o jovem que comete crime grave \"sabe exatamente o que está fazendo\".",
+    "support": "Esse jovem que hoje tem permissão e licença para matar sabe exatamente o que está fazendo.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/467647-camara-aprova-em-2o-turno-reducao-da-maioridade-penal-em-crimes-graves/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 19/08/2015"
+    },
+    "checkId": "exp-seg-maioridade-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "A deputada Talíria Petrone (Psol-RJ) disse que só 8% dos atos de jovens são graves e que a prisão comum facilita o recrutamento pelo crime organizado.",
+    "support": "Já a deputada Talíria Petrone (Psol-RJ) criticou a proposta, argumentando que apenas 8% dos atos de jovens são graves e que o sistema prisional comum pode facilitar o recrutamento de adolescentes pelo crime organizado.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1273975-ccj-adia-analise-de-propostas-que-reduzem-a-maioridade-penal-para-16-anos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2026"
+    },
+    "checkId": "exp-seg-maioridade-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Darcísio Perondi disse que a Câmara decidiu \"pela emoção\" e que o pacote contra a violência \"não será entregue\".",
+    "support": "“Está se vendendo um pacote contra a violência que não será entregue à população”, avaliou Perondi.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/467647-camara-aprova-em-2o-turno-reducao-da-maioridade-penal-em-crimes-graves/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 19/08/2015"
+    },
+    "checkId": "exp-seg-maioridade-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "As propostas variam muito: algumas reduzem só para crimes hediondos, outras para todos os crimes, e uma chega a 12 anos em crimes violentos.",
+    "support": "Já a PEC 9/26, da deputada Julia Zanatta (PL-SC), propõe a redução geral para 16 anos em todos os crimes e estabelece que adolescentes de 12 a 16 anos também respondam criminalmente",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1273975-ccj-adia-analise-de-propostas-que-reduzem-a-maioridade-penal-para-16-anos/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2026"
+    },
+    "checkId": "exp-seg-maioridade-nuance-0"
+   },
+   {
+    "text": "Quem quer punição maior sem mudar a Constituição pode preferir aumentar o tempo de internação, como no projeto do senador Fabiano Contarato.",
+    "support": "Não estamos falando em redução de maioridade penal, estamos ampliando, mantendo...",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/02/morte-do-cao-orelha-reacende-debate-sobre-maioridade-penal",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 02/02/2026"
+    },
+    "checkId": "exp-seg-maioridade-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "seg-stf-mandato",
+  "whatItIs": [
+   {
+    "text": "Hoje os ministros do STF ficam no cargo até a aposentadoria obrigatória aos 75 anos. É a vitaliciedade, garantia que a Constituição dá aos juízes.",
+    "support": "Para ele, o mandato vitalício com aposentadoria compulsória aos 75 anos — conforme a regra atual — dá muito poder aos ministros.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/02/14/pec-estipula-mandatos-de-oito-anos-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 14/02/2023"
+    },
+    "checkId": "exp-seg-stf-mandato-whatItIs-0"
+   },
+   {
+    "text": "A PEC 16/2019, do senador Plínio Valério, fixa mandato de oito anos sem recondução. Outras propostas falam em 10, 11 ou 15 anos.",
+    "support": "Ou 11, da PEC 342/2009 , do então deputado federal Flávio Dino; ou 15, da PEC 51/2023 , que o senador Flávio Arns apresentou.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/06/plinio-defende-fim-do-mandato-vitalicio-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/02/2024"
+    },
+    "checkId": "exp-seg-stf-mandato-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A PEC de Plínio também dá prazo para o presidente indicar (um mês) e para o Senado votar (120 dias) quando abre uma vaga.",
+    "support": "o presidente terá até um mês, a contar do surgimento da vaga no STF, para indicar ao Senado o nome de um novo ministro. E então o Senado teria até 120 dias para analisar a indicação.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/02/14/pec-estipula-mandatos-de-oito-anos-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 14/02/2023"
+    },
+    "checkId": "exp-seg-stf-mandato-inPractice-0"
+   },
+   {
+    "text": "Com mandato fixo, as trocas ficariam mais previsíveis. Hoje um presidente pode indicar vários ministros num só ano, como em 2023.",
+    "support": "Em 2023, por exemplo, serão abertas duas novas vagas no Supremo Tribunal Federal",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/02/14/pec-estipula-mandatos-de-oito-anos-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 14/02/2023"
+    },
+    "checkId": "exp-seg-stf-mandato-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Plínio Valério argumentou que mandatos fixos evitam mudanças bruscas na composição do tribunal e a consequente insegurança.",
+    "support": "evitaria mudanças significativas na composição do STF em um curto espaço de tempo, com alterações súbitas de entendimento e consequente insegurança institucional.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/02/14/pec-estipula-mandatos-de-oito-anos-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 14/02/2023"
+    },
+    "checkId": "exp-seg-stf-mandato-argsFor-0"
+   },
+   {
+    "text": "O então senador Eduardo Suplicy defendeu, em 2009, que mandato fixo não fere a independência do Judiciário e permite renovação planejada.",
+    "support": "a proposta não feria a garantia de independência do Judiciário ao fixar prazo de oito anos de mandato para desembargadores e ministros dos tribunais superiores e de dez anos para ministros do STF.",
+    "source": {
+     "url": "https://www.migalhas.com.br/quentes/121500/ccj-do-senado-mantem-cargos-vitalicios-para-ministros-de-tribunais-superiores",
+     "accessed": "2026-10-03",
+     "label": "Migalhas, CCJ do Senado, 2010"
+    },
+    "checkId": "exp-seg-stf-mandato-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O então senador Demóstenes Torres argumentou que a Constituição não permite nem recomenda mandato temporário, por ser a vitaliciedade uma prerrogativa dos juízes.",
+    "support": "Demóstenes ponderou, entretanto, não ser possível nem conveniente - pelos termos da Constituição - estabelecer mandato temporário para esses cargos.",
+    "source": {
+     "url": "https://www.migalhas.com.br/quentes/121500/ccj-do-senado-mantem-cargos-vitalicios-para-ministros-de-tribunais-superiores",
+     "accessed": "2026-10-03",
+     "label": "Migalhas, CCJ do Senado, 2010"
+    },
+    "checkId": "exp-seg-stf-mandato-argsAgainst-0"
+   },
+   {
+    "text": "O então senador Aloizio Mercadante disse que a mudança interfere na relação entre os Poderes e exigiria ampla discussão com o Judiciário.",
+    "support": "Na sua avaliação, as mudanças propostas interferem nas relações entre os Poderes da República e, portanto, não poderiam ser aprovadas sem passar por uma ampla discussão com o Judiciário.",
+    "source": {
+     "url": "https://www.migalhas.com.br/quentes/121500/ccj-do-senado-mantem-cargos-vitalicios-para-ministros-de-tribunais-superiores",
+     "accessed": "2026-10-03",
+     "label": "Migalhas, CCJ do Senado, 2010"
+    },
+    "checkId": "exp-seg-stf-mandato-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A ideia não divide só esquerda e direita: segundo Plínio Valério, cinco ministros do próprio STF demonstraram apoio a discutir o tema.",
+    "support": "Segundo ele, 5 dos 11 ministros demonstraram apoio a essa discussão",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/06/plinio-defende-fim-do-mandato-vitalicio-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/02/2024"
+    },
+    "checkId": "exp-seg-stf-mandato-nuance-0"
+   },
+   {
+    "text": "Concordar com mandato fixo não diz nada sobre o tamanho do mandato, nem se valeria para os ministros atuais. Plínio afirma que a PEC não pretende atingi-los.",
+    "support": "Plínio ainda observou que a fixação do mandato não tem como objetivo atingir ministros atuais",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/02/06/plinio-defende-fim-do-mandato-vitalicio-para-ministros-do-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/02/2024"
+    },
+    "checkId": "exp-seg-stf-mandato-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "soc-marco-temporal",
+  "whatItIs": [
+   {
+    "text": "Marco temporal é a tese de que só podem ser demarcadas como terra indígena as áreas ocupadas por indígenas em 5 de outubro de 1988, data da Constituição.",
+    "support": "determinando que somente poderão ser demarcadas as terras que estavam sob a posse dos indígenas na data da promulgação da Constituição, em 5 de outubro de 1988.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-whatItIs-0"
+   },
+   {
+    "text": "Em 2023 o STF decidiu contra a tese, mas o Congresso aprovou uma lei com ela (Lei 14.701/2023) e derrubou o veto do governo.",
+    "support": "No mesmo mês, o Supremo Tribunal Federal (STF) decidiu contra a tese, e o governo vetou o trecho da lei que instituía o marco temporal. O veto, no entanto, foi derrubado pelo Congresso Nacional logo depois.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Em dezembro de 2025 o Senado aprovou a PEC 48/2023, que põe o marco temporal na própria Constituição. O texto foi para a Câmara.",
+    "support": "Aprovada em dois turnos, a proposta segue para a Câmara dos Deputados.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-inPractice-0"
+   },
+   {
+    "text": "A PEC também prevê indenização prévia aos ocupantes regulares de terras que forem demarcadas.",
+    "support": "acrescentou dispositivos que garantem prévia indenização aos ocupantes regulares de terras que serão demarcadas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-inPractice-1"
+   },
+   {
+    "text": "Em 2025, o ministro Gilmar Mendes suspendeu as ações sobre o tema no STF e criou um grupo de conciliação com Executivo e Legislativo.",
+    "support": "Em abril de 2025, o ministro Gilmar Mendes estabeleceu a suspensão das ações que tratam da questão no Supremo, até que haja uma decisão final dos ministros.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Zequinha Marinho defendeu o marco como segurança jurídica para produtores rurais e lembrou que 14,1% do território já é terra indígena demarcada.",
+    "support": "Zequinha Marinho apoiou a aprovação do projeto do marco temporal como garantia de segurança jurídica para todos os produtores rurais.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/09/21/terras-indigenas-marco-temporal-cria-impasse-entre-congresso-e-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/09/2023"
+    },
+    "checkId": "exp-soc-marco-temporal-argsFor-0"
+   },
+   {
+    "text": "O relator, senador Esperidião Amin, argumentou que desde 1934 as Constituições garantem aos indígenas a terra \"em que eles se encontram\".",
+    "support": "Ao apresentar seu relatório, Amin lembrou que, desde 1934, todas as Constituições reconheceram implicitamente o princípio do marco temporal",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O senador Humberto Costa disse que o projeto tem \"vícios de constitucionalidade\" e, na prática, inviabiliza a demarcação de novos territórios indígenas.",
+    "support": "Humberto Costa avaliou o projeto como “cheio de vícios de constitucionalidade” e disse que, na prática, vai inviabilizar a demarcação de novos territórios indígenas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/09/21/terras-indigenas-marco-temporal-cria-impasse-entre-congresso-e-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/09/2023"
+    },
+    "checkId": "exp-soc-marco-temporal-argsAgainst-0"
+   },
+   {
+    "text": "O senador Jaques Wagner disse que o marco temporal não resolve o problema e põe os indígenas em desvantagem; para ele, a culpa é do Estado, que não demarcou no prazo.",
+    "support": "Para ele, o marco temporal não resolve o problema e põe os indígenas em desvantagem na regularização de terras.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Os dois lados falam em \"insegurança jurídica\". O líder do governo admitiu que ela é \"insuportável\" e pediu acordo, e o STF mantém uma mesa de conciliação.",
+    "support": "o líder do governo no Senado, Jaques Wagner (PT-BA), apelou por um acordo, admitindo que a insegurança jurídica é “insuportável”.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-nuance-0"
+   },
+   {
+    "text": "Pela tese, não basta ocupar a área em 1988: também é preciso provar uso permanente e que a terra é necessária à reprodução física e cultural da comunidade.",
+    "support": "Também será preciso demonstrar que essas terras eram necessárias para a reprodução física e cultural dos indígenas",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/09/21/terras-indigenas-marco-temporal-cria-impasse-entre-congresso-e-stf",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/09/2023"
+    },
+    "checkId": "exp-soc-marco-temporal-nuance-1"
+   },
+   {
+    "text": "Integrantes de grupos indígenas afirmam que a tese desconsidera povos nômades e comunidades expulsas de suas terras antes de 1988.",
+    "support": "Integrantes de grupos indígenas são contrários ao marco temporal e afirmam que a tese desconsidera, por exemplo, povos nômades e comunidades que foram expulsas de suas terras antes da promulgação da Constituição.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/12/2025"
+    },
+    "checkId": "exp-soc-marco-temporal-nuance-2"
+   }
+  ]
+ },
+ {
+  "questionId": "soc-aborto",
+  "whatItIs": [
+   {
+    "text": "Hoje o aborto é crime no Brasil, com exceções. O Código Penal não pune o aborto feito por médico quando não há outro meio de salvar a vida da gestante ou quando a gravidez resulta de estupro.",
+    "support": "Art. 128 - Não se pune o aborto praticado por médico:",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+     "accessed": "2026-10-03",
+     "label": "Código Penal (Decreto-Lei 2.848/1940), Planalto"
+    },
+    "checkId": "exp-soc-aborto-whatItIs-0"
+   },
+   {
+    "text": "Em 2012, no julgamento da ADPF 54, o STF também permitiu interromper a gravidez de feto anencéfalo, ou seja, sem formação do cérebro.",
+    "support": "quanto no da interrupção da gravidez de feto anencéfalo (ADPF 54)",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/relatora-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao-julgamento-e-suspenso/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 22/09/2023"
+    },
+    "checkId": "exp-soc-aborto-whatItIs-1"
+   },
+   {
+    "text": "A ADPF 442, ação do Psol, pede ao STF que o aborto deixe de ser crime até a 12ª semana. Os ministros Rosa Weber e Luís Roberto Barroso votaram a favor, e o julgamento está suspenso.",
+    "support": "O julgamento da Arguição de Descumprimento de Preceito Fundamental (ADPF) 442 estava suspenso por pedido de destaque de Barroso em sessão virtual após o voto da relatora, ministra Rosa Weber (aposentada), em setembro de 2023.",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 17/10/2025"
+    },
+    "checkId": "exp-soc-aborto-whatItIs-2"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Pelo Código Penal, a gestante que provoca o aborto ou autoriza alguém a fazê-lo pode ser punida com detenção de um a quatro anos.",
+    "support": "é desproporcional atribuir pena de detenção de um a quatro anos para a gestante, caso provoque o aborto por conta própria ou autorize alguém a fazê-lo",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/relatora-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao-julgamento-e-suspenso/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 22/09/2023"
+    },
+    "checkId": "exp-soc-aborto-inPractice-0"
+   },
+   {
+    "text": "Descriminalizar não é o mesmo que obrigar alguém a fazer aborto: a proposta tira a punição criminal nas 12 primeiras semanas. Barroso defendeu tratar o tema como saúde pública.",
+    "support": "“A interrupção da gestação deve ser tratada como uma questão de saúde pública, não de direito penal”, afirmou.",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 17/10/2025"
+    },
+    "checkId": "exp-soc-aborto-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O ministro Luís Roberto Barroso argumentou que a criminalização atinge sobretudo mulheres pobres, enquanto as ricas podem abortar fora do país.",
+    "support": "Mas, na sua avaliação, a criminalização penaliza especialmente meninas e mulheres pobres, que não podem recorrer ao sistema público de saúde para obter informações, medicação ou procedimentos adequados.",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 17/10/2025"
+    },
+    "checkId": "exp-soc-aborto-argsFor-0"
+   },
+   {
+    "text": "A ministra Rosa Weber argumentou que proibir totalmente o aborto com base no direito à vida desde a concepção \"não encontra suporte jurídico\" na Constituição.",
+    "support": "Para Rosa Weber, o argumento do direito à vida desde a concepção como fundamento para a proibição total da interrupção da gestação, como defendem alguns setores, “não encontra suporte jurídico no desenho constitucional brasileiro”.",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/relatora-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao-julgamento-e-suspenso/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 22/09/2023"
+    },
+    "checkId": "exp-soc-aborto-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "A advogada Angela Vidal Gandra sustentou que não existe direito constitucional ao aborto e que a vida do feto se sobrepõe à escolha da mulher.",
+    "support": "Ela avaliou ainda que o direito da vida do feto se sobrepõe ao direito de escolha da mulher.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/539309-deputados-defendem-que-congresso-e-nao-stf-decida-sobre-descriminalizacao-do-aborto-no-brasil/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2018"
+    },
+    "checkId": "exp-soc-aborto-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Takayama, então presidente da Frente Parlamentar Evangélica, defendeu que, se a criança for indesejada, a mãe a entregue para adoção.",
+    "support": "Na visão do presidente da Frente Parlamentar Evangélica, o deputado Takayama (PSC-PR), se a criança for indesejada, a mãe deve entregá-la à adoção.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/539309-deputados-defendem-que-congresso-e-nao-stf-decida-sobre-descriminalizacao-do-aborto-no-brasil/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2018"
+    },
+    "checkId": "exp-soc-aborto-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Parte do debate não é sobre o aborto em si, mas sobre quem decide: deputados como Diego Garcia defendem que só o Congresso pode mudar a lei, não o STF.",
+    "support": "Estão tentando, por meio de medida judicial, tirar prerrogativas do Parlamento",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/539309-deputados-defendem-que-congresso-e-nao-stf-decida-sobre-descriminalizacao-do-aborto-no-brasil/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2018"
+    },
+    "checkId": "exp-soc-aborto-nuance-0"
+   },
+   {
+    "text": "Discordar da frase não significa querer acabar com os casos de aborto legal que já existem. Concordar não significa defender aborto depois de 12 semanas.",
+    "support": "A pretensão do partido é que seja permitida a interrupção da gravidez nas primeiras 12 semanas de gestação.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/539309-deputados-defendem-que-congresso-e-nao-stf-decida-sobre-descriminalizacao-do-aborto-no-brasil/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2018"
+    },
+    "checkId": "exp-soc-aborto-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "soc-cotas",
+  "whatItIs": [
+   {
+    "text": "A Lei de Cotas (Lei 12.711/2012) reserva pelo menos metade das vagas de universidades e institutos federais para quem estudou todo o ensino médio em escola pública.",
+    "support": "que reserva no mínimo 50% das vagas em universidades e institutos federais para pessoas que estudaram todo o ensino médio em escolas públicas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-whatItIs-0"
+   },
+   {
+    "text": "A parte racial fica dentro dessa metade: um aluno negro que estudou em escola particular, por exemplo, não entra pela cota.",
+    "support": "um aluno negro que estudou o ensino médio em escola particular, por exemplo, não é beneficiado.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A revisão de 2023 reduziu o limite de renda para metade das vagas de 1,5 para 1 salário mínimo por pessoa e incluiu quilombolas.",
+    "support": "Pela proposta aprovada, a renda familiar máxima será de 1 salário mínimo (que hoje corresponde a R$ 1.320) por pessoa.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-inPractice-0"
+   },
+   {
+    "text": "O cotista agora disputa primeiro as vagas gerais e só usa a cota se não alcançar a nota. A lei prevê avaliação a cada dez anos.",
+    "support": "Se o candidato não conseguir nota para aprovação nas vagas gerais, passará a concorrer às vagas reservadas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator no Senado, Paulo Paim, disse que antes da lei as universidades tinham 6% de pobres, indígenas, pretos e pessoas com deficiência, e que depois passaram de 40%.",
+    "support": "Antes da Lei de Cotas, as universidades tinham apenas 6% de pobres, vulneráveis, indígenas, pretos e pessoas com deficiência. Depois que surgiram as cotas, somos mais de 40%.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-argsFor-0"
+   },
+   {
+    "text": "A relatora na Câmara, deputada Dandara, defendeu a política dizendo que ela própria foi cotista na graduação e na pós.",
+    "support": "\"Eu sou o resultado da política de cotas, tenho muito orgulho de ter sido cotista na graduação e na pós-graduação.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/984747-camara-aprova-projeto-que-reformula-politica-de-cotas-nas-universidades-federais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 09/08/2023"
+    },
+    "checkId": "exp-soc-cotas-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O senador Rogério Marinho defendeu cotas apenas sociais e econômicas, não raciais, dizendo que a lei \"divide o país\".",
+    "support": "Nós não somos aqui contra essa ou aquela raça, mas acreditamos que, se tem que haver políticas de cotas, que seja a política social e econômica, e não uma política racial",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-argsAgainst-0"
+   },
+   {
+    "text": "O deputado Carlos Jordy (PL-RJ) afirmou que as cotas raciais nunca deram certo e ampliam a divisão entre grupos étnicos.",
+    "support": "Líder da oposição, o deputado Carlos Jordy (PL-RJ) afirmou que as cotas raciais nunca deram certo e ampliam a divisão entre grupos étnicos.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/984747-camara-aprova-projeto-que-reformula-politica-de-cotas-nas-universidades-federais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 09/08/2023"
+    },
+    "checkId": "exp-soc-cotas-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A divisão principal não é entre ter ou não ter cotas, e sim entre cotas sociais (renda e escola pública) e cotas raciais. Uma emenda rejeitada no Senado mantinha 50% das vagas só por renda, sem reserva racial.",
+    "support": "A emenda estabelecia cotas nas instituições federais de ensino superior e técnico de nível médio apenas para estudantes oriundos de famílias com renda per capita igual ou inferior a 1,5 salário mínimo per capita",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/10/24/senado-aprova-atualizacao-da-lei-de-cotas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/10/2023"
+    },
+    "checkId": "exp-soc-cotas-nuance-0"
+   },
+   {
+    "text": "O deputado Kim Kataguiri argumentou que o aluno mais pobre muitas vezes nem chega à cota, porque abandona o ensino médio para trabalhar.",
+    "support": "\"O aluno de baixa renda não tem acesso às cotas porque ele não termina o ensino médio, ele sai porque precisa trabalhar.\"",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/984747-camara-aprova-projeto-que-reformula-politica-de-cotas-nas-universidades-federais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 09/08/2023"
+    },
+    "checkId": "exp-soc-cotas-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "amb-licenciamento",
+  "whatItIs": [
+   {
+    "text": "Licenciamento ambiental é a autorização do poder público para instalar ou ampliar obras que usam recursos naturais ou podem causar impacto, como rodovias, hidrelétricas, indústrias e loteamentos.",
+    "support": "É pelo licenciamento ambiental que o poder público autoriza a instalação, a ampliação e a operação de empreendimentos que utilizam recursos naturais ou podem causar impacto ao meio ambiente.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-whatItIs-0"
+   },
+   {
+    "text": "A Lei Geral do Licenciamento (Lei 15.190/2025) criou a LAC, Licença por Adesão e Compromisso: o empreendedor faz uma espécie de autodeclaração em vez de passar por todas as etapas de análise.",
+    "support": "a Licença Ambiental por Adesão e Compromisso (LAC) será simplificada e expedida mediante uma espécie de autodeclaração de adesão e compromisso do empreendedor",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A LAC vale para obras de pequeno ou médio porte e baixo ou médio potencial poluidor. Não pode ser usada se houver desmatamento de vegetação nativa.",
+    "support": "A licença não será autorizada se houver desmatamento de vegetação nativa, já que nesse caso há necessidade de autorização específica.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-inPractice-0"
+   },
+   {
+    "text": "Entre os vetos presidenciais derrubados pelo Congresso em 2025 está o trecho que torna apenas opinativas as manifestações da Funai, da Fundação Palmares e dos órgãos de unidades de conservação.",
+    "support": "tornar opinativa as decisões da Funai (indígenas), Fundação Palmares (quilombolas) e dos órgãos gestores de unidades de conservação da natureza",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 27/11/2025"
+    },
+    "checkId": "exp-amb-licenciamento-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "A relatora, senadora Tereza Cristina, disse que a legislação atual é \"um verdadeiro cipoal\" de cerca de 27 mil normas.",
+    "support": "Segundo a relatora de Plenário, senadora Tereza Cristina (PP-MS), a legislação atual configura um verdadeiro cipoal com cerca de 27 mil normativos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-argsFor-0"
+   },
+   {
+    "text": "O senador Marcos Rogério defendeu a lei como \"equilibrada\" e disse que o que trava o país são interpretações e regras do Conama.",
+    "support": "Essa Lei do Licenciamento Ambiental aprovada pelo Congresso Nacional é uma lei equilibrada, é uma lei que respeita a sustentabilidade no Brasil.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 27/11/2025"
+    },
+    "checkId": "exp-amb-licenciamento-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "A senadora Eliziane Gama chamou a lei de \"retrocesso\" e disse que ela fere a proteção da Mata Atlântica.",
+    "support": "A senadora Eliziane Gama (PSD-MA) afirmou na tribuna que a aprovação da Lei do Licenciamento Ambiental \"é um retrocesso e uma vergonha para o Brasil\"",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 27/11/2025"
+    },
+    "checkId": "exp-amb-licenciamento-argsAgainst-0"
+   },
+   {
+    "text": "O líder do governo no Congresso, Randolfe Rodrigues, defendeu manter os vetos porque vários trechos seriam inconstitucionais, como os que atingem a Mata Atlântica.",
+    "support": "Ele lembrou que muitos dos itens vetados são temas inconstitucionais, como os que atingem a Mata Atlântica, protegida pela Constituição.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 27/11/2025"
+    },
+    "checkId": "exp-amb-licenciamento-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O próprio governo apoiou partes da simplificação: emendas de senadores do PT limitaram a LAC a obras menores em vez de derrubá-la.",
+    "support": "No Senado, foram acatadas parcialmente emendas dos senadores Jaques Wagner (PT-BA), Randolfe Rodrigues (PT-AP) e Eliziane Gama (PSD-MA) para prever que a LAC só será permitida para empreendimentos considerados de pequeno ou médio porte e baixo ou médio potencial poluidor",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-nuance-0"
+   },
+   {
+    "text": "A lei também aumentou a pena para quem constrói sem licença: de um a seis meses passou para seis meses a dois anos.",
+    "support": "No Senado, a pena mudou para seis meses a dois anos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/05/21/senado-aprova-projeto-da-lei-do-licenciamento-ambiental",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 21/05/2025"
+    },
+    "checkId": "exp-amb-licenciamento-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "amb-margem-equatorial",
+  "whatItIs": [
+   {
+    "text": "A Margem Equatorial é uma faixa do mar que vai do Rio Grande do Norte ao Amapá e inclui a bacia da foz do rio Amazonas. É apontada como um possível \"novo pré-sal\".",
+    "support": "Apontado por especialistas como um possível “novo pré-sal”, a região abrange uma área com mais de 2.200 quilômetros de litoral que vai do Rio Grande do Norte ao Amapá e inclui as bacias hidrográficas da foz do rio Amazonas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/24/com-petrobras-e-ibama-cma-debate-exploracao-de-petroleo-na-margem-equatorial",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/04/2024"
+    },
+    "checkId": "exp-amb-margem-equatorial-whatItIs-0"
+   },
+   {
+    "text": "O Ibama autorizou a Petrobras a perfurar na bacia da Foz do Amazonas em outubro de 2025.",
+    "support": "A Petrobras obteve autorização para perfurar áreas na Foz do Amazonas em outubro de 2025 .",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 02/10/2026"
+    },
+    "checkId": "exp-amb-margem-equatorial-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A Petrobras anunciou descobertas de petróleo no poço Morpho, a 175 km da costa do Amapá, mas ainda sem confirmação de valor comercial.",
+    "support": "Não sabemos se vamos ter uma descoberta com valor comercial, mas tudo indica que sim",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 02/10/2026"
+    },
+    "checkId": "exp-amb-margem-equatorial-inPractice-0"
+   },
+   {
+    "text": "Estudo da Empresa de Pesquisa Energética estima até 10 bilhões de barris recuperáveis na bacia da Foz do Amazonas.",
+    "support": "estima que o volume potencial total recuperável da Bacia da Foz do Amazonas pode chegar a 10 bilhões de barris de óleo equivalente",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 02/10/2026"
+    },
+    "checkId": "exp-amb-margem-equatorial-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O presidente do Senado, Davi Alcolumbre (AP), disse que a exploração mostra que é possível conciliar crescimento e preservação e fortalece a \"soberania energética\".",
+    "support": "A autorização do Ibama reafirma que é possível conciliar crescimento econômico e preservação ambiental, garantindo que os benefícios dessa atividade cheguem às populações locais e fortaleçam a soberania energética nacional.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2025/10/20/davi-aplaude-decisao-do-ibama-de-liberar-pesquisa-de-petroleo-na-margem-equatorial",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/10/2025"
+    },
+    "checkId": "exp-amb-margem-equatorial-argsFor-0"
+   },
+   {
+    "text": "A deputada Silvia Waiãpi (PL-AP) argumentou que os estados do Norte têm baixo IDH e pouco saneamento e que o petróleo pode reverter isso a médio prazo.",
+    "support": "\"Os estados do Norte sofrem com baixo Índice de Desenvolvimento Humano, baixa cobertura de saneamento básico e toda a sorte de problemas que no médio/longo prazo a exploração daquele petróleo podem reverter\"",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1113628-comissao-debate-exploracao-de-petroleo-na-foz-do",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2024"
+    },
+    "checkId": "exp-amb-margem-equatorial-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Suely Araújo, do Observatório do Clima, disse que a licença foi dada \"de forma inconsequente\" e põe em risco o legado climático do país.",
+    "support": "liberou-se a perfuração de forma inconsequente”, disse Suely Araújo, coordenadora de Políticas Públicas do Observatório do Clima.",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-10/ongs-acionam-justica-para-barrar-perfuracao-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 22/10/2025"
+    },
+    "checkId": "exp-amb-margem-equatorial-argsAgainst-0"
+   },
+   {
+    "text": "Kleber Karipuna, da Apib, chamou o projeto de \"predatório\" e disse que ignora a voz dos povos indígenas.",
+    "support": "“Este projeto é predatório, ignora a voz dos povos indígenas, verdadeiros guardiões da floresta",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-10/ongs-acionam-justica-para-barrar-perfuracao-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 22/10/2025"
+    },
+    "checkId": "exp-amb-margem-equatorial-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O debate mistura risco local e clima global: as ONGs dizem que até 20% do óleo de um vazamento grave poderia atingir o sistema de recifes da foz do Amazonas.",
+    "support": "em caso de acidente grave, até 20% do óleo derramado poderia atingir o Grande Sistema Recifal Amazônico",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-10/ongs-acionam-justica-para-barrar-perfuracao-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 22/10/2025"
+    },
+    "checkId": "exp-amb-margem-equatorial-nuance-0"
+   },
+   {
+    "text": "O Ibama afirma que a licença saiu depois de estudo de impacto, três audiências públicas e 65 reuniões técnicas em mais de 20 municípios.",
+    "support": "com a realização de três audiências públicas, 65 reuniões técnicas setoriais em mais de 20 municípios dos estados do Pará e do Amapá",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-10/ongs-acionam-justica-para-barrar-perfuracao-na-foz-do-amazonas",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 22/10/2025"
+    },
+    "checkId": "exp-amb-margem-equatorial-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "amb-agrotoxicos",
+  "whatItIs": [
+   {
+    "text": "A nova Lei dos Agrotóxicos (Lei 14.785/2023) concentrou no Ministério da Agricultura a liberação desses produtos. Antes, Agricultura, Meio Ambiente (Ibama) e Saúde (Anvisa) decidiam juntos.",
+    "support": "Atualmente, há um sistema tripartite de decisão, que congrega a pasta da Agricultura, o Ministério do Meio Ambiente, por meio do Ibama, e o Ministério da Saúde, representado pela Anvisa.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-whatItIs-0"
+   },
+   {
+    "text": "A lei fixa prazos para o registro, de 30 dias a 2 anos, e permite registro temporário de produtos já usados em pelo menos três países da OCDE quando o prazo vence.",
+    "support": "Isso acontecerá desde que estejam registrados para culturas similares ou usos ambientais similares em pelo menos três países membros da Organização para Cooperação e Desenvolvimento Econômico (OCDE).",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A lei antiga proibia expressamente produtos cancerígenos ou que causam mutações e deformações. A nova proíbe os que apresentem \"risco\", avaliado pelo Ministério da Agricultura.",
+    "support": "O projeto apenas define como proibido o registro de pesticidas, de produtos de controle ambiental e afins que apresentem risco para os seres humanos ou meio ambiente.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-inPractice-0"
+   },
+   {
+    "text": "Mesmo com a centralização, se a Anvisa não aprovar um produto, o ministério precisa acatar a decisão.",
+    "support": "Apesar de concentrar a liberação sobre os agrotóxicos no Ministério da Agricultura, se o produto não for aprovado pela Anvisa, o ministério terá que acatar a decisão.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Luis Carlos Heinze disse que o Brasil leva em média sete anos para liberar novos produtos, o que na Europa leva poucos meses.",
+    "support": "Heinze afirmou que, atualmente, o Brasil demora em média sete anos para liberar novos produtos, o que é feito em poucos meses em países europeus.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-argsFor-0"
+   },
+   {
+    "text": "A senadora Tereza Cristina, ex-ministra da Agricultura, disse que a mudança permite modernizar os defensivos agrícolas com rigor técnico.",
+    "support": "Tereza Cristina disse que a aprovação vai permitir a modernização dos defensivos agrícolas no Brasil.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Ao vetar trechos, o Planalto argumentou que tirar o Ibama e a Anvisa da reanálise acabaria com o modelo tripartite ligado aos direitos à vida, à saúde e ao meio ambiente.",
+    "support": "garantindo a manutenção do modelo tripartite, diretamente associado aos direitos à vida, à saúde e ao meio ambiente ecologicamente equilibrado previstos na Constituição Federal",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1029773-LULA-SANCIONA-COM-VETOS-PROJETO-QUE-ALTERA-REGRAS-DE-REGISTRO-DE-AGROTOXICOS",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-argsAgainst-0"
+   },
+   {
+    "text": "A Presidência da República também alegou que permitir registro de produto em reanálise ofende o princípio da precaução. O Congresso derrubou esse veto em 2024.",
+    "support": "O governo alega que esse dispositivo ofende o princípio da precaução, colocando em risco os direitos à vida, à saúde e ao meio ambiente ecologicamente equilibrado.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/05/09/registro-de-pesticidas-cabera-apenas-ao-ministerio-da-agricultura",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 09/05/2024"
+    },
+    "checkId": "exp-amb-agrotoxicos-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O Brasil é o maior consumidor de agrotóxicos do mundo. Antes da nova lei, entre 2019 e 2022, foram liberados 2.181 novos registros.",
+    "support": "O Brasil é o maior consumidor de agrotóxicos do mundo. Entre 2019 e 2022, foram liberados 2.181 novos registros",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1029773-LULA-SANCIONA-COM-VETOS-PROJETO-QUE-ALTERA-REGRAS-DE-REGISTRO-DE-AGROTOXICOS",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-nuance-0"
+   },
+   {
+    "text": "No Senado, a votação foi simbólica, e só a senadora Zenaide Maia registrou voto contrário.",
+    "support": "A senadora Zenaide Maia (PSD-RN) foi a única a registrar voto contrário ao projeto.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/28/senado-aprova-projeto-que-facilita-registro-de-agrotoxicos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 28/11/2023"
+    },
+    "checkId": "exp-amb-agrotoxicos-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-concessoes-ppp",
+  "whatItIs": [
+   {
+    "text": "Concessão é quando o governo passa uma obra ou serviço para uma empresa operar por contrato. PPP (parceria público-privada) é um tipo de concessão em que o governo também paga parte da remuneração da empresa.",
+    "support": "Concessão patrocinada é a concessão de serviços públicos ou de obras públicas de que trata a Lei nº 8.987, de 13 de fevereiro de 1995, quando envolver, adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado.",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+     "accessed": "2026-10-03",
+     "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+    },
+    "checkId": "exp-pb-concessoes-ppp-whatItIs-0"
+   },
+   {
+    "text": "Na PPP administrativa, o próprio governo é o usuário do serviço e paga por ele, mesmo que a empresa também construa a obra.",
+    "support": "Concessão administrativa é o contrato de prestação de serviços de que a Administração Pública seja a usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens.",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+     "accessed": "2026-10-03",
+     "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+    },
+    "checkId": "exp-pb-concessoes-ppp-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Concessão não é venda: a empresa continua sendo do governo, ou o serviço continua público, mas a operação passa a uma empresa privada por prazo definido.",
+    "support": "Privatização, hoje em dia, não é apenas vender os ativos de uma empresa estatal, mas também trazer o investidor privado para fazer coisas que o setor público antes fazia, seja por meio de parcerias público-privadas, seja por meio de concessões.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-concessoes-ppp-inPractice-0"
+   },
+   {
+    "text": "Em 2026 a Paraíba passou a uma empresa privada, por PPP de 25 anos, o esgoto de 85 cidades atendidas pela Cagepa.",
+    "support": "O contrato, com prazo de 25 anos, prevê R$ 3 bilhões em investimentos.",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-concessoes-ppp-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O economista Armando Castelar (FGV) argumenta que o poder público não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
+    "support": "Nos contratos com a iniciativa privada, os serviços não podem parar.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-concessoes-ppp-argsFor-0"
+   },
+   {
+    "text": "O consultor do Senado Pedro Fernando Nery lembra que, com uma agência reguladora forte, o governo mantém poder para exigir obrigações sociais das empresas.",
+    "support": "As agências reguladoras, como a das telecomunicações (Anatel), a da energia elétrica (Aneel) e a das águas e saneamento básico (ANA), têm poderes para impor sanções aos grupos empresariais que não cumpram com suas obrigações sociais.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-concessoes-ppp-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e Nordeste.",
+    "support": "Sabemos que, infelizmente quanto às cidades pequenas, principalmente do Norte e do Nordeste, esses investimentos não vão chegar, como foi aqui falado.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/06/2020"
+    },
+    "checkId": "exp-pb-concessoes-ppp-argsAgainst-0"
+   },
+   {
+    "text": "O senador Rogério Carvalho avaliou que abrir o setor pode desvalorizar as empresas públicas e prejudicar o patrimônio delas.",
+    "support": "Em sua avaliação, as mudanças previstas pelo projeto poderão gerar desvalorização das empresas públicas de saneamento, o que pode prejudicar o patrimônio dessas estatais.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/06/2020"
+    },
+    "checkId": "exp-pb-concessoes-ppp-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Especialistas ouvidos pelo Senado dizem que o tema ficou menos ideológico: a esquerda aceita concessões e a direita aceita algumas estatais.",
+    "support": "Enquanto a esquerda agora aceita que empresas privadas prestem certos serviços públicos à população, a direita admite que o governo permaneça comandando determinadas empresas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-concessoes-ppp-nuance-0"
+   },
+   {
+    "text": "Concessões também dão problema: o consultor Pedro Nery cita concessionária de aeroporto que pediu para devolver a operação ao governo.",
+    "support": "As concessões de aeroportos, por exemplo, têm enfrentado problemas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-concessoes-ppp-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-ppp-cagepa",
+  "whatItIs": [
+   {
+    "text": "Em 15/05/2026, o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia estadual de água e esgoto da Paraíba.",
+    "support": "O grupo espanhol Acciona venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário da Companhia de Água e Esgotos da Paraíba ( Cagepa )",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-whatItIs-0"
+   },
+   {
+    "text": "O contrato cobre 85 municípios, incluindo João Pessoa, dura 25 anos e prevê R$ 3 bilhões em investimentos.",
+    "support": "O contrato, com prazo de 25 anos, prevê R$ 3 bilhões em investimentos.",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A água continua com a Cagepa, que também fiscaliza a parceria. A empresa privada cuida da coleta e do tratamento de esgoto.",
+    "support": "O abastecimento de água segue integralmente sob responsabilidade da Cagepa , que também permanecerá responsável pela gestão e fiscalização da parceria.",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-inPractice-0"
+   },
+   {
+    "text": "Hoje o esgoto urbano atende 6,71% no Alto Piranhas e 46,43% no Litoral. A meta é chegar a 90% até 2039.",
+    "support": "Os índices atuais de atendimento de esgoto urbano nas microrregiões são de 6,71% no Alto Piranhas e 46,43% no Litoral .",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-inPractice-1"
+   },
+   {
+    "text": "Só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
+    "support": "A empresa foi a única a apresentar proposta no certame paraibano e ofereceu deságio de 1% sobre a contraprestação pública máxima fixada em edital.",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
+    "support": "Essa parceria representa uma virada de chave para a Cagepa e para o estado, garantindo sustentabilidade financeira, fortalecimento da governança",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-argsFor-0"
+   },
+   {
+    "text": "Luciene Machado, do BNDES, que estruturou o projeto, disse que o modelo transforma investimentos em benefícios concretos.",
+    "support": "É um modelo capaz de transformar investimentos em benefícios concretos para a população",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Críticos do modelo nacional, como o senador Weverton, dizem que o investimento privado em saneamento tende a não chegar às cidades pequenas.",
+    "support": "É um projeto que vai beneficiar os grandes centros, claro, onde as grandes empresas têm interesse de investir",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/06/2020"
+    },
+    "checkId": "exp-pb-ppp-cagepa-argsAgainst-0"
+   },
+   {
+    "text": "O senador Rogério Carvalho avaliou que a entrada de empresas privadas pode desvalorizar as estatais de saneamento.",
+    "support": "Em sua avaliação, as mudanças previstas pelo projeto poderão gerar desvalorização das empresas públicas de saneamento",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/06/2020"
+    },
+    "checkId": "exp-pb-ppp-cagepa-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A PPP é consequência do marco nacional do saneamento de 2020, que obriga licitação aberta a empresas públicas e privadas e fixa metas de universalização.",
+    "support": "O texto também torna obrigatória a abertura de licitação, envolvendo empresas públicas e privadas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/senado-aprova-novo-marco-legal-do-saneamento-basico",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 24/06/2020"
+    },
+    "checkId": "exp-pb-ppp-cagepa-nuance-0"
+   },
+   {
+    "text": "O prazo da Paraíba (2039) é mais longo que o padrão do marco nacional (2033), por decisão do colegiado regional para segurar a tarifa.",
+    "support": "O prazo-padrão do Novo Marco Legal do Saneamento (Lei 14.026/2020) é 2033 .",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-ppp-cagepa-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-incentivos-fiscais",
+  "whatItIs": [
+   {
+    "text": "Incentivo fiscal é quando o estado cobra menos ICMS de uma empresa para atrair investimento para seu território.",
+    "support": "mediante concessões de isenções fiscais para atrair o investimento produtivo das empresas",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 11/03/2013"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-whatItIs-0"
+   },
+   {
+    "text": "Quando vários estados fazem isso ao mesmo tempo, disputando empresas, chama-se guerra fiscal.",
+    "support": "A guerra fiscal é resultado da concessão unilateral de isenções e benefícios fiscais do ICMS por parte de estados que buscam atrair investimentos para seus territórios.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2021/10/06/aprovado-projeto-que-prorroga-incentivos-fiscais-a-empresas-por-ate-15-anos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/10/2021"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Uma lei de 2021 permitiu prorrogar esses benefícios até 2032.",
+    "support": "que prorroga até 2032 incentivos fiscais concedidos pelos estados e pelo Distrito Federal para empresas no âmbito da guerra fiscal",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2021/10/06/aprovado-projeto-que-prorroga-incentivos-fiscais-a-empresas-por-ate-15-anos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/10/2021"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-inPractice-0"
+   },
+   {
+    "text": "A reforma tributária muda a cobrança para o estado onde o produto é consumido, o que reduz a força desses incentivos a partir da transição.",
+    "support": "A mudança visa dar fim à chamada guerra fiscal — a concessão de benefícios tributários por estados com o objetivo de atrair investimentos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/11/08/senado-aprova-reforma-tributaria-no-primeiro-turno-no-plenario",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 08/11/2023"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "A senadora Rose de Freitas, relatora da prorrogação, argumentou que o incentivo não é perda de receita, porque sem ele a empresa nem viria para o estado.",
+    "support": "A concessão de incentivos fiscais não constitui renúncia de receitas (fiscal), visto que os Estados nunca tiveram a receita correspondente",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2021/10/06/aprovado-projeto-que-prorroga-incentivos-fiscais-a-empresas-por-ate-15-anos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/10/2021"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-argsFor-0"
+   },
+   {
+    "text": "Segundo o consultor do Senado Márcio de Oliveira Júnior, para estados menos desenvolvidos o incentivo gera emprego e renda locais.",
+    "support": "por um lado, produz benefícios locais em termos de geração de emprego e renda",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 11/03/2013"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O mesmo consultor, Márcio de Oliveira Júnior, diz que o uso generalizado prejudica a produtividade do país e que a maior beneficiada é a empresa.",
+    "support": "gera efeitos deletérios sobre a produtividade da economia no longo prazo, inclusive por conta da incerteza jurídica advinda de benefícios fiscais concedidos ao arrepio da lei",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 11/03/2013"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-argsAgainst-0"
+   },
+   {
+    "text": "O senador José Aníbal chamou a guerra fiscal de \"uma corrida para o fundo\".",
+    "support": "São Paulo está sempre na mira dos subsídios e da guerra fiscal, que é uma corrida para o fundo, não é para a frente e nem para o alto.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2021/10/06/aprovado-projeto-que-prorroga-incentivos-fiscais-a-empresas-por-ate-15-anos",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 06/10/2021"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A pergunta inclui uma condição: manter o incentivo cobrando metas de investimento e emprego. Segundo o consultor, o ganho do estado vem justamente dos empregos criados pela empresa que se instala.",
+    "support": "Já o estado concedente da isenção, teria algum ganho na criação de novos postos de trabalho decorrentes da instalação da nova empresa",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 11/03/2013"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-nuance-0"
+   },
+   {
+    "text": "Para o consultor, o ganho para a população do próprio estado tende a ser menor que o da empresa beneficiada.",
+    "support": "mas para o país como um todo — e mesmo para o conjunto da população do estado — o benefício seria consideravelmente menor",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 11/03/2013"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-desmilitarizar-pm",
+  "whatItIs": [
+   {
+    "text": "Pela Constituição, as polícias militares são forças auxiliares e reserva do Exército e ficam sob o comando dos governadores.",
+    "support": "As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-03",
+     "label": "Constituição Federal, Planalto"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-whatItIs-0"
+   },
+   {
+    "text": "Desmilitarizar é transformar a PM em polícia civil, sem a estrutura e a justiça militares. A proposta mais conhecida é a PEC 51/2013.",
+    "support": "O texto prevê ainda que os estados organizem suas polícias em carreira única, ao passo que define a polícia como instituição de natureza civil.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
+     "accessed": "2026-10-03",
+     "label": "DataSenado, enquete sobre a PEC 51/2013"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Como o caráter militar das PMs está na Constituição, mudá-lo exige uma emenda constitucional votada no Congresso. O governador comanda a PM, mas não a desmilitariza sozinho.",
+    "support": "O tema da enquete é apenas uma das mudanças contidas na proposta de emenda à Constituição ( PEC 51/2013 )",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
+     "accessed": "2026-10-03",
+     "label": "DataSenado, enquete sobre a PEC 51/2013"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-inPractice-0"
+   },
+   {
+    "text": "A PEC 51 também prevê o \"ciclo completo\": a mesma polícia patrulharia e investigaria, tarefas hoje divididas entre PM e Polícia Civil.",
+    "support": "Dispõe também sobre o chamado “ciclo completo” da atividade policial",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
+     "accessed": "2026-10-03",
+     "label": "DataSenado, enquete sobre a PEC 51/2013"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "A defensora pública Fernanda Rudolfo disse que treinar policiais com \"visão de guerra\" para lidar com civis não cabe num estado democrático.",
+    "support": "Até porque se tem um treinamento militar para lidar com civis, para enfrentar questões ligadas ao povo com um treinamento com uma visão de guerra.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência pública"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-argsFor-0"
+   },
+   {
+    "text": "O autor da PEC, então senador Lindbergh Farias, citou pesquisa da FGV segundo a qual 74% dos brasileiros não confiam nas polícias.",
+    "support": "pesquisa da Fundação Getúlio Vargas (FGV) revelou que 74% dos brasileiros não confiam nas polícias.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2014/03/20/lindberg-farias-defende-proposta-de-reformulacao-da-policia",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/03/2014"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O deputado Subtenente Gonzaga (PDT-MG) argumentou que o problema não é a militarização, e sim a violência da sociedade, que qualquer polícia enfrentaria.",
+    "support": "Já o deputado Subtenente Gonzaga (PDT-MG) defende que o problema da PM não é a militarização porque, segundo ele, as outras polícias têm hierarquias semelhantes.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência pública"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-argsAgainst-0"
+   },
+   {
+    "text": "Uma cidadã que comentou a proposta no DataSenado, Elzana de Oliveira Moreira Moraes, defendeu que o militarismo \"impõe respeito\" e ajuda a manter a ordem.",
+    "support": "“o militarismo impõe respeito, não é autoritarismo.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
+     "accessed": "2026-10-03",
+     "label": "DataSenado, enquete sobre a PEC 51/2013"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há quem apoie a mudança devagar: o deputado Delegado Edson Moreira defendeu desmilitarizar de forma gradual, sem prejudicar a carreira dos policiais.",
+    "support": "acredita que a desmilitarização das polícias é necessária, mas deve ser feita de forma gradual, sem prejuízo para a carreira dos policiais.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, audiência pública"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-nuance-0"
+   },
+   {
+    "text": "Numa enquete do DataSenado (sem valor científico), 54% foram contra e 46% a favor.",
+    "support": "Ao todo, 54% dos votos foram contrários à mudança e 46%, a favor.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
+     "accessed": "2026-10-03",
+     "label": "DataSenado, enquete sobre a PEC 51/2013"
+    },
+    "checkId": "exp-pb-desmilitarizar-pm-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-cac-arma",
+  "whatItIs": [
+   {
+    "text": "CAC é a sigla para caçadores, atiradores desportivos e colecionadores de armas, que têm registro próprio.",
+    "support": "restringiu a atividade dos caçadores, atiradores e colecionadores (CACs).",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-pb-cac-arma-whatItIs-0"
+   },
+   {
+    "text": "Um projeto aprovado na Assembleia da Paraíba \"reconhece o risco da atividade\" e a necessidade de arma para atiradores esportivos. O governador vetou o projeto por inconstitucionalidade.",
+    "support": "Reconhece o risco da atividade e a efetiva necessidade do aporte de arma de fogo aos atiradores desportivos integrantes de entidades legalmente constituídas no âmbito do Estado da Paraíba",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, pauta da sessão de 14/02/2023"
+    },
+    "checkId": "exp-pb-cac-arma-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Regras de armas são federais: o Estatuto do Desarmamento é uma lei nacional regulamentada por decreto do presidente. Por isso o veto alegou inconstitucionalidade.",
+    "support": "RAZÕES DO VETO: INCONSTITUCIONALIDADE",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, pauta da sessão de 14/02/2023"
+    },
+    "checkId": "exp-pb-cac-arma-inPractice-0"
+   },
+   {
+    "text": "O número de CACs saltou de cerca de 60 mil em 2017 para mais de 800 mil em 2022, segundo o pesquisador Roberto Uchôa.",
+    "support": "Nós tínhamos, em 2017, cerca de 60 mil CACs registrados em todo o Brasil. A gente fecha 2022 com mais de 800 mil CACs registrados.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-pb-cac-arma-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Magno Malta argumentou que tirar o registro exige escola de tiro, testes psicológicos e antecedentes criminais.",
+    "support": "Você vai para uma escola [de tiro], você tem que se inscrever, tem seus documentos, tem psicólogos, tem psiquiatras, você faz teste psicológico, traz antecedentes criminais",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-pb-cac-arma-argsFor-0"
+   },
+   {
+    "text": "O senador Marcio Bittar disse que as restrições federais limitam o tiro desportivo e trazem perdas ao setor.",
+    "support": "Ele afirma que o Decreto 11.615 contém “vícios” que, entre outros aspectos, limitam a prática do tiro desportivo",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 20/02/2026"
+    },
+    "checkId": "exp-pb-cac-arma-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O pesquisador Roberto Uchôa disse que muitos se tornaram CAC para circular armados sem conseguir porte na Polícia Federal.",
+    "support": "Eram pessoas que não estavam conseguindo o porte de arma pela Polícia Federal, seja porque não tinham razões para tal, seja porque não conseguiam justificar essa necessidade",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-pb-cac-arma-argsAgainst-0"
+   },
+   {
+    "text": "Carolina Taboada, do Instituto Igarapé, apontou que só 2,3% dos acervos de CACs e clubes foram fiscalizados em 2020.",
+    "support": "em 2020, somente 2,3% dos arcervos de CACs, clubes e entidades de tiros foram fiscalizados",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-pb-cac-arma-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Na Assembleia, votar SIM num veto derruba o veto e aprova o projeto; votar NÃO mantém o veto. Por isso o voto de cada deputado num veto também reflete sua relação com o governo estadual.",
+    "support": "VOTANDO SIM O DEPUTADO REJEITA O VETO, APROVANDO O PROJETO, E VOTANDO NÃO, ACEITA O VETO, REJEITANDO O PROJETO",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, pauta da sessão de 14/02/2023"
+    },
+    "checkId": "exp-pb-cac-arma-nuance-0"
+   },
+   {
+    "text": "Mesmo entre críticos da flexibilização, há quem aceite o tiro esportivo e mire só o uso do registro de CAC como atalho para o porte.",
+    "support": "e viam na possibilidade de se tornar CAC uma forma de circularem armados.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2023/04/19/senadores-e-especialistas-divergem-sobre-regras-para-uso-de-armas",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 19/04/2023"
+    },
+    "checkId": "exp-pb-cac-arma-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-nome-social",
+  "whatItIs": [
+   {
+    "text": "Nome social é o nome pelo qual uma pessoa travesti ou transexual se identifica e é reconhecida, diferente do nome no registro civil.",
+    "support": "o nome social configura a designação pela qual a pessoa se identifica e é socialmente reconhecida",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2016-04/publicado-decreto-que-autoriza-nome-social-de-travestis-no-servico",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/04/2016"
+    },
+    "checkId": "exp-pb-nome-social-whatItIs-0"
+   },
+   {
+    "text": "Desde 2016 um decreto obriga órgãos federais a usar o nome social quando a pessoa pede.",
+    "support": "deverão adotar o nome social da pessoa travesti ou transexual, de acordo com seu requerimento e com o disposto neste decreto",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2016-04/publicado-decreto-que-autoriza-nome-social-de-travestis-no-servico",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/04/2016"
+    },
+    "checkId": "exp-pb-nome-social-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "O projeto da Assembleia da Paraíba permitiria incluir o nome social nas contas e comunicações das concessionárias de água, luz e gás. O governador vetou o projeto.",
+    "support": "Dispõe sobre a possibilidade de inclusão do nome social dos consumidores nas comunicações realizadas pelas concessionárias estaduais de água, luz e gás encanado",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1350/pauta/ordem_do_dia_23.09.2025_3a_sessao_ordinaria_itinerante.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, ordem do dia de 23/09/2025"
+    },
+    "checkId": "exp-pb-nome-social-inPractice-0"
+   },
+   {
+    "text": "Desde 2018 é possível mudar nome e gênero direto no cartório, sem processo judicial, mas muita gente ainda não fez a retificação.",
+    "support": "publicou um normativo ( Provimento 73/2018 ) que passou a exigir que todos os cartórios de registro de pessoas do país realizassem a mudança, sem a necessidade de processo judicial.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/responsabilidade-social/equidade/equidade-eventos/retificacao-do-registro-e-nome-social-sao-conquistas-da-comunidade-trans",
+     "accessed": "2026-10-03",
+     "label": "Senado Federal, Equidade"
+    },
+    "checkId": "exp-pb-nome-social-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "A Antra (Associação Nacional de Travestis e Transexuais) estima que ao menos 63,6% das pessoas trans ainda não conseguiram retificar os documentos, por custo e falta de informação.",
+    "support": "dados da Associação Nacional de Travestis e Transexuais (Antra) informam que pelos menos 63,6% dessas pessoas ainda não conseguiram a retificação",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/responsabilidade-social/equidade/equidade-eventos/retificacao-do-registro-e-nome-social-sao-conquistas-da-comunidade-trans",
+     "accessed": "2026-10-03",
+     "label": "Senado Federal, Equidade"
+    },
+    "checkId": "exp-pb-nome-social-argsFor-0"
+   },
+   {
+    "text": "Lui Oliveira, servidor do Senado, contou que evitou usar o nome social por medo de discriminação até se sentir seguro.",
+    "support": "Enquanto estagiário, eu tive a possibilidade de já preencher o nome social no ato do cadastro, mas não o fiz pelo receio da discriminação.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/responsabilidade-social/equidade/equidade-eventos/retificacao-do-registro-e-nome-social-sao-conquistas-da-comunidade-trans",
+     "accessed": "2026-10-03",
+     "label": "Senado Federal, Equidade"
+    },
+    "checkId": "exp-pb-nome-social-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O deputado Dr. Luiz Ovando (PP-MS) argumentou que regras de nome social podem gerar tratamentos diferenciados e ferir a igualdade (isonomia).",
+    "support": "Dr. Luiz Ovando argumenta que a norma pode gerar desigualdades e ferir o princípio da isonomia.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1143419-projeto-suspende-uso-de-nome-social-em-concurso/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2025"
+    },
+    "checkId": "exp-pb-nome-social-argsAgainst-0"
+   },
+   {
+    "text": "Luiz Ovando também disse que esse tipo de norma pode transformar a administração pública em \"espaço de militância política\".",
+    "support": "pode transformar a administração pública em um espaço de militância política, em vez de um local onde prevaleça a competência técnica e o mérito.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1143419-projeto-suspende-uso-de-nome-social-em-concurso/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 2025"
+    },
+    "checkId": "exp-pb-nome-social-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O veto estadual citou inconstitucionalidade e interesse público, não só o mérito: parte da discussão é se o estado pode impor isso a concessionárias.",
+    "support": "RAZÕES DO VETO: INCONSTITUCIONALIDADE E CONTRÁRIO AO INTERESSE PÚBLICO",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1350/pauta/ordem_do_dia_23.09.2025_3a_sessao_ordinaria_itinerante.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, ordem do dia de 23/09/2025"
+    },
+    "checkId": "exp-pb-nome-social-nuance-0"
+   },
+   {
+    "text": "Usar o nome social é opcional e não muda o registro civil: o nome do registro continua existindo para fins administrativos.",
+    "support": "Nesse caso, o nome do registro civil deve permanecer confidencial e ser utilizado somente com autorização da pessoa ou para fins estritamente necessários.",
+    "source": {
+     "url": "https://www12.senado.leg.br/institucional/responsabilidade-social/equidade/equidade-eventos/retificacao-do-registro-e-nome-social-sao-conquistas-da-comunidade-trans",
+     "accessed": "2026-10-03",
+     "label": "Senado Federal, Equidade"
+    },
+    "checkId": "exp-pb-nome-social-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-vale-saude",
+  "whatItIs": [
+   {
+    "text": "A ideia de um vale-saúde (ou voucher) é dar ao paciente um crédito público para ser atendido num hospital particular, em vez de esperar na rede pública.",
+    "support": "o governo ofereceria aos usuários um voucher para atendimento médico na rede privada, para suplementar o setor de saúde pública.",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/10/2020"
+    },
+    "checkId": "exp-pb-vale-saude-whatItIs-0"
+   },
+   {
+    "text": "A Constituição já permite que hospitais privados atendam pelo SUS de forma complementar, por contrato ou convênio, com preferência para filantrópicos.",
+    "support": "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-03",
+     "label": "Constituição Federal, Planalto"
+    },
+    "checkId": "exp-pb-vale-saude-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A mesma Constituição proíbe dar dinheiro público como auxílio ou subvenção a instituições privadas com fins lucrativos. Um vale teria de caber nessas regras.",
+    "support": "É vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos.",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-03",
+     "label": "Constituição Federal, Planalto"
+    },
+    "checkId": "exp-pb-vale-saude-inPractice-0"
+   },
+   {
+    "text": "Em 2020, o governo federal chegou a incluir postos de saúde no programa de parcerias com empresas, mas revogou a medida depois da repercussão.",
+    "support": "Diante das repercussões, ontem (28), a medida foi revogada",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/10/2020"
+    },
+    "checkId": "exp-pb-vale-saude-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O então ministro da Economia, Paulo Guedes, defendeu um \"voucher saúde\" dizendo que o paciente atendido na rede privada fica melhor do que sem atendimento.",
+    "support": "Aí a pessoa vai ser atendida, é melhor do que não ter [atendimento]”, disse",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/10/2020"
+    },
+    "checkId": "exp-pb-vale-saude-argsFor-0"
+   },
+   {
+    "text": "Guedes argumentou que o setor público sozinho não tem capacidade financeira para atender todo mundo.",
+    "support": "porque o setor público sozinho não tem a capacidade financeira de atender todo mundo",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/10/2020"
+    },
+    "checkId": "exp-pb-vale-saude-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Christine Alves, da Escola Nacional de Saúde Pública (ENSP/Fiocruz), disse que as ineficiências do Estado não justificam transferir recursos ao setor privado.",
+    "support": "De acordo com ela, as ineficiências do Estado na saúde pública não podem ser utilizadas como justificativa para a política de renúncia fiscal ao setor privado.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2018/08/13/incentivo-fiscal-e-politica-de-precos-de-planos-de-saude-agravam-a-situacao-dos-sus-dizem-debatedores",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 13/08/2018"
+    },
+    "checkId": "exp-pb-vale-saude-argsAgainst-0"
+   },
+   {
+    "text": "Para Christine Alves, mesmo com estímulo do governo, os planos privados não reduziram a demanda sobre o SUS.",
+    "support": "Para Christine Alves, apesar de todo o estímulo do governo, os planos de saúde não auxiliam na redução da demanda ao Sistema Único de Saúde (SUS).",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2018/08/13/incentivo-fiscal-e-politica-de-precos-de-planos-de-saude-agravam-a-situacao-dos-sus-dizem-debatedores",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 13/08/2018"
+    },
+    "checkId": "exp-pb-vale-saude-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Mesmo defensores do voucher dizem não querer acabar com o SUS: Guedes chamou de \"contrassenso\" privatizar o sistema durante a pandemia.",
+    "support": "e que seria um contrassenso a privatização",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 29/10/2020"
+    },
+    "checkId": "exp-pb-vale-saude-nuance-0"
+   },
+   {
+    "text": "A diferença entre vale-saúde e convênio é quem escolhe: no convênio o SUS escolhe e contrata o hospital; no vale, o paciente escolhe entre os credenciados.",
+    "support": "mediante contrato de direito público ou convênio",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-03",
+     "label": "Constituição Federal, Planalto"
+    },
+    "checkId": "exp-pb-vale-saude-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "pb-empresas-publicas",
+  "whatItIs": [
+   {
+    "text": "Empresa pública (estatal) é uma empresa controlada pelo governo. No Brasil elas começaram a ser criadas em série nos anos 1940, como Petrobras, CSN e Vale.",
+    "support": "Estatais começaram a ser criadas em série no Brasil na década de 1940, no governo do presidente Getúlio Vargas.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-whatItIs-0"
+   },
+   {
+    "text": "Na Paraíba, a principal estatal é a Cagepa, que leva água a 201 dos 223 municípios.",
+    "support": "Atualmente, a companhia atende 201 dos 223 municípios paraibanos",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-empresas-publicas-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Criar uma estatal exige lei e dinheiro do governo. Uma estatal precisa fazer concurso público para contratar e licitação para comprar, o que a deixa mais lenta que uma empresa privada.",
+    "support": "O que ocorre é que uma empresa privada não precisa carregar os vários pesos que uma empresa estatal é obrigada a carregar, como organizar concurso público para contratar pessoal e abrir licitação para fazer compras.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-inPractice-0"
+   },
+   {
+    "text": "Governos de orientações diferentes já criaram estatais: o governo federal de 2019 a 2022, que vendia empresas, criou a NAV Brasil para controle aéreo.",
+    "support": "Nery lembra que até o governo Bolsonaro criou uma estatal, a NAV Brasil, vinculada à Aeronáutica e dedicada aos serviços de controle aéreo.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Paulo Paim defende explorar o potencial das estatais produtivas e diz que corrupção em casos isolados não justifica fechar empresas que dão lucro.",
+    "support": "Não se devem prejudicar cadeias produtivas inteiras e empresas que dão lucro, como é o caso da Petrobras.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-argsFor-0"
+   },
+   {
+    "text": "Jean Paul Prates, ex-presidente da Petrobras, defendeu que há privatizações ruins e que vender refinarias penalizou o consumidor.",
+    "support": "Eu acredito que há privatizações boas e más, necessárias e totalmente desnecessárias.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O economista Armando Castelar (FGV) diz que estatais eram necessárias quando faltava capital privado, o que não é mais o caso.",
+    "support": "Faz algum tempo que essa presença grande do poder público não é mais necessária e justificável — continua Castelar.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-argsAgainst-0"
+   },
+   {
+    "text": "O senador Marcio Bittar avalia que raras empresas precisam ser do Estado e cita o uso político de indicações em estatais.",
+    "support": "A Petrobras mostrou o estrago que as indicações políticas para as estatais podem fazer.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O consultor do Senado Pedro Nery defende avaliar caso a caso: cada modelo, estatal ou privado, tem vantagens e desvantagens.",
+    "support": "O importante é saber que cada modelo, o estatal e o privado, tem vantagens e desvantagens. Nenhum é perfeito.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-nuance-0"
+   },
+   {
+    "text": "Para Castelar, uma estatal só se justifica se tiver papel social além do comercial, como cobrar mais dos ricos para subsidiar os pobres.",
+    "support": "hoje uma estatal só se justifica se cumprir algum papel social, além do comercial, como cobrar mais dos ricos de modo a subsidiar o serviço oferecido aos pobres.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, especial de 02/2023"
+    },
+    "checkId": "exp-pb-empresas-publicas-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "eco-6x1",
+  "whatItIs": [
+   {
+    "text": "Na escala 6x1 a pessoa trabalha seis dias e descansa um, com até 44 horas por semana. A PEC 221/2019, aprovada na Câmara em 2026, fixa 40 horas em cinco dias, com dois de descanso.",
+    "support": "estabelece jornada de trabalho de 40 horas semanais em cinco dias com dois de descanso, acabando com a escala 6 X 1 (um dia de descanso e 44 horas semanais).",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-whatItIs-0"
+   },
+   {
+    "text": "O texto garante que a redução vale sem corte de salário, inclusive nos pisos salariais.",
+    "support": "A PEC garante que as 8 horas diárias e 40 horas semanais com dois dias de descanso serão aplicadas aos contratos de trabalho em vigor sem qualquer redução salarial",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A mudança é gradual: dois meses depois de promulgada, a jornada cai para 42 horas com dois dias de folga; 14 meses depois, chega a 40 horas.",
+    "support": "Em um ano depois do fim desses dois meses, portanto 14 meses depois da promulgação, a jornada será de 40 horas por semana.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-inPractice-0"
+   },
+   {
+    "text": "Há exceções: quem tem diploma superior e ganha mais de 2,5 vezes o teto do INSS pode ficar fora do controle de jornada, e micro e pequenas empresas terão regras de transição em lei complementar.",
+    "support": "incorporou dispositivo para remeter a uma lei complementar a definição de regras transitórias para diminuir o impacto da mudança em microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-inPractice-1"
+   },
+   {
+    "text": "Escalas especiais, como 12x36 e atividades de saúde, segurança e transporte, podem compensar folgas dentro do mês por acordo coletivo.",
+    "support": "convenções ou acordos coletivos de trabalho poderão, excepcionalmente, prever um regime de compensação a fim de assegurar, na média, dois dias de repouso semanal remunerado dentro do mês-calendário.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator, deputado Leo Prates (Republicanos-BA), defendeu a mudança como forma de dar a pais e mães mais tempo com os filhos.",
+    "support": "dando a mães e pais a oportunidade de serem os melhores que eles podem ser, para, sobretudo, que as crianças possam ter seus pais e suas mães",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277012-comissao-aprova-o-fim-da-escala-6x1-e-reducao-da-jornada-de-44-para-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-argsFor-0"
+   },
+   {
+    "text": "A deputada Erika Hilton (Psol-SP), autora de uma das PECs, disse que a mudança responde a uma jornada exaustiva e garante descanso e tempo para a vida pessoal.",
+    "support": "Autora de uma das PECs, a deputada Erika Hilton disse que a aprovação é uma resposta a uma jornada exaustiva e garante dignidade, descanso e mais tempo para a vida pessoal.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277012-comissao-aprova-o-fim-da-escala-6x1-e-reducao-da-jornada-de-44-para-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "A deputada Julia Zanatta (PL-SC) argumentou que o custo maior da mão de obra pode recair sobre os próprios trabalhadores.",
+    "support": "A deputada Julia Zanatta (PL-SC) argumentou que a redução das jornadas pode aumentar custos e defendeu mais liberdade econômica para empresas e trabalhadores.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277012-comissao-aprova-o-fim-da-escala-6x1-e-reducao-da-jornada-de-44-para-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-argsAgainst-0"
+   },
+   {
+    "text": "O líder do Novo, Gilson Marques (SC), propôs livre negociação no lugar de um teto fixo e disse que o custo extra acaba repassado aos preços.",
+    "support": "Para Marques, a redução obrigatória gera aumento de custos operacionais que acabam sendo repassados aos preços dos produtos, prejudicando o próprio trabalhador no momento da compra.",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277012-comissao-aprova-o-fim-da-escala-6x1-e-reducao-da-jornada-de-44-para-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "A divisão não segue esquerda e direita: o líder do PL, Sóstenes Cavalcante, defendeu ir além e adotar a escala 4x3 de forma imediata.",
+    "support": "afirmou que o partido vai defender, no plenário da Casa, uma mudança ainda mais profunda: a jornada de quatro dias trabalhados por três de descanso (escala 4x3).",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277012-comissao-aprova-o-fim-da-escala-6x1-e-reducao-da-jornada-de-44-para-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-nuance-0"
+   },
+   {
+    "text": "A votação na Câmara foi quase unânime (461 a 19 no 2º turno). A disputa real é sobre o ritmo da transição e as exceções.",
+    "support": "A PEC 221/19 foi aprovada em 2º turno com 461 votos a favor e 19 contra .",
+    "source": {
+     "url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+     "accessed": "2026-10-03",
+     "label": "Agência Câmara, 27/05/2026"
+    },
+    "checkId": "exp-eco-6x1-nuance-1"
+   }
+  ]
+ }
+]

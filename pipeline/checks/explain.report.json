@@ -1,0 +1,2088 @@
+[
+ {
+  "id": "exp-eco-reforma-tributaria-whatItIs-0",
+  "status": "PASS",
+  "claim": "A reforma tributária (PEC 45/2019) troca cinco tributos sobre consumo (ICMS, ISS, IPI, PIS e Cofins) por três: IBS, CBS e Imposto Seletivo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-whatItIs-1",
+  "status": "PASS",
+  "claim": "IBS e CBS são um IVA, Imposto sobre Valor Agregado: cada etapa da produção paga só sobre o valor que acrescentou, sem imposto sobre imposto. Esse modelo existe em mais de 170 países.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-whatItIs-2",
+  "status": "PASS",
+  "claim": "O Imposto Seletivo, apelidado de \"imposto do pecado\", cobra a mais de produtos que fazem mal à saúde ou ao meio ambiente, como cigarro e bebida alcoólica.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-inPractice-0",
+  "status": "PASS",
+  "claim": "O imposto passa a ser cobrado no local onde o produto é consumido, e não onde é produzido. A ideia é acabar com a guerra fiscal, em que estados dão descontos de imposto para atrair empresas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-inPractice-1",
+  "status": "PASS",
+  "claim": "Itens da cesta básica nacional, como arroz e feijão, ficam isentos, e famílias de baixa renda recebem de volta parte do imposto (o chamado cashback).",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-inPractice-2",
+  "status": "PASS",
+  "claim": "A Emenda inclui uma \"trava\": a carga dos novos tributos não pode passar da média de 2012 a 2021, medida em proporção do PIB.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-argsFor-0",
+  "status": "PASS",
+  "claim": "O líder do governo no Congresso, senador Randolfe Rodrigues, disse que a reforma reduz tributos para os mais pobres e citou alíquota zero para arroz e feijão.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-argsFor-1",
+  "status": "PASS",
+  "claim": "O relator, senador Eduardo Braga, afirmou que o modelo não aumenta a carga tributária.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O líder da oposição, senador Rogerio Marinho, disse que a reforma aumentaria a carga para a maior parte da população e que o texto foi \"desconfigurado\" por exceções a setores.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Oriovisto Guimarães argumentou que a transição deixa o sistema mais complexo e que estados e municípios perdem arrecadação.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-nuance-0",
+  "status": "PASS",
+  "claim": "Boa parte da divergência não é sobre trocar os impostos, e sim sobre quantos setores ganham regime diferenciado. Transportes, combustíveis, saneamento, planos de saúde e bancos estão na lista.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-reforma-tributaria-nuance-1",
+  "status": "PASS",
+  "claim": "A alíquota final ainda estava em disputa na votação: emendas da oposição para limitar a soma das alíquotas a 20% ou 25% foram rejeitadas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-whatItIs-0",
+  "status": "PASS",
+  "claim": "O arcabouço fiscal (Lei Complementar 200/2023) é a regra que limita quanto o governo federal pode gastar a cada ano. Ele substituiu o teto de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-whatItIs-1",
+  "status": "PASS",
+  "claim": "A despesa pode crescer, acima da inflação, até 70% do crescimento real da receita. Se a meta de resultado primário for descumprida, esse percentual cai para 50%. Resultado primário é a diferença entre receitas e despesas sem contar os juros da dívida.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-inPractice-0",
+  "status": "PASS",
+  "claim": "Todo ano o gasto cresce pelo menos 0,6% e no máximo 2,5% acima da inflação, mesmo que a receita suba mais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-inPractice-1",
+  "status": "PASS",
+  "claim": "Se a meta não for cumprida, o governo é obrigado a adotar medidas de contenção de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-argsFor-0",
+  "status": "PASS",
+  "claim": "O governo argumenta que a regra é mais flexível que o teto e permite \"acomodar choques econômicos\" sem perder o controle do Orçamento.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-argsFor-1",
+  "status": "PASS",
+  "claim": "O deputado Alencar Santana (PT-SP) disse que a regra garante o aumento real do salário mínimo e o Bolsa Família, que não estavam assegurados no teto de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Pela direita, o deputado Marcel van Hattem (Novo-RS) disse que a regra vai \"incentivar a gastança\" e defendeu o modelo do teto de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Pela esquerda, o deputado Chico Alencar (Psol-RJ) chamou a regra de \"regime de emagrecimento das políticas públicas\", por limitar o crescimento dos gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-nuance-0",
+  "status": "PASS",
+  "claim": "A regra é criticada pelos dois lados: uns acham que permite gastar demais, outros que corta políticas públicas. Discordar da frase pode significar qualquer uma das duas posições.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-arcabouco-nuance-1",
+  "status": "PASS",
+  "claim": "Parte das discussões é sobre o que fica dentro ou fora do limite, como o Fundeb, fundo que financia a educação básica.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-whatItIs-0",
+  "status": "PASS",
+  "claim": "Privatizar é vender o controle de uma empresa estatal para acionistas privados. A MP 1031/2021 abriu caminho para privatizar a Eletrobras, que responde por cerca de 30% da energia gerada no país.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-whatItIs-1",
+  "status": "PASS",
+  "claim": "O modelo usado foi a emissão de novas ações vendidas no mercado sem a participação do governo, que assim perdeu o controle de voto.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-inPractice-0",
+  "status": "PASS",
+  "claim": "A União manteve uma \"golden share\", ação especial com poder de veto, para impedir que um acionista ou grupo tenha mais de 10% do capital votante.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-inPractice-1",
+  "status": "PASS",
+  "claim": "Eletronuclear (usinas de Angra) e Itaipu ficaram fora da venda: pela Constituição, ambas precisam continuar sob controle da União.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-argsFor-0",
+  "status": "PASS",
+  "claim": "Leandro Moreira, do Ministério da Economia, argumentou que a perspectiva de privatização trouxe eficiência e que o valor de mercado da empresa subiu de R$ 7,4 bilhões em 2013 para R$ 48 bilhões.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-argsFor-1",
+  "status": "PASS",
+  "claim": "Leandro Moreira também argumentou que o Estado deve garantir abastecimento, qualidade e preço, e não necessariamente ser o dono da empresa, já que mantém regulação e fiscalização.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Gustavo Teixeira, da Federação Nacional dos Urbanitários, afirmou que os investimentos não dependem da privatização e que estatais têm papel importante em crises.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-argsAgainst-1",
+  "status": "PASS",
+  "claim": "A deputada Professora Marcivânia (PCdoB-AP) disse que a empresa era superavitária e estratégica para a soberania nacional, e lembrou que em vários países o setor hidrelétrico é majoritariamente estatal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-nuance-0",
+  "status": "PASS",
+  "claim": "Os próprios representantes do governo da época admitiram que as tarifas subiram nos anos anteriores mesmo com privatizações no setor, então o efeito no preço da luz é disputado.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-nuance-1",
+  "status": "PASS",
+  "claim": "A pergunta é geral: concordar não obriga a privatizar todas as estatais. O próprio modelo da Eletrobras deixou empresas estratégicas sob controle público.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-whatItIs-0",
+  "status": "PASS",
+  "claim": "A Lei Complementar 179/2021 deu ao Banco Central autonomia formal: presidente e diretores têm mandatos fixos de quatro anos que não coincidem com o do presidente da República.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-whatItIs-1",
+  "status": "PASS",
+  "claim": "O presidente da República continua indicando os nomes, que passam por sabatina no Senado, mas não pode demiti-los livremente.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-inPractice-0",
+  "status": "PASS",
+  "claim": "A meta de inflação continua sendo fixada pelo Conselho Monetário Nacional (CMN), que inclui o governo. O BC decide como atingi-la, principalmente pela taxa de juros.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-inPractice-1",
+  "status": "PASS",
+  "claim": "Um diretor só pode ser exonerado por pedido próprio, doença, condenação ou \"desempenho insuficiente\", e neste último caso o Senado precisa aprovar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-argsFor-0",
+  "status": "PASS",
+  "claim": "O autor da lei, senador Plínio Valério, argumentou que mandatos fixos protegem as decisões do BC contra interferência do governo e do mercado.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-argsFor-1",
+  "status": "PASS",
+  "claim": "O relator na Câmara, deputado Silvio Costa Filho, disse que a regra traz previsibilidade e permite um debate \"independente do governo de plantão\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O então líder do PT, Enio Verri, defendeu que o BC também tivesse metas de emprego, como nos Estados Unidos, para evitar \"especulação financeira pura\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Chico Alencar (Psol-RJ) argumentou que o BC deveria estar a serviço do interesse público e criticou a ligação de diretores com o mercado financeiro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-nuance-0",
+  "status": "PASS",
+  "claim": "Há posições intermediárias: manter a autonomia, mas incluir o pleno emprego como objetivo. Uma emenda nesse sentido foi rejeitada em 2021, embora a lei cite fomentar o emprego como objetivo secundário.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-bc-autonomo-nuance-1",
+  "status": "PASS",
+  "claim": "O debate costuma se misturar ao nível dos juros, mas são coisas diferentes: a autonomia define quem decide, não qual juro é o certo. Economistas divergem sobre se os juros altos de 2023 eram necessários.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-whatItIs-0",
+  "status": "PASS",
+  "claim": "O PL 1.087/2025 zera, na prática, o Imposto de Renda de quem ganha até R$ 5 mil por mês a partir de 2026 e reduz parcialmente para quem ganha até R$ 7.350.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-whatItIs-1",
+  "status": "PASS",
+  "claim": "Para compensar, cria um imposto mínimo para quem ganha a partir de R$ 600 mil por ano, que sobe gradualmente até 10% para rendas acima de R$ 1,2 milhão, contando dividendos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-inPractice-0",
+  "status": "PASS",
+  "claim": "O mínimo só é cobrado de quem paga menos que ele: quem já recolhe 10% ou mais sobre a renda total não paga nada a mais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-inPractice-1",
+  "status": "PASS",
+  "claim": "Dividendos acima de R$ 50 mil por mês de uma mesma empresa para uma pessoa passam a ter 10% retidos na fonte.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-inPractice-2",
+  "status": "PASS",
+  "claim": "Segundo a Câmara, cerca de 141,4 mil pessoas de alta renda pagavam em média 2,5% de IR sobre seus rendimentos totais, enquanto trabalhadores em geral pagam de 9% a 11%.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-argsFor-0",
+  "status": "PASS",
+  "claim": "O relator no Senado, Renan Calheiros, resumiu a lógica: \"Quem tem menos, paga menos; quem tem mais, paga mais\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-argsFor-1",
+  "status": "PASS",
+  "claim": "A senadora Eliziane Gama defendeu a medida como forma de reduzir desigualdade por meio da \"justiça tributária\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O líder do PL na Câmara, Sóstenes Cavalcante, chamou a isenção de \"troco\" e disse que o partido é \"sempre contra o aumento de impostos\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Capitão Alden (PL-BA) argumentou que os mais ricos vão levar recursos para o exterior e defendeu compensar a isenção com corte de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-nuance-0",
+  "status": "PASS",
+  "claim": "Mesmo críticos apoiam isentar quem ganha menos. O debate é sobre como pagar a isenção: imposto mínimo sobre altas rendas ou corte de gastos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-nuance-1",
+  "status": "PASS",
+  "claim": "Há quem apoie a medida mas queira ir além: o senador Weverton disse que \"os especuladores ainda ganham muito mais do que os empreendedores\" e pediu correções mais amplas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-whatItIs-0",
+  "status": "PASS",
+  "claim": "A saída temporária, a \"saidinha\", permitia que presos do regime semiaberto saíssem sem vigilância direta até cinco vezes por ano, em geral em feriados, para visitar a família ou estudar. Semiaberto é o regime em que o preso fica em colônia agrícola ou local parecido.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-whatItIs-1",
+  "status": "PASS",
+  "claim": "Para sair, o preso precisava ter bom comportamento e ter cumprido pelo menos 16,6% da pena, ou 25% se reincidente, com autorização do juiz.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-inPractice-0",
+  "status": "PASS",
+  "claim": "A saída em feriados já acabou: em maio de 2024 o Congresso derrubou o veto da Presidência da República e manteve só a saída para estudar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-inPractice-1",
+  "status": "PASS",
+  "claim": "No 1º semestre de 2023, 11.415 presos não voltaram depois das saídas, segundo a Senappen, o equivalente a 6,27% dos presos do semiaberto.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Sergio Moro (União-PR) argumentou que, somando quatro ou cinco feriados por ano, o número de presos que não voltam é grande e parte deles comete novos crimes.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-argsFor-1",
+  "status": "PASS",
+  "claim": "O senador Fabiano Contarato (PT-ES), ex-delegado, votou pelo fim da saidinha e disse que o benefício passa \"a certeza da impunidade\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O autor do projeto original, deputado Pedro Paulo (PSD-RJ), citou dados de São Paulo: de 34 mil presos na saída de Natal de 2023, só 81 cometeram algum delito.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-argsAgainst-1",
+  "status": "PASS",
+  "claim": "A deputada Érika Kokay (PT-DF) defendeu a saída para ver a família porque \"a família é agente fundamental de ressocialização\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-nuance-0",
+  "status": "PASS",
+  "claim": "Concordar com a frase hoje significa manter o fim da saidinha em feriados, que já está em lei. A saída para estudar continua permitida.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-saidinha-nuance-1",
+  "status": "PASS",
+  "claim": "Os mesmos números são lidos de formas opostas: o Conselho Nacional de Política Criminal chamou de \"ínfimo\" o número de presos que não voltam, e Moro discordou.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-whatItIs-0",
+  "status": "PASS",
+  "claim": "A PEC 45/2023, aprovada no Senado em 2024 e enviada à Câmara, coloca na Constituição que é crime portar ou guardar droga ilícita em qualquer quantidade.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-whatItIs-1",
+  "status": "PASS",
+  "claim": "Ela foi uma reação ao STF, que decidiu que portar maconha para uso pessoal não é crime e fixou 40 gramas como referência para separar usuário de traficante.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-inPractice-0",
+  "status": "PASS",
+  "claim": "Mesmo com a PEC, o usuário não iria preso: o texto prevê penas alternativas e tratamento. A Lei de Drogas de 2006 já não prevê prisão para quem porta para consumo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-inPractice-1",
+  "status": "PASS",
+  "claim": "Pela decisão do STF, portar maconha continua ilegal, e o uso em público segue proibido. A diferença é que a punição passa a ser administrativa, não criminal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-argsFor-0",
+  "status": "PASS",
+  "claim": "O autor, senador Rodrigo Pacheco, argumentou que não existe tráfico sem comprador e que a decisão do STF invade a competência do Congresso e da Anvisa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-argsFor-1",
+  "status": "PASS",
+  "claim": "O senador Alessandro Vieira afirmou que, nos países que liberaram, os indicadores mostram aumento da dependência e do consumo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O senador Jaques Wagner (PT-BA) disse que \"não será entupindo as cadeias\" que o problema das drogas será resolvido.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Marcelo Castro (MDB-PI), psiquiatra, chamou a criminalização de retrocesso e disse que dependentes precisam de atendimento médico.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-nuance-0",
+  "status": "PASS",
+  "claim": "Os dois lados concordam que traficante e usuário são diferentes. A disputa é se portar pouca quantidade deve ser crime ou infração administrativa, e quem decide isso: Congresso ou STF.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-drogas-nuance-1",
+  "status": "PASS",
+  "claim": "Discordar da frase não é o mesmo que defender a legalização da venda. A decisão do STF trata só do porte de maconha para uso pessoal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-whatItIs-0",
+  "status": "PASS",
+  "claim": "Até abril de 2026, o STF havia condenado 1.402 pessoas pelos atos de 8 de janeiro de 2023; 431 receberam pena de prisão.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-whatItIs-1",
+  "status": "PASS",
+  "claim": "A Lei da Dosimetria (Lei 15.402/2026) reduz essas penas. Foi vetada pela Presidência, e o Congresso derrubou o veto. Dosimetria é o cálculo do tamanho da pena.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-inPractice-0",
+  "status": "PASS",
+  "claim": "Quando vários crimes contra o Estado acontecem no mesmo contexto, o juiz passa a aplicar só a pena do mais grave, em vez de somar. Exemplo: 20 anos viram 12.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-inPractice-1",
+  "status": "PASS",
+  "claim": "Quem agiu \"em multidão\" sem financiar nem liderar ganha redução de um terço a dois terços. A revisão não é automática: cada defesa precisa pedir ao STF.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-argsFor-0",
+  "status": "PASS",
+  "claim": "O relator, senador Esperidião Amin, disse que \"a mão foi muito pesada\" nas condenações e que o projeto corrige distorções.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-argsFor-1",
+  "status": "PASS",
+  "claim": "A senadora Tereza Cristina reconheceu que houve crimes, mas disse que as penas impostas pelo STF são desproporcionais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O senador Renan Calheiros disse que os direitos dos condenados foram respeitados e que \"o que pacifica o país é golpista cumprir pena\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Fabiano Contarato criticou a lei por ter \"endereço certo\": o ex-presidente Bolsonaro e seus auxiliares condenados.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-nuance-0",
+  "status": "PASS",
+  "claim": "Há três posições, não duas: manter as penas, reduzi-las (o que virou lei) ou anistiar. Senadores como Marcos Rogério e Sergio Moro preferiam anistia e votaram na redução como \"ganho possível\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-8-janeiro-nuance-1",
+  "status": "PASS",
+  "claim": "A lei também alcança os condenados do chamado núcleo central, como o ex-presidente Jair Bolsonaro, condenado a 27 anos e 3 meses.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-whatItIs-0",
+  "status": "PASS",
+  "claim": "A PEC 3/2021, chamada por defensores de \"PEC das Prerrogativas\" e por críticos de \"PEC da Blindagem\", exigiria autorização da Câmara ou do Senado para o STF abrir processo criminal contra um parlamentar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-whatItIs-1",
+  "status": "PASS",
+  "claim": "A Câmara aprovou a PEC em setembro de 2025, e a CCJ do Senado a rejeitou por 26 votos a 0.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-inPractice-0",
+  "status": "PASS",
+  "claim": "Regra parecida valeu de 1988 até 2001, quando a Emenda Constitucional 35 acabou com a exigência de licença.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-inPractice-1",
+  "status": "PASS",
+  "claim": "Hoje o parlamentar já não pode ser punido por opiniões, palavras e votos, e a Casa pode suspender processos que considerar abusivos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-argsFor-0",
+  "status": "PASS",
+  "claim": "O relator na Câmara, Claudio Cajado, disse que as prerrogativas são garantias para o parlamentar trabalhar com independência, sem temer perseguições.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-argsFor-1",
+  "status": "PASS",
+  "claim": "O deputado Carlos Jordy (PL-RJ) disse que o texto protege deputados de \"processo criminal abusivo\", muitas vezes por suas falas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O relator no Senado, Alessandro Vieira, disse que a PEC abriria as portas do Legislativo para \"criminosos de todos os tipos\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Kim Kataguiri (União-SP) lembrou que, quando a licença existia, nenhuma investigação foi autorizada.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-nuance-0",
+  "status": "PASS",
+  "claim": "Há um meio-termo defendido por alguns: proteger só opiniões e votos. O senador Sergio Moro foi contra a PEC, mas defendeu reforçar a proteção para crimes contra a honra.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-blindagem-nuance-1",
+  "status": "PASS",
+  "claim": "O voto secreto para decidir a licença também dividiu os deputados e acabou retirado do texto na Câmara.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-whatItIs-0",
+  "status": "PASS",
+  "claim": "O Estatuto do Desarmamento (Lei 10.826/2003) controla quem pode comprar e portar armas. Os detalhes são definidos por decretos do presidente, por isso as regras mudam a cada governo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-whatItIs-1",
+  "status": "PASS",
+  "claim": "Em 2023, o Decreto 11.615 restringiu o acesso: passou a fiscalização do Exército para a Polícia Federal e limitou os CACs (caçadores, atiradores e colecionadores).",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-inPractice-0",
+  "status": "PASS",
+  "claim": "Segundo pesquisadora da Secretaria Nacional de Segurança Pública, as armas particulares passaram de cerca de 1,3 milhão em 2018 para quase 3 milhões em 2023.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-inPractice-1",
+  "status": "PASS",
+  "claim": "O número de CACs registrados foi de cerca de 60 mil em 2017 para mais de 800 mil em 2022, segundo o policial federal e pesquisador Roberto Uchôa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Marcio Bittar (PL-AC), relator de projetos para derrubar o decreto de 2023, disse que ele limita o tiro desportivo e traz perdas a fabricantes e comerciantes.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-argsFor-1",
+  "status": "PASS",
+  "claim": "O senador Magno Malta argumentou que o processo para o cidadão ter arma exige testes psicológicos, antecedentes e prova de tiro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Michele dos Ramos, da Secretaria Nacional de Segurança Pública, disse que o país ficou \"muito mais armado\" sem mecanismos de controle suficientes.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Carolina Taboada, do Instituto Igarapé, apontou que só 2,3% dos acervos de CACs e clubes foram fiscalizados em 2020 e que armas com registro vencido escapam do controle.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-nuance-0",
+  "status": "PASS",
+  "claim": "Há posições no meio: o policial federal e pesquisador Roberto Uchôa não fala em proibir, mas aponta que muitos viraram CAC como forma de circular armados sem ter porte.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-armas-nuance-1",
+  "status": "PASS",
+  "claim": "Parte da disputa é sobre quem decide: autores de projetos no Senado dizem que o decreto de 2023 foi além do que um decreto pode fazer, e o tema também passa pelo Congresso.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-whatItIs-0",
+  "status": "PASS",
+  "claim": "Hoje quem tem menos de 18 anos não responde a processo criminal. Cumpre medidas socioeducativas do ECA (Estatuto da Criança e do Adolescente), com internação de no máximo três anos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-whatItIs-1",
+  "status": "PASS",
+  "claim": "Em 2015, a Câmara aprovou a PEC 171/1993, que reduz a maioridade para 16 anos em crimes hediondos, homicídio doloso e lesão corporal seguida de morte.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-inPractice-0",
+  "status": "PASS",
+  "claim": "Pela PEC de 2015, jovens de 16 e 17 anos cumpririam pena em local separado dos adolescentes e dos adultos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-inPractice-1",
+  "status": "PASS",
+  "claim": "Uma alternativa aprovada no Senado em 2025 não mexe na maioridade: aumenta a internação de 3 para até 5 anos, ou até 10 em crimes violentos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-argsFor-0",
+  "status": "PASS",
+  "claim": "O deputado Mendonça Filho (PL-PE) defendeu a redução como \"demanda de mais de 80% da população para crimes violentos\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-argsFor-1",
+  "status": "PASS",
+  "claim": "O deputado Rogério Rosso disse que o jovem que comete crime grave \"sabe exatamente o que está fazendo\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-argsAgainst-0",
+  "status": "PASS",
+  "claim": "A deputada Talíria Petrone (Psol-RJ) disse que só 8% dos atos de jovens são graves e que a prisão comum facilita o recrutamento pelo crime organizado.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Darcísio Perondi disse que a Câmara decidiu \"pela emoção\" e que o pacote contra a violência \"não será entregue\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-nuance-0",
+  "status": "PASS",
+  "claim": "As propostas variam muito: algumas reduzem só para crimes hediondos, outras para todos os crimes, e uma chega a 12 anos em crimes violentos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-maioridade-nuance-1",
+  "status": "PASS",
+  "claim": "Quem quer punição maior sem mudar a Constituição pode preferir aumentar o tempo de internação, como no projeto do senador Fabiano Contarato.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-whatItIs-0",
+  "status": "PASS",
+  "claim": "Hoje os ministros do STF ficam no cargo até a aposentadoria obrigatória aos 75 anos. É a vitaliciedade, garantia que a Constituição dá aos juízes.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-whatItIs-1",
+  "status": "PASS",
+  "claim": "A PEC 16/2019, do senador Plínio Valério, fixa mandato de oito anos sem recondução. Outras propostas falam em 10, 11 ou 15 anos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-inPractice-0",
+  "status": "PASS",
+  "claim": "A PEC de Plínio também dá prazo para o presidente indicar (um mês) e para o Senado votar (120 dias) quando abre uma vaga.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-inPractice-1",
+  "status": "PASS",
+  "claim": "Com mandato fixo, as trocas ficariam mais previsíveis. Hoje um presidente pode indicar vários ministros num só ano, como em 2023.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Plínio Valério argumentou que mandatos fixos evitam mudanças bruscas na composição do tribunal e a consequente insegurança.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-argsFor-1",
+  "status": "PASS",
+  "claim": "O então senador Eduardo Suplicy defendeu, em 2009, que mandato fixo não fere a independência do Judiciário e permite renovação planejada.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O então senador Demóstenes Torres argumentou que a Constituição não permite nem recomenda mandato temporário, por ser a vitaliciedade uma prerrogativa dos juízes.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O então senador Aloizio Mercadante disse que a mudança interfere na relação entre os Poderes e exigiria ampla discussão com o Judiciário.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-nuance-0",
+  "status": "PASS",
+  "claim": "A ideia não divide só esquerda e direita: segundo Plínio Valério, cinco ministros do próprio STF demonstraram apoio a discutir o tema.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-seg-stf-mandato-nuance-1",
+  "status": "PASS",
+  "claim": "Concordar com mandato fixo não diz nada sobre o tamanho do mandato, nem se valeria para os ministros atuais. Plínio afirma que a PEC não pretende atingi-los.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-whatItIs-0",
+  "status": "PASS",
+  "claim": "Marco temporal é a tese de que só podem ser demarcadas como terra indígena as áreas ocupadas por indígenas em 5 de outubro de 1988, data da Constituição.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-whatItIs-1",
+  "status": "PASS",
+  "claim": "Em 2023 o STF decidiu contra a tese, mas o Congresso aprovou uma lei com ela (Lei 14.701/2023) e derrubou o veto do governo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-inPractice-0",
+  "status": "PASS",
+  "claim": "Em dezembro de 2025 o Senado aprovou a PEC 48/2023, que põe o marco temporal na própria Constituição. O texto foi para a Câmara.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-inPractice-1",
+  "status": "PASS",
+  "claim": "A PEC também prevê indenização prévia aos ocupantes regulares de terras que forem demarcadas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-inPractice-2",
+  "status": "PASS",
+  "claim": "Em 2025, o ministro Gilmar Mendes suspendeu as ações sobre o tema no STF e criou um grupo de conciliação com Executivo e Legislativo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Zequinha Marinho defendeu o marco como segurança jurídica para produtores rurais e lembrou que 14,1% do território já é terra indígena demarcada.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-argsFor-1",
+  "status": "PASS",
+  "claim": "O relator, senador Esperidião Amin, argumentou que desde 1934 as Constituições garantem aos indígenas a terra \"em que eles se encontram\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O senador Humberto Costa disse que o projeto tem \"vícios de constitucionalidade\" e, na prática, inviabiliza a demarcação de novos territórios indígenas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Jaques Wagner disse que o marco temporal não resolve o problema e põe os indígenas em desvantagem; para ele, a culpa é do Estado, que não demarcou no prazo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-nuance-0",
+  "status": "PASS",
+  "claim": "Os dois lados falam em \"insegurança jurídica\". O líder do governo admitiu que ela é \"insuportável\" e pediu acordo, e o STF mantém uma mesa de conciliação.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-nuance-1",
+  "status": "PASS",
+  "claim": "Pela tese, não basta ocupar a área em 1988: também é preciso provar uso permanente e que a terra é necessária à reprodução física e cultural da comunidade.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-marco-temporal-nuance-2",
+  "status": "PASS",
+  "claim": "Integrantes de grupos indígenas afirmam que a tese desconsidera povos nômades e comunidades expulsas de suas terras antes de 1988.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-whatItIs-0",
+  "status": "PASS",
+  "claim": "Hoje o aborto é crime no Brasil, com exceções. O Código Penal não pune o aborto feito por médico quando não há outro meio de salvar a vida da gestante ou quando a gravidez resulta de estupro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-whatItIs-1",
+  "status": "PASS",
+  "claim": "Em 2012, no julgamento da ADPF 54, o STF também permitiu interromper a gravidez de feto anencéfalo, ou seja, sem formação do cérebro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-whatItIs-2",
+  "status": "PASS",
+  "claim": "A ADPF 442, ação do Psol, pede ao STF que o aborto deixe de ser crime até a 12ª semana. Os ministros Rosa Weber e Luís Roberto Barroso votaram a favor, e o julgamento está suspenso.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-inPractice-0",
+  "status": "PASS",
+  "claim": "Pelo Código Penal, a gestante que provoca o aborto ou autoriza alguém a fazê-lo pode ser punida com detenção de um a quatro anos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-inPractice-1",
+  "status": "PASS",
+  "claim": "Descriminalizar não é o mesmo que obrigar alguém a fazer aborto: a proposta tira a punição criminal nas 12 primeiras semanas. Barroso defendeu tratar o tema como saúde pública.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-argsFor-0",
+  "status": "PASS",
+  "claim": "O ministro Luís Roberto Barroso argumentou que a criminalização atinge sobretudo mulheres pobres, enquanto as ricas podem abortar fora do país.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-argsFor-1",
+  "status": "PASS",
+  "claim": "A ministra Rosa Weber argumentou que proibir totalmente o aborto com base no direito à vida desde a concepção \"não encontra suporte jurídico\" na Constituição.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-argsAgainst-0",
+  "status": "PASS",
+  "claim": "A advogada Angela Vidal Gandra sustentou que não existe direito constitucional ao aborto e que a vida do feto se sobrepõe à escolha da mulher.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Takayama, então presidente da Frente Parlamentar Evangélica, defendeu que, se a criança for indesejada, a mãe a entregue para adoção.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-nuance-0",
+  "status": "PASS",
+  "claim": "Parte do debate não é sobre o aborto em si, mas sobre quem decide: deputados como Diego Garcia defendem que só o Congresso pode mudar a lei, não o STF.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-aborto-nuance-1",
+  "status": "PASS",
+  "claim": "Discordar da frase não significa querer acabar com os casos de aborto legal que já existem. Concordar não significa defender aborto depois de 12 semanas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-whatItIs-0",
+  "status": "PASS",
+  "claim": "A Lei de Cotas (Lei 12.711/2012) reserva pelo menos metade das vagas de universidades e institutos federais para quem estudou todo o ensino médio em escola pública.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-whatItIs-1",
+  "status": "PASS",
+  "claim": "A parte racial fica dentro dessa metade: um aluno negro que estudou em escola particular, por exemplo, não entra pela cota.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-inPractice-0",
+  "status": "PASS",
+  "claim": "A revisão de 2023 reduziu o limite de renda para metade das vagas de 1,5 para 1 salário mínimo por pessoa e incluiu quilombolas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-inPractice-1",
+  "status": "PASS",
+  "claim": "O cotista agora disputa primeiro as vagas gerais e só usa a cota se não alcançar a nota. A lei prevê avaliação a cada dez anos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-argsFor-0",
+  "status": "PASS",
+  "claim": "O relator no Senado, Paulo Paim, disse que antes da lei as universidades tinham 6% de pobres, indígenas, pretos e pessoas com deficiência, e que depois passaram de 40%.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-argsFor-1",
+  "status": "PASS",
+  "claim": "A relatora na Câmara, deputada Dandara, defendeu a política dizendo que ela própria foi cotista na graduação e na pós.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O senador Rogério Marinho defendeu cotas apenas sociais e econômicas, não raciais, dizendo que a lei \"divide o país\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O deputado Carlos Jordy (PL-RJ) afirmou que as cotas raciais nunca deram certo e ampliam a divisão entre grupos étnicos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-nuance-0",
+  "status": "PASS",
+  "claim": "A divisão principal não é entre ter ou não ter cotas, e sim entre cotas sociais (renda e escola pública) e cotas raciais. Uma emenda rejeitada no Senado mantinha 50% das vagas só por renda, sem reserva racial.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-soc-cotas-nuance-1",
+  "status": "PASS",
+  "claim": "O deputado Kim Kataguiri argumentou que o aluno mais pobre muitas vezes nem chega à cota, porque abandona o ensino médio para trabalhar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-whatItIs-0",
+  "status": "PASS",
+  "claim": "Licenciamento ambiental é a autorização do poder público para instalar ou ampliar obras que usam recursos naturais ou podem causar impacto, como rodovias, hidrelétricas, indústrias e loteamentos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-whatItIs-1",
+  "status": "PASS",
+  "claim": "A Lei Geral do Licenciamento (Lei 15.190/2025) criou a LAC, Licença por Adesão e Compromisso: o empreendedor faz uma espécie de autodeclaração em vez de passar por todas as etapas de análise.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-inPractice-0",
+  "status": "PASS",
+  "claim": "A LAC vale para obras de pequeno ou médio porte e baixo ou médio potencial poluidor. Não pode ser usada se houver desmatamento de vegetação nativa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-inPractice-1",
+  "status": "PASS",
+  "claim": "Entre os vetos presidenciais derrubados pelo Congresso em 2025 está o trecho que torna apenas opinativas as manifestações da Funai, da Fundação Palmares e dos órgãos de unidades de conservação.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-argsFor-0",
+  "status": "PASS",
+  "claim": "A relatora, senadora Tereza Cristina, disse que a legislação atual é \"um verdadeiro cipoal\" de cerca de 27 mil normas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-argsFor-1",
+  "status": "PASS",
+  "claim": "O senador Marcos Rogério defendeu a lei como \"equilibrada\" e disse que o que trava o país são interpretações e regras do Conama.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-argsAgainst-0",
+  "status": "PASS",
+  "claim": "A senadora Eliziane Gama chamou a lei de \"retrocesso\" e disse que ela fere a proteção da Mata Atlântica.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O líder do governo no Congresso, Randolfe Rodrigues, defendeu manter os vetos porque vários trechos seriam inconstitucionais, como os que atingem a Mata Atlântica.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-nuance-0",
+  "status": "PASS",
+  "claim": "O próprio governo apoiou partes da simplificação: emendas de senadores do PT limitaram a LAC a obras menores em vez de derrubá-la.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-licenciamento-nuance-1",
+  "status": "PASS",
+  "claim": "A lei também aumentou a pena para quem constrói sem licença: de um a seis meses passou para seis meses a dois anos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-whatItIs-0",
+  "status": "PASS",
+  "claim": "A Margem Equatorial é uma faixa do mar que vai do Rio Grande do Norte ao Amapá e inclui a bacia da foz do rio Amazonas. É apontada como um possível \"novo pré-sal\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-whatItIs-1",
+  "status": "PASS",
+  "claim": "O Ibama autorizou a Petrobras a perfurar na bacia da Foz do Amazonas em outubro de 2025.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-inPractice-0",
+  "status": "PASS",
+  "claim": "A Petrobras anunciou descobertas de petróleo no poço Morpho, a 175 km da costa do Amapá, mas ainda sem confirmação de valor comercial.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-inPractice-1",
+  "status": "PASS",
+  "claim": "Estudo da Empresa de Pesquisa Energética estima até 10 bilhões de barris recuperáveis na bacia da Foz do Amazonas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-argsFor-0",
+  "status": "PASS",
+  "claim": "O presidente do Senado, Davi Alcolumbre (AP), disse que a exploração mostra que é possível conciliar crescimento e preservação e fortalece a \"soberania energética\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-argsFor-1",
+  "status": "PASS",
+  "claim": "A deputada Silvia Waiãpi (PL-AP) argumentou que os estados do Norte têm baixo IDH e pouco saneamento e que o petróleo pode reverter isso a médio prazo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Suely Araújo, do Observatório do Clima, disse que a licença foi dada \"de forma inconsequente\" e põe em risco o legado climático do país.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Kleber Karipuna, da Apib, chamou o projeto de \"predatório\" e disse que ignora a voz dos povos indígenas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-nuance-0",
+  "status": "PASS",
+  "claim": "O debate mistura risco local e clima global: as ONGs dizem que até 20% do óleo de um vazamento grave poderia atingir o sistema de recifes da foz do Amazonas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-margem-equatorial-nuance-1",
+  "status": "PASS",
+  "claim": "O Ibama afirma que a licença saiu depois de estudo de impacto, três audiências públicas e 65 reuniões técnicas em mais de 20 municípios.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-whatItIs-0",
+  "status": "PASS",
+  "claim": "A nova Lei dos Agrotóxicos (Lei 14.785/2023) concentrou no Ministério da Agricultura a liberação desses produtos. Antes, Agricultura, Meio Ambiente (Ibama) e Saúde (Anvisa) decidiam juntos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-whatItIs-1",
+  "status": "PASS",
+  "claim": "A lei fixa prazos para o registro, de 30 dias a 2 anos, e permite registro temporário de produtos já usados em pelo menos três países da OCDE quando o prazo vence.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-inPractice-0",
+  "status": "PASS",
+  "claim": "A lei antiga proibia expressamente produtos cancerígenos ou que causam mutações e deformações. A nova proíbe os que apresentem \"risco\", avaliado pelo Ministério da Agricultura.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-inPractice-1",
+  "status": "PASS",
+  "claim": "Mesmo com a centralização, se a Anvisa não aprovar um produto, o ministério precisa acatar a decisão.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Luis Carlos Heinze disse que o Brasil leva em média sete anos para liberar novos produtos, o que na Europa leva poucos meses.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-argsFor-1",
+  "status": "PASS",
+  "claim": "A senadora Tereza Cristina, ex-ministra da Agricultura, disse que a mudança permite modernizar os defensivos agrícolas com rigor técnico.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Ao vetar trechos, o Planalto argumentou que tirar o Ibama e a Anvisa da reanálise acabaria com o modelo tripartite ligado aos direitos à vida, à saúde e ao meio ambiente.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-argsAgainst-1",
+  "status": "PASS",
+  "claim": "A Presidência da República também alegou que permitir registro de produto em reanálise ofende o princípio da precaução. O Congresso derrubou esse veto em 2024.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-nuance-0",
+  "status": "PASS",
+  "claim": "O Brasil é o maior consumidor de agrotóxicos do mundo. Antes da nova lei, entre 2019 e 2022, foram liberados 2.181 novos registros.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-amb-agrotoxicos-nuance-1",
+  "status": "PASS",
+  "claim": "No Senado, a votação foi simbólica, e só a senadora Zenaide Maia registrou voto contrário.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-whatItIs-0",
+  "status": "PASS",
+  "claim": "Concessão é quando o governo passa uma obra ou serviço para uma empresa operar por contrato. PPP (parceria público-privada) é um tipo de concessão em que o governo também paga parte da remuneração da empresa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-whatItIs-1",
+  "status": "PASS",
+  "claim": "Na PPP administrativa, o próprio governo é o usuário do serviço e paga por ele, mesmo que a empresa também construa a obra.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-inPractice-0",
+  "status": "PASS",
+  "claim": "Concessão não é venda: a empresa continua sendo do governo, ou o serviço continua público, mas a operação passa a uma empresa privada por prazo definido.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-inPractice-1",
+  "status": "PASS",
+  "claim": "Em 2026 a Paraíba passou a uma empresa privada, por PPP de 25 anos, o esgoto de 85 cidades atendidas pela Cagepa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-argsFor-0",
+  "status": "PASS",
+  "claim": "O economista Armando Castelar (FGV) argumenta que o poder público não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-argsFor-1",
+  "status": "PASS",
+  "claim": "O consultor do Senado Pedro Fernando Nery lembra que, com uma agência reguladora forte, o governo mantém poder para exigir obrigações sociais das empresas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-argsAgainst-0",
+  "status": "PASS",
+  "claim": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e Nordeste.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Rogério Carvalho avaliou que abrir o setor pode desvalorizar as empresas públicas e prejudicar o patrimônio delas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-nuance-0",
+  "status": "PASS",
+  "claim": "Especialistas ouvidos pelo Senado dizem que o tema ficou menos ideológico: a esquerda aceita concessões e a direita aceita algumas estatais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-nuance-1",
+  "status": "PASS",
+  "claim": "Concessões também dão problema: o consultor Pedro Nery cita concessionária de aeroporto que pediu para devolver a operação ao governo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-whatItIs-0",
+  "status": "PASS",
+  "claim": "Em 15/05/2026, o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia estadual de água e esgoto da Paraíba.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-whatItIs-1",
+  "status": "PASS",
+  "claim": "O contrato cobre 85 municípios, incluindo João Pessoa, dura 25 anos e prevê R$ 3 bilhões em investimentos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-inPractice-0",
+  "status": "PASS",
+  "claim": "A água continua com a Cagepa, que também fiscaliza a parceria. A empresa privada cuida da coleta e do tratamento de esgoto.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-inPractice-1",
+  "status": "PASS",
+  "claim": "Hoje o esgoto urbano atende 6,71% no Alto Piranhas e 46,43% no Litoral. A meta é chegar a 90% até 2039.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-inPractice-2",
+  "status": "PASS",
+  "claim": "Só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-argsFor-0",
+  "status": "PASS",
+  "claim": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-argsFor-1",
+  "status": "PASS",
+  "claim": "Luciene Machado, do BNDES, que estruturou o projeto, disse que o modelo transforma investimentos em benefícios concretos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Críticos do modelo nacional, como o senador Weverton, dizem que o investimento privado em saneamento tende a não chegar às cidades pequenas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Rogério Carvalho avaliou que a entrada de empresas privadas pode desvalorizar as estatais de saneamento.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-nuance-0",
+  "status": "PASS",
+  "claim": "A PPP é consequência do marco nacional do saneamento de 2020, que obriga licitação aberta a empresas públicas e privadas e fixa metas de universalização.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-ppp-cagepa-nuance-1",
+  "status": "PASS",
+  "claim": "O prazo da Paraíba (2039) é mais longo que o padrão do marco nacional (2033), por decisão do colegiado regional para segurar a tarifa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-whatItIs-0",
+  "status": "PASS",
+  "claim": "Incentivo fiscal é quando o estado cobra menos ICMS de uma empresa para atrair investimento para seu território.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-whatItIs-1",
+  "status": "PASS",
+  "claim": "Quando vários estados fazem isso ao mesmo tempo, disputando empresas, chama-se guerra fiscal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-inPractice-0",
+  "status": "PASS",
+  "claim": "Uma lei de 2021 permitiu prorrogar esses benefícios até 2032.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-inPractice-1",
+  "status": "PASS",
+  "claim": "A reforma tributária muda a cobrança para o estado onde o produto é consumido, o que reduz a força desses incentivos a partir da transição.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-argsFor-0",
+  "status": "PASS",
+  "claim": "A senadora Rose de Freitas, relatora da prorrogação, argumentou que o incentivo não é perda de receita, porque sem ele a empresa nem viria para o estado.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-argsFor-1",
+  "status": "PASS",
+  "claim": "Segundo o consultor do Senado Márcio de Oliveira Júnior, para estados menos desenvolvidos o incentivo gera emprego e renda locais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O mesmo consultor, Márcio de Oliveira Júnior, diz que o uso generalizado prejudica a produtividade do país e que a maior beneficiada é a empresa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador José Aníbal chamou a guerra fiscal de \"uma corrida para o fundo\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-nuance-0",
+  "status": "PASS",
+  "claim": "A pergunta inclui uma condição: manter o incentivo cobrando metas de investimento e emprego. Segundo o consultor, o ganho do estado vem justamente dos empregos criados pela empresa que se instala.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-nuance-1",
+  "status": "PASS",
+  "claim": "Para o consultor, o ganho para a população do próprio estado tende a ser menor que o da empresa beneficiada.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-whatItIs-0",
+  "status": "PASS",
+  "claim": "Pela Constituição, as polícias militares são forças auxiliares e reserva do Exército e ficam sob o comando dos governadores.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-whatItIs-1",
+  "status": "PASS",
+  "claim": "Desmilitarizar é transformar a PM em polícia civil, sem a estrutura e a justiça militares. A proposta mais conhecida é a PEC 51/2013.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-inPractice-0",
+  "status": "PASS",
+  "claim": "Como o caráter militar das PMs está na Constituição, mudá-lo exige uma emenda constitucional votada no Congresso. O governador comanda a PM, mas não a desmilitariza sozinho.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-inPractice-1",
+  "status": "PASS",
+  "claim": "A PEC 51 também prevê o \"ciclo completo\": a mesma polícia patrulharia e investigaria, tarefas hoje divididas entre PM e Polícia Civil.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-argsFor-0",
+  "status": "PASS",
+  "claim": "A defensora pública Fernanda Rudolfo disse que treinar policiais com \"visão de guerra\" para lidar com civis não cabe num estado democrático.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-argsFor-1",
+  "status": "PASS",
+  "claim": "O autor da PEC, então senador Lindbergh Farias, citou pesquisa da FGV segundo a qual 74% dos brasileiros não confiam nas polícias.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O deputado Subtenente Gonzaga (PDT-MG) argumentou que o problema não é a militarização, e sim a violência da sociedade, que qualquer polícia enfrentaria.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Uma cidadã que comentou a proposta no DataSenado, Elzana de Oliveira Moreira Moraes, defendeu que o militarismo \"impõe respeito\" e ajuda a manter a ordem.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-nuance-0",
+  "status": "PASS",
+  "claim": "Há quem apoie a mudança devagar: o deputado Delegado Edson Moreira defendeu desmilitarizar de forma gradual, sem prejudicar a carreira dos policiais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-desmilitarizar-pm-nuance-1",
+  "status": "PASS",
+  "claim": "Numa enquete do DataSenado (sem valor científico), 54% foram contra e 46% a favor.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-whatItIs-0",
+  "status": "PASS",
+  "claim": "CAC é a sigla para caçadores, atiradores desportivos e colecionadores de armas, que têm registro próprio.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-whatItIs-1",
+  "status": "PASS",
+  "claim": "Um projeto aprovado na Assembleia da Paraíba \"reconhece o risco da atividade\" e a necessidade de arma para atiradores esportivos. O governador vetou o projeto por inconstitucionalidade.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-inPractice-0",
+  "status": "PASS",
+  "claim": "Regras de armas são federais: o Estatuto do Desarmamento é uma lei nacional regulamentada por decreto do presidente. Por isso o veto alegou inconstitucionalidade.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-inPractice-1",
+  "status": "PASS",
+  "claim": "O número de CACs saltou de cerca de 60 mil em 2017 para mais de 800 mil em 2022, segundo o pesquisador Roberto Uchôa.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Magno Malta argumentou que tirar o registro exige escola de tiro, testes psicológicos e antecedentes criminais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-argsFor-1",
+  "status": "PASS",
+  "claim": "O senador Marcio Bittar disse que as restrições federais limitam o tiro desportivo e trazem perdas ao setor.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O pesquisador Roberto Uchôa disse que muitos se tornaram CAC para circular armados sem conseguir porte na Polícia Federal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Carolina Taboada, do Instituto Igarapé, apontou que só 2,3% dos acervos de CACs e clubes foram fiscalizados em 2020.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-nuance-0",
+  "status": "PASS",
+  "claim": "Na Assembleia, votar SIM num veto derruba o veto e aprova o projeto; votar NÃO mantém o veto. Por isso o voto de cada deputado num veto também reflete sua relação com o governo estadual.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-cac-arma-nuance-1",
+  "status": "PASS",
+  "claim": "Mesmo entre críticos da flexibilização, há quem aceite o tiro esportivo e mire só o uso do registro de CAC como atalho para o porte.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-whatItIs-0",
+  "status": "PASS",
+  "claim": "Nome social é o nome pelo qual uma pessoa travesti ou transexual se identifica e é reconhecida, diferente do nome no registro civil.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-whatItIs-1",
+  "status": "PASS",
+  "claim": "Desde 2016 um decreto obriga órgãos federais a usar o nome social quando a pessoa pede.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-inPractice-0",
+  "status": "PASS",
+  "claim": "O projeto da Assembleia da Paraíba permitiria incluir o nome social nas contas e comunicações das concessionárias de água, luz e gás. O governador vetou o projeto.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-inPractice-1",
+  "status": "PASS",
+  "claim": "Desde 2018 é possível mudar nome e gênero direto no cartório, sem processo judicial, mas muita gente ainda não fez a retificação.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-argsFor-0",
+  "status": "PASS",
+  "claim": "A Antra (Associação Nacional de Travestis e Transexuais) estima que ao menos 63,6% das pessoas trans ainda não conseguiram retificar os documentos, por custo e falta de informação.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-argsFor-1",
+  "status": "PASS",
+  "claim": "Lui Oliveira, servidor do Senado, contou que evitou usar o nome social por medo de discriminação até se sentir seguro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O deputado Dr. Luiz Ovando (PP-MS) argumentou que regras de nome social podem gerar tratamentos diferenciados e ferir a igualdade (isonomia).",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Luiz Ovando também disse que esse tipo de norma pode transformar a administração pública em \"espaço de militância política\".",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-nuance-0",
+  "status": "PASS",
+  "claim": "O veto estadual citou inconstitucionalidade e interesse público, não só o mérito: parte da discussão é se o estado pode impor isso a concessionárias.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-nome-social-nuance-1",
+  "status": "PASS",
+  "claim": "Usar o nome social é opcional e não muda o registro civil: o nome do registro continua existindo para fins administrativos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-whatItIs-0",
+  "status": "PASS",
+  "claim": "A ideia de um vale-saúde (ou voucher) é dar ao paciente um crédito público para ser atendido num hospital particular, em vez de esperar na rede pública.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-whatItIs-1",
+  "status": "PASS",
+  "claim": "A Constituição já permite que hospitais privados atendam pelo SUS de forma complementar, por contrato ou convênio, com preferência para filantrópicos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-inPractice-0",
+  "status": "PASS",
+  "claim": "A mesma Constituição proíbe dar dinheiro público como auxílio ou subvenção a instituições privadas com fins lucrativos. Um vale teria de caber nessas regras.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-inPractice-1",
+  "status": "PASS",
+  "claim": "Em 2020, o governo federal chegou a incluir postos de saúde no programa de parcerias com empresas, mas revogou a medida depois da repercussão.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-argsFor-0",
+  "status": "PASS",
+  "claim": "O então ministro da Economia, Paulo Guedes, defendeu um \"voucher saúde\" dizendo que o paciente atendido na rede privada fica melhor do que sem atendimento.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-argsFor-1",
+  "status": "PASS",
+  "claim": "Guedes argumentou que o setor público sozinho não tem capacidade financeira para atender todo mundo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-argsAgainst-0",
+  "status": "PASS",
+  "claim": "Christine Alves, da Escola Nacional de Saúde Pública (ENSP/Fiocruz), disse que as ineficiências do Estado não justificam transferir recursos ao setor privado.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-argsAgainst-1",
+  "status": "PASS",
+  "claim": "Para Christine Alves, mesmo com estímulo do governo, os planos privados não reduziram a demanda sobre o SUS.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-nuance-0",
+  "status": "PASS",
+  "claim": "Mesmo defensores do voucher dizem não querer acabar com o SUS: Guedes chamou de \"contrassenso\" privatizar o sistema durante a pandemia.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-vale-saude-nuance-1",
+  "status": "PASS",
+  "claim": "A diferença entre vale-saúde e convênio é quem escolhe: no convênio o SUS escolhe e contrata o hospital; no vale, o paciente escolhe entre os credenciados.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-whatItIs-0",
+  "status": "PASS",
+  "claim": "Empresa pública (estatal) é uma empresa controlada pelo governo. No Brasil elas começaram a ser criadas em série nos anos 1940, como Petrobras, CSN e Vale.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-whatItIs-1",
+  "status": "PASS",
+  "claim": "Na Paraíba, a principal estatal é a Cagepa, que leva água a 201 dos 223 municípios.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-inPractice-0",
+  "status": "PASS",
+  "claim": "Criar uma estatal exige lei e dinheiro do governo. Uma estatal precisa fazer concurso público para contratar e licitação para comprar, o que a deixa mais lenta que uma empresa privada.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-inPractice-1",
+  "status": "PASS",
+  "claim": "Governos de orientações diferentes já criaram estatais: o governo federal de 2019 a 2022, que vendia empresas, criou a NAV Brasil para controle aéreo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-argsFor-0",
+  "status": "PASS",
+  "claim": "O senador Paulo Paim defende explorar o potencial das estatais produtivas e diz que corrupção em casos isolados não justifica fechar empresas que dão lucro.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-argsFor-1",
+  "status": "PASS",
+  "claim": "Jean Paul Prates, ex-presidente da Petrobras, defendeu que há privatizações ruins e que vender refinarias penalizou o consumidor.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-argsAgainst-0",
+  "status": "PASS",
+  "claim": "O economista Armando Castelar (FGV) diz que estatais eram necessárias quando faltava capital privado, o que não é mais o caso.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O senador Marcio Bittar avalia que raras empresas precisam ser do Estado e cita o uso político de indicações em estatais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-nuance-0",
+  "status": "PASS",
+  "claim": "O consultor do Senado Pedro Nery defende avaliar caso a caso: cada modelo, estatal ou privado, tem vantagens e desvantagens.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-empresas-publicas-nuance-1",
+  "status": "PASS",
+  "claim": "Para Castelar, uma estatal só se justifica se tiver papel social além do comercial, como cobrar mais dos ricos para subsidiar os pobres.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-whatItIs-0",
+  "status": "PASS",
+  "claim": "Na escala 6x1 a pessoa trabalha seis dias e descansa um, com até 44 horas por semana. A PEC 221/2019, aprovada na Câmara em 2026, fixa 40 horas em cinco dias, com dois de descanso.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-whatItIs-1",
+  "status": "PASS",
+  "claim": "O texto garante que a redução vale sem corte de salário, inclusive nos pisos salariais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-inPractice-0",
+  "status": "PASS",
+  "claim": "A mudança é gradual: dois meses depois de promulgada, a jornada cai para 42 horas com dois dias de folga; 14 meses depois, chega a 40 horas.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-inPractice-1",
+  "status": "PASS",
+  "claim": "Há exceções: quem tem diploma superior e ganha mais de 2,5 vezes o teto do INSS pode ficar fora do controle de jornada, e micro e pequenas empresas terão regras de transição em lei complementar.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-inPractice-2",
+  "status": "PASS",
+  "claim": "Escalas especiais, como 12x36 e atividades de saúde, segurança e transporte, podem compensar folgas dentro do mês por acordo coletivo.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-argsFor-0",
+  "status": "PASS",
+  "claim": "O relator, deputado Leo Prates (Republicanos-BA), defendeu a mudança como forma de dar a pais e mães mais tempo com os filhos.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-argsFor-1",
+  "status": "PASS",
+  "claim": "A deputada Erika Hilton (Psol-SP), autora de uma das PECs, disse que a mudança responde a uma jornada exaustiva e garante descanso e tempo para a vida pessoal.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-argsAgainst-0",
+  "status": "PASS",
+  "claim": "A deputada Julia Zanatta (PL-SC) argumentou que o custo maior da mão de obra pode recair sobre os próprios trabalhadores.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-argsAgainst-1",
+  "status": "PASS",
+  "claim": "O líder do Novo, Gilson Marques (SC), propôs livre negociação no lugar de um teto fixo e disse que o custo extra acaba repassado aos preços.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-nuance-0",
+  "status": "PASS",
+  "claim": "A divisão não segue esquerda e direita: o líder do PL, Sóstenes Cavalcante, defendeu ir além e adotar a escala 4x3 de forma imediata.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-6x1-nuance-1",
+  "status": "PASS",
+  "claim": "A votação na Câmara foi quase unânime (461 a 19 no 2º turno). A disputa real é sobre o ritmo da transição e as exceções.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "NEG fabricated snippet",
+  "status": "FAIL",
+  "claim": "NEG fabricated snippet",
+  "why": [
+   "support not in cached source"
+  ]
+ },
+ {
+  "id": "NEG snippet moved to another question",
+  "status": "FAIL",
+  "claim": "NEG snippet moved to another question",
+  "why": [
+   "no topic word near support"
+  ]
+ },
+ {
+  "id": "NEG swapped argsFor/argsAgainst attribution",
+  "status": "FAIL",
+  "claim": "NEG swapped argsFor/argsAgainst attribution",
+  "why": [
+   "named actor not near support: Rogerio,Marinho"
+  ]
+ },
+ {
+  "id": "NEG wrong source URL",
+  "status": "FAIL",
+  "claim": "NEG wrong source URL",
+  "why": [
+   "support not in cached source"
+  ]
+ },
+ {
+  "id": "NEG cites a 2026 candidate",
+  "status": "FAIL",
+  "claim": "NEG cites a 2026 candidate",
+  "why": [
+   "names a 2026 ballot person: flavio bolsonaro"
+  ]
+ },
+ {
+  "id": "axis-eco-privatizacao",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque transfere empresas do Estado para acionistas privados."
+ },
+ {
+  "id": "axis-eco-bc-autonomo",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque reduz o controle do governo eleito sobre a política de juros."
+ },
+ {
+  "id": "axis-eco-ir-alta-renda",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque aumenta a tributação de altas rendas para redistribuir."
+ },
+ {
+  "id": "axis-eco-6x1",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque amplia a regulação do contrato de trabalho por norma constitucional."
+ },
+ {
+  "id": "axis-amb-licenciamento",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque reduz exigências prévias do Estado sobre empreendimentos."
+ },
+ {
+  "id": "axis-amb-agrotoxicos",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque acelera e simplifica a liberação de produtos pelo Estado."
+ },
+ {
+  "id": "axis-pb-concessoes-ppp",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque passa a operação de serviços públicos a empresas privadas."
+ },
+ {
+  "id": "axis-pb-ppp-cagepa",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque mantém um serviço público operado por empresa privada."
+ },
+ {
+  "id": "axis-pb-vale-saude",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque leva dinheiro público da saúde para a rede privada por escolha do paciente."
+ },
+ {
+  "id": "axis-pb-empresas-publicas",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque cria empresas controladas pelo governo."
+ },
+ {
+  "id": "axis-seg-saidinha",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa punição mais dura a ordem e tradição."
+ },
+ {
+  "id": "axis-seg-drogas",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, porque mantém a criminalização de uma conduta individual."
+ },
+ {
+  "id": "axis-seg-armas",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usada no debate brasileiro, embora defensores também invoquem liberdade individual."
+ },
+ {
+  "id": "axis-seg-maioridade",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa punição mais dura a ordem."
+ },
+ {
+  "id": "axis-soc-marco-temporal",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa direitos territoriais indígenas ao campo progressista."
+ },
+ {
+  "id": "axis-soc-aborto",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque amplia a autonomia individual sobre um tema moral."
+ },
+ {
+  "id": "axis-soc-cotas",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque mantém ação afirmativa racial e social."
+ },
+ {
+  "id": "axis-pb-desmilitarizar-pm",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, na convenção usual que associa a estrutura militar da polícia ao campo da ordem."
+ },
+ {
+  "id": "axis-pb-cac-arma",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na mesma convenção usada para acesso a armas."
+ },
+ {
+  "id": "axis-pb-nome-social",
+  "status": "PASS",
+  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque amplia o reconhecimento da identidade de gênero."
+ }
+]

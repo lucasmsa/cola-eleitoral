@@ -1,0 +1,1910 @@
+{
+ "note": "Candidate x applicable question pairs with no explicit stance found in the registered plan, searched 2025-2026 press, or cached debate/interview captions. Silence is not a position.",
+ "pairs": [
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "presidente-27",
+   "name": "CLARIANA BARAO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-21",
+   "name": "EDMILSON COSTA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-70",
+   "name": "ESCRITOR AUGUSTO CURY",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-22",
+   "name": "FLAVIO BOLSONARO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-16",
+   "name": "HERTZ DIAS",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "presidente-28",
+   "name": "LEONARDO AVALANCHE",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-13",
+   "name": "LULA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-14",
+   "name": "RENAN SANTOS",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-55",
+   "name": "RONALDO CAIADO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-29",
+   "name": "RUI COSTA PIMENTA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-80",
+   "name": "SAMARA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "presidente-35",
+   "name": "VETERINÁRIO WILSON GRASSI",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "presidente-30",
+   "name": "ZEMA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "governador-29",
+   "name": "CAMILO DUARTE",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-29",
+   "name": "CAMILO DUARTE",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "governador-29",
+   "name": "CAMILO DUARTE",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-29",
+   "name": "CAMILO DUARTE",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-15",
+   "name": "CÍCERO LUCENA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-22",
+   "name": "EFRAIM FILHO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-11",
+   "name": "LUCAS RIBEIRO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "governador-27",
+   "name": "PEDRO COUTINHO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-27",
+   "name": "PEDRO COUTINHO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "governador-27",
+   "name": "PEDRO COUTINHO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "governador-27",
+   "name": "PEDRO COUTINHO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-27",
+   "name": "PEDRO COUTINHO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "governador-80",
+   "name": "YURI EZEQUIEL",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "governador-80",
+   "name": "YURI EZEQUIEL",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "governador-80",
+   "name": "YURI EZEQUIEL",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "governador-80",
+   "name": "YURI EZEQUIEL",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-290",
+   "name": "ADRIANO TRAJANO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-151",
+   "name": "ANDRÉ GADELHA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-222",
+   "name": "DR. MARCELO QUEIROGA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-400",
+   "name": "JOAO AZEVÊDO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-801",
+   "name": "JOÃO BATISTA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-300",
+   "name": "MAJOR FÁBIO",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-100",
+   "name": "NABOR",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-272",
+   "name": "RINALDO JÚNIOR",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-8-janeiro"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-800",
+   "name": "ROSILENE SANTANA",
+   "questionId": "seg-stf-mandato"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-reforma-tributaria"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-arcabouco"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-privatizacao"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-bc-autonomo"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-ir-alta-renda"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-saidinha"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-drogas"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-blindagem"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-armas"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "soc-marco-temporal"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "soc-aborto"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "soc-cotas"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "amb-licenciamento"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "amb-margem-equatorial"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "amb-agrotoxicos"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-maioridade"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "eco-6x1"
+  },
+  {
+   "candidateId": "senador-155",
+   "name": "VENEZIANO",
+   "questionId": "seg-stf-mandato"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "rows": [
+  {
+   "id": "gov-governador-22-seg-armas-cd2209381-100",
+   "status": "PASS",
+   "claim": "Como deputado federal, votou SIM no texto principal do PL 3.723/2019, que tornava menos rigorosas as regras de posse e porte de armas, na Câmara, 05/11/2019.",
+   "note": ""
+  },
+  {
+   "id": "gov-governador-22-soc-aborto-cef-2025-07-26",
+   "status": "PASS",
+   "claim": "Todas as votações contra o aborto, em defesa da vida, teve o voto do deputado e do senador Efraim Filho lá cravado no painel de votações.",
+   "note": ""
+  },
+  {
+   "id": "gov-governador-22-eco-privatizacao-sbt-2026-09-23",
+   "status": "PASS",
+   "claim": "Não vou privatizar a CAJEPA porque a CAJEPA é um órgão superavitário.",
+   "note": "ASR match at 01:10:21"
+  },
+  {
+   "id": "gov-governador-15-eco-privatizacao-jp-2026-02-05",
+   "status": "PASS",
+   "claim": "O contrato com a Cagepa não autoriza a privatização da concessão. Vamos enfrentar isso judicialmente, porque foi um compromisso assumido na campanha passada e seguimos mantendo nossos compromissos",
+   "note": ""
+  },
+  {
+   "id": "gov-governador-15-pb-concessoes-ppp-etp-cemiterios",
+   "status": "PASS",
+   "claim": "Na gestão de Cícero Lucena, a Prefeitura de João Pessoa publicou o estudo técnico para conceder os cemitérios públicos à iniciativa privada, no programa JP Parcerias (agosto de 2023).",
+   "note": ""
+  },
+  {
+   "id": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
+   "status": "PASS",
+   "claim": "você me dá uma oportunidade muito importante, porque eu já assumi de público que eu cancelarei esse leilão",
+   "note": "ASR match at 01:31:45"
+  },
+  {
+   "id": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
+   "status": "PASS",
+   "claim": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão.",
+   "note": "ASR match at 01:27:14"
+  },
+  {
+   "id": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
+   "status": "PASS",
+   "claim": "Sim, nós somos totalmente contrários a qualquer tipo de privatização.",
+   "note": "ASR match at 00:03:30"
+  },
+  {
+   "id": "gov-governador-80-seg-armas-sofesta-2026-09-01",
+   "status": "PASS",
+   "claim": "parte da população vai andar armada e quando vê uma cena vai querer ser justiceiro, vai querer ser o Batman e vai querer combater o crime",
+   "note": "ASR match at 00:52:10"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG Efraim voted NÃO on PL 3723/2019",
+   "status": "FAIL",
+   "note": "source says Sim"
+  },
+  {
+   "id": "NEG fabricated Cícero quote in 98 FM captions",
+   "status": "FAIL",
+   "note": "quote not in captions"
+  },
+  {
+   "id": "NEG Camilo's abortion quote attributed to Yuri",
+   "status": "FAIL",
+   "note": "interview title does not name yuri"
+  },
+  {
+   "id": "NEG Cícero Cagepa quote with tampered date",
+   "status": "FAIL",
+   "note": "publish date 2026-02-05 != 2024-02-05 or too old"
+  },
+  {
+   "id": "NEG cemetery concession study attributed to Efraim's tenure",
+   "status": "FAIL",
+   "note": "TSE history does not show the tenure"
+  }
+ ],
+ "harness_ok": true
+}

@@ -1,0 +1,180 @@
+[
+ {
+  "id": "gov-governador-22-seg-armas-cd2209381-100",
+  "questionId": "seg-armas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado federal, votou SIM no texto principal do PL 3.723/2019, que tornava menos rigorosas as regras de posse e porte de armas, na Câmara, 05/11/2019.",
+  "date": "2019-11-05",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos",
+   "label": "Câmara dos Deputados, Dados Abertos, votos da votação 2209381-100",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "checkId": "gov-governador-22-seg-armas-cd2209381-100",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-22-soc-aborto-cef-2025-07-26",
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Em evento do PL Mulher em Campina Grande, afirmou ter votado contra o aborto em todas as votações como deputado e senador.",
+  "quote": "Todas as votações contra o aborto, em defesa da vida, teve o voto do deputado e do senador Efraim Filho lá cravado no painel de votações.",
+  "date": "2025-07-26",
+  "source": {
+   "url": "https://www.congressoemfoco.com.br/noticia/110523/efraim-filho-recebe-apoio-de-michelle-e-do-pl-em-pre-candidatura",
+   "label": "Congresso em Foco, 26/07/2025",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "checkId": "gov-governador-22-soc-aborto-cef-2025-07-26",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-22-eco-privatizacao-sbt-2026-09-23",
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No debate do SBT Tambaú, disse que não vai privatizar a Cagepa por ser uma empresa superavitária.",
+  "quote": "Não vou privatizar a CAJEPA porque a CAJEPA é um órgão superavitário.",
+  "date": "2026-09-23",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=-Wdp8SfV4PQ&t=4221s",
+   "label": "Debate TH+ SBT Tambaú, 23/09/2026, YouTube, 01:10:21, legenda automática",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "checkId": "gov-governador-22-eco-privatizacao-sbt-2026-09-23",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-15-eco-privatizacao-jp-2026-02-05",
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Como prefeito, disse na Câmara Municipal que o contrato de João Pessoa com a Cagepa não autoriza privatização e que irá à Justiça contra ela.",
+  "quote": "O contrato com a Cagepa não autoriza a privatização da concessão. Vamos enfrentar isso judicialmente, porque foi um compromisso assumido na campanha passada e seguimos mantendo nossos compromissos",
+  "date": "2026-02-05",
+  "source": {
+   "url": "https://jornaldaparaiba.com.br/_/216116",
+   "label": "Jornal da Paraíba, 05/02/2026",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-15"
+  },
+  "checkId": "gov-governador-15-eco-privatizacao-jp-2026-02-05",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-15-pb-concessoes-ppp-etp-cemiterios",
+  "questionId": "pb-concessoes-ppp",
+  "kind": "record",
+  "position": 1,
+  "detail": "Na gestão de Cícero Lucena, a Prefeitura de João Pessoa publicou o estudo técnico para conceder os cemitérios públicos à iniciativa privada, no programa JP Parcerias (agosto de 2023).",
+  "date": "2023-08-29",
+  "source": {
+   "url": "https://jpparcerias.joaopessoa.pb.gov.br/wp-content/uploads/2023/08/ETP-cemiterios.docx-Documentos-Google.pdf",
+   "label": "Prefeitura de João Pessoa, JP Parcerias, Estudo Técnico Preliminar dos cemitérios (p. 1 e 3)",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-15"
+  },
+  "checkId": "gov-governador-15-pb-concessoes-ppp-etp-cemiterios",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No debate da Rádio 98 FM, respondendo sobre a PPP de saneamento da Cagepa, prometeu cancelar o leilão.",
+  "quote": "você me dá uma oportunidade muito importante, porque eu já assumi de público que eu cancelarei esse leilão",
+  "date": "2026-09-28",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5505s",
+   "label": "Debate da Rádio 98 FM (Portal Correio), 28/09/2026, YouTube, 01:31:45, legenda automática",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-15"
+  },
+  "checkId": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista à Sofesta FM, defendeu que a decisão sobre o aborto cabe à mulher grávida.",
+  "quote": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão.",
+  "date": "2026-08-25",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=LvPKwMJdVbE&t=5234s",
+   "label": "Entrevista com Camilo Duarte, Sofesta FM, 25/08/2026, YouTube, 01:27:14, legenda automática",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "checkId": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Na TV Correio, perguntado se desfaria a PPP de saneamento da Cagepa, respondeu que sim e que é contra qualquer privatização.",
+  "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização.",
+  "date": "2026-09-16",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
+   "label": "Entrevista com Camilo Duarte, TV Correio (parte 2), 16/09/2026, YouTube, 00:03:30, legenda automática",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "checkId": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "gov-governador-80-seg-armas-sofesta-2026-09-01",
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Na Sofesta FM, perguntado se o cidadão deve ter acesso a armas, disse que a população armada passaria a fazer justiça com as próprias mãos.",
+  "quote": "parte da população vai andar armada e quando vê uma cena vai querer ser justiceiro, vai querer ser o Batman e vai querer combater o crime",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=3130s",
+   "label": "Entrevista com Yuri Ezequiel, Sofesta FM, 01/09/2026, YouTube, 00:52:10, legenda automática",
+   "accessed": "2026-10-01"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "checkId": "gov-governador-80-seg-armas-sofesta-2026-09-01",
+  "lowDiscrimination": false
+ }
+]

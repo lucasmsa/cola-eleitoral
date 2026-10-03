@@ -1,0 +1,916 @@
+[
+ {
+  "questionId": "q3-fim-reeleicao",
+  "whatItIs": [
+   {
+    "text": "A reeleição para presidente, governadores e prefeitos existe no Brasil desde 1997.",
+    "support": "Marcelo Castro afirma que a experiência da reeleição, adotada no Brasil em 1997, não cumpriu a promessa de melhorar a qualidade dos governos",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-whatItIs-0"
+   },
+   {
+    "text": "A PEC 12/2022 acaba com a reeleição consecutiva para os chefes do Executivo e foi aprovada na CCJ do Senado em 21 de maio de 2025.",
+    "support": "Relatada pelo senador Marcelo Castro (MDB-PI), a PEC 12/2022 foi aprovada na CCJ em 21 de maio de 2025.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Pela proposta, os mandatos passariam a ter cinco anos e todas as eleições aconteceriam no mesmo ano.",
+    "support": "Pela proposta, todas as eleições ocorreriam no mesmo ano, a cada cinco anos. O eleitor seria chamado a escolher até nove cargos .",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-inPractice-0"
+   },
+   {
+    "text": "A proibição começaria em 2028 para prefeitos e em 2030 para presidente e governadores.",
+    "support": "A vedação à reeleição passaria a valer a partir de 2028 para prefeitos e de 2030 para presidente e governadores.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-inPractice-1"
+   },
+   {
+    "text": "Para virar regra, precisa de pelo menos 49 votos no Senado e 308 na Câmara, em dois turnos em cada Casa.",
+    "support": "precisa passar em dois turnos no Senado, com pelo menos 49 votos favoráveis entre os 81 senadores. Se aprovada, seguirá para a Câmara, onde também dependerá do apoio de três quintos dos deputados (ao menos 308 votos) em dois turnos.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-inPractice-2"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator, Marcelo Castro, argumenta que a reeleição estimula medidas de retorno eleitoral rápido em vez de projetos de longo prazo.",
+    "support": "a possibilidade de recondução estimulou chefes do Executivo a adotar medidas de retorno eleitoral rápido, em prejuízo de projetos estruturantes e de longo prazo",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-argsFor-0"
+   },
+   {
+    "text": "O parecer aprovado na CCJ diz que a reeleição favorece quem já está no cargo e dificulta a renovação política.",
+    "support": "O parecer também sustenta que a reeleição favorece quem já ocupa o cargo, dificulta a renovação política e mantém governantes em estado permanente de campanha.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Críticos dizem que o fim da reeleição tira do eleitor a chance de manter um governante bem avaliado.",
+    "support": "Uma das principais críticas é que o fim da reeleição reduziria o poder de escolha do eleitor. Mesmo um governante bem avaliado ficaria impedido de disputar a continuidade do mandato.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-argsAgainst-0"
+   },
+   {
+    "text": "Outro argumento contrário é que a reeleição funciona como prestação de contas: o eleitor premia ou pune a gestão.",
+    "support": "Outro argumento é que a reeleição funciona como mecanismo de prestação de contas: o eleitor pode premiar uma boa administração ou punir uma gestão mal avaliada.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Dá para ser contra a reeleição e contra o mandato de cinco anos: opositores dizem que cinco anos podem prolongar governos ruins.",
+    "support": "Para opositores da mudança, mandatos de cinco anos podem ampliar o tempo de permanência de governos ruins.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-nuance-0"
+   },
+   {
+    "text": "A eleição unificada também é debatida à parte: críticos temem que temas locais sejam engolidos pela disputa presidencial.",
+    "support": "Já a eleição unificada poderia nacionalizar disputas locais, fazendo com que debates municipais fossem contaminados pela disputa presidencial.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    },
+    "checkId": "q3-exp-q3-fim-reeleicao-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-civico-militar",
+  "whatItIs": [
+   {
+    "text": "No modelo cívico-militar, reservistas das Forças Armadas, policiais militares e bombeiros passam a trabalhar em escolas públicas comuns.",
+    "support": "insere reservistas das forças armadas, das polícias militares e dos corpos de bombeiros dentre os quadros dos centros de ensino fundamental e médio, adotando uma estrutura semelhante à dos colégios militares",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-whatItIs-0"
+   },
+   {
+    "text": "O programa federal foi revogado pelo Decreto 11.611, de 19 de julho de 2023.",
+    "support": "DECRETO Nº 11.611, DE 19 DE JULHO DE 2023 Revoga o Decreto nº 10.004, de 5 de setembro de 2019, que institui o Programa Nacional das Escolas Cívico-Militares.",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11611.htm",
+     "accessed": "2026-10-03",
+     "label": "Planalto, Decreto nº 11.611/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Com o fim do programa federal, as 216 escolas que tinham aderido deveriam voltar ao modelo comum.",
+    "support": "as 216 escolas públicas que aderiram ao modelo deverão retornar ao modelo padrão",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-inPractice-0"
+   },
+   {
+    "text": "Governadores como os de São Paulo e do Rio Grande do Sul anunciaram que manteriam o modelo em suas redes.",
+    "support": "Alguns governadores, como Tarcício de Freitas , em São Paulo, e Eduardo Leite , no Rio Grande do Sul, já anunciaram que pretendem preservar o modelo em suas unidades.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "Defensores dizem que a presença de militares traz disciplina e um ambiente menos violento.",
+    "support": "um dos argumentos favoráveis ao programa é o de que a disciplina e a ordem instaurada pela presença dos militares colaboram com um ambiente mais pacífico e menos violento",
+    "source": {
+     "url": "https://www.politize.com.br/escolas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, O que são as escolas cívico-militares?"
+    },
+    "checkId": "q3-exp-q3-civico-militar-argsFor-0"
+   },
+   {
+    "text": "Uma pesquisa citada pela Politize! encontrou melhora no Ideb e queda da violência em escolas de Goiânia que aderiram.",
+    "support": "Os números no Índice de Desenvolvimento da Educação Básica (Ideb) não apenas melhoraram, como os indicadores de violência escolar diminuíram.",
+    "source": {
+     "url": "https://www.politize.com.br/escolas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, O que são as escolas cívico-militares?"
+    },
+    "checkId": "q3-exp-q3-civico-militar-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O Todos Pela Educação argumenta que o modelo militarizado deveria ficar restrito às escolas das Forças Armadas e desvia recursos da educação.",
+    "support": "O modelo militarizado de escolas deveria ser restrito às escolas das Forças Armadas, para jovens que desejam esse tipo de formação e carreira",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-argsAgainst-0"
+   },
+   {
+    "text": "Professores criticam a troca da autoridade do professor pela do militar.",
+    "support": "Uma das principais críticas dirigidas ao programa é a substituição do papel de autoridade e legitimidade dos professores.",
+    "source": {
+     "url": "https://www.politize.com.br/escolas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, O que são as escolas cívico-militares?"
+    },
+    "checkId": "q3-exp-q3-civico-militar-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há crítica também sobre custo: os estados poderiam não ter orçamento para contratar o pessoal extra sem tirar de outras áreas.",
+    "support": "Outra crítica recorrente é a de que os estados não teriam orçamento suficiente para implementar a contratação dos novos funcionários escolares",
+    "source": {
+     "url": "https://www.politize.com.br/escolas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, O que são as escolas cívico-militares?"
+    },
+    "checkId": "q3-exp-q3-civico-militar-nuance-0"
+   },
+   {
+    "text": "O então ministro da Educação, Camilo Santana, apontou que militares do programa recebiam bônus de R$ 9 mil, acima do salário médio de professor.",
+    "support": "militares inscritos recebem um bônus de R$ 9 mil em seus soldos, enquanto que professores concursados recebem um salário médio de R$ 5 mil",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    },
+    "checkId": "q3-exp-q3-civico-militar-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-maconha-uso",
+  "whatItIs": [
+   {
+    "text": "Por 6 votos a 3, o STF decidiu que portar maconha para uso pessoal não é crime e fixou 40 gramas para diferenciar usuário de traficante.",
+    "support": "por 6 votos a 3, o Supremo Tribunal Federal (STF) finalizou o julgamento que descriminalizou o porte de maconha para uso pessoal e fixou a quantia de 40 gramas para diferenciar usuários de traficantes.",
+    "source": {
+     "url": "https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/06/porte-de-maconha-entenda-a-decisao-do-supremo-tribunal-federal.html",
+     "accessed": "2026-10-03",
+     "label": "Diario de Pernambuco, 27/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-whatItIs-0"
+   },
+   {
+    "text": "O porte continua proibido: passou a ser um ilícito administrativo, não penal.",
+    "support": "Os ministros concluíram que a conduta deve ser vista como um ilícito administrativo e não mais como ilícito penal .",
+    "source": {
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/apos-descriminalizar-porte-de-maconha-para-uso-pessoal-stf-define-limite-para-usuario-nesta-quarta-26",
+     "accessed": "2026-10-03",
+     "label": "SBT News, 26/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Consumir em local público continua vedado.",
+    "support": "Consumo em local público continua sendo vedado.",
+    "source": {
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/apos-descriminalizar-porte-de-maconha-para-uso-pessoal-stf-define-limite-para-usuario-nesta-quarta-26",
+     "accessed": "2026-10-03",
+     "label": "SBT News, 26/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-inPractice-0"
+   },
+   {
+    "text": "O juiz ainda pode tratar como traficante quem está com uma quantidade permitida, mas com balança de precisão e muito dinheiro vivo.",
+    "support": "se uma pessoa fosse flagrada com uma quantidade permitida de maconha, mas ela portasse balanças de precisão e alta quantia de dinheiro vivo, o magistrado poderia avaliar se nessas circunstâncias, ela seria enquadrada como traficante",
+    "source": {
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/apos-descriminalizar-porte-de-maconha-para-uso-pessoal-stf-define-limite-para-usuario-nesta-quarta-26",
+     "accessed": "2026-10-03",
+     "label": "SBT News, 26/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O senador Marcelo Castro, que é psiquiatra, defende que dependentes precisam de atendimento médico e não de tratamento como criminosos.",
+    "support": "Já o senador Marcelo Castro, MDB do Piauí, acredita que dependentes químicos precisam de atendimento médico e não ser tratados como criminosos.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-argsFor-0"
+   },
+   {
+    "text": "Para o senador Jaques Wagner, encher as cadeias não resolve o problema das drogas.",
+    "support": "Não será entupindo as cadeias que nós vamos resolver os problemas das drogas no Brasil — disse Jaques Wagner.",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O senador Rodrigo Pacheco, autor da PEC das drogas, argumenta que a decisão do STF invade a competência do Congresso e da Anvisa.",
+    "support": "Para Pacheco, a decisão do STF invade a competência do Congresso Nacional e até da Anvisa.",
+    "source": {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-argsAgainst-0"
+   },
+   {
+    "text": "A PEC aprovada no Senado torna crime a posse de qualquer quantidade, mas proíbe prender o usuário.",
+    "support": "faz a ressalva da impossibilidade da privação da liberdade do porte para uso; ou seja, o usuário não será, jamais, penalizado com o encarceramento",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O presidente do STF disse que a decisão disciplina a ilicitude e não legaliza a maconha.",
+    "support": "Não estamos liberando, estamos tentando disciplinar a ilicitude de uma forma específica",
+    "source": {
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/apos-descriminalizar-porte-de-maconha-para-uso-pessoal-stf-define-limite-para-usuario-nesta-quarta-26",
+     "accessed": "2026-10-03",
+     "label": "SBT News, 26/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-nuance-0"
+   },
+   {
+    "text": "A decisão do STF partiu do artigo 28 da Lei de Drogas, de 2006, que trata do porte para consumo pessoal.",
+    "support": "O julgamento no STF teve como ponto de partida o questionamento do artigo 28 da Lei de Drogas (de 2006)",
+    "source": {
+     "url": "https://sbtnews.sbt.com.br/noticia/brasil/apos-descriminalizar-porte-de-maconha-para-uso-pessoal-stf-define-limite-para-usuario-nesta-quarta-26",
+     "accessed": "2026-10-03",
+     "label": "SBT News, 26/06/2024"
+    },
+    "checkId": "q3-exp-q3-maconha-uso-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-grandes-fortunas",
+  "whatItIs": [
+   {
+    "text": "O imposto sobre grandes fortunas está no art. 153, VII, da Constituição de 1988, mas nunca foi regulamentado.",
+    "support": "O Imposto sobre Grandes Fortunas (IGF) está previsto na Constituição Federal de 1988 , no inciso VII do Artigo 153. Todavia, embora seja uma medida constitucional, o imposto nunca foi regulamentado e instituído no Brasil.",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-whatItIs-0"
+   },
+   {
+    "text": "Diferente do imposto de renda, ele incide sobre o patrimônio acumulado, não sobre o que a pessoa ganha no ano.",
+    "support": "Ele se distingue do imposto de renda (IR) ao incidir sobre o valor do patrimônio total acumulado (o que inclui propriedades e investimentos), em vez de se limitar aos valores recebidos no ano.",
+    "source": {
+     "url": "https://capitalaberto.com.br/artigos/igf-no-brasil-uma-proposta-na-contramao-do-mundo/",
+     "accessed": "2026-10-03",
+     "label": "Capital Aberto, 20/03/2022"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Propostas em debate cobrariam só de patrimônios acima de R$ 20 milhões.",
+    "support": "O imposto seria cobrado, portanto, sobre aqueles patrimônios considerados grandes fortunas (acima de 20 milhões de reais)",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-inPractice-0"
+   },
+   {
+    "text": "Poucos países cobram hoje: Espanha, Noruega, Suíça, Argentina, Colômbia e Uruguai, segundo a Capital Aberto.",
+    "support": "Atualmente apenas Espanha, Noruega, Suíça, Argentina, Colômbia e Uruguai cobram tributo sobre o patrimônio de seus residentes",
+    "source": {
+     "url": "https://capitalaberto.com.br/artigos/igf-no-brasil-uma-proposta-na-contramao-do-mundo/",
+     "accessed": "2026-10-03",
+     "label": "Capital Aberto, 20/03/2022"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "Segundo a Receita Federal, citada pela Politize!, os 10% mais pobres pagam proporcionalmente muito mais impostos que os mais ricos.",
+    "support": "Segundo a Receita Federal, os 10% mais pobres comprometem até 32% da renda com tributos , enquanto os 0,1% mais ricos pagam menos de 7% .",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-argsFor-0"
+   },
+   {
+    "text": "O economista Pedro Humberto argumenta que, como os contribuintes seriam poucos, a Receita teria como combater a sonegação.",
+    "support": "Como o número de contribuintes é pequeno, a Receita Federal pode ter instrumentos para combater a evasão fiscal.",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O principal argumento contrário é a fuga de capitais: os mais ricos levariam o dinheiro para outros países.",
+    "support": "O principal ponto contra o IGF trata-se da fuga de capitais.",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-argsAgainst-0"
+   },
+   {
+    "text": "A Capital Aberto lembra que vários países abandonaram o imposto por baixa arrecadação e fuga de capitais.",
+    "support": "ao longo das últimas décadas diversos países foram abandonando a cobrança, seja porque ela tinha prazo para expirar, seja porque o imposto “não emplacou”, gerando baixa arrecadação³, fuga de capitais e impactos negativos para a economia.",
+    "source": {
+     "url": "https://capitalaberto.com.br/artigos/igf-no-brasil-uma-proposta-na-contramao-do-mundo/",
+     "accessed": "2026-10-03",
+     "label": "Capital Aberto, 20/03/2022"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há quem queira mais imposto sobre os ricos mas prefira outro caminho, como taxar lucros e dividendos.",
+    "support": "Outra solução seria cobrar imposto sobre lucros e dividendos , que é o dinheiro que sócios ou investidores recebem de empresas.",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-nuance-0"
+   },
+   {
+    "text": "O pesquisador Celso Olindo Junior defende mudar o peso dos impostos para renda e propriedade em vez de criar o IGF.",
+    "support": "o pesquisador Celso Olindo Junior entende que criar um imposto sobre grandes fortunas (IGF) não é a melhor solução para mudar a forma como o Brasil cobra impostos hoje",
+    "source": {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    },
+    "checkId": "q3-exp-q3-grandes-fortunas-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-tarifa-zero",
+  "whatItIs": [
+   {
+    "text": "Segundo a NTU, 145 municípios oferecem gratuidade total ou parcial nos ônibus, e em 120 deles vale todos os dias para todos.",
+    "support": "145 municípios oferecem gratuidade, parcial ou total, no sistema. Em 120 deles, o benefício é válido todos os dias e para toda a população.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-whatItIs-0"
+   },
+   {
+    "text": "Em média, o dinheiro público já cobre 32% do custo do serviço de ônibus no Brasil; o resto é pago pelos passageiros.",
+    "support": "No Brasil, em média, 32% do custo de remuneração do serviço é coberto por subsídio público.O restante é bancado pelos passageiros.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Um grupo de pesquisa estimou em R$ 100 bilhões por ano o custo de bancar todo o transporte público do país.",
+    "support": "O custo estimado para garantir o funcionamento de todo o transporte público no Brasil é de R$ 100 bilhões por ano.",
+    "source": {
+     "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+     "accessed": "2026-10-03",
+     "label": "Diário do Grande ABC, 24/02/2026"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-inPractice-0"
+   },
+   {
+    "text": "A maioria das cidades com tarifa zero é pequena: 61% têm menos de 50 mil habitantes.",
+    "support": "61% das cidades com tarifa zero têm menos de 50 mil habitantes",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "As prefeituras que adotaram dizem que a medida reduz desigualdades, melhora o trânsito e incentiva o transporte coletivo.",
+    "support": "Argumentam que a medida reduz desigualdades, melhora o trânsito e incentiva o uso do transporte coletivo.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-argsFor-0"
+   },
+   {
+    "text": "O ministro das Cidades vê a gratuidade como resposta à crise do modelo atual de financiamento dos ônibus.",
+    "support": "pode ser uma resposta à crise enfrentada pela maioria dos sistemas de transporte público do País",
+    "source": {
+     "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+     "accessed": "2026-10-03",
+     "label": "Diário do Grande ABC, 24/02/2026"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "A NTU, que reúne as empresas de ônibus, defende tarifa acessível e alerta que sem planejamento o sistema pode entrar em colapso.",
+    "support": "Não somos contra a tarifa zero, mas defendemos uma tarifa acessível. Sem planejamento, o sistema pode entrar em colapso",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-argsAgainst-0"
+   },
+   {
+    "text": "Nas capitais o custo é muito maior, o que dificulta universalizar a gratuidade.",
+    "support": "O desafio para universalizar o benefício é maior nessas cidades devido aos altos custos envolvidos.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "Há caminhos intermediários: gratuidade aos domingos, só para desempregados ou só em linhas de periferia.",
+    "support": "No Distrito Federal, desde o início de fevereiro o acesso aos ônibus é gratuito aos domingos e feriados. Em Curitiba, o benefício é voltado a pessoas desempregadas. Belo Horizonte oferece tarifa zero em linhas que atendem vilas e favelas.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-nuance-0"
+   },
+   {
+    "text": "Algumas cidades cobram uma taxa das empresas no lugar do vale-transporte para ajudar a pagar a conta.",
+    "support": "Algumas cidades, como Vargem Grande Paulista (SP), adotaram um modelo em que empresas pagam uma taxa em substituição ao vale-transporte, ajudando a redistribuir os custos.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    },
+    "checkId": "q3-exp-q3-tarifa-zero-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-redes-sociais",
+  "whatItIs": [
+   {
+    "text": "O PL das Fake News cria regras para plataformas como Google, Meta, TikTok, WhatsApp e Telegram.",
+    "support": "O PL das Fake News propõe a regulação das plataformas digitais , como Google, Meta (Instagram e Facebook), Twitter e TikTok, serviços de mensageria instantânea, como WhatsApp e Telegram.",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-whatItIs-0"
+   },
+   {
+    "text": "O ponto central é tornar obrigatória a moderação de conteúdo criminoso.",
+    "support": "o ponto principal é tornar obrigatória a moderação de conteúdos publicados na internet para que contas ou publicações com conteúdos considerados criminosos possam ser identificadas, excluídas ou sinalizadas",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "O projeto responsabiliza as empresas por conteúdo publicado por terceiros, o que hoje não tem previsão em lei.",
+    "support": "Uma das principais mudanças propostas é a responsabilização das empresas por conteúdos publicados por terceiros",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-inPractice-0"
+   },
+   {
+    "text": "A Câmara aprovou a urgência do projeto por 238 votos a 192.",
+    "support": "O item foi aprovado por 238 votos “sim” contra 192 votos “não”.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/camara-aprova-urgencia-do-pl-das-fake-news/",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/04/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "Defensores dizem que a lei fortalece a democracia e controla a difusão de notícias falsas e discursos de ódio.",
+    "support": "Dentre os objetivos do PL 2630/2020, estão o fortalecimento da democracia, transparência dos provedores de internet que prestam serviço no Brasil e o controle na difusão de notícias falsas e discursos de ódio no ambiente virtual.",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-argsFor-0"
+   },
+   {
+    "text": "O projeto também exige identificar quem patrocina anúncios, para evitar golpes financeiros.",
+    "support": "Exige a identificação de usuários que patrocinam conteúdos publicados, essa seria uma forma de evitar anúncios falsos de golpes financeiros",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "Críticos, sobretudo à direita, chamam o texto de \"PL da Censura\" e dizem que ele ameaça a liberdade de expressão.",
+    "support": "Parlamentares e cidadãos mais ligados à direita , têm criticado a proposta alegando cerceamento da liberdade de expressão dos usuários nas mídias sociais",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-argsAgainst-0"
+   },
+   {
+    "text": "O partido Novo diz que o projeto transforma as plataformas em \"polícias digitais\".",
+    "support": "Transforma as plataformas em “polícias digitais”",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "As próprias big techs também se opuseram, por temer punições e riscos à liberdade de expressão.",
+    "support": "Além de parlamentares, as big techs também acreditam que o projeto coloca em risco a liberdade de expressão dos usuários . As empresas também temem punições em caso de descumprimento da lei.",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-nuance-0"
+   },
+   {
+    "text": "Uma das versões do texto previa um conselho autônomo para supervisionar as plataformas, um dos pontos mais disputados.",
+    "support": "Criação do Conselho de Transparência e Responsabilidade na Internet , entidade autônoma de supervisão para regulamentar e fiscalizar os provedores",
+    "source": {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    },
+    "checkId": "q3-exp-q3-redes-sociais-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-pec-seguranca",
+  "whatItIs": [
+   {
+    "text": "A PEC da Segurança põe na Constituição o Sistema Único de Segurança Pública (Susp) e reforça a integração entre as forças de União, estados e municípios.",
+    "support": "constitucionaliza o Sistema Único de Segurança Pública (Susp); reforça a integração entre forças de segurança da União, dos estados, do DF e dos municípios",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-whatItIs-0"
+   },
+   {
+    "text": "O texto também dá à Polícia Federal competência expressa contra facções e milícias que atuam entre estados ou fora do país.",
+    "support": "dá competência expressa à Polícia Federal para investigar crimes ligados a organizações criminosas e milícias com repercussão interestadual ou internacional",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "A Câmara aprovou a PEC por 487 a 15 no primeiro turno e 461 a 14 no segundo.",
+    "support": "passou com ampla margem: 487 votos a 15 no primeiro turno e 461 a 14 no segundo",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-inPractice-0"
+   },
+   {
+    "text": "A PEC autoriza municípios a criarem polícias municipais para policiamento ostensivo e comunitário.",
+    "support": "autoriza a criação de polícias municipais para policiamento ostensivo e comunitário",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O cientista político Eduardo Grin compara o desenho ao SUS: mais coordenação federal, com regras para acessar o fundo de segurança.",
+    "support": "nos moldes de como é feito hoje com o Sistema Único de Saúde (SUS)",
+    "source": {
+     "url": "https://brasil61.com/n/governadores-criticam-mudancas-na-pec-da-seguranca-entenda-polemica-bras2513351",
+     "accessed": "2026-10-03",
+     "label": "Brasil 61, 21/01/2025"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-argsFor-0"
+   },
+   {
+    "text": "O então ministro da Justiça, Ricardo Lewandowski, disse que a nova redação resolvia o ponto central da disputa, a autonomia dos estados.",
+    "support": "põe fim ao ponto central da discussão: a perda da autonomia dos estados",
+    "source": {
+     "url": "https://brasil61.com/n/governadores-criticam-mudancas-na-pec-da-seguranca-entenda-polemica-bras2513351",
+     "accessed": "2026-10-03",
+     "label": "Brasil 61, 21/01/2025"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O governador de São Paulo, Tarcísio de Freitas, disse que a proposta original era uma \"afronta\" à autonomia dos estados.",
+    "support": "a PEC é uma “afronta” à autonomia dos Estados e os governos estaduais não podem aceitar serem “feridos de morte” pela União",
+    "source": {
+     "url": "https://www.infomoney.com.br/politica/tarcisio-diz-que-pec-da-seguranca-publica-fere-de-morte-autonomia-dos-estados/",
+     "accessed": "2026-10-03",
+     "label": "InfoMoney/Estadão Conteúdo, 02/12/2025"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-argsAgainst-0"
+   },
+   {
+    "text": "Tarcísio também chamou a proposta de \"cosmética\", sem resolver os problemas.",
+    "support": "A gente percebeu logo de cara que a PEC era cosmética, que ela não resolveria os problemas.",
+    "source": {
+     "url": "https://www.infomoney.com.br/politica/tarcisio-diz-que-pec-da-seguranca-publica-fere-de-morte-autonomia-dos-estados/",
+     "accessed": "2026-10-03",
+     "label": "InfoMoney/Estadão Conteúdo, 02/12/2025"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O texto aprovado diz que as novas atribuições da União não tiram dos governadores o comando das polícias.",
+    "support": "nem restringem a subordinação das polícias militares, civis e penais e a dos corpos de bombeiros militares aos Governadores dos Estado",
+    "source": {
+     "url": "https://brasil61.com/n/governadores-criticam-mudancas-na-pec-da-seguranca-entenda-polemica-bras2513351",
+     "accessed": "2026-10-03",
+     "label": "Brasil 61, 21/01/2025"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-nuance-0"
+   },
+   {
+    "text": "A base do governo teme que o Senado inclua temas que ficaram de fora, como a redução da maioridade penal.",
+    "support": "Um dos receios é que a oposição tente incluir temas que ficaram de fora da versão aprovada pela Câmara, como a redução da maioridade penal.",
+    "source": {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    },
+    "checkId": "q3-exp-q3-pec-seguranca-nuance-1"
+   }
+  ]
+ },
+ {
+  "questionId": "q3-estabilidade",
+  "whatItIs": [
+   {
+    "text": "A reforma administrativa mais recente, apresentada na Câmara, mantém a estabilidade, mas endurece o estágio probatório.",
+    "support": "A estabilidade está mantida, mas o estágio probatório, que é o período “pré-estabilidade” passa a ser mais rigoroso.",
+    "source": {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-whatItIs-0"
+   },
+   {
+    "text": "Uma versão anterior, a PEC 32/2020, reduzia a estabilidade e abria brechas para corte de salários.",
+    "support": "A Proposta de Emenda à Constituição (PEC) nº 32/2020 , que trata da reforma administrativa, foi aprovada na última quinta-feira (23) na comissão especial da Câmara dos Deputados. O texto-base reduz a estabilidade dos servidores públicos e abre brechas para corte de salários.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/legislativo/reforma-administrativa-pode-gerar-aumento-de-corrupcao-aponta-especialista",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/09/2021"
+    },
+    "checkId": "q3-exp-q3-estabilidade-whatItIs-1"
+   }
+  ],
+  "inPractice": [
+   {
+    "text": "Na versão anterior, duas avaliações ruins seguidas ou três alternadas abririam processo de exoneração.",
+    "support": "Duas avaliações insatisfatórias consecutivas ou três intercaladas serão suficientes para a abertura do processo administrativo para exoneração do cargo.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/legislativo/reforma-administrativa-pode-gerar-aumento-de-corrupcao-aponta-especialista",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/09/2021"
+    },
+    "checkId": "q3-exp-q3-estabilidade-inPractice-0"
+   },
+   {
+    "text": "Na proposta mais recente, a aquisição da estabilidade depende de comprovar desempenho no estágio probatório.",
+    "support": "com “comprovação do desempenho das atribuições do cargo e para a aquisição da estabilidade”",
+    "source": {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-inPractice-1"
+   }
+  ],
+  "argsFor": [
+   {
+    "text": "O relator Pedro Paulo defende avaliações regulares como \"meritocracia\" voltada a resultados.",
+    "support": "É meritocracia na veia do serviço público. Costumo dizer que a reforma é voltada para resultados",
+    "source": {
+     "url": "https://www.band.com.br/noticias/canal-livre/ultimas/reforma-administrativa-tera-processo-de-meritocracia-para-servidores-publicos-entenda-202509281929",
+     "accessed": "2026-10-03",
+     "label": "Band, Canal Livre, 2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-argsFor-0"
+   },
+   {
+    "text": "Ele argumenta que o cidadão tem péssima percepção da qualidade do serviço diante dos impostos que paga.",
+    "support": "existe uma péssima percepção do cidadão em relação a qualidade do serviço que se presta por volume de impostos que ele paga",
+    "source": {
+     "url": "https://www.band.com.br/noticias/canal-livre/ultimas/reforma-administrativa-tera-processo-de-meritocracia-para-servidores-publicos-entenda-202509281929",
+     "accessed": "2026-10-03",
+     "label": "Band, Canal Livre, 2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-argsFor-1"
+   }
+  ],
+  "argsAgainst": [
+   {
+    "text": "O consultor do Senado Luiz Alberto dos Santos previu que a versão anterior da reforma aumentaria a corrupção e reduziria a transparência.",
+    "support": "Isso vai aumentar a corrupção e reduzir a transparência da gestão.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/legislativo/reforma-administrativa-pode-gerar-aumento-de-corrupcao-aponta-especialista",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/09/2021"
+    },
+    "checkId": "q3-exp-q3-estabilidade-argsAgainst-0"
+   },
+   {
+    "text": "Para ele, reduzir a estabilidade fragiliza e precariza o funcionalismo.",
+    "support": "A redução da estabilidade, o fim da irredutibilidade salarial, a retirada de direitos, e a ampliação da precarização pelo uso de contratos temporários e entidades privadas para prestar serviços públicos são os maiores riscos.",
+    "source": {
+     "url": "https://congressoemfoco.com.br/legislativo/reforma-administrativa-pode-gerar-aumento-de-corrupcao-aponta-especialista",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/09/2021"
+    },
+    "checkId": "q3-exp-q3-estabilidade-argsAgainst-1"
+   }
+  ],
+  "nuance": [
+   {
+    "text": "O relator da proposta mais recente diz que a lei não vai fixar um número de avaliações ruins que leve automaticamente à demissão.",
+    "support": "Não estou colocando na lei que, por exemplo, duas avaliações seriam suficientes para perder a estabilidade ou ser passível de demissão",
+    "source": {
+     "url": "https://www.band.com.br/noticias/canal-livre/ultimas/reforma-administrativa-tera-processo-de-meritocracia-para-servidores-publicos-entenda-202509281929",
+     "accessed": "2026-10-03",
+     "label": "Band, Canal Livre, 2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-nuance-0"
+   },
+   {
+    "text": "A proposta mais recente trata a estabilidade como salvaguarda institucional.",
+    "support": "a PEC preserva a estabilidade como salvaguarda institucional",
+    "source": {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    },
+    "checkId": "q3-exp-q3-estabilidade-nuance-1"
+   }
+  ]
+ }
+]

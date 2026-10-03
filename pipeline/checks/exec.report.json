@@ -1,0 +1,334 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "exec-senador-400-eco-reforma-tributaria-carta-cn-2023",
+   "status": "PASS",
+   "claim": "Como presidente do Consórcio Nordeste, assinou com os outros oito governadores da região a carta de apoio à aprovação da PEC 45/2019 (reforma tributária), em julho de 2023.",
+   "why": "ok; ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-eco-privatizacao-carta-cn-2021",
+   "status": "PASS",
+   "claim": "Como governador da Paraíba, integrou a carta conjunta dos nove governadores do Nordeste contra a privatização da Eletrobras, divulgada em 19/05/2021.",
+   "why": "ok; TSE governor wins [2018, 2022], handover source ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-seg-8-janeiro-pbagora-2025",
+   "status": "PASS",
+   "claim": "Em entrevista em setembro de 2025, disse ser contra anistiar quem atentou contra a democracia e contra uma anistia geral e irrestrita.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-seg-blindagem-clickpb-2025",
+   "status": "PASS",
+   "claim": "Criticou a PEC da Blindagem, que exigiria licença do Congresso para processar parlamentares.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-seg-armas-clickpb-2024",
+   "status": "PASS",
+   "claim": "Como governador, chamou de irresponsável a liberação de armas do governo anterior.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-seg-armas-carta-2019",
+   "status": "PASS",
+   "claim": "Assinou em 21/05/2019, com governadores de 13 estados e do DF, carta pedindo a revogação do decreto que flexibilizou armas e munições.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-eco-privatizacao-clickcz-2026",
+   "status": "PASS",
+   "claim": "Como governador, disse que a Cagepa não foi e não será privatizada.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-concessoes-ppp-me-2026",
+   "status": "PASS",
+   "claim": "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
+   "status": "PASS",
+   "claim": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
+   "why": "ok; ALPB ata 07/04/2026 'atual Governador Lucas Ribeiro'",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-incentivos-fiscais-plano",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe atrair indústrias com uma política de incentivos fiscais orientada à geração de emprego e renda (p. 21).",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-incentivos-fiscais-decreto-48520",
+   "status": "PASS",
+   "claim": "Como governador, ratificou pelo Decreto 48.520, de 24/07/2026, resoluções do Conselho do FAIN que concedem crédito presumido de ICMS a indústrias.",
+   "why": "ok; ALPB ata 07/04/2026 'atual Governador Lucas Ribeiro'",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-amb-licenciamento-lei-14657",
+   "status": "PASS",
+   "claim": "Sancionou a Lei 14.657/2026, que passou a exigir EIA/RIMA só de usinas hidrelétricas e termelétricas acima de 300 MW (antes, abaixo de 300 MW) e, na modernização por fonte menos poluente, só acima de 500 MW. Não trata de autolicenciamento.",
+   "why": "ok; ok; ok",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-eco-reforma-tributaria-debate-arapuan",
+   "status": "PASS",
+   "claim": "No debate da TV Arapuan para o Senado, defendeu a reforma tributária aprovada como um sistema mais justo.",
+   "why": "caption at 4908s, TV ARAPUAN",
+   "live": true
+  },
+  {
+   "id": "exec-senador-400-eco-6x1-correio-sabatina",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, disse ser plenamente a favor de acabar com a escala 6x1 e passar de 44 para 40 horas semanais.",
+   "why": "caption at 160s, TV Correio",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-ppp-cagepa-me-2026",
+   "status": "PASS",
+   "claim": "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.",
+   "why": "ok",
+   "live": true
+  },
+  {
+   "id": "exec-governador-11-pb-ppp-cagepa-leilao-2026",
+   "status": "PASS",
+   "claim": "Seu governo levou a PPP a leilão na B3 em 15/05/2026.",
+   "why": "ok; ALPB ata 07/04/2026 'atual Governador Lucas Ribeiro'",
+   "live": true
+  },
+  {
+   "id": "exec-governador-22-pb-ppp-cagepa-IWccMOrxe2o-907",
+   "status": "PASS",
+   "claim": "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+   "why": "caption at 907s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-15-pb-ppp-cagepa-s56ijpZa39Y-5507",
+   "status": "PASS",
+   "claim": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
+   "why": "caption at 5507s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-pb-ppp-cagepa-W1Vm4q95CHY-2835",
+   "status": "PASS",
+   "claim": "Disse que acabará com a PPP e não fará PPPs no governo.",
+   "why": "caption at 2835s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
+   "status": "PASS",
+   "claim": "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
+   "why": "caption at 210s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
+   "status": "PASS",
+   "claim": "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
+   "why": "caption at 3692s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
+   "status": "PASS",
+   "claim": "Disse que dinheiro público deve ir para órgão público.",
+   "why": "caption at 218s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
+   "status": "PASS",
+   "claim": "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
+   "why": "caption at 750s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
+   "status": "PASS",
+   "claim": "Defendeu uma empresa pública de transporte intermunicipal.",
+   "why": "caption at 989s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
+   "status": "PASS",
+   "claim": "Defendeu o estado mínimo em todas as áreas fora da segurança.",
+   "why": "caption at 1542s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-pb-incentivos-fiscais-W1Vm4q95CHY-728",
+   "status": "PASS",
+   "claim": "Criticou as isenções fiscais a grandes empresas, como no polo turístico do Cabo Branco.",
+   "why": "caption at 728s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-15-pb-incentivos-fiscais-XzySWIfa1mU-1625",
+   "status": "PASS",
+   "claim": "Citou a redução do ICMS em São Bento como incentivo que atraiu indústria e aumentou a arrecadação.",
+   "why": "caption at 1625s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-eco-privatizacao-W1Vm4q95CHY-911",
+   "status": "PASS",
+   "claim": "Disse que a privatização troca patrimônio público por lucro, sem ganho de eficiência.",
+   "why": "caption at 911s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-eco-privatizacao-dvfM_oTDPwQ-210",
+   "status": "PASS",
+   "claim": "Disse ser totalmente contrário a qualquer privatização.",
+   "why": "caption at 210s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-22-eco-privatizacao-Wdp8SfV4PQ-4221",
+   "status": "PASS",
+   "claim": "No debate da TH+ SBT, disse que não privatizará a Cagepa.",
+   "why": "caption at 4221s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-15-eco-privatizacao-s56ijpZa39Y-5550",
+   "status": "PASS",
+   "claim": "No debate da 98 FM e Portal Correio, disse não ser favorável à privatização da Cagepa.",
+   "why": "caption at 5550s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-seg-armas-LvPKwMJdVbE-4597",
+   "status": "PASS",
+   "claim": "Defendeu que toda a população tenha acesso a armas.",
+   "why": "caption at 4597s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-soc-aborto-LvPKwMJdVbE-5234",
+   "status": "PASS",
+   "claim": "Disse que a decisão sobre o aborto cabe à mulher grávida.",
+   "why": "caption at 5234s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
+   "status": "PASS",
+   "claim": "Defendeu a desmilitarização da Polícia Militar.",
+   "why": "caption at 40s",
+   "live": true
+  },
+  {
+   "id": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
+   "status": "PASS",
+   "claim": "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
+   "why": "caption at 122s",
+   "live": true
+  },
+  {
+   "id": "question:pb-ppp-cagepa",
+   "status": "PASS",
+   "claim": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+   "why": "ok; ok"
+  },
+  {
+   "id": "question:pb-vale-saude",
+   "status": "PASS",
+   "claim": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
+   "why": "ok"
+  },
+  {
+   "id": "question:pb-empresas-publicas",
+   "status": "PASS",
+   "claim": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+   "why": "ok"
+  },
+  {
+   "id": "NEG-gadelha-stf-mandato-as-joao",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-gadelha-stf-mandato-as-joao",
+   "why": "speaker cue 'candidato joão azevedo volta para o seu lugar' not within [0, 120]s"
+  },
+  {
+   "id": "NEG-joao-against-6x1-fabricated",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-joao-against-6x1-fabricated",
+   "why": "caption phrase not found near 160s"
+  },
+  {
+   "id": "NEG-joao-aborto-fabricated",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-joao-aborto-fabricated",
+   "why": "not in source: Defendo a descriminalização do aborto até a 12ª semana"
+  },
+  {
+   "id": "NEG-lucas-quote-as-joao",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-lucas-quote-as-joao",
+   "why": "attribution ['Azevêdo'] not near quote"
+  },
+  {
+   "id": "NEG-lei-14657-signed-by-joao",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-lei-14657-signed-by-joao",
+   "why": "not in pdf: JOÃO AZEVÊDO LINS FILHO Governador"
+  },
+  {
+   "id": "NEG-ppp-wrong-date",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-ppp-wrong-date",
+   "why": "published 2026-05-15 != 2026-05-16"
+  },
+  {
+   "id": "NEG-fain-decree-by-joao",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-fain-decree-by-joao",
+   "why": "TSE governor wins [2018, 2022], handover source ok"
+  },
+  {
+   "id": "NEG-old-licensing-threshold-swapped",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-old-licensing-threshold-swapped",
+   "why": "not in pdf: UTE com capacidade instalada superior a 300 (trezentos) MW"
+  },
+  {
+   "id": "NEG-yuri-ppp-quote-as-cicero",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-yuri-ppp-quote-as-cicero",
+   "why": "speaker cue 'Cícero Lucen candidato' not within [-60, 0]s"
+  },
+  {
+   "id": "NEG-efraim-keeps-ppp-fabricated",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-efraim-keeps-ppp-fabricated",
+   "why": "caption phrase not found near 907s"
+  },
+  {
+   "id": "NEG-camilo-quote-wrong-video",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG-camilo-quote-wrong-video",
+   "why": "caption phrase not found near 4597s"
+  }
+ ]
+}

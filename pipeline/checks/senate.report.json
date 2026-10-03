@@ -1,0 +1,481 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "sen-rec-senador-155-seg-armas-sf5971",
+   "status": "PASS",
+   "claim": "Votou SIM no PDL 233/2019, que sustou o Decreto 9.785/2019, de flexibilização da posse e do porte de armas, no plenário do Senado, 18/06/2019 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-senador-155-seg-blindagem-ccj38935",
+   "status": "PASS",
+   "claim": "Votou SIM no relatório da CCJ do Senado que rejeitou a PEC 3/2021 (licença prévia para processar parlamentares), 24/09/2025.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-503",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-senador-155-seg-maioridade-cd14493-503",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PMDB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-503",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PDT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-503",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PMDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PMDB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-senador-155-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PMDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PR).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-536",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PDT).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PSD).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PL).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PSD).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PCdoB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-424",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no UNIÃO).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PSD).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PSD).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PCdoB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PODE).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-438",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PODE).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-155-eco-6x1",
+   "status": "PASS",
+   "claim": "Em sabatina na CBN, defendeu que o Senado vote o texto do fim da escala 6x1 aprovado pela Câmara.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-100-eco-6x1",
+   "status": "PASS",
+   "claim": "Em entrevista à FM 100.5, declarou ser a favor do fim da escala 6x1.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-100-seg-maioridade",
+   "status": "PASS",
+   "claim": "Em entrevista à FM 100.5, defendeu reduzir a maioridade penal para crimes hediondos.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-222-seg-maioridade",
+   "status": "PASS",
+   "claim": "Em entrevista ao Correio Debate, defendeu a redução da maioridade penal para crimes hediondos.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-222-seg-drogas",
+   "status": "PASS",
+   "claim": "Em entrevista ao Correio Debate, criticou a descriminalização das drogas e defendeu endurecer a lei.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-222-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina do Bom Dia Paraíba, disse que votaria contra o fim da escala 6x1 no texto em discussão.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-300-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina do Bom Dia Paraíba, declarou apoio à PEC que reduz a jornada de trabalho, com ressalva sobre o custeio.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-plat-senador-151-seg-stf-mandato",
+   "status": "PASS",
+   "claim": "No debate da TV Diário do Sertão, defendeu prazo de mandato para ministros do STF.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-300-seg-maioridade",
+   "status": "PASS",
+   "claim": "No debate da TV Diário do Sertão (11/09/2026), em resposta a Veneziano, defendeu reduzir a maioridade penal para 16 anos.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-300-seg-saidinha",
+   "status": "PASS",
+   "claim": "No debate da TV Diário do Sertão, disse que vai lutar contra as saídas temporárias de presos.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-300-seg-drogas",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, declarou ser contra a legalização das drogas.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-300-seg-stf-mandato",
+   "status": "PASS",
+   "claim": "Na sabatina ClickPB/TV Diário do Sertão, criticou o cargo vitalício e defendeu mandato de 8 a 10 anos para ministros do STF.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-222-seg-8-janeiro",
+   "status": "PASS",
+   "claim": "No debate da TV Arapuan (31/08/2026), criticou a Câmara por não votar a anistia aos condenados do 8 de janeiro e aprovar só a dosimetria.",
+   "live": false,
+   "error": "fuzzy: [[\"8\", \"lá\"]]"
+  },
+  {
+   "id": "sen-cap-senador-151-seg-maioridade",
+   "status": "PASS",
+   "claim": "No debate da TV Arapuan, perguntado por Queiroga se votaria a favor da redução da maioridade penal, respondeu que sim.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-272-seg-maioridade",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, disse que votará pela redução da maioridade penal, com 16 anos como limite.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-272-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, perguntado sobre o fim da escala 6x1, disse ser totalmente a favor de reduzir a jornada para 40 horas.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-272-seg-stf-mandato",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, defendeu mandato de menor duração para ministros do STF.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-801-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, defendeu ir além da PEC do fim da escala 6x1, com jornada de 36 horas.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-801-seg-maioridade",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, disse que reduzir a maioridade penal não é a medida e defendeu investir em educação e emprego.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-800-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, apontou o fim da escala 6x1 como sua primeira medida.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-290-eco-6x1",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, declarou apoio ao fim da escala 6x1 e defendeu ir além, para a escala 4x3.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "sen-cap-senador-290-seg-maioridade",
+   "status": "PASS",
+   "claim": "Na sabatina da TV Correio, defendeu aumentar o tempo de internação de adolescentes infratores em vez de mudar a maioridade penal.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "seg-maioridade",
+   "status": "PASS",
+   "claim": "Em 2015 a Câmara aprovou a PEC 171/1993 (imputabilidade penal do maior de 16 anos): 323 sim e 155 não no 1º turno, em 01/07/2015, e 320 sim e 152 não no 2º turno, em 19/08/2015.",
+   "error": "[]"
+  },
+  {
+   "id": "eco-6x1",
+   "status": "PASS",
+   "claim": "Em 27/05/2026 a Câmara aprovou a PEC 221/2019 (redução da jornada de trabalho): 472 sim e 22 não no 1º turno e 461 sim e 19 não no 2º turno. No Senado, a votação em plenário ficou para depois do 1º turno das eleições.",
+   "error": "[]"
+  },
+  {
+   "id": "seg-stf-mandato",
+   "status": "PASS",
+   "claim": "A Constituição garante vitaliciedade aos juízes (art. 95, I), o que inclui os ministros do STF. Mudar isso exige emenda constitucional.",
+   "error": "[]"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG-flip-veneziano-pdl233",
+   "status": "FAIL",
+   "reason": "position 1 but source vote Sim"
+  },
+  {
+   "id": "NEG-fabricated-nabor-quote",
+   "status": "FAIL",
+   "reason": "quote not found verbatim"
+  },
+  {
+   "id": "NEG-queiroga-quote-as-nabor",
+   "status": "FAIL",
+   "reason": "candidate name ['Nabor'] not within attribution window"
+  },
+  {
+   "id": "NEG-old-statement",
+   "status": "FAIL",
+   "reason": "statement older than 2025"
+  },
+  {
+   "id": "NEG-flip-couto-maioridade",
+   "status": "FAIL",
+   "reason": "position 1 but source says Não"
+  },
+  {
+   "id": "NEG-caption-fabricated",
+   "status": "FAIL",
+   "reason": "quote not in transcript window"
+  },
+  {
+   "id": "NEG-caption-speaker-not-in-confrontation",
+   "status": "FAIL",
+   "reason": "announcement does not name the candidate"
+  },
+  {
+   "id": "NEG-caption-translated-track",
+   "status": "FAIL",
+   "reason": "caption track is not the channel's original pt ASR (translated or local transcript)"
+  },
+  {
+   "id": "NEG-caption-fuzzy-over-2-words",
+   "status": "FAIL",
+   "reason": "fuzzy window exceeds 2 single-word substitutions"
+  },
+  {
+   "id": "NEG-caption-wrong-confrontation",
+   "status": "FAIL",
+   "reason": "quote outside the announced confrontation"
+  }
+ ]
+}

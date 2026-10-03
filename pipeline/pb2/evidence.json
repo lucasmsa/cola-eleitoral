@@ -1,0 +1,142 @@
+[
+ {
+  "id": "pb2-senador-400-seg-stf-mandato-sofesta-2026-09-15",
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista à Sofesta FM como candidato ao Senado, defendeu mandato com prazo para ministros do STF.",
+  "quote": "eu defendo, por exemplo, que ministro do supremo tenha mandato, tem um período, não pode ser eterno",
+  "date": "2026-09-15",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=yFKgiXsoTaY&t=3561s",
+   "label": "Sofesta FM, entrevista com João Azevêdo, 14/09/2026, YouTube, 00:59:21, legenda automática",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-400"
+  },
+  "checkId": "pb2-senador-400-seg-stf-mandato-sofesta-2026-09-15",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-155-seg-stf-mandato-sofesta-2026-09-18",
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista à Sofesta FM, defendeu mandatos não vitalícios, de 8 a 12 anos, para ministros de tribunais superiores.",
+  "quote": "como também sou defensor de mandatos não vitalícios, mandatos de 8, 10, no máximo, no máximo 12 anos",
+  "date": "2026-09-18",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=ETZSkFyBTSQ&t=3649s",
+   "label": "Sofesta FM, entrevista com Veneziano Vital, 17/09/2026, YouTube, 01:00:49, legenda automática",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "checkId": "pb2-senador-155-seg-stf-mandato-sofesta-2026-09-18",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-222-eco-reforma-tributaria-clickpb-2026-08-21",
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Na sabatina do ClickPB, criticou a reforma tributária em vigor por criar um IVA alto e disse que o Congresso deveria fazer outra, que reduza impostos.",
+  "quote": "fazer uma reforma tributária de verdade que diminui o imposto, não que crie o maior iva do mundo para um governo sedento de imposto",
+  "date": "2026-08-21",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=VpNgBZaAZZI&t=2122s",
+   "label": "Sabatina ClickPB com Marcelo Queiroga, vídeo publicado em 21/08/2026, YouTube, 00:35:22, legenda automática",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-222"
+  },
+  "checkId": "pb2-senador-222-eco-reforma-tributaria-clickpb-2026-08-21",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-222-eco-arcabouco-clickpb-2026-08-21",
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Na sabatina do ClickPB, criticou o fim do teto de gastos e o arcabouço fiscal que o substituiu, dizendo que liberou gastos.",
+  "quote": "esse governo acabou com o teto de gastos, foi liberal liberou geral para gastar, né? foi aprovado um tal de um arcaboo fiscal que ele mesmo não compre",
+  "date": "2026-08-21",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=VpNgBZaAZZI&t=3739s",
+   "label": "Sabatina ClickPB com Marcelo Queiroga, vídeo publicado em 21/08/2026, YouTube, 01:02:19, legenda automática (\"arcaboo\" e \"compre\" como transcritos)",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-222"
+  },
+  "checkId": "pb2-senador-222-eco-arcabouco-clickpb-2026-08-21",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-222-seg-8-janeiro-arapuan-2026-09-01",
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No debate da TV Arapuan, chamou os condenados do 8 de janeiro de vítimas e criticou a Câmara por aprovar a dosimetria em vez de votar a anistia.",
+  "quote": "faz um compromisso de pautar o projeto da anistia das vítimas do lá de janeiro de 2023 e aí na hora descumpre o compromisso e no lugar disso aprova lá uma dosimetria",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=cAqSz5F2QCo&t=9146s",
+   "label": "Debate para o Senado, TV Arapuan, 31/08/2026, YouTube, 02:32:26, legenda automática (\"lá de janeiro\" como transcrito)",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-222"
+  },
+  "checkId": "pb2-senador-222-seg-8-janeiro-arapuan-2026-09-01",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-151-seg-blindagem-sofesta-2026-09-11",
+  "questionId": "seg-blindagem",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Em entrevista à Sofesta FM, criticou a PEC da Blindagem, dizendo que ela protegeria parlamentares que cometem crimes.",
+  "quote": "e pior foi o o nosso paraibano, deputado federal aqui, colocar a pec da blindagem. quer dizer, quem tiver um mandato pode roubar, pode matar, porque eu tô blindado pel uma pec",
+  "date": "2026-09-11",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=I4aBBPZcRCQ&t=5391s",
+   "label": "Sofesta FM, entrevista com André Gadelha, 10/09/2026, YouTube, 01:29:51, legenda automática",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-151"
+  },
+  "checkId": "pb2-senador-151-seg-blindagem-sofesta-2026-09-11",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pb2-senador-272-seg-armas-sofesta-2026-09-09",
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista à Sofesta FM, perguntado sobre armas nas famílias, disse ser totalmente a favor do armamento, com um estudo melhor de viabilidade.",
+  "quote": "eu sou totalmente a favor do armamento, mas que existe e precisa ter uma um estudo melhor de viabilidade desse projeto",
+  "date": "2026-09-09",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=P9LHDt2bMcs&t=1004s",
+   "label": "Sofesta FM, entrevista com Rinaldo Júnior, 08/09/2026, YouTube, 00:16:44, legenda automática",
+   "accessed": "2026-10-03"
+  },
+  "subject": {
+   "type": "candidate",
+   "id": "senador-272"
+  },
+  "checkId": "pb2-senador-272-seg-armas-sofesta-2026-09-09",
+  "lowDiscrimination": false
+ }
+]

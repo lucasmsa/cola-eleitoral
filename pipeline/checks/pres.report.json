@@ -1,0 +1,214 @@
+{
+ "rows": [
+  {
+   "id": "pres-presidente-30-seg-8-janeiro-0",
+   "status": "PASS",
+   "claim": "Em entrevista publicada pelo g1, disse que dará anistia ou ao menos \"um tribunal que não seja político\" aos condenados pelo 8 de janeiro.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-30-eco-6x1-1",
+   "status": "PASS",
+   "claim": "No Jornal da Record, chamou de populista a proposta de acabar com a escala 6x1 e defendeu contrato por hora fora da CLT.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-seg-8-janeiro-2",
+   "status": "PASS",
+   "claim": "No Roda Viva (TV Cultura), disse que assinará a anistia aos condenados pelo 8 de janeiro como primeiro ato se eleito.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-seg-stf-mandato-3",
+   "status": "PASS",
+   "claim": "No Roda Viva (TV Cultura), defendeu mandato com início e fim para ministros do STF.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-70-seg-8-janeiro-4",
+   "status": "PASS",
+   "claim": "Na CNN, disse que as condenações do 8 de janeiro foram exageradas em muitos casos e que o golpe não se materializou.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-70-amb-margem-equatorial-5",
+   "status": "PASS",
+   "claim": "Na CNN, disse que a Margem Equatorial já deveria estar sendo explorada.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-70-eco-bc-autonomo-6",
+   "status": "PASS",
+   "claim": "Na CNN, disse que o Banco Central tem que ser independente.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-14-eco-privatizacao-7",
+   "status": "PASS",
+   "claim": "Na Revista Oeste, ao dizer que discorda de privatizar a Petrobras, afirmou que faz sentido o país controlar suas reservas e o refino de petróleo.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-14-eco-reforma-tributaria-8",
+   "status": "PASS",
+   "claim": "Na Revista Oeste, disse que o modelo de imposto único da reforma tributária é bom, mas que reformaria a lei para tirar as exceções.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-27-soc-aborto-9",
+   "status": "PASS",
+   "claim": "No Poder360, defendeu manter as regras atuais sobre aborto e disse ser contra o aborto.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-27-seg-8-janeiro-10",
+   "status": "PASS",
+   "claim": "No Poder360, disse não ser a favor da anistia, mas que o STF exagerou nos processos do 8 de janeiro; propõe revisão criminal caso a caso.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-27-eco-privatizacao-11",
+   "status": "PASS",
+   "claim": "No Poder360, disse ser a favor de privatizações, com exceções como a Petrobras.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-35-seg-8-janeiro-12",
+   "status": "PASS",
+   "claim": "No Metrópoles, sobre a anistia aos condenados do 8 de janeiro, disse que soltaria todos.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-35-seg-drogas-13",
+   "status": "PASS",
+   "claim": "No Poder360, disse ser a favor da liberação das drogas.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-35-eco-6x1-14",
+   "status": "PASS",
+   "claim": "No Poder360, sobre o fim da escala 6x1, disse que o governo não deve se meter na relação entre adultos.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-35-eco-bc-autonomo-15",
+   "status": "PASS",
+   "claim": "No Poder360, disse que o Banco Central tem que ser autônomo.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-35-seg-stf-mandato-16",
+   "status": "PASS",
+   "claim": "No Poder360, propôs mandato de dois a três anos para ministros do STF.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-eco-privatizacao-17",
+   "status": "PASS",
+   "claim": "Como governador de Goiás, sancionou a Lei 20.762/2020, que autoriza desestatizar a CELG-GT, a Metrobus, a Iquego, a Goiasgás e a Goiás Telecom.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-eco-privatizacao-18",
+   "status": "PASS",
+   "claim": "Como governador de Goiás, sancionou a Lei 22.286/2023, que autoriza desestatizar a CelgPar.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-amb-licenciamento-19",
+   "status": "PASS",
+   "claim": "Como governador de Goiás, sancionou a Lei 20.694/2019, que criou a licença por adesão e compromisso (LAC), concedida por declaração do empreendedor.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-soc-cotas-20",
+   "status": "PASS",
+   "claim": "Como governador de Goiás, sancionou a Lei 20.807/2020, que estende para 25 anos as cotas nas universidades estaduais.",
+   "reasons": []
+  },
+  {
+   "id": "pres-presidente-55-soc-aborto-21",
+   "status": "PASS",
+   "claim": "Como governador de Goiás, sancionou a Lei 22.537/2024, que cria a Campanha de Conscientização contra o Aborto.",
+   "reasons": []
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG-fabricated-zema",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not in cached captions"
+   ]
+  },
+  {
+   "id": "NEG-caiado-quote-as-zema",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "alias 'Caiado' does not match TSE name of presidente-30"
+   ]
+  },
+  {
+   "id": "NEG-wrong-timestamp",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "timestamp 00:30:00 != caption time 00:01:01"
+   ]
+  },
+  {
+   "id": "NEG-interviewer-question",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "timestamp 00:01:01 != caption time 00:00:34",
+    "quote contains a question mark or a speaker change",
+    "quote addresses the candidate (interviewer speech)",
+    "no question within 1500 chars before the quote",
+    "no first-person speech in the quote turn"
+   ]
+  },
+  {
+   "id": "NEG-old-video",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "video metadata does not match meta.txt",
+    "video older than 2025"
+   ]
+  },
+  {
+   "id": "NEG-law-promulgated-by-assembly",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "signer not in cached law text",
+    "sanction formula not in cached law text"
+   ]
+  },
+  {
+   "id": "NEG-law-tampered",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not in cached law text"
+   ]
+  }
+ ],
+ "summary": {
+  "total": 22,
+  "passed": 22,
+  "cachedOnly": 0,
+  "failed": 0,
+  "harnessOk": true
+ }
+}

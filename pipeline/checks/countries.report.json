@@ -1,0 +1,662 @@
+{
+ "rows": [
+  {
+   "id": "ctry-uruguai-soc-aborto-0dde60",
+   "status": "PASS",
+   "claim": "Uruguai / soc-aborto: A Lei 18.987/2012 afasta os crimes de aborto do Código Penal quando a interrupção é feita nas primeiras 12 semanas, cumpridos requisitos como a consulta médica prévia.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-argentina-soc-aborto-1fa6bd",
+   "status": "PASS",
+   "claim": "Argentina / soc-aborto: A Lei 27.610/2020 garante o aborto a pedido até a 14ª semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-chile-soc-aborto-b23ae4",
+   "status": "PASS",
+   "claim": "Chile / soc-aborto: A Lei 21.030/2017 permite o aborto só em três situações: risco de vida, feto inviável e estupro.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-colmbia-soc-aborto-addd69",
+   "status": "PASS",
+   "claim": "Colômbia / soc-aborto: A Corte Constitucional (Sentença C-055/2022) decidiu que o aborto não é crime até a 24ª semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-soc-aborto-4b0257",
+   "status": "PASS",
+   "claim": "EUA / soc-aborto: Desde Dobbs (2022), a Suprema Corte deixou a regra para cada estado; há estados que proíbem e outros que permitem.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-portugal-soc-aborto-ca1099",
+   "status": "PASS",
+   "claim": "Portugal / soc-aborto: O Código Penal (art. 142, redação da Lei 16/2007) não pune o aborto feito por opção da mulher até a 10ª semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-soc-aborto-33466c",
+   "status": "PASS",
+   "claim": "Espanha / soc-aborto: A Lei Orgânica 2/2010 (art. 14) permite o aborto a pedido nas primeiras 14 semanas.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-frana-soc-aborto-cedb67",
+   "status": "PASS",
+   "claim": "França / soc-aborto: Desde 2024 a Constituição (art. 34) garante a liberdade de interromper a gravidez, nos termos da lei.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-soc-aborto-a086c7",
+   "status": "PASS",
+   "claim": "Alemanha / soc-aborto: O Código Penal (§ 218a) não considera crime o aborto até 12 semanas após a concepção, com aconselhamento obrigatório pelo menos 3 dias antes.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-sucia-soc-aborto-8349e9",
+   "status": "PASS",
+   "claim": "Suécia / soc-aborto: A Lei do Aborto (1974:595) permite o aborto a pedido até o fim da 18ª semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-rssia-soc-aborto-04a85c",
+   "status": "PASS",
+   "claim": "Rússia / soc-aborto: A Lei Federal 323-FZ (art. 56) permite o aborto a pedido até a 12ª semana.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-ndia-soc-aborto-7872c2",
+   "status": "PASS",
+   "claim": "Índia / soc-aborto: A Lei MTP (emenda de 2021) permite o aborto até a 20ª semana com aval médico e por motivos definidos em lei, como falha de método contraceptivo.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-seg-stf-mandato-c0e7a9",
+   "status": "PASS",
+   "claim": "Espanha / seg-stf-mandato: Os juízes do Tribunal Constitucional têm mandato de 9 anos (Constituição, art. 159).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-portugal-seg-stf-mandato-313f74",
+   "status": "PASS",
+   "claim": "Portugal / seg-stf-mandato: Os juízes do Tribunal Constitucional têm mandato de 9 anos, sem renovação (Constituição, art. 222).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-frana-seg-stf-mandato-2781f6",
+   "status": "PASS",
+   "claim": "França / seg-stf-mandato: Os membros do Conselho Constitucional têm mandato de 9 anos, sem renovação (Constituição, art. 56).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-chile-seg-stf-mandato-4d18ad",
+   "status": "PASS",
+   "claim": "Chile / seg-stf-mandato: Os ministros do Tribunal Constitucional têm mandato de 9 anos (Constituição, art. 92).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-colmbia-seg-stf-mandato-df9b0d",
+   "status": "PASS",
+   "claim": "Colômbia / seg-stf-mandato: Os magistrados da Corte Constitucional têm mandato único de 8 anos (Constituição, art. 239).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-uruguai-seg-stf-mandato-f27043",
+   "status": "PASS",
+   "claim": "Uruguai / seg-stf-mandato: Os ministros da Suprema Corte de Justiça têm mandato de 10 anos (Constituição, art. 237).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-seg-stf-mandato-f5dc8f",
+   "status": "PASS",
+   "claim": "Alemanha / seg-stf-mandato: Os juízes do Tribunal Constitucional Federal têm mandato de 12 anos, sem reeleição (BVerfGG, § 4).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-argentina-seg-stf-mandato-4f636c",
+   "status": "PASS",
+   "claim": "Argentina / seg-stf-mandato: Os juízes da Suprema Corte ficam no cargo enquanto tiverem boa conduta; aos 75 anos precisam de nova nomeação (Constituição, arts. 99 e 110).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-seg-stf-mandato-920b0c",
+   "status": "PASS",
+   "claim": "EUA / seg-stf-mandato: Os juízes da Suprema Corte são vitalícios enquanto tiverem boa conduta (Constituição, art. III).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-ndia-seg-stf-mandato-28b7a3",
+   "status": "PASS",
+   "claim": "Índia / seg-stf-mandato: Os juízes da Suprema Corte ficam no cargo até os 65 anos (Constituição, art. 124).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-japo-seg-stf-mandato-37f27e",
+   "status": "PASS",
+   "claim": "Japão / seg-stf-mandato: Os juízes da Suprema Corte ficam até a idade de aposentadoria fixada em lei, com revisão popular nas eleições (Constituição, art. 79).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-canad-seg-stf-mandato-732c4c",
+   "status": "PASS",
+   "claim": "Canadá / seg-stf-mandato: Os juízes da Suprema Corte deixam o cargo aos 75 anos, sem prazo fixo (Supreme Court Act, s. 9).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-sucia-seg-stf-mandato-171e72",
+   "status": "PASS",
+   "claim": "Suécia / seg-stf-mandato: Juízes efetivos só deixam o cargo por falta grave ou aposentadoria (Instrumento de Governo, cap. 11, art. 7).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-rssia-seg-stf-mandato-63e12d",
+   "status": "PASS",
+   "claim": "Rússia / seg-stf-mandato: Os juízes do Tribunal Constitucional não têm prazo de mandato; o limite é a idade de 70 anos (Lei Constitucional Federal 1-FKZ, art. 12).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-china-seg-stf-mandato-0fe7e0",
+   "status": "PASS",
+   "claim": "China / seg-stf-mandato: Só o presidente da Suprema Corte Popular tem mandato fixo na Constituição: o mesmo da Assembleia, com no máximo dois seguidos (art. 129).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-chile-eco-bc-autonomo-e60673",
+   "status": "PASS",
+   "claim": "Chile / eco-bc-autonomo: A Constituição (art. 108) cria o Banco Central como órgão autônomo, de caráter técnico.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-colmbia-eco-bc-autonomo-99747b",
+   "status": "PASS",
+   "claim": "Colômbia / eco-bc-autonomo: A Constituição (art. 371) dá ao Banco da República autonomia administrativa, patrimonial e técnica.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-mxico-eco-bc-autonomo-31bbe3",
+   "status": "PASS",
+   "claim": "México / eco-bc-autonomo: A Constituição (art. 28) determina um banco central autônomo em suas funções e administração.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-uruguai-eco-bc-autonomo-a17e87",
+   "status": "PASS",
+   "claim": "Uruguai / eco-bc-autonomo: A Carta Orgânica (Lei 16.696, art. 1) define o Banco Central como ente autônomo, com autonomia técnica, administrativa e financeira.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-argentina-eco-bc-autonomo-0d32da",
+   "status": "PASS",
+   "claim": "Argentina / eco-bc-autonomo: A Carta Orgânica (Lei 24.144) define o BCRA como entidade autárquica, com presidente e diretores de mandato de 6 anos.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-eco-bc-autonomo-896fa2",
+   "status": "PASS",
+   "claim": "EUA / eco-bc-autonomo: Os diretores do Federal Reserve têm mandato de 14 anos (Federal Reserve Act, seção 10).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-canad-eco-bc-autonomo-bf98cd",
+   "status": "PASS",
+   "claim": "Canadá / eco-bc-autonomo: O presidente do Banco do Canadá tem mandato de 7 anos, mas o ministro pode dar uma ordem escrita sobre política monetária (Bank of Canada Act, s. 14).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-eco-bc-autonomo-bc951d",
+   "status": "PASS",
+   "claim": "Espanha / eco-bc-autonomo: O Banco de Espanha atua com autonomia em relação à administração do Estado, e o presidente tem mandato de 6 anos sem renovação (Lei 13/1994, arts. 1 e 25).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-eco-bc-autonomo-57364b",
+   "status": "PASS",
+   "claim": "Alemanha / eco-bc-autonomo: A Lei Fundamental (art. 88) admite transferir as funções do Bundesbank ao Banco Central Europeu, que é independente.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-sucia-eco-bc-autonomo-17b4b6",
+   "status": "PASS",
+   "claim": "Suécia / eco-bc-autonomo: Pelo Instrumento de Governo (cap. 9, art. 13), nenhuma autoridade pode determinar como o Riksbank decide a política monetária.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-rssia-eco-bc-autonomo-3289ce",
+   "status": "PASS",
+   "claim": "Rússia / eco-bc-autonomo: A Constituição (art. 75) manda o Banco Central proteger o rublo de forma independente dos outros órgãos do Estado.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-argentina-seg-drogas-0cdefe",
+   "status": "PASS",
+   "claim": "Argentina / seg-drogas: A Lei 23.737 (art. 14) pune com 1 mês a 2 anos de prisão a posse de pouca droga para uso pessoal.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-chile-seg-drogas-cc3b24",
+   "status": "PASS",
+   "claim": "Chile / seg-drogas: A Lei 20.000 (art. 4) não aplica a pena de prisão a quem justifica que a droga é para uso pessoal exclusivo e próximo no tempo.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-seg-drogas-bd0150",
+   "status": "PASS",
+   "claim": "Espanha / seg-drogas: Consumir ou portar droga em lugar público é infração administrativa grave, não crime (Lei Orgânica 4/2015, de segurança cidadã, art. 36, item 16).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-seg-drogas-085651",
+   "status": "PASS",
+   "claim": "Alemanha / seg-drogas: A lei (BtMG § 29) pune a posse de drogas sem autorização, mas o tribunal pode deixar de punir quando é pouca quantidade para uso próprio.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-sucia-seg-drogas-2e0f78",
+   "status": "PASS",
+   "claim": "Suécia / seg-drogas: A Lei Penal de Drogas (1968:64, art. 1) pune com até 3 anos de prisão quem possui ou usa droga.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-seg-drogas-3efc61",
+   "status": "PASS",
+   "claim": "EUA / seg-drogas: Pela lei federal (21 U.S.C. § 844), possuir substância controlada sem receita é crime.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-canad-seg-drogas-410ce1",
+   "status": "PASS",
+   "claim": "Canadá / seg-drogas: A lei proíbe a posse das drogas das listas I a III (CDSA, s. 4), mas a maconha é legal para adultos até 30 g em público (Cannabis Act, s. 8).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-colmbia-seg-drogas-a097d5",
+   "status": "PASS",
+   "claim": "Colômbia / seg-drogas: A Constituição (art. 49) proíbe portar e consumir drogas sem receita médica e manda a lei prever, para usuários, medidas administrativas e tratamento.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-portugal-eco-6x1-7aca15",
+   "status": "PASS",
+   "claim": "Portugal / eco-6x1: O Código do Trabalho (art. 203) limita o período normal a 8 horas por dia e 40 horas por semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-eco-6x1-8f59ed",
+   "status": "PASS",
+   "claim": "Espanha / eco-6x1: O Estatuto dos Trabalhadores (art. 34) limita a jornada a 40 horas semanais em média anual.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-sucia-eco-6x1-0020dc",
+   "status": "PASS",
+   "claim": "Suécia / eco-6x1: A Lei da Jornada (1982:673, § 5) limita a jornada ordinária a 40 horas por semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-rssia-eco-6x1-0c083d",
+   "status": "PASS",
+   "claim": "Rússia / eco-6x1: O Código do Trabalho (art. 91) limita a jornada normal a 40 horas por semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-eco-6x1-3a833c",
+   "status": "PASS",
+   "claim": "EUA / eco-6x1: A lei federal (FLSA, 29 U.S.C. § 207) não proíbe passar de 40 horas por semana, mas exige pagar hora extra com 50% a mais acima disso.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-colmbia-eco-6x1-e4dc72",
+   "status": "PASS",
+   "claim": "Colômbia / eco-6x1: A Lei 2.101/2021 reduziu a jornada máxima para 42 horas semanais, em 5 ou 6 dias.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-argentina-eco-6x1-90f0ce",
+   "status": "PASS",
+   "claim": "Argentina / eco-6x1: A Lei 11.544 permite até 8 horas por dia e 48 horas por semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-seg-maioridade-ede080",
+   "status": "PASS",
+   "claim": "EUA / seg-maioridade: A lei federal (18 U.S.C. § 5032) permite processar como adulto quem tem 15 anos ou mais e comete crime violento grave.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-seg-maioridade-d92f78",
+   "status": "PASS",
+   "claim": "Alemanha / seg-maioridade: A Lei dos Tribunais de Menores (JGG, § 1) aplica a lei juvenil a quem tem de 14 anos até os 18 incompletos.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-seg-maioridade-028ddc",
+   "status": "PASS",
+   "claim": "Espanha / seg-maioridade: A Lei Orgânica 5/2000 (art. 1) aplica a lei de menores a quem tem mais de 14 e menos de 18 anos.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-portugal-seg-maioridade-08b5b6",
+   "status": "PASS",
+   "claim": "Portugal / seg-maioridade: O Código Penal (art. 19) só considera inimputáveis os menores de 16 anos; a partir dos 16 responde-se pelo Código Penal.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-argentina-seg-maioridade-9ebcc5",
+   "status": "PASS",
+   "claim": "Argentina / seg-maioridade: A Lei 22.278 (art. 1) não pune menores de 16 anos; dos 16 aos 18 a punição vale para crimes com pena de prisão acima de 2 anos.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-uruguai-seg-maioridade-ed5484",
+   "status": "PASS",
+   "claim": "Uruguai / seg-maioridade: O Código da Infância e Adolescência (Lei 17.823) trata como adolescente quem tem de 13 a 18 anos, com regime próprio para infrações penais.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-chile-seg-maioridade-1dded0",
+   "status": "PASS",
+   "claim": "Chile / seg-maioridade: A Lei 20.084 aplica a responsabilidade penal adolescente a quem tem mais de 14 e menos de 18 anos.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-mxico-seg-maioridade-28e99a",
+   "status": "PASS",
+   "claim": "México / seg-maioridade: A Lei Nacional do Sistema de Justiça Penal para Adolescentes aplica regime próprio a quem tem de 12 a 18 anos incompletos.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-rssia-seg-maioridade-cf5451",
+   "status": "PASS",
+   "claim": "Rússia / seg-maioridade: O Código Penal (art. 20) fixa a responsabilidade penal aos 16 anos, e aos 14 para crimes graves listados.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-china-seg-maioridade-53600e",
+   "status": "PASS",
+   "claim": "China / seg-maioridade: A Lei Penal (art. 17) faz responder criminalmente quem tem 16 anos, e a partir dos 14 por crimes graves como homicídio e estupro.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-ndia-seg-maioridade-f3d9af",
+   "status": "PASS",
+   "claim": "Índia / seg-maioridade: A Lei de Justiça Juvenil de 2015 (seções 15 e 18) permite julgar como adulto quem tem 16 anos ou mais e comete crime hediondo.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-canad-seg-maioridade-f72de0",
+   "status": "PASS",
+   "claim": "Canadá / seg-maioridade: Jovens são julgados na justiça juvenil, mas quem tem 14 anos ou mais pode receber pena de adulto por crime com pena acima de 2 anos (YCJA, s. 64).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-eua-seg-armas-f439ea",
+   "status": "PASS",
+   "claim": "EUA / seg-armas: A Segunda Emenda da Constituição garante o direito do povo de ter e portar armas.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-reinounido-seg-armas-5dd5fd",
+   "status": "PASS",
+   "claim": "Reino Unido / seg-armas: Ter arma de fogo exige certificado policial, dado só a quem prova ter boa razão para ela (Firearms Act 1968, seções 1 e 27).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-alemanha-seg-armas-f22f07",
+   "status": "PASS",
+   "claim": "Alemanha / seg-armas: A Lei de Armas (WaffG, § 8) exige comprovar necessidade, como caça ou tiro esportivo, para ter arma.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-ndia-seg-armas-e0af33",
+   "status": "PASS",
+   "claim": "Índia / seg-armas: A Lei de Armas de 1959 exige licença para ter arma, dada só a quem tem boa razão (seções 3 e 13).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-eco-reforma-tributaria-38f61b",
+   "status": "PASS",
+   "claim": "Espanha / eco-reforma-tributaria: A Espanha cobra o IVA, imposto sobre valor agregado (Lei 37/1992).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-alemanha-eco-reforma-tributaria-ddb167",
+   "status": "PASS",
+   "claim": "Alemanha / eco-reforma-tributaria: A Alemanha cobra a Umsatzsteuer, seu imposto sobre valor agregado (UStG, § 1).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-sucia-eco-reforma-tributaria-8b9116",
+   "status": "PASS",
+   "claim": "Suécia / eco-reforma-tributaria: A Suécia cobra imposto sobre valor agregado (mervärdesskatt), regido pela Lei 2023:200.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-argentina-eco-reforma-tributaria-c4075b",
+   "status": "PASS",
+   "claim": "Argentina / eco-reforma-tributaria: A Argentina cobra o IVA (Lei 23.349, texto ordenado de 1997).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-chile-eco-reforma-tributaria-92195c",
+   "status": "PASS",
+   "claim": "Chile / eco-reforma-tributaria: O Chile cobra o IVA sobre vendas e serviços (Decreto-Lei 825).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-mxico-eco-reforma-tributaria-b1fc72",
+   "status": "PASS",
+   "claim": "México / eco-reforma-tributaria: O México cobra o IVA, criado pela lei de 1978.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-japo-eco-reforma-tributaria-d38306",
+   "status": "PASS",
+   "claim": "Japão / eco-reforma-tributaria: O Japão cobra o imposto sobre consumo, com crédito do imposto pago nas compras, como um IVA.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-canad-eco-reforma-tributaria-82b560",
+   "status": "PASS",
+   "claim": "Canadá / eco-reforma-tributaria: O Canadá cobra o GST, imposto sobre bens e serviços com crédito do imposto pago nos insumos (Excise Tax Act, parte IX).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-eua-eco-reforma-tributaria-904f21",
+   "status": "PASS",
+   "claim": "EUA / eco-reforma-tributaria: Os EUA são o único país da OCDE sem imposto sobre valor agregado (relatório CRS R41708 do Congresso).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-sucia-eco-privatizacao-406048",
+   "status": "PASS",
+   "claim": "Suécia / eco-privatizacao: A Vattenfall, maior empresa de energia do país, pertence 100% ao Estado sueco.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-eua-eco-privatizacao-fe6235",
+   "status": "PASS",
+   "claim": "EUA / eco-privatizacao: Empresas privadas de capital aberto atendiam 72% dos consumidores de energia em 2017 (EIA).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-espanha-amb-margem-equatorial-32c94f",
+   "status": "PASS",
+   "claim": "Espanha / amb-margem-equatorial: A Lei 7/2021 de mudança climática (art. 9) proíbe novas licenças de exploração de petróleo e gás, inclusive no mar.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-amb-margem-equatorial-506b33",
+   "status": "PASS",
+   "claim": "EUA / amb-margem-equatorial: O governo aprova a cada 5 anos um calendário de leilões de áreas de petróleo e gás no mar (OCS Lands Act, seção 18).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-eua-soc-cotas-3c5af2",
+   "status": "PASS",
+   "claim": "EUA / soc-cotas: A Suprema Corte (SFFA v. Harvard, 2023) derrubou o uso da raça na admissão de Harvard e da Universidade da Carolina do Norte.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-ndia-soc-cotas-7028ba",
+   "status": "PASS",
+   "claim": "Índia / soc-cotas: A Constituição (art. 15) permite reservar vagas no ensino para castas e tribos registradas e classes atrasadas.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-rssia-eco-reforma-tributaria-d1c594",
+   "status": "PASS",
+   "claim": "Rússia / eco-reforma-tributaria: A Rússia cobra o imposto sobre valor agregado (NDS), regido pelo Código Tributário (art. 143).",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-colmbia-eco-reforma-tributaria-c2dc02",
+   "status": "PASS",
+   "claim": "Colômbia / eco-reforma-tributaria: A Colômbia cobra o IVA (imposto sobre as vendas, com desconto do imposto pago antes), regido pelo Estatuto Tributário.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-rssia-seg-drogas-cb8abd",
+   "status": "PASS",
+   "claim": "Rússia / seg-drogas: Guardar droga sem intenção de vender é infração administrativa, com multa ou detenção de até 15 dias (Código de Infrações, art. 6.8); em quantidade significativa vira crime (Código Penal, art. 228).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "NEG fabricated snippet: Suécia aborto até 12 semanas",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG fabricated snippet: Suécia aborto até 12 semanas",
+   "why": [
+    "support not in cached source"
+   ]
+  },
+  {
+   "id": "NEG other country's law: Argentina text on Uruguay page",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG other country's law: Argentina text on Uruguay page",
+   "why": [
+    "support not in cached source"
+   ]
+  },
+  {
+   "id": "NEG wrong age: Rússia court age 75",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG wrong age: Rússia court age 75",
+   "why": [
+    "extra snippet not in source: предельный возраст пребывания в должности судьи ко"
+   ]
+  },
+  {
+   "id": "NEG flipped position: Espanha 40h as -1",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG flipped position: Espanha 40h as -1",
+   "why": [
+    "position -1 but rule derives 1"
+   ]
+  },
+  {
+   "id": "NEG flipped position: Índia cotas as -1",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG flipped position: Índia cotas as -1",
+   "why": [
+    "position -1 but rule derives 1"
+   ]
+  },
+  {
+   "id": "NEG wrong number in detail: Suécia aborto 22ª semana",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG wrong number in detail: Suécia aborto 22ª semana",
+   "why": [
+    "numbers in detail not in source: ['22']"
+   ]
+  }
+ ],
+ "harness_ok": true
+}

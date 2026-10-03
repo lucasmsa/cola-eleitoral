@@ -1,0 +1,59 @@
+{
+ "builtAt": "2026-10-03",
+ "electionDate": "2026-10-04",
+ "streams": {
+  "record": {
+   "rows": 211,
+   "passed": 211,
+   "new": 211
+  },
+  "platform": {
+   "rows": 84,
+   "passed": 84,
+   "new": 84
+  },
+  "alpb": {
+   "rows": 58,
+   "passed": 58,
+   "new": 58
+  },
+  "exec": {
+   "rows": 35,
+   "passed": 35,
+   "new": 35
+  },
+  "senate": {
+   "rows": 58,
+   "passed": 58,
+   "new": 58
+  },
+  "gov": {
+   "rows": 9,
+   "passed": 9,
+   "new": 9
+  },
+  "pres2": {
+   "rows": 12,
+   "passed": 12,
+   "new": 12
+  },
+  "pb2": {
+   "rows": 7,
+   "passed": 7,
+   "new": 7
+  },
+  "q3": {
+   "rows": 57,
+   "passed": 57,
+   "new": 57
+  },
+  "pres": {
+   "rows": 22,
+   "passed": 22,
+   "new": 22
+  }
+ },
+ "evidence": 536,
+ "questions": 35,
+ "droppedOffice": 17
+}

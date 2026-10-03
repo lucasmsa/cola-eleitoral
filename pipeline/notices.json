@@ -1,0 +1,62 @@
+[
+ {
+  "candidateId": "governador-27",
+  "text": "Em 30/09/2026 anunciou que deixa a disputa e que se une a Lucas Ribeiro. O TSE registrou a renúncia nos dados de 03/10/2026. O prazo para trocar candidato acabou 20 dias antes da eleição (Lei 9.504, art. 13, § 3º), então não há substituto.",
+  "sources": [
+   {
+    "url": "https://www.youtube.com/watch?v=16q1fBAtJPg",
+    "accessed": "2026-10-01",
+    "label": "Sistema Diário de Comunicação, vídeo de 30/09/2026",
+    "expect": "Pedro Coutinho do DC deixa disputa pelo Governo da Paraíba e anuncia união com Lucas Ribeiro|20260930",
+    "kind": "yt-title"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+    "accessed": "2026-10-01",
+    "label": "Lei 9.504/1997, art. 13, § 3º",
+    "expect": "a substituição só se efetivará se o novo pedido for apresentado até 20 (vinte) dias antes do pleito",
+    "kind": "law",
+    "cache": "pipeline/raw/laws/L9504.htm"
+   },
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+    "accessed": "2026-10-03",
+    "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 03/10/2026 12:30",
+    "kind": "tse-status",
+    "cache": "pipeline/raw/tse/comp_PB.csv",
+    "sq": "150002551911",
+    "expect": "RENÚNCIA"
+   }
+  ]
+ },
+ {
+  "candidateId": "governador-15",
+  "text": "O registro está deferido, mas sob recurso (TSE, dados de 03/10/2026, 12:30). Segundo o Jornal da Paraíba, o TSE formou maioria pelo indeferimento em 02/10/2026, e um pedido de vista suspendeu o julgamento; ele pode concorrer no domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A).",
+  "sources": [
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+    "accessed": "2026-10-03",
+    "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 03/10/2026 12:30",
+    "kind": "tse-status",
+    "cache": "pipeline/raw/tse/comp_PB.csv",
+    "sq": "150002544133",
+    "expect": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+   },
+   {
+    "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+    "accessed": "2026-10-03",
+    "label": "Jornal da Paraíba, 02/10/2026",
+    "kind": "web",
+    "expect": "Cícero Lucena pode concorrer ao cargo de governador no domingo (4), isso porque houve um pedido de vista"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+    "accessed": "2026-10-03",
+    "label": "Lei 9.504/1997, art. 16-A",
+    "kind": "law",
+    "cache": "pipeline/raw/laws/L9504.htm",
+    "expect": "ficando a validade dos votos a ele atribuídos condicionada ao deferimento de seu registro por instância superior"
+   }
+  ]
+ }
+]

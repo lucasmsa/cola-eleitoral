@@ -1,0 +1,5 @@
+name: trilha
+main: Node
+logs:
+  file: build/rive.log
+  problems: build/problems.log

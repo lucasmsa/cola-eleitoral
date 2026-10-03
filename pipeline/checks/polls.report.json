@@ -1,0 +1,303 @@
+[
+ {
+  "id": "president:Datafolha:Lula",
+  "status": "PASS",
+  "claim": "Lula 40% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Flávio Bolsonaro",
+  "status": "PASS",
+  "claim": "Flávio Bolsonaro 36% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Augusto Cury",
+  "status": "PASS",
+  "claim": "Augusto Cury 5% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Ronaldo Caiado",
+  "status": "PASS",
+  "claim": "Ronaldo Caiado 4% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Renan Santos",
+  "status": "PASS",
+  "claim": "Renan Santos 3% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Romeu Zema",
+  "status": "PASS",
+  "claim": "Romeu Zema 1% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:Samara",
+  "status": "PASS",
+  "claim": "Samara 1% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:branco/nulo/nenhum",
+  "status": "PASS",
+  "claim": "branco/nulo/nenhum 5% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Datafolha:indecisos",
+  "status": "PASS",
+  "claim": "indecisos 2% (Datafolha 2026-09-22/23)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+ },
+ {
+  "id": "president:Quaest:Lula",
+  "status": "PASS",
+  "claim": "Lula 39% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:Flávio Bolsonaro",
+  "status": "PASS",
+  "claim": "Flávio Bolsonaro 34% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:Augusto Cury",
+  "status": "PASS",
+  "claim": "Augusto Cury 4% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:Ronaldo Caiado",
+  "status": "PASS",
+  "claim": "Ronaldo Caiado 4% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:Renan Santos",
+  "status": "PASS",
+  "claim": "Renan Santos 3% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:Romeu Zema",
+  "status": "PASS",
+  "claim": "Romeu Zema 1% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:indecisos",
+  "status": "PASS",
+  "claim": "indecisos 5% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:Quaest:branco/nulo/não vai votar",
+  "status": "PASS",
+  "claim": "branco/nulo/não vai votar 10% (Quaest 2026-09-24/27)",
+  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Lula",
+  "status": "PASS",
+  "claim": "Lula 45.3% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Flávio Bolsonaro",
+  "status": "PASS",
+  "claim": "Flávio Bolsonaro 42.2% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Renan Santos",
+  "status": "PASS",
+  "claim": "Renan Santos 5.2% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Augusto Cury",
+  "status": "PASS",
+  "claim": "Augusto Cury 2.0% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Ronaldo Caiado",
+  "status": "PASS",
+  "claim": "Ronaldo Caiado 1.8% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:Romeu Zema",
+  "status": "PASS",
+  "claim": "Romeu Zema 0.9% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "president:AtlasIntel/Bloomberg:indecisos",
+  "status": "PASS",
+  "claim": "indecisos 1.1% (AtlasIntel/Bloomberg 2026-09-23/28)",
+  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+ },
+ {
+  "id": "governor_PB:Quaest:Lucas Ribeiro",
+  "status": "PASS",
+  "claim": "Lucas Ribeiro 49% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:Efraim Filho",
+  "status": "PASS",
+  "claim": "Efraim Filho 16% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:Cícero Lucena",
+  "status": "PASS",
+  "claim": "Cícero Lucena 15% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:Pedro Coutinho",
+  "status": "PASS",
+  "claim": "Pedro Coutinho 1% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:Camilo Duarte",
+  "status": "PASS",
+  "claim": "Camilo Duarte 0% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:Yuri Ezequiel",
+  "status": "PASS",
+  "claim": "Yuri Ezequiel 0% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:indecisos",
+  "status": "PASS",
+  "claim": "indecisos 12% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:Quaest:branco/nulo/não vai votar",
+  "status": "PASS",
+  "claim": "branco/nulo/não vai votar 7% (Quaest 2026-09-18/21)",
+  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+ },
+ {
+  "id": "governor_PB:AtlasIntel",
+  "status": "DROPPED",
+  "claim": "Fonte inconsistente: Poder360 traz 42,5% no título e 42,4% no corpo para Lucas Ribeiro; outros veículos trazem outros valores."
+ },
+ {
+  "id": "senate_PB:Quaest:João Azevêdo",
+  "status": "PASS",
+  "claim": "João Azevêdo 28% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:Veneziano",
+  "status": "PASS",
+  "claim": "Veneziano 18% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:Nabor",
+  "status": "PASS",
+  "claim": "Nabor 12% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:Dr. Marcelo Queiroga",
+  "status": "PASS",
+  "claim": "Dr. Marcelo Queiroga 7% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:Major Fábio",
+  "status": "PASS",
+  "claim": "Major Fábio 3% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:André Gadelha",
+  "status": "PASS",
+  "claim": "André Gadelha 1% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:João Batista",
+  "status": "PASS",
+  "claim": "João Batista 1% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:indecisos",
+  "status": "PASS",
+  "claim": "indecisos 14% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "senate_PB:Quaest:branco/nulo/não vai votar",
+  "status": "PASS",
+  "claim": "branco/nulo/não vai votar 16% (Quaest 2026-09-18/21)",
+  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+ },
+ {
+  "id": "NEG president:Datafolha: Lula at 63%",
+  "status": "FAIL",
+  "claim": "NEG president:Datafolha: Lula at 63%"
+ },
+ {
+  "id": "NEG president:Datafolha: Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG president:Datafolha: Pablo Marçal 31%"
+ },
+ {
+  "id": "NEG president:Quaest: Lula at 62%",
+  "status": "FAIL",
+  "claim": "NEG president:Quaest: Lula at 62%"
+ },
+ {
+  "id": "NEG president:Quaest: Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG president:Quaest: Pablo Marçal 31%"
+ },
+ {
+  "id": "NEG president:AtlasIntel/Bloomberg: Lula at 68.3%",
+  "status": "FAIL",
+  "claim": "NEG president:AtlasIntel/Bloomberg: Lula at 68.3%"
+ },
+ {
+  "id": "NEG president:AtlasIntel/Bloomberg: Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG president:AtlasIntel/Bloomberg: Pablo Marçal 31%"
+ },
+ {
+  "id": "NEG governor_PB:Quaest: Lucas Ribeiro at 72%",
+  "status": "FAIL",
+  "claim": "NEG governor_PB:Quaest: Lucas Ribeiro at 72%"
+ },
+ {
+  "id": "NEG governor_PB:Quaest: Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG governor_PB:Quaest: Pablo Marçal 31%"
+ },
+ {
+  "id": "NEG senate_PB:Quaest: João Azevêdo at 51%",
+  "status": "FAIL",
+  "claim": "NEG senate_PB:Quaest: João Azevêdo at 51%"
+ },
+ {
+  "id": "NEG senate_PB:Quaest: Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG senate_PB:Quaest: Pablo Marçal 31%"
+ }
+]

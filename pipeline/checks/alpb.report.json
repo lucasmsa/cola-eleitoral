@@ -1,0 +1,557 @@
+{
+ "claims": [
+  {
+   "i": 0,
+   "id": "plat-governador-27-pb-concessoes-ppp-p2",
+   "candidateId": "governador-27",
+   "questionId": "pb-concessoes-ppp",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 1,
+   "id": "plat-governador-27-pb-concessoes-ppp-p5",
+   "candidateId": "governador-27",
+   "questionId": "pb-concessoes-ppp",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 2,
+   "id": "plat-governador-22-pb-concessoes-ppp-p8",
+   "candidateId": "governador-22",
+   "questionId": "pb-concessoes-ppp",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 3,
+   "id": "plat-governador-22-pb-concessoes-ppp-p10",
+   "candidateId": "governador-22",
+   "questionId": "pb-concessoes-ppp",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 4,
+   "id": "plat-governador-80-pb-concessoes-ppp-p3",
+   "candidateId": "governador-80",
+   "questionId": "pb-concessoes-ppp",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 5,
+   "id": "plat-governador-15-pb-incentivos-fiscais-p55",
+   "candidateId": "governador-15",
+   "questionId": "pb-incentivos-fiscais",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 6,
+   "id": "plat-governador-22-pb-incentivos-fiscais-p4",
+   "candidateId": "governador-22",
+   "questionId": "pb-incentivos-fiscais",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 7,
+   "id": "plat-governador-80-pb-incentivos-fiscais-p2",
+   "candidateId": "governador-80",
+   "questionId": "pb-incentivos-fiscais",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 8,
+   "id": "plat-governador-80-pb-desmilitarizar-pm-p5",
+   "candidateId": "governador-80",
+   "questionId": "pb-desmilitarizar-pm",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 9,
+   "id": "plat-governador-29-pb-desmilitarizar-pm-p5",
+   "candidateId": "governador-29",
+   "questionId": "pb-desmilitarizar-pm",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 10,
+   "id": "rec-alpb-22453-deputado_estadual-43789",
+   "candidateId": "deputado_estadual-43789",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 11,
+   "id": "rec-alpb-22453-deputado_estadual-11113",
+   "candidateId": "deputado_estadual-11113",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 12,
+   "id": "rec-alpb-22453-deputado_estadual-43147",
+   "candidateId": "deputado_estadual-43147",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 13,
+   "id": "rec-alpb-22453-deputado_estadual-10660",
+   "candidateId": "deputado_estadual-10660",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 14,
+   "id": "rec-alpb-22453-deputado_estadual-10110",
+   "candidateId": "deputado_estadual-10110",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 15,
+   "id": "rec-alpb-22453-deputado_federal-2211",
+   "candidateId": "deputado_federal-2211",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 16,
+   "id": "rec-alpb-22453-deputado_estadual-11369",
+   "candidateId": "deputado_estadual-11369",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 17,
+   "id": "rec-alpb-22453-deputado_estadual-10888",
+   "candidateId": "deputado_estadual-10888",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 18,
+   "id": "rec-alpb-22453-deputado_estadual-10456",
+   "candidateId": "deputado_estadual-10456",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 19,
+   "id": "rec-alpb-22453-deputado_estadual-11333",
+   "candidateId": "deputado_estadual-11333",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 20,
+   "id": "rec-alpb-22453-deputado_estadual-22999",
+   "candidateId": "deputado_estadual-22999",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 21,
+   "id": "rec-alpb-22453-deputado_estadual-22190",
+   "candidateId": "deputado_estadual-22190",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 22,
+   "id": "rec-alpb-22453-deputado_estadual-13400",
+   "candidateId": "deputado_estadual-13400",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 23,
+   "id": "rec-alpb-22453-deputado_estadual-65123",
+   "candidateId": "deputado_estadual-65123",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 24,
+   "id": "rec-alpb-22453-deputado_estadual-15555",
+   "candidateId": "deputado_estadual-15555",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 25,
+   "id": "rec-alpb-22453-deputado_estadual-11789",
+   "candidateId": "deputado_estadual-11789",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 26,
+   "id": "rec-alpb-22453-deputado_estadual-15123",
+   "candidateId": "deputado_estadual-15123",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 27,
+   "id": "rec-alpb-22453-deputado_estadual-11777",
+   "candidateId": "deputado_estadual-11777",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 28,
+   "id": "rec-alpb-22453-deputado_federal-1033",
+   "candidateId": "deputado_federal-1033",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 29,
+   "id": "rec-alpb-22453-deputado_estadual-15100",
+   "candidateId": "deputado_estadual-15100",
+   "questionId": "pb-cac-arma",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 30,
+   "id": "rec-alpb-49945-deputado_estadual-10444",
+   "candidateId": "deputado_estadual-10444",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 31,
+   "id": "rec-alpb-49945-deputado_estadual-43147",
+   "candidateId": "deputado_estadual-43147",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 32,
+   "id": "rec-alpb-49945-deputado_estadual-11113",
+   "candidateId": "deputado_estadual-11113",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 33,
+   "id": "rec-alpb-49945-deputado_estadual-10888",
+   "candidateId": "deputado_estadual-10888",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 34,
+   "id": "rec-alpb-49945-deputado_estadual-15111",
+   "candidateId": "deputado_estadual-15111",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 35,
+   "id": "rec-alpb-49945-deputado_estadual-43789",
+   "candidateId": "deputado_estadual-43789",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 36,
+   "id": "rec-alpb-49945-deputado_estadual-13400",
+   "candidateId": "deputado_estadual-13400",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 37,
+   "id": "rec-alpb-49945-deputado_estadual-10456",
+   "candidateId": "deputado_estadual-10456",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 38,
+   "id": "rec-alpb-49945-deputado_estadual-22190",
+   "candidateId": "deputado_estadual-22190",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 39,
+   "id": "rec-alpb-49945-deputado_estadual-11111",
+   "candidateId": "deputado_estadual-11111",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 40,
+   "id": "rec-alpb-49945-deputado_estadual-65123",
+   "candidateId": "deputado_estadual-65123",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 41,
+   "id": "rec-alpb-49945-deputado_estadual-11333",
+   "candidateId": "deputado_estadual-11333",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 42,
+   "id": "rec-alpb-49945-deputado_estadual-15999",
+   "candidateId": "deputado_estadual-15999",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 43,
+   "id": "rec-alpb-49945-deputado_estadual-11222",
+   "candidateId": "deputado_estadual-11222",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 44,
+   "id": "rec-alpb-49945-deputado_federal-2211",
+   "candidateId": "deputado_federal-2211",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 45,
+   "id": "rec-alpb-49945-deputado_estadual-44555",
+   "candidateId": "deputado_estadual-44555",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 46,
+   "id": "rec-alpb-49945-deputado_estadual-15123",
+   "candidateId": "deputado_estadual-15123",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 47,
+   "id": "rec-alpb-49945-deputado_estadual-65555",
+   "candidateId": "deputado_estadual-65555",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 48,
+   "id": "rec-alpb-49945-deputado_estadual-11611",
+   "candidateId": "deputado_estadual-11611",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 49,
+   "id": "rec-alpb-49945-deputado_estadual-11369",
+   "candidateId": "deputado_estadual-11369",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 50,
+   "id": "rec-alpb-49945-deputado_estadual-11777",
+   "candidateId": "deputado_estadual-11777",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 51,
+   "id": "rec-alpb-49945-deputado_estadual-10123",
+   "candidateId": "deputado_estadual-10123",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 52,
+   "id": "rec-alpb-49945-deputado_estadual-10660",
+   "candidateId": "deputado_estadual-10660",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 53,
+   "id": "rec-alpb-49945-deputado_estadual-11011",
+   "candidateId": "deputado_estadual-11011",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 54,
+   "id": "rec-alpb-49945-deputado_estadual-22999",
+   "candidateId": "deputado_estadual-22999",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 55,
+   "id": "rec-alpb-49945-deputado_federal-1022",
+   "candidateId": "deputado_federal-1022",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 56,
+   "id": "rec-alpb-49945-deputado_estadual-11789",
+   "candidateId": "deputado_estadual-11789",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": 57,
+   "id": "rec-alpb-49945-deputado_estadual-15100",
+   "candidateId": "deputado_estadual-15100",
+   "questionId": "pb-nome-social",
+   "status": "PASS",
+   "reasons": []
+  }
+ ],
+ "questions": [
+  {
+   "i": "q:pb-cac-arma",
+   "claim": "Em 14/02/2023 a ALPB votou o veto do governador ao PL 3.536/2022, que fazia esse reconhecimento. O veto, por inconstitucionalidade, foi mantido com 9 votos SIM (derrubar o veto) e 15 NÃO. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": "q:pb-nome-social",
+   "claim": "Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica. Em 23/09/2025 a ALPB manteve o veto do governador ao PL 2.496/2024, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": "q:rule:22453",
+   "claim": "SIM rejeita o veto e aprova o projeto",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": "q:rule:49945",
+   "claim": "SIM rejeita o veto e aprova o projeto",
+   "status": "PASS",
+   "reasons": []
+  },
+  {
+   "i": "q:pb-desmilitarizar-pm",
+   "claim": "A Constituição Federal define as PMs como forças auxiliares e reserva do Exército, subordinadas aos governadores (art. 144, § 6º), e reserva à União as normas gerais de sua organização (art. 22, XXI). Mudar isso depende do Congresso; o governo estadual comanda a PM e define prioridades.",
+   "status": "PASS",
+   "reasons": []
+  }
+ ],
+ "controls": [
+  {
+   "control": "Wallber Virgolino voted NÃO on veto 321/2022 (he voted SIM)",
+   "status": "FAIL",
+   "expected": "FAIL",
+   "reasons": [
+    "cached SAPL vote is ['Sim'], claim Não",
+    "live SAPL vote is ['Sim'], claim Não"
+   ]
+  },
+  {
+   "control": "Yuri Ezequiel plan says \"Ampliar concessões e PPPs\" (it is Pedro Coutinho)",
+   "status": "FAIL",
+   "expected": "FAIL",
+   "reasons": [
+    "quote not on p. 5",
+    "date 2026-08-12 != PDF CreationDate"
+   ]
+  },
+  {
+   "control": "Cícero Lucena plan file belongs to governador-11",
+   "status": "FAIL",
+   "expected": "FAIL",
+   "reasons": [
+    "plan file 2026PB150002544133_01.pdf belongs to ('GOVERNADOR', '15'), claim governador-11",
+    "roster.json maps a different plan file"
+   ]
+  },
+  {
+   "control": "veto 321/2022 voted on 2023-02-15 (it was 2023-02-14)",
+   "status": "FAIL",
+   "expected": "FAIL",
+   "reasons": [
+    "cached session date 2023-02-14 != 2023-02-15",
+    "live session date 2023-02-14 != 2023-02-15"
+   ]
+  },
+  {
+   "control": "veto 214/2025 tally was 24 SIM x 7 NÃO (swapped)",
+   "status": "FAIL",
+   "expected": "FAIL",
+   "reasons": [
+    "cached 3_ordinaria_itinerante_2025.pdf lacks /obtendo 24 votos SIM, 07 votos NÃO/",
+    "live 3_ordinaria_itinerante_2025.pdf lacks /obtendo 24 votos SIM, 07 votos NÃO/",
+    "context tally text"
+   ]
+  }
+ ],
+ "summary": {
+  "evidence_pass": 58,
+  "evidence_fail": 0,
+  "question_pass": 5,
+  "question_fail": 0,
+  "controls_failed_as_expected": 5,
+  "controls_total": 5,
+  "harness_ok": true
+ }
+}

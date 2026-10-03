@@ -1,0 +1,972 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "q3-question-q3-fim-reeleicao",
+   "status": "PASS",
+   "claim": "A reeleição para presidente, governador e prefeito deve acabar.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-civico-militar",
+   "status": "PASS",
+   "claim": "O governo deve ampliar as escolas cívico-militares, em que militares cuidam da disciplina em escolas públicas.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-maconha-uso",
+   "status": "PASS",
+   "claim": "Portar até 40 gramas de maconha para uso próprio não deve ser crime, como decidiu o STF em 2024.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-grandes-fortunas",
+   "status": "PASS",
+   "claim": "O Brasil deve criar o imposto sobre grandes fortunas, previsto na Constituição e nunca regulamentado.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-tarifa-zero",
+   "status": "PASS",
+   "claim": "O transporte público por ônibus deve ser gratuito para todos (tarifa zero), pago com dinheiro público.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-redes-sociais",
+   "status": "PASS",
+   "claim": "As redes sociais devem ser obrigadas por lei a remover conteúdo criminoso e responder na Justiça quando não agirem.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-pec-seguranca",
+   "status": "PASS",
+   "claim": "A União deve ganhar mais poder para coordenar a segurança pública em todo o país, como prevê a PEC da Segurança.",
+   "why": []
+  },
+  {
+   "id": "q3-question-q3-estabilidade",
+   "status": "PASS",
+   "claim": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
+   "why": []
+  },
+  {
+   "id": "q3-options-soc-aborto",
+   "status": "PASS",
+   "claim": "escala de respostas de soc-aborto",
+   "why": []
+  },
+  {
+   "id": "q3-options-seg-drogas",
+   "status": "PASS",
+   "claim": "escala de respostas de seg-drogas",
+   "why": []
+  },
+  {
+   "id": "q3-options-seg-armas",
+   "status": "PASS",
+   "claim": "escala de respostas de seg-armas",
+   "why": []
+  },
+  {
+   "id": "q3-options-eco-privatizacao",
+   "status": "PASS",
+   "claim": "escala de respostas de eco-privatizacao",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-whatItIs-0",
+   "status": "PASS",
+   "claim": "A reeleição para presidente, governadores e prefeitos existe no Brasil desde 1997.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-whatItIs-1",
+   "status": "PASS",
+   "claim": "A PEC 12/2022 acaba com a reeleição consecutiva para os chefes do Executivo e foi aprovada na CCJ do Senado em 21 de maio de 2025.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-inPractice-0",
+   "status": "PASS",
+   "claim": "Pela proposta, os mandatos passariam a ter cinco anos e todas as eleições aconteceriam no mesmo ano.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-inPractice-1",
+   "status": "PASS",
+   "claim": "A proibição começaria em 2028 para prefeitos e em 2030 para presidente e governadores.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-inPractice-2",
+   "status": "PASS",
+   "claim": "Para virar regra, precisa de pelo menos 49 votos no Senado e 308 na Câmara, em dois turnos em cada Casa.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-argsFor-0",
+   "status": "PASS",
+   "claim": "O relator, Marcelo Castro, argumenta que a reeleição estimula medidas de retorno eleitoral rápido em vez de projetos de longo prazo.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-argsFor-1",
+   "status": "PASS",
+   "claim": "O parecer aprovado na CCJ diz que a reeleição favorece quem já está no cargo e dificulta a renovação política.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-argsAgainst-0",
+   "status": "PASS",
+   "claim": "Críticos dizem que o fim da reeleição tira do eleitor a chance de manter um governante bem avaliado.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-argsAgainst-1",
+   "status": "PASS",
+   "claim": "Outro argumento contrário é que a reeleição funciona como prestação de contas: o eleitor premia ou pune a gestão.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-nuance-0",
+   "status": "PASS",
+   "claim": "Dá para ser contra a reeleição e contra o mandato de cinco anos: opositores dizem que cinco anos podem prolongar governos ruins.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-fim-reeleicao-nuance-1",
+   "status": "PASS",
+   "claim": "A eleição unificada também é debatida à parte: críticos temem que temas locais sejam engolidos pela disputa presidencial.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-whatItIs-0",
+   "status": "PASS",
+   "claim": "No modelo cívico-militar, reservistas das Forças Armadas, policiais militares e bombeiros passam a trabalhar em escolas públicas comuns.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-whatItIs-1",
+   "status": "PASS",
+   "claim": "O programa federal foi revogado pelo Decreto 11.611, de 19 de julho de 2023.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-inPractice-0",
+   "status": "PASS",
+   "claim": "Com o fim do programa federal, as 216 escolas que tinham aderido deveriam voltar ao modelo comum.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-inPractice-1",
+   "status": "PASS",
+   "claim": "Governadores como os de São Paulo e do Rio Grande do Sul anunciaram que manteriam o modelo em suas redes.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-argsFor-0",
+   "status": "PASS",
+   "claim": "Defensores dizem que a presença de militares traz disciplina e um ambiente menos violento.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-argsFor-1",
+   "status": "PASS",
+   "claim": "Uma pesquisa citada pela Politize! encontrou melhora no Ideb e queda da violência em escolas de Goiânia que aderiram.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-argsAgainst-0",
+   "status": "PASS",
+   "claim": "O Todos Pela Educação argumenta que o modelo militarizado deveria ficar restrito às escolas das Forças Armadas e desvia recursos da educação.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-argsAgainst-1",
+   "status": "PASS",
+   "claim": "Professores criticam a troca da autoridade do professor pela do militar.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-nuance-0",
+   "status": "PASS",
+   "claim": "Há crítica também sobre custo: os estados poderiam não ter orçamento para contratar o pessoal extra sem tirar de outras áreas.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-civico-militar-nuance-1",
+   "status": "PASS",
+   "claim": "O então ministro da Educação, Camilo Santana, apontou que militares do programa recebiam bônus de R$ 9 mil, acima do salário médio de professor.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-whatItIs-0",
+   "status": "PASS",
+   "claim": "Por 6 votos a 3, o STF decidiu que portar maconha para uso pessoal não é crime e fixou 40 gramas para diferenciar usuário de traficante.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-whatItIs-1",
+   "status": "PASS",
+   "claim": "O porte continua proibido: passou a ser um ilícito administrativo, não penal.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-inPractice-0",
+   "status": "PASS",
+   "claim": "Consumir em local público continua vedado.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-inPractice-1",
+   "status": "PASS",
+   "claim": "O juiz ainda pode tratar como traficante quem está com uma quantidade permitida, mas com balança de precisão e muito dinheiro vivo.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-argsFor-0",
+   "status": "PASS",
+   "claim": "O senador Marcelo Castro, que é psiquiatra, defende que dependentes precisam de atendimento médico e não de tratamento como criminosos.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-argsFor-1",
+   "status": "PASS",
+   "claim": "Para o senador Jaques Wagner, encher as cadeias não resolve o problema das drogas.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-argsAgainst-0",
+   "status": "PASS",
+   "claim": "O senador Rodrigo Pacheco, autor da PEC das drogas, argumenta que a decisão do STF invade a competência do Congresso e da Anvisa.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-argsAgainst-1",
+   "status": "PASS",
+   "claim": "A PEC aprovada no Senado torna crime a posse de qualquer quantidade, mas proíbe prender o usuário.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-nuance-0",
+   "status": "PASS",
+   "claim": "O presidente do STF disse que a decisão disciplina a ilicitude e não legaliza a maconha.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-maconha-uso-nuance-1",
+   "status": "PASS",
+   "claim": "A decisão do STF partiu do artigo 28 da Lei de Drogas, de 2006, que trata do porte para consumo pessoal.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-whatItIs-0",
+   "status": "PASS",
+   "claim": "O imposto sobre grandes fortunas está no art. 153, VII, da Constituição de 1988, mas nunca foi regulamentado.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-whatItIs-1",
+   "status": "PASS",
+   "claim": "Diferente do imposto de renda, ele incide sobre o patrimônio acumulado, não sobre o que a pessoa ganha no ano.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-inPractice-0",
+   "status": "PASS",
+   "claim": "Propostas em debate cobrariam só de patrimônios acima de R$ 20 milhões.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-inPractice-1",
+   "status": "PASS",
+   "claim": "Poucos países cobram hoje: Espanha, Noruega, Suíça, Argentina, Colômbia e Uruguai, segundo a Capital Aberto.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-argsFor-0",
+   "status": "PASS",
+   "claim": "Segundo a Receita Federal, citada pela Politize!, os 10% mais pobres pagam proporcionalmente muito mais impostos que os mais ricos.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-argsFor-1",
+   "status": "PASS",
+   "claim": "O economista Pedro Humberto argumenta que, como os contribuintes seriam poucos, a Receita teria como combater a sonegação.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-argsAgainst-0",
+   "status": "PASS",
+   "claim": "O principal argumento contrário é a fuga de capitais: os mais ricos levariam o dinheiro para outros países.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-argsAgainst-1",
+   "status": "PASS",
+   "claim": "A Capital Aberto lembra que vários países abandonaram o imposto por baixa arrecadação e fuga de capitais.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-nuance-0",
+   "status": "PASS",
+   "claim": "Há quem queira mais imposto sobre os ricos mas prefira outro caminho, como taxar lucros e dividendos.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-grandes-fortunas-nuance-1",
+   "status": "PASS",
+   "claim": "O pesquisador Celso Olindo Junior defende mudar o peso dos impostos para renda e propriedade em vez de criar o IGF.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-whatItIs-0",
+   "status": "PASS",
+   "claim": "Segundo a NTU, 145 municípios oferecem gratuidade total ou parcial nos ônibus, e em 120 deles vale todos os dias para todos.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-whatItIs-1",
+   "status": "PASS",
+   "claim": "Em média, o dinheiro público já cobre 32% do custo do serviço de ônibus no Brasil; o resto é pago pelos passageiros.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-inPractice-0",
+   "status": "PASS",
+   "claim": "Um grupo de pesquisa estimou em R$ 100 bilhões por ano o custo de bancar todo o transporte público do país.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-inPractice-1",
+   "status": "PASS",
+   "claim": "A maioria das cidades com tarifa zero é pequena: 61% têm menos de 50 mil habitantes.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-argsFor-0",
+   "status": "PASS",
+   "claim": "As prefeituras que adotaram dizem que a medida reduz desigualdades, melhora o trânsito e incentiva o transporte coletivo.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-argsFor-1",
+   "status": "PASS",
+   "claim": "O ministro das Cidades vê a gratuidade como resposta à crise do modelo atual de financiamento dos ônibus.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-argsAgainst-0",
+   "status": "PASS",
+   "claim": "A NTU, que reúne as empresas de ônibus, defende tarifa acessível e alerta que sem planejamento o sistema pode entrar em colapso.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-argsAgainst-1",
+   "status": "PASS",
+   "claim": "Nas capitais o custo é muito maior, o que dificulta universalizar a gratuidade.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-nuance-0",
+   "status": "PASS",
+   "claim": "Há caminhos intermediários: gratuidade aos domingos, só para desempregados ou só em linhas de periferia.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-tarifa-zero-nuance-1",
+   "status": "PASS",
+   "claim": "Algumas cidades cobram uma taxa das empresas no lugar do vale-transporte para ajudar a pagar a conta.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-whatItIs-0",
+   "status": "PASS",
+   "claim": "O PL das Fake News cria regras para plataformas como Google, Meta, TikTok, WhatsApp e Telegram.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-whatItIs-1",
+   "status": "PASS",
+   "claim": "O ponto central é tornar obrigatória a moderação de conteúdo criminoso.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-inPractice-0",
+   "status": "PASS",
+   "claim": "O projeto responsabiliza as empresas por conteúdo publicado por terceiros, o que hoje não tem previsão em lei.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-inPractice-1",
+   "status": "PASS",
+   "claim": "A Câmara aprovou a urgência do projeto por 238 votos a 192.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-argsFor-0",
+   "status": "PASS",
+   "claim": "Defensores dizem que a lei fortalece a democracia e controla a difusão de notícias falsas e discursos de ódio.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-argsFor-1",
+   "status": "PASS",
+   "claim": "O projeto também exige identificar quem patrocina anúncios, para evitar golpes financeiros.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-argsAgainst-0",
+   "status": "PASS",
+   "claim": "Críticos, sobretudo à direita, chamam o texto de \"PL da Censura\" e dizem que ele ameaça a liberdade de expressão.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-argsAgainst-1",
+   "status": "PASS",
+   "claim": "O partido Novo diz que o projeto transforma as plataformas em \"polícias digitais\".",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-nuance-0",
+   "status": "PASS",
+   "claim": "As próprias big techs também se opuseram, por temer punições e riscos à liberdade de expressão.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-redes-sociais-nuance-1",
+   "status": "PASS",
+   "claim": "Uma das versões do texto previa um conselho autônomo para supervisionar as plataformas, um dos pontos mais disputados.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-whatItIs-0",
+   "status": "PASS",
+   "claim": "A PEC da Segurança põe na Constituição o Sistema Único de Segurança Pública (Susp) e reforça a integração entre as forças de União, estados e municípios.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-whatItIs-1",
+   "status": "PASS",
+   "claim": "O texto também dá à Polícia Federal competência expressa contra facções e milícias que atuam entre estados ou fora do país.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-inPractice-0",
+   "status": "PASS",
+   "claim": "A Câmara aprovou a PEC por 487 a 15 no primeiro turno e 461 a 14 no segundo.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-inPractice-1",
+   "status": "PASS",
+   "claim": "A PEC autoriza municípios a criarem polícias municipais para policiamento ostensivo e comunitário.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-argsFor-0",
+   "status": "PASS",
+   "claim": "O cientista político Eduardo Grin compara o desenho ao SUS: mais coordenação federal, com regras para acessar o fundo de segurança.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-argsFor-1",
+   "status": "PASS",
+   "claim": "O então ministro da Justiça, Ricardo Lewandowski, disse que a nova redação resolvia o ponto central da disputa, a autonomia dos estados.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-argsAgainst-0",
+   "status": "PASS",
+   "claim": "O governador de São Paulo, Tarcísio de Freitas, disse que a proposta original era uma \"afronta\" à autonomia dos estados.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-argsAgainst-1",
+   "status": "PASS",
+   "claim": "Tarcísio também chamou a proposta de \"cosmética\", sem resolver os problemas.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-nuance-0",
+   "status": "PASS",
+   "claim": "O texto aprovado diz que as novas atribuições da União não tiram dos governadores o comando das polícias.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-pec-seguranca-nuance-1",
+   "status": "PASS",
+   "claim": "A base do governo teme que o Senado inclua temas que ficaram de fora, como a redução da maioridade penal.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-whatItIs-0",
+   "status": "PASS",
+   "claim": "A reforma administrativa mais recente, apresentada na Câmara, mantém a estabilidade, mas endurece o estágio probatório.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-whatItIs-1",
+   "status": "PASS",
+   "claim": "Uma versão anterior, a PEC 32/2020, reduzia a estabilidade e abria brechas para corte de salários.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-inPractice-0",
+   "status": "PASS",
+   "claim": "Na versão anterior, duas avaliações ruins seguidas ou três alternadas abririam processo de exoneração.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-inPractice-1",
+   "status": "PASS",
+   "claim": "Na proposta mais recente, a aquisição da estabilidade depende de comprovar desempenho no estágio probatório.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-argsFor-0",
+   "status": "PASS",
+   "claim": "O relator Pedro Paulo defende avaliações regulares como \"meritocracia\" voltada a resultados.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-argsFor-1",
+   "status": "PASS",
+   "claim": "Ele argumenta que o cidadão tem péssima percepção da qualidade do serviço diante dos impostos que paga.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-argsAgainst-0",
+   "status": "PASS",
+   "claim": "O consultor do Senado Luiz Alberto dos Santos previu que a versão anterior da reforma aumentaria a corrupção e reduziria a transparência.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-argsAgainst-1",
+   "status": "PASS",
+   "claim": "Para ele, reduzir a estabilidade fragiliza e precariza o funcionalismo.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-nuance-0",
+   "status": "PASS",
+   "claim": "O relator da proposta mais recente diz que a lei não vai fixar um número de avaliações ruins que leve automaticamente à demissão.",
+   "why": []
+  },
+  {
+   "id": "q3-exp-q3-estabilidade-nuance-1",
+   "status": "PASS",
+   "claim": "A proposta mais recente trata a estabilidade como salvaguarda institucional.",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-22-q3-fim-reeleicao",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe o fim da reeleição para presidente (p. 66).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-70-q3-fim-reeleicao",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE se declara contra a reeleição (p. 155).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-55-q3-fim-reeleicao",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe uma PEC para extinguir a reeleição no Executivo (p. 8).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-22-q3-civico-militar",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe ampliar as escolas cívico-militares (p. 35).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-30-q3-civico-militar",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE inclui as escolas cívico-militares na agenda de parcerias da educação (p. 53).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-21-q3-civico-militar",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe o fim das escolas cívico-militares (p. 10).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-21-q3-maconha-uso",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe descriminalizar o uso de drogas e legalizar a maconha (p. 12).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-16-q3-maconha-uso",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe descriminalizar as drogas (p. 19).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-80-q3-grandes-fortunas",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe imposto progressivo sobre grandes fortunas (p. 16).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-16-q3-grandes-fortunas",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe imposto progressivo sobre grandes fortunas (p. 27).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-21-q3-grandes-fortunas",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe imposto sobre grandes fortunas (p. 14).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-29-q3-grandes-fortunas",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe imposto sobre grandes fortunas (p. 3).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-16-q3-tarifa-zero",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe tarifa zero no transporte público (p. 14).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-21-q3-tarifa-zero",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe tarifa zero para toda a população (p. 11).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-governador-11-q3-tarifa-zero",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe passe livre para estudantes universitários, sem tarifa zero geral (p. 12).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-governador-15-q3-tarifa-zero",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe passe livre para estudantes da rede pública, sem tarifa zero geral (p. 75).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-13-q3-redes-sociais",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE defende regular redes sociais e plataformas para impedir a difusão de desinformação (p. 16).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-21-q3-redes-sociais",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE defende forte regulação das big techs e redes sociais (p. 13).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-70-q3-redes-sociais",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE propõe mais responsabilidade das plataformas só para conteúdo prejudicial a crianças e adolescentes (p. 91).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-13-q3-pec-seguranca",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE defende a PEC da Segurança Pública proposta pelo governo (p. 30).",
+   "why": []
+  },
+  {
+   "id": "q3-plat-presidente-29-q3-estabilidade",
+   "status": "PASS",
+   "claim": "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4).",
+   "why": []
+  },
+  {
+   "id": "q3-exec-presidente-13-q3-civico-militar",
+   "status": "PASS",
+   "claim": "O governo Lula revogou o Programa Nacional das Escolas Cívico-Militares pelo Decreto 11.611/2023, assinado pelo vice-presidente Geraldo Alckmin no exercício da Presidência.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2030-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSC).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2222-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PL).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-6565-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSB).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1044-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1010-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2026-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSC).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1011-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1111-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PP).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1345-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PT).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-Fdr_PSOL_REDE-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-NOVO-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-PL-q3-redes-sociais-cd2310837-8",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-5555-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PP).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2030-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PODE).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-4444-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no UNIÃO).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2222-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PL).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-6565-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PSB).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1044-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1010-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-2026-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PODE).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1011-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1111-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PP).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-deputado_federal-1345-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PT).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-PL-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-NOVO-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-PDT-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-PSB-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-list-Fdr_PSOL_REDE-q3-pec-seguranca-cd2500080-320",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+   "why": []
+  },
+  {
+   "id": "q3-rec-senador-155-q3-redes-sociais-sf6147",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.630/2020 (PL das Fake News), substitutivo no Senado, 30/06/2020 (então no PSB).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-presidente-22-q3-redes-sociais-sf6147",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 2.630/2020 (PL das Fake News), substitutivo no Senado, 30/06/2020 (então sem partido).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-senador-155-q3-maconha-uso-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no MDB).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-governador-22-q3-maconha-uso-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no UNIÃO).",
+   "why": []
+  },
+  {
+   "id": "q3-rec-presidente-22-q3-maconha-uso-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no PL).",
+   "why": []
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG fabricated support snippet",
+   "status": "FAIL",
+   "why": [
+    "support not in source",
+    "numbers in text not in support: ['1997']"
+   ]
+  },
+  {
+   "id": "NEG real support moved to another source",
+   "status": "FAIL",
+   "why": [
+    "support not in source"
+   ]
+  },
+  {
+   "id": "NEG explainer names a ballot candidate",
+   "status": "FAIL",
+   "why": [
+    "names a 2026 ballot candidate: ['lula']"
+   ]
+  },
+  {
+   "id": "NEG flipped Câmara vote",
+   "status": "FAIL",
+   "why": [
+    "position 1 but source says Não (sign 1)"
+   ]
+  },
+  {
+   "id": "NEG maconha vote read without the sign flip",
+   "status": "FAIL",
+   "why": [
+    "position 1 but source says Sim (sign -1)"
+   ]
+  },
+  {
+   "id": "NEG plan quote on the wrong page",
+   "status": "FAIL",
+   "why": [
+    "quote not on PDF page 69",
+    "detail page differs"
+   ]
+  },
+  {
+   "id": "NEG plan quote attributed to another candidate",
+   "status": "FAIL",
+   "why": [
+    "plan 2026BR280002551975_01.pdf belongs to presidente-21, not presidente-13"
+   ]
+  },
+  {
+   "id": "NEG wrong number in claim text",
+   "status": "FAIL",
+   "why": [
+    "numbers in text not in support: ['41']"
+   ]
+  },
+  {
+   "id": "NEG wrong year in question context",
+   "status": "FAIL",
+   "why": [
+    "context numbers not in snippets: ['2023']"
+   ]
+  }
+ ]
+}

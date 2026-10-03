@@ -1,0 +1,960 @@
+[
+ {
+  "id": "eco-reforma-tributaria",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A reforma tributária que troca vários impostos sobre consumo por IBS e CBS deve ser mantida.",
+  "context": "PEC 45/2019 (reforma tributária), 1º turno na Câmara: aprovada em 06/07/2023 (382 sim, 118 não, 3 abstenção). PEC 45/2019 (reforma tributária), 2º turno no Senado: votação em 08/11/2023 (53 sim, 24 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2196833-326"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2019",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6777"
+   }
+  ]
+ },
+ {
+  "id": "eco-arcabouco",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O arcabouço fiscal atual deve ser mantido.",
+  "context": "PLP 93/2023 (arcabouço fiscal) na Câmara: aprovada em 23/05/2023 (372 sim, 108 não, 1 abstenção). PLP 93/2023 (arcabouço fiscal) no Senado: votação em 21/06/2023 (57 sim, 17 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2357053-47"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=93&ano=2023",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6714"
+   }
+  ]
+ },
+ {
+  "id": "eco-privatizacao",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Empresas estatais como a Eletrobras devem ser privatizadas.",
+  "context": "MP 1.031/2021 (privatização da Eletrobras) na Câmara: aprovada em 19/05/2021 (313 sim, 166 não, 5 abstenção). MP 1.031/2021 (privatização da Eletrobras) no Senado: votação em 16/06/2021 (42 sim, 37 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2270789-73"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=MPV&numero=1031&ano=2021",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6377"
+   }
+  ],
+  "options": [
+   {
+    "label": "Reestatizar o que foi privatizado",
+    "value": -1
+   },
+   {
+    "label": "Manter as estatais que existem hoje",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, caso a caso",
+    "value": 0
+   },
+   {
+    "label": "Privatizar algumas, mantendo as estratégicas",
+    "value": 0.5
+   },
+   {
+    "label": "Privatizar a maioria das estatais",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "eco-bc-autonomo",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O Banco Central deve ter autonomia formal, com mandato fixo para seus diretores.",
+  "context": "PLP 19/2019 (autonomia do Banco Central) na Câmara: aprovada em 10/02/2021 (339 sim, 114 não, 1 abstenção). PLP 19/2019 (autonomia do Banco Central) no Senado: votação em 03/11/2020 (56 sim, 12 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2265124-70"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=19&ano=2019",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6248"
+   }
+  ]
+ },
+ {
+  "id": "eco-ir-alta-renda",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A isenção do IR para quem ganha até R$ 5 mil deve ser paga com um imposto mínimo sobre altas rendas.",
+  "context": "PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara: aprovada em 01/10/2025 (493 sim).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2487436-169"
+   }
+  ]
+ },
+ {
+  "id": "seg-saidinha",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal",
+   "governador"
+  ],
+  "statement": "A saída temporária de presos em feriados (saidinha) deve acabar.",
+  "context": "PL 2.253/2022 (restrição da saída temporária de presos) no Senado: votação em 20/02/2024 (62 sim, 2 não, 1 abstenção).",
+  "sources": [
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2253&ano=2022",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6818"
+   }
+  ]
+ },
+ {
+  "id": "seg-drogas",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Portar droga em qualquer quantidade deve ser crime previsto na Constituição.",
+  "context": "PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado: votação em 16/04/2024 (53 sim, 9 não).",
+  "sources": [
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6824"
+   }
+  ],
+  "options": [
+   {
+    "label": "Descriminalizar o porte de todas as drogas para uso próprio",
+    "value": -1
+   },
+   {
+    "label": "Não ser crime só pequena quantidade de maconha, como decidiu o STF",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Crime, mas pela lei comum, sem mudar a Constituição",
+    "value": 0.5
+   },
+   {
+    "label": "Crime em qualquer quantidade, escrito na Constituição",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "seg-8-janeiro",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Condenados pelos atos de 8 de janeiro de 2023 devem ter as penas reduzidas ou ser anistiados.",
+  "context": "PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara: aprovada em 09/12/2025 (291 sim, 148 não, 1 abstenção). PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado: votação em 17/12/2025 (48 sim, 25 não, 1 abstenção).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2358548-89"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2162&ano=2023",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 7041"
+   }
+  ]
+ },
+ {
+  "id": "seg-blindagem",
+  "area": "seguranca",
+  "offices": [
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Processar criminalmente um parlamentar deve depender de autorização do Congresso.",
+  "context": "PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara: aprovada em 16/09/2025 (353 sim, 134 não, 1 abstenção).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 2270800-135"
+   }
+  ]
+ },
+ {
+  "id": "seg-armas",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O acesso de civis a armas de fogo deve ser ampliado.",
+  "context": "",
+  "sources": [],
+  "options": [
+   {
+    "label": "Proibir armas para civis",
+    "value": -1
+   },
+   {
+    "label": "Manter ou apertar as regras atuais",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Facilitar só a posse em casa",
+    "value": 0.5
+   },
+   {
+    "label": "Facilitar posse e porte",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "soc-marco-temporal",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Terras indígenas só devem ser demarcadas se estavam ocupadas em 5 de outubro de 1988 (marco temporal).",
+  "context": "PL 490/2007 (marco temporal das terras indígenas) na Câmara: aprovada em 30/05/2023 (283 sim, 155 não, 1 abstenção). PL 2.903/2023 (marco temporal das terras indígenas) no Senado: votação em 27/09/2023 (43 sim, 21 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 345311-270"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2903&ano=2023",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6756"
+   }
+  ]
+ },
+ {
+  "id": "soc-aborto",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal",
+   "deputado_estadual"
+  ],
+  "statement": "O aborto deve deixar de ser crime nas primeiras 12 semanas de gestação.",
+  "context": "",
+  "sources": [],
+  "options": [
+   {
+    "label": "Crime em todos os casos, inclusive os permitidos hoje",
+    "value": -1
+   },
+   {
+    "label": "Manter só os casos atuais (estupro, risco de vida, anencefalia)",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Ampliar os casos permitidos, sem liberar até 12 semanas",
+    "value": 0.5
+   },
+   {
+    "label": "Permitido até 12 semanas",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "soc-cotas",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal",
+   "deputado_estadual"
+  ],
+  "statement": "As cotas raciais e sociais nas universidades públicas devem continuar.",
+  "context": "",
+  "sources": []
+ },
+ {
+  "id": "amb-licenciamento",
+  "area": "ambiente",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O licenciamento ambiental deve ser simplificado, com autolicenciamento para mais tipos de obra.",
+  "context": "PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara: aprovada em 12/05/2021 (300 sim, 122 não). emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara: aprovada em 16/07/2025 (267 sim, 116 não). PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado: votação em 21/05/2025 (54 sim, 13 não).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 257161-337"
+   },
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 257161-454"
+   },
+   {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2159&ano=2021",
+    "accessed": "2026-09-30",
+    "label": "Senado, Dados Abertos, votação 6935"
+   }
+  ]
+ },
+ {
+  "id": "amb-margem-equatorial",
+  "area": "ambiente",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador"
+  ],
+  "statement": "O Brasil deve explorar petróleo na Margem Equatorial, na foz do Amazonas.",
+  "context": "",
+  "sources": []
+ },
+ {
+  "id": "amb-agrotoxicos",
+  "area": "ambiente",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O registro de agrotóxicos deve ficar mais rápido, com o Ministério da Agricultura no comando.",
+  "context": "PL 6.299/2002 (registro de agrotóxicos) na Câmara: aprovada em 09/02/2022 (301 sim, 150 não, 2 abstenção).",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297",
+    "accessed": "2026-09-30",
+    "label": "Câmara, Dados Abertos, votação 46249-297"
+   }
+  ]
+ },
+ {
+  "id": "pb-concessoes-ppp",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O governo da Paraíba deve ampliar concessões e parcerias público-privadas (PPPs) em obras e serviços públicos.",
+  "context": "Concessões e PPPs passam a construção ou a operação de um serviço público para empresas privadas, por contrato. Os planos de governo registrados no TSE divergem: uns propõem ampliar, outros acabar com elas.",
+  "sources": [
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+    "accessed": "2026-09-30",
+    "label": "Planos de governo PB 2026 registrados no TSE"
+   }
+  ]
+ },
+ {
+  "id": "pb-incentivos-fiscais",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "A Paraíba deve continuar dando incentivos fiscais a empresas, cobrando em troca metas de investimento e emprego.",
+  "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Alguns planos registrados no TSE mantêm os incentivos com metas; outro propõe acabar com eles.",
+  "sources": [
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+    "accessed": "2026-09-30",
+    "label": "Planos de governo PB 2026 registrados no TSE"
+   }
+  ]
+ },
+ {
+  "id": "pb-desmilitarizar-pm",
+  "area": "seguranca",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "A Polícia Militar da Paraíba deve ser desmilitarizada.",
+  "context": "A Constituição Federal define as PMs como forças auxiliares e reserva do Exército, subordinadas aos governadores (art. 144, § 6º), e reserva à União as normas gerais de sua organização (art. 22, XXI). Mudar isso depende do Congresso; o governo estadual comanda a PM e define prioridades.",
+  "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-09-30",
+    "label": "Constituição Federal, art. 144 § 6º e art. 22 XXI"
+   }
+  ]
+ },
+ {
+  "id": "pb-cac-arma",
+  "area": "seguranca",
+  "offices": [
+   "deputado_estadual"
+  ],
+  "statement": "Uma lei estadual deve reconhecer que atiradores esportivos precisam ter arma de fogo pelo risco da atividade.",
+  "context": "Em 14/02/2023 a ALPB votou o veto do governador ao PL 3.536/2022, que fazia esse reconhecimento. O veto, por inconstitucionalidade, foi mantido com 9 votos SIM (derrubar o veto) e 15 NÃO. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+  "sources": [
+   {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf",
+    "accessed": "2026-09-30",
+    "label": "ALPB, pauta da 3ª Sessão Ordinária de 2023"
+   },
+   {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/ata/1187_ata_sessao.pdf",
+    "accessed": "2026-09-30",
+    "label": "ALPB, ata da 3ª Sessão Ordinária de 2023"
+   }
+  ]
+ },
+ {
+  "id": "pb-nome-social",
+  "area": "social",
+  "offices": [
+   "deputado_estadual"
+  ],
+  "statement": "As empresas de água, luz e gás devem poder usar o nome social do consumidor nas contas e comunicações.",
+  "context": "Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica. Em 23/09/2025 a ALPB manteve o veto do governador ao PL 2.496/2024, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+  "sources": [
+   {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1350/pauta/ordem_do_dia_23.09.2025_3a_sessao_ordinaria_itinerante.pdf",
+    "accessed": "2026-09-30",
+    "label": "ALPB, ordem do dia de 23/09/2025"
+   },
+   {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1350/ata/3_ordinaria_itinerante_2025.pdf",
+    "accessed": "2026-09-30",
+    "label": "ALPB, ata de 23/09/2025"
+   }
+  ]
+ },
+ {
+  "id": "pb-ppp-cagepa",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
+  "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+  "sources": [
+   {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "ClickCZ, 18/05/2026"
+   }
+  ]
+ },
+ {
+  "id": "pb-vale-saude",
+  "area": "social",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
+  "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
+  "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, art. 199"
+   }
+  ]
+ },
+ {
+  "id": "pb-empresas-publicas",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
+  "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+  "sources": [
+   {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "ClickCZ, 18/05/2026"
+   }
+  ]
+ },
+ {
+  "id": "seg-maioridade",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A maioridade penal deve cair para 16 anos nos crimes mais graves, como os hediondos.",
+  "context": "Em 2015 a Câmara aprovou a PEC 171/1993 (imputabilidade penal do maior de 16 anos): 323 sim e 155 não no 1º turno, em 01/07/2015, e 320 sim e 152 não no 2º turno, em 19/08/2015.",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 14493-503"
+   },
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 14493-536"
+   }
+  ]
+ },
+ {
+  "id": "eco-6x1",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A escala 6x1 deve acabar, com jornada de até 40 horas e dois dias de descanso por semana, sem redução de salário.",
+  "context": "Em 27/05/2026 a Câmara aprovou a PEC 221/2019 (redução da jornada de trabalho): 472 sim e 22 não no 1º turno e 461 sim e 19 não no 2º turno. No Senado, a votação em plenário ficou para depois do 1º turno das eleições.",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 2233802-424"
+   },
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 2233802-438"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+    "accessed": "2026-10-01",
+    "label": "Agência Brasil, 02/09/2026"
+   }
+  ]
+ },
+ {
+  "id": "seg-stf-mandato",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador"
+  ],
+  "statement": "Ministros do STF devem ter mandato com prazo fixo, em vez de cargo vitalício.",
+  "context": "A Constituição garante vitaliciedade aos juízes (art. 95, I), o que inclui os ministros do STF. Mudar isso exige emenda constitucional.",
+  "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, Planalto"
+   }
+  ]
+ },
+ {
+  "id": "q3-fim-reeleicao",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A reeleição para presidente, governador e prefeito deve acabar.",
+  "context": "Uma PEC que acaba com a reeleição no Executivo e cria mandatos de cinco anos foi aprovada na CCJ do Senado em maio de 2025 e espera votação no plenário.",
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 08/05/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Manter a reeleição como é hoje",
+    "value": -1
+   },
+   {
+    "label": "Manter, mas com regras mais duras para quem está no cargo",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende do desenho",
+    "value": 0
+   },
+   {
+    "label": "Acabar com a reeleição, com mandato de 4 anos",
+    "value": 0.5
+   },
+   {
+    "label": "Acabar com a reeleição e ter mandato único de 5 anos",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-civico-militar",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O governo deve ampliar as escolas cívico-militares, em que militares cuidam da disciplina em escolas públicas.",
+  "context": "O programa federal de escolas cívico-militares, criado em 2019, foi revogado por decreto em julho de 2023. Alguns governadores anunciaram que manteriam modelos próprios.",
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 21/07/2023"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11611.htm",
+    "accessed": "2026-10-03",
+    "label": "Planalto, Decreto nº 11.611/2023"
+   }
+  ],
+  "options": [
+   {
+    "label": "Acabar com o modelo em todas as redes",
+    "value": -1
+   },
+   {
+    "label": "Não ampliar; manter só onde já existe",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende da escola e da comunidade",
+    "value": 0
+   },
+   {
+    "label": "Ampliar onde a comunidade escolar pedir",
+    "value": 0.5
+   },
+   {
+    "label": "Ampliar o modelo em todo o país",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-maconha-uso",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Portar até 40 gramas de maconha para uso próprio não deve ser crime, como decidiu o STF em 2024.",
+  "context": "O STF decidiu em 2024 que portar maconha para consumo próprio não é crime e fixou 40 gramas como referência. O Senado aprovou em 2024 uma PEC que criminaliza o porte de qualquer quantidade; ela segue na Câmara.",
+  "sources": [
+   {
+    "url": "https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/06/porte-de-maconha-entenda-a-decisao-do-supremo-tribunal-federal.html",
+    "accessed": "2026-10-03",
+    "label": "Diario de Pernambuco, 27/06/2024"
+   },
+   {
+    "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+    "accessed": "2026-10-03",
+    "label": "Agência Senado, 16/04/2024"
+   }
+  ],
+  "options": [
+   {
+    "label": "Deve ser crime, em qualquer quantidade",
+    "value": -1
+   },
+   {
+    "label": "Não ser crime, mas com limite menor que 40 g",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Não ser crime até 40 g, como decidiu o STF",
+    "value": 0.5
+   },
+   {
+    "label": "Não ser crime e regulamentar a venda",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-grandes-fortunas",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O Brasil deve criar o imposto sobre grandes fortunas, previsto na Constituição e nunca regulamentado.",
+  "context": "A Constituição de 1988 prevê o imposto sobre grandes fortunas (art. 153, VII), mas ele nunca foi regulamentado.",
+  "sources": [
+   {
+    "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+    "accessed": "2026-10-03",
+    "label": "Politize!, 09/07/2025"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não criar; taxar patrimônio afasta investimento",
+    "value": -1
+   },
+   {
+    "label": "Não criar; preferir taxar lucros, dividendos e heranças",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende do desenho",
+    "value": 0
+   },
+   {
+    "label": "Criar, só para patrimônios muito altos",
+    "value": 0.5
+   },
+   {
+    "label": "Criar, com alíquotas progressivas",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-tarifa-zero",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "governador",
+   "deputado_federal",
+   "deputado_estadual"
+  ],
+  "statement": "O transporte público por ônibus deve ser gratuito para todos (tarifa zero), pago com dinheiro público.",
+  "context": "Segundo a NTU, 145 cidades têm algum tipo de gratuidade nos ônibus. O governo federal estuda uma tarifa zero nacional; um grupo de pesquisa estimou o custo em R$ 100 bilhões por ano.",
+  "sources": [
+   {
+    "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 30/03/2025"
+   },
+   {
+    "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+    "accessed": "2026-10-03",
+    "label": "Diário do Grande ABC, 24/02/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; quem usa deve pagar a passagem",
+    "value": -1
+   },
+   {
+    "label": "Só passagem mais barata com subsídio, sem gratuidade",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende da cidade",
+    "value": 0
+   },
+   {
+    "label": "Gratuidade para grupos (estudantes, desempregados) ou em alguns dias",
+    "value": 0.5
+   },
+   {
+    "label": "Tarifa zero para toda a população",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-redes-sociais",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "As redes sociais devem ser obrigadas por lei a remover conteúdo criminoso e responder na Justiça quando não agirem.",
+  "context": "O PL das Fake News (PL 2630/2020) começou no Senado e chegou à Câmara em 2020. Na Câmara, a urgência foi aprovada em 2023.",
+  "sources": [
+   {
+    "url": "https://www.politize.com.br/?p=19476",
+    "accessed": "2026-10-03",
+    "label": "Politize!, PL das Fake News, 03/05/2023"
+   },
+   {
+    "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/camara-aprova-urgencia-do-pl-das-fake-news/",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 25/04/2023"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; isso abre caminho para censura",
+    "value": -1
+   },
+   {
+    "label": "Só regras de transparência, sem punir as plataformas",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende das regras",
+    "value": 0
+   },
+   {
+    "label": "Sim, para crimes graves e proteção de crianças",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, com um órgão regulador fiscalizando",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-pec-seguranca",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A União deve ganhar mais poder para coordenar a segurança pública em todo o país, como prevê a PEC da Segurança.",
+  "context": "A PEC 18/2025 foi aprovada pela Câmara em 4 de março de 2026 por ampla maioria e aguarda o Senado.",
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 23/04/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; segurança deve ficar com os estados",
+    "value": -1
+   },
+   {
+    "label": "Só mais dinheiro e cooperação, sem mudar a Constituição",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Sim, com coordenação federal e autonomia dos estados preservada",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, com a União no comando da política de segurança",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-estabilidade",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
+  "context": "A reforma administrativa apresentada na Câmara em outubro de 2025 mantém a estabilidade, mas torna o estágio probatório mais rigoroso e prevê avaliações de desempenho.",
+  "sources": [
+   {
+    "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+    "accessed": "2026-10-03",
+    "label": "Metrópoles, 03/10/2025"
+   }
+  ],
+  "options": [
+   {
+    "label": "Manter a estabilidade como está",
+    "value": -1
+   },
+   {
+    "label": "Manter, com avaliações só para melhorar o serviço",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende das regras",
+    "value": 0
+   },
+   {
+    "label": "Permitir demissão por mau desempenho, com regras claras",
+    "value": 0.5
+   },
+   {
+    "label": "Acabar com a estabilidade, exceto carreiras de Estado",
+    "value": 1
+   }
+  ]
+ }
+]

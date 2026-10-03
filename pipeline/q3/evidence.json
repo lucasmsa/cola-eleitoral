@@ -1,0 +1,1127 @@
+[
+ {
+  "id": "q3-plat-presidente-22-q3-fim-reeleicao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "q3-fim-reeleicao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe o fim da reeleição para presidente (p. 66).",
+  "quote": "E propomos o fim da reeleição para o cargo de Presidente da República.",
+  "page": 66,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 66), arquivo 2026BR280002551544_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-22-q3-fim-reeleicao",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-70-q3-fim-reeleicao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "q3-fim-reeleicao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE se declara contra a reeleição (p. 155).",
+  "quote": "Sou contra a reeleição, pois considero que ela seja uma das fontes da corrupção.",
+  "page": 155,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (ESCRITOR AUGUSTO CURY, p. 155), arquivo 2026BR280002551547_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-70-q3-fim-reeleicao",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-55-q3-fim-reeleicao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "q3-fim-reeleicao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe uma PEC para extinguir a reeleição no Executivo (p. 8).",
+  "quote": "Encaminhar ao Congresso, no início do mandato, proposta de emenda à Constituição para extinguir a reeleição consecutiva para os cargos do Poder Executivo",
+  "page": 8,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (RONALDO CAIADO, p. 8), arquivo 2026BR280002551932_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-55-q3-fim-reeleicao",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-22-q3-civico-militar",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "q3-civico-militar",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe ampliar as escolas cívico-militares (p. 35).",
+  "quote": "Vamos ampliar as Escolas Cívico-Militares",
+  "page": 35,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 35), arquivo 2026BR280002551544_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-22-q3-civico-militar",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-30-q3-civico-militar",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "q3-civico-militar",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE inclui as escolas cívico-militares na agenda de parcerias da educação (p. 53).",
+  "quote": "avançando em uma agenda de parcerias com escolas conveniadas na educação, escolas cívico-militares",
+  "page": 53,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 53), arquivo 2026BR280002539826_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-30-q3-civico-militar",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-21-q3-civico-militar",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "q3-civico-militar",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim das escolas cívico-militares (p. 10).",
+  "quote": "Fim das escolas cívico-militares.",
+  "page": 10,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 10), arquivo 2026BR280002551975_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-21-q3-civico-militar",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-21-q3-maconha-uso",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "q3-maconha-uso",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe descriminalizar o uso de drogas e legalizar a maconha (p. 12).",
+  "quote": "Descriminalização do uso de drogas, com legalização da maconha a curto prazo.",
+  "page": 12,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 12), arquivo 2026BR280002551975_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-21-q3-maconha-uso",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-16-q3-maconha-uso",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "q3-maconha-uso",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe descriminalizar as drogas (p. 19).",
+  "quote": "Descriminalização das drogas e revogação da Lei Antidrogas",
+  "page": 19,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 19), arquivo 2026BR280002541457_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-16-q3-maconha-uso",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-80-q3-grandes-fortunas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "q3-grandes-fortunas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto progressivo sobre grandes fortunas (p. 16).",
+  "quote": "IMPOSTO SOBRE AS GRANDES FORTUNAS E PROGRESSIVO.",
+  "page": 16,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 16), arquivo 2026BR280002538811_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-80-q3-grandes-fortunas",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-16-q3-grandes-fortunas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "q3-grandes-fortunas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto progressivo sobre grandes fortunas (p. 27).",
+  "quote": "Imposto progressivo sobre as verdadeiras grandes fortunas",
+  "page": 27,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 27), arquivo 2026BR280002541457_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-16-q3-grandes-fortunas",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-21-q3-grandes-fortunas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "q3-grandes-fortunas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto sobre grandes fortunas (p. 14).",
+  "quote": "criação de um imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças",
+  "page": 14,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 14), arquivo 2026BR280002551975_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-21-q3-grandes-fortunas",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-29-q3-grandes-fortunas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "q3-grandes-fortunas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto sobre grandes fortunas (p. 3).",
+  "quote": "Imposto sobre as grandes fortunas para garantir os recursos necessários para as aposentadorias e pensões",
+  "page": 3,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 3), arquivo 2026BR280002552487_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-29-q3-grandes-fortunas",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-16-q3-tarifa-zero",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "q3-tarifa-zero",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe tarifa zero no transporte público (p. 14).",
+  "quote": "Tarifa zero no transporte público",
+  "page": 14,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 14), arquivo 2026BR280002541457_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-16-q3-tarifa-zero",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-21-q3-tarifa-zero",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "q3-tarifa-zero",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe tarifa zero para toda a população (p. 11).",
+  "quote": "de forma a garantir a tarifa zero para toda a população",
+  "page": 11,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 11), arquivo 2026BR280002551975_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-21-q3-tarifa-zero",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-governador-11-q3-tarifa-zero",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-11"
+  },
+  "questionId": "q3-tarifa-zero",
+  "kind": "platform",
+  "position": 0,
+  "detail": "O plano de governo registrado no TSE propõe passe livre para estudantes universitários, sem tarifa zero geral (p. 12).",
+  "quote": "Criação do Passe Livre Univer- sitário, estendendo aos estudan- tes do ensino superior o benefício de transporte público gratuito.",
+  "page": 12,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (LUCAS RIBEIRO, p. 12), arquivo 2026PB150002551789_01.pdf"
+  },
+  "checkId": "q3-plat-governador-11-q3-tarifa-zero",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-governador-15-q3-tarifa-zero",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-15"
+  },
+  "questionId": "q3-tarifa-zero",
+  "kind": "platform",
+  "position": 0,
+  "detail": "O plano de governo registrado no TSE propõe passe livre para estudantes da rede pública, sem tarifa zero geral (p. 75).",
+  "quote": "Garantir Passe Livre Estudantil para estudantes da Rede Pública.",
+  "page": 75,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (CÍCERO LUCENA, p. 75), arquivo 2026PB150002544133_01.pdf"
+  },
+  "checkId": "q3-plat-governador-15-q3-tarifa-zero",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-13-q3-redes-sociais",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende regular redes sociais e plataformas para impedir a difusão de desinformação (p. 16).",
+  "quote": "avançar ainda mais na regulação democrática das redes sociais e das plataformas digitais, de modo a impedir que elas difundam desinformação",
+  "page": 16,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (LULA, p. 16), arquivo 2026BR280002542548_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-13-q3-redes-sociais",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-21-q3-redes-sociais",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende forte regulação das big techs e redes sociais (p. 13).",
+  "quote": "Defendemos a forte regulação das Big Techs e redes sociais",
+  "page": 13,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 13), arquivo 2026BR280002551975_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-21-q3-redes-sociais",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-70-q3-redes-sociais",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "platform",
+  "position": 0,
+  "detail": "O plano de governo registrado no TSE propõe mais responsabilidade das plataformas só para conteúdo prejudicial a crianças e adolescentes (p. 91).",
+  "quote": "estimularemos maior transparência e responsabilidade das plataformas digitais em relação a conteúdos potencialmente prejudiciais a crianças e adolescentes, dentro dos parâmetros constitucionais e legais",
+  "page": 91,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (ESCRITOR AUGUSTO CURY, p. 91), arquivo 2026BR280002551547_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-70-q3-redes-sociais",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-13-q3-pec-seguranca",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende a PEC da Segurança Pública proposta pelo governo (p. 30).",
+  "quote": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública",
+  "page": 30,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (LULA, p. 30), arquivo 2026BR280002542548_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-13-q3-pec-seguranca",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-plat-presidente-29-q3-estabilidade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "q3-estabilidade",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4).",
+  "quote": "Não ao fim da estabilidade dos servidores públicos",
+  "page": 4,
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-10-03",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 4), arquivo 2026BR280002552487_01.pdf"
+  },
+  "checkId": "q3-plat-presidente-29-q3-estabilidade",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-exec-presidente-13-q3-civico-militar",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "q3-civico-militar",
+  "kind": "record",
+  "position": -1,
+  "detail": "O governo Lula revogou o Programa Nacional das Escolas Cívico-Militares pelo Decreto 11.611/2023, assinado pelo vice-presidente Geraldo Alckmin no exercício da Presidência.",
+  "date": "2023-07-19",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11611.htm",
+   "accessed": "2026-10-03",
+   "label": "Planalto, Decreto nº 11.611/2023"
+  },
+  "checkId": "q3-exec-presidente-13-q3-civico-militar",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-2030-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSC).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-2030-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-2222-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PL).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-2222-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-6565-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSB).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-6565-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-1044-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-1044-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-1010-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-1010-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-2026-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PSC).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-2026-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-1011-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no REPUBLICANOS).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-1011-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-1111-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PP).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-1111-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-1345-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023 (então no PT).",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2310837-8"
+  },
+  "checkId": "q3-rec-deputado_federal-1345-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2310837-8"
+  },
+  "checkId": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-list-Fdr_PSOL_REDE-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PSOL-REDE orientou SIM no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2310837-8"
+  },
+  "checkId": "q3-rec-list-Fdr_PSOL_REDE-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-list-NOVO-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do NOVO orientou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2310837-8"
+  },
+  "checkId": "q3-rec-list-NOVO-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-list-PL-q3-redes-sociais-cd2310837-8",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PL orientou NÃO no requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara, 25/04/2023.",
+  "date": "2023-04-25",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2310837-8"
+  },
+  "checkId": "q3-rec-list-PL-q3-redes-sociais-cd2310837-8",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-deputado_federal-5555-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PP).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-5555-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-2030-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PODE).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-2030-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-4444-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no UNIÃO).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-4444-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-2222-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PL).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-2222-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-6565-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PSB).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-6565-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-1044-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-1044-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-1010-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-1010-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-2026-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PODE).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-2026-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-1011-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no REPUBLICANOS).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-1011-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-1111-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PP).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-1111-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-deputado_federal-1345-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026 (então no PT).",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2500080-320"
+  },
+  "checkId": "q3-rec-deputado_federal-1345-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-PL-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-PL-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-Fdr_PT_PCdoB_PV-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-NOVO-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-NOVO-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-PDT-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PDT orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-PDT-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-PSB-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSB orientou SIM na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-PSB-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-list-Fdr_PSOL_REDE-q3-pec-seguranca-cd2500080-320",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "q3-pec-seguranca",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO na PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara, 04/03/2026.",
+  "date": "2026-03-04",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2500080-320"
+  },
+  "checkId": "q3-rec-list-Fdr_PSOL_REDE-q3-pec-seguranca-cd2500080-320",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "q3-rec-senador-155-q3-redes-sociais-sf6147",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.630/2020 (PL das Fake News), substitutivo no Senado, 30/06/2020 (então no PSB).",
+  "date": "2020-06-30",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2630&ano=2020",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6147"
+  },
+  "checkId": "q3-rec-senador-155-q3-redes-sociais-sf6147",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-presidente-22-q3-redes-sociais-sf6147",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "q3-redes-sociais",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 2.630/2020 (PL das Fake News), substitutivo no Senado, 30/06/2020 (então sem partido).",
+  "date": "2020-06-30",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2630&ano=2020",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6147"
+  },
+  "checkId": "q3-rec-presidente-22-q3-redes-sociais-sf6147",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-senador-155-q3-maconha-uso-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "q3-maconha-uso",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no MDB).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "q3-rec-senador-155-q3-maconha-uso-sf6824",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-governador-22-q3-maconha-uso-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "q3-maconha-uso",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no UNIÃO).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "q3-rec-governador-22-q3-maconha-uso-sf6824",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "q3-rec-presidente-22-q3-maconha-uso-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "q3-maconha-uso",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no PL).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "q3-rec-presidente-22-q3-maconha-uso-sf6824",
+  "lowDiscrimination": false
+ }
+]

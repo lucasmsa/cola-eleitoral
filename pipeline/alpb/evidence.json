@@ -1,0 +1,1124 @@
+[
+ {
+  "id": "plat-governador-27-pb-concessoes-ppp-p2",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-27"
+  },
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano propõe uma política agressiva de privatizações e concessões (p. 2).",
+  "quote": "promover uma política agressiva de privatizações e concessões",
+  "page": 2,
+  "date": "2026-08-12",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (PEDRO COUTINHO, p. 2), arquivo 2026PB150002551911_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:0"
+ },
+ {
+  "id": "plat-governador-27-pb-concessoes-ppp-p5",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-27"
+  },
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano propõe ampliar concessões e PPPs (p. 5).",
+  "quote": "Ampliar concessões e Parcerias Público-Privadas em áreas nas quais a iniciativa privada possa contribuir para acelerar investimentos e melhorar serviços.",
+  "page": 5,
+  "date": "2026-08-12",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (PEDRO COUTINHO, p. 5), arquivo 2026PB150002551911_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:1"
+ },
+ {
+  "id": "plat-governador-22-pb-concessoes-ppp-p8",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano prevê PPPs para hotéis e equipamentos de lazer no turismo (p. 8).",
+  "quote": "incentivando a construção de novos hotéis e equipamentos de lazer através de parcerias público-privadas inteligentes.",
+  "page": 8,
+  "date": "2026-08-05",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EFRAIM FILHO, p. 8), arquivo 2026PB150002538692_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:2"
+ },
+ {
+  "id": "plat-governador-22-pb-concessoes-ppp-p10",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano prevê executar a logística com PPPs (p. 10).",
+  "quote": "O plano será executado por fases, com parcerias público-privadas e captação de recursos federais.",
+  "page": 10,
+  "date": "2026-08-05",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EFRAIM FILHO, p. 10), arquivo 2026PB150002538692_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:3"
+ },
+ {
+  "id": "plat-governador-80-pb-concessoes-ppp-p3",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "pb-concessoes-ppp",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano propõe o fim definitivo de leilões, PPPs e concessões (p. 3).",
+  "quote": "Reestatização de empresas estratégicas: Fim definitivo de leilões, parcerias público-privadas (PPPs) e concessões ao capital financeiro.",
+  "page": 3,
+  "date": "2026-08-06",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 3), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:4"
+ },
+ {
+  "id": "plat-governador-15-pb-incentivos-fiscais-p55",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-15"
+  },
+  "questionId": "pb-incentivos-fiscais",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano mantém os incentivos do FAIN, com metas de investimento e emprego e devolução se descumpridas (p. 55).",
+  "quote": "Garantir que toda nova concessão do FAIN terá metas públicas de investimento, empregos e salários, com devolução proporcional em caso de descumprimento.",
+  "page": 55,
+  "date": "2026-08-04",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CÍCERO LUCENA, p. 55), arquivo 2026PB150002544133_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:5"
+ },
+ {
+  "id": "plat-governador-22-pb-incentivos-fiscais-p4",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "pb-incentivos-fiscais",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano mantém os incentivos fiscais, avaliados por resultado em empregos e renda (p. 4).",
+  "quote": "Os incentivos serão avaliados por resultados e revisados continuamente, assegurando que cada renúncia fiscal se reverta em empregos e renda comprovados.",
+  "page": 4,
+  "date": "2026-08-05",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EFRAIM FILHO, p. 4), arquivo 2026PB150002538692_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:6"
+ },
+ {
+  "id": "plat-governador-80-pb-incentivos-fiscais-p2",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "pb-incentivos-fiscais",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano propõe o fim imediato dos incentivos fiscais a grandes empresas e agroexportadores (p. 2).",
+  "quote": "Fim imediato de todos os subsídios e incentivos fiscais e financeiros concedidos pelo Estado aos monopólios, grandes empresários e agroexportadores, substituídos por auditoria popular.",
+  "page": 2,
+  "date": "2026-08-06",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 2), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:7"
+ },
+ {
+  "id": "plat-governador-80-pb-desmilitarizar-pm-p5",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "pb-desmilitarizar-pm",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano propõe desmilitarizar a PM e criar uma Polícia Cidadã (p. 5).",
+  "quote": "desmilitarização da Polícia Militar: Criação da Polícia Cidadã, fundamentada nos direitos humanos",
+  "page": 5,
+  "date": "2026-08-06",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 5), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:8"
+ },
+ {
+  "id": "plat-governador-29-pb-desmilitarizar-pm-p5",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "questionId": "pb-desmilitarizar-pm",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano propõe dissolver a Polícia Militar (p. 5).",
+  "quote": "Dissolução da polícia militar e de todo o aparato repressivo",
+  "page": 5,
+  "date": "2026-08-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 5), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_alpb:9"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-43789",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-43789"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Chió votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:10"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-11113",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11113"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Bosco Carneiro votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:11"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-43147",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-43147"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Anderson Monteiro votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:12"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-10660",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10660"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Luciano Cartaxo votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:13"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-10110",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10110"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Wilson Filho votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:14"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_federal-2211",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2211"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, George Morais votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:15"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-11369",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11369"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, João Paulo Segundo votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:16"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-10888",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10888"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Branco Mendes votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:17"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-10456",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10456"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Danielle do Vale votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:18"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-11333",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11333"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Eduardo Carneiro votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:19"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-22999",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-22999"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Sargento Neto votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:20"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-22190",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-22190"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Del Wallber Virgolino votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:21"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-13400",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-13400"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Cida Ramos votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:22"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-65123",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-65123"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Dr. Romualdo votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:23"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-15555",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15555"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Fabio Ramalho votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:24"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-11789",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11789"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Tanilson Soares votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:25"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-15123",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15123"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Hervázio Bezerra votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:26"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-11777",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11777"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Júnior Araújo votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:27"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_federal-1033",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1033"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Tião Gomes votou NÃO no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para manter o veto (contra o projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:28"
+ },
+ {
+  "id": "rec-alpb-22453-deputado_estadual-15100",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15100"
+  },
+  "questionId": "pb-cac-arma",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Tovar votou SIM no Veto 321/2022 ao PL 3.536/2022 (arma de fogo para atiradores desportivos), em 14/02/2023: votou para derrubar o veto (a favor do projeto).",
+  "date": "2023-02-14",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=22453&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 22453)"
+  },
+  "checkId": "check_alpb:29"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-10444",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10444"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Adriano Galdino votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:30"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-43147",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-43147"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Anderson Monteiro votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:31"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11113",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11113"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Bosco Carneiro votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:32"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-10888",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10888"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Branco Mendes votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:33"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-15111",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15111"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Camila Toscano votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:34"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-43789",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-43789"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Chió votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:35"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-13400",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-13400"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Cida Ramos votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:36"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-10456",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10456"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Danielle do Vale votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:37"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-22190",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-22190"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Del Wallber Virgolino votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:38"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11111",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11111"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Drª Jane Panta votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:39"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-65123",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-65123"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Dr. Romualdo votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:40"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11333",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11333"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Eduardo Carneiro votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:41"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-15999",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15999"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Felipe Leitão votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:42"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11222",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11222"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Galego Souza votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:43"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_federal-2211",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2211"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, George Morais votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:44"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-44555",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-44555"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Gilbertinho votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:45"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-15123",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15123"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Hervázio Bezerra votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:46"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-65555",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-65555"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Inácio Falcão votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:47"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11611",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11611"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, João Gonçalves votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:48"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11369",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11369"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, João Paulo Segundo votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:49"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11777",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11777"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Júnior Araújo votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:50"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-10123",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10123"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Jutay Meneses votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:51"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-10660",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-10660"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Luciano Cartaxo votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:52"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11011",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11011"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Michel Henrique votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:53"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-22999",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-22999"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Sargento Neto votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:54"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_federal-1022",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1022"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Silvia Benjamin votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:55"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-11789",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11789"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como deputado(a) estadual, Tanilson Soares votou NÃO no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para manter o veto (contra o projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:56"
+ },
+ {
+  "id": "rec-alpb-49945-deputado_estadual-15100",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-15100"
+  },
+  "questionId": "pb-nome-social",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como deputado(a) estadual, Tovar votou SIM no Veto 214/2025 ao PL 2.496/2024 (nome social nas contas de água, luz e gás), em 23/09/2025: votou para derrubar o veto (a favor do projeto).",
+  "date": "2025-09-23",
+  "lowDiscrimination": false,
+  "source": {
+   "url": "https://sapl.al.pb.leg.br/api/sessao/votoparlamentar/?votacao=49945&page_size=100",
+   "accessed": "2026-09-30",
+   "label": "ALPB, SAPL, voto nominal (votação 49945)"
+  },
+  "checkId": "check_alpb:57"
+ }
+]

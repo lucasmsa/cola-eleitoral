@@ -1,0 +1,1767 @@
+{
+ "questions": [
+  {
+   "id": "seg-maioridade",
+   "area": "seguranca",
+   "offices": [
+    "presidente",
+    "senador",
+    "deputado_federal"
+   ],
+   "statement": "A maioridade penal deve cair para 16 anos nos crimes mais graves, como os hediondos.",
+   "context": "Em 2015 a Câmara aprovou a PEC 171/1993 (imputabilidade penal do maior de 16 anos): 323 sim e 155 não no 1º turno, em 01/07/2015, e 320 sim e 152 não no 2º turno, em 19/08/2015.",
+   "sources": [
+    {
+     "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503",
+     "accessed": "2026-10-01",
+     "label": "Câmara, Dados Abertos, votação 14493-503"
+    },
+    {
+     "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536",
+     "accessed": "2026-10-01",
+     "label": "Câmara, Dados Abertos, votação 14493-536"
+    }
+   ],
+   "_checks": [
+    [
+     "camara_desc",
+     "14493-503",
+     "Sim: 323; não: 155"
+    ],
+    [
+     "camara_desc",
+     "14493-536",
+     "Sim: 320; não: 152"
+    ],
+    [
+     "camara_date",
+     "14493-503",
+     "2015-07-01"
+    ],
+    [
+     "camara_date",
+     "14493-536",
+     "2015-08-19"
+    ],
+    [
+     "camara_ementa",
+     14493,
+     "imputabilidade penal do maior de dezesseis anos"
+    ]
+   ]
+  },
+  {
+   "id": "eco-6x1",
+   "area": "economia",
+   "offices": [
+    "presidente",
+    "senador",
+    "deputado_federal"
+   ],
+   "statement": "A escala 6x1 deve acabar, com jornada de até 40 horas e dois dias de descanso por semana, sem redução de salário.",
+   "context": "Em 27/05/2026 a Câmara aprovou a PEC 221/2019 (redução da jornada de trabalho): 472 sim e 22 não no 1º turno e 461 sim e 19 não no 2º turno. No Senado, a votação em plenário ficou para depois do 1º turno das eleições.",
+   "sources": [
+    {
+     "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424",
+     "accessed": "2026-10-01",
+     "label": "Câmara, Dados Abertos, votação 2233802-424"
+    },
+    {
+     "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438",
+     "accessed": "2026-10-01",
+     "label": "Câmara, Dados Abertos, votação 2233802-438"
+    },
+    {
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+     "accessed": "2026-10-01",
+     "label": "Agência Brasil, 02/09/2026"
+    }
+   ],
+   "_checks": [
+    [
+     "camara_desc",
+     "2233802-424",
+     "Sim: 472; Não: 22"
+    ],
+    [
+     "camara_desc",
+     "2233802-438",
+     "Sim: 461; Não: 19"
+    ],
+    [
+     "camara_date",
+     "2233802-424",
+     "2026-05-27"
+    ],
+    [
+     "camara_date",
+     "2233802-438",
+     "2026-05-27"
+    ],
+    [
+     "page",
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+     "a proposta só deve ser votada após o 1º turno das eleições"
+    ],
+    [
+     "page",
+     "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+     "A PEC 221/2019 prevê a obrigatoriedade de descanso remunerado de dois dias por semana, sem redução salarial, e reduz a atual jornada de trabalho de 44 para 40 horas semanais"
+    ]
+   ]
+  },
+  {
+   "id": "seg-stf-mandato",
+   "area": "seguranca",
+   "offices": [
+    "presidente",
+    "senador"
+   ],
+   "statement": "Ministros do STF devem ter mandato com prazo fixo, em vez de cargo vitalício.",
+   "context": "A Constituição garante vitaliciedade aos juízes (art. 95, I), o que inclui os ministros do STF. Mudar isso exige emenda constitucional.",
+   "sources": [
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-01",
+     "label": "Constituição Federal, Planalto"
+    }
+   ],
+   "_checks": [
+    [
+     "cf",
+     "I - vitaliciedade"
+    ]
+   ]
+  }
+ ],
+ "evidence": [
+  {
+   "id": "sen-rec-senador-155-seg-armas-sf5971",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-155"
+   },
+   "questionId": "seg-armas",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou SIM no PDL 233/2019, que sustou o Decreto 9.785/2019, de flexibilização da posse e do porte de armas, no plenário do Senado, 18/06/2019 (então no PSB).",
+   "date": "2019-06-18",
+   "source": {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PDL&numero=233&ano=2019",
+    "accessed": "2026-10-01",
+    "label": "Senado Federal, Dados Abertos, votação nominal 5971"
+   },
+   "checkId": "sen-rec-senador-155-seg-armas-sf5971",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "senado_vote",
+    "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PDL&numero=233&ano=2019",
+    "cod": 5971,
+    "parl": 5748,
+    "voto": "Sim"
+   }
+  },
+  {
+   "id": "sen-rec-senador-155-seg-blindagem-ccj38935",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-155"
+   },
+   "questionId": "seg-blindagem",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou SIM no relatório da CCJ do Senado que rejeitou a PEC 3/2021 (licença prévia para processar parlamentares), 24/09/2025.",
+   "date": "2025-09-24",
+   "source": {
+    "url": "https://legis.senado.leg.br/dadosabertos/votacaoComissao/materia/PEC/3/2021.json",
+    "accessed": "2026-10-01",
+    "label": "Senado Federal, Dados Abertos, votação em comissão 38935"
+   },
+   "checkId": "sen-rec-senador-155-seg-blindagem-ccj38935",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "senado_committee",
+    "url": "https://legis.senado.leg.br/dadosabertos/votacaoComissao/materia/PEC/3/2021.json",
+    "cod": "38935",
+    "parl": "5748",
+    "voto": "S"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-503",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1345"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PT).",
+   "date": "2015-07-01",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-503"
+   },
+   "checkId": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-503",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-503",
+    "deputado": 74041,
+    "voto": "Não",
+    "date": "2015-07-01"
+   }
+  },
+  {
+   "id": "sen-rec-senador-155-seg-maioridade-cd14493-503",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-155"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PMDB).",
+   "date": "2015-07-01",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-503"
+   },
+   "checkId": "sen-rec-senador-155-seg-maioridade-cd14493-503",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-503",
+    "deputado": 178913,
+    "voto": "Sim",
+    "date": "2015-07-01"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-503",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-4444"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PDT).",
+   "date": "2015-07-01",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-503"
+   },
+   "checkId": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-503",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-503",
+    "deputado": 74467,
+    "voto": "Não",
+    "date": "2015-07-01"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-503",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1011"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 1º turno na Câmara, 01/07/2015 (então no PMDB).",
+   "date": "2015-07-01",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-503"
+   },
+   "checkId": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-503",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-503",
+    "deputado": 160674,
+    "voto": "Sim",
+    "date": "2015-07-01"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1011"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PMDB).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-deputado_federal-1011-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 160674,
+    "voto": "Sim",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-senador-155-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-155"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PMDB).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-senador-155-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 178913,
+    "voto": "Sim",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-5522"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PR).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-deputado_federal-5522-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 74043,
+    "voto": "Sim",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1345"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PT).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-deputado_federal-1345-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 74041,
+    "voto": "Não",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1111"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PP).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-deputado_federal-1111-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 160527,
+    "voto": "Sim",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-536",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-4444"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "record",
+   "position": -1,
+   "detail": "Votou NÃO na PEC 171/1993 (maioridade penal aos 16 anos), 2º turno na Câmara, 19/08/2015 (então no PDT).",
+   "date": "2015-08-19",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 14493-536"
+   },
+   "checkId": "sen-rec-deputado_federal-4444-seg-maioridade-cd14493-536",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "14493-536",
+    "deputado": 74467,
+    "voto": "Não",
+    "date": "2015-08-19"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-4444"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no UNIÃO).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 74467,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-5522"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PSD).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 74043,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1010"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 74044,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2222"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PL).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 220574,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1111"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PP).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 160527,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1044"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 220584,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-5555"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PSD).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 220585,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1345"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PT).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 74041,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1011"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 160674,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-6565"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PCdoB).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 204394,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2030"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PODE).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 160635,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-424",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2026"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 1º turno na Câmara, 27/05/2026 (então no PODE).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-424"
+   },
+   "checkId": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-424",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-424",
+    "deputado": 160629,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-4444"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no UNIÃO).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-4444-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 74467,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1011"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-1011-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 160674,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-5555"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PSD).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-5555-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 220585,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-5522"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PSD).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-5522-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 74043,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1044"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-1044-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 220584,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2222"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PL).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-2222-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 220574,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1345"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PT).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-1345-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 74041,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1111"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PP).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-1111-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 160527,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-1010"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no REPUBLICANOS).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-1010-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 74044,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-6565"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PCdoB).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-6565-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 204394,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2030"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PODE).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-2030-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 160635,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-438",
+   "subject": {
+    "type": "candidate",
+    "id": "deputado_federal-2026"
+   },
+   "questionId": "eco-6x1",
+   "kind": "record",
+   "position": 1,
+   "detail": "Votou SIM na PEC 221/2019 (fim da escala 6x1), 2º turno na Câmara, 27/05/2026 (então no PODE).",
+   "date": "2026-05-27",
+   "source": {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+    "accessed": "2026-10-01",
+    "label": "Câmara dos Deputados, Dados Abertos, votação 2233802-438"
+   },
+   "checkId": "sen-rec-deputado_federal-2026-eco-6x1-cd2233802-438",
+   "lowDiscrimination": true,
+   "_ref": {
+    "type": "camara_vote",
+    "votacao": "2233802-438",
+    "deputado": 160629,
+    "voto": "Sim",
+    "date": "2026-05-27"
+   }
+  },
+  {
+   "id": "sen-plat-senador-155-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-155"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Em sabatina na CBN, defendeu que o Senado vote o texto do fim da escala 6x1 aprovado pela Câmara.",
+   "quote": "Eu sou a favor da matéria como ela veio da Câmara.",
+   "date": "2026-06-01",
+   "source": {
+    "url": "https://jornaldaparaiba.com.br/_/218619",
+    "accessed": "2026-10-01",
+    "label": "Jornal da Paraíba, 01/06/2026"
+   },
+   "checkId": "sen-plat-senador-155-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://jornaldaparaiba.com.br/_/218619",
+    "names": [
+     "Veneziano"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-plat-senador-100-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-100"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Em entrevista à FM 100.5, declarou ser a favor do fim da escala 6x1.",
+   "quote": "Sou a favor do fim da escala 6×1, porque o trabalhador e a trabalhadora precisam ter mais tempo para cuidar da família, para o lazer e para o descanso",
+   "date": "2026-08-26",
+   "source": {
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-nabor-wanderley-defende-fim-da-escala-6x1-e-reducao-da-maioridade-penal-para-crimes-hediondos/",
+    "accessed": "2026-10-01",
+    "label": "Polêmica Paraíba, 26/08/2026"
+   },
+   "checkId": "sen-plat-senador-100-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-nabor-wanderley-defende-fim-da-escala-6x1-e-reducao-da-maioridade-penal-para-crimes-hediondos/",
+    "names": [
+     "Nabor"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-plat-senador-100-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-100"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Em entrevista à FM 100.5, defendeu reduzir a maioridade penal para crimes hediondos.",
+   "quote": "Eu sou a favor do fim da maioridade penal para os crimes hediondos.",
+   "date": "2026-08-26",
+   "source": {
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-nabor-wanderley-defende-fim-da-escala-6x1-e-reducao-da-maioridade-penal-para-crimes-hediondos/",
+    "accessed": "2026-10-01",
+    "label": "Polêmica Paraíba, 26/08/2026"
+   },
+   "checkId": "sen-plat-senador-100-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-nabor-wanderley-defende-fim-da-escala-6x1-e-reducao-da-maioridade-penal-para-crimes-hediondos/",
+    "names": [
+     "Nabor"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-plat-senador-222-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-222"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Em entrevista ao Correio Debate, defendeu a redução da maioridade penal para crimes hediondos.",
+   "quote": "Na segurança, a redução da maioridade penal. Se um indivíduo com 16 anos pode votar, se ele comete um crime hediondo ele deve pagar por isso.",
+   "date": "2026-08-19",
+   "source": {
+    "url": "https://portalcorreio.com.br/marcelo-queiroga-quer-mudar-legislacao-das-emendas-no-senado-e-critica-esquerda/",
+    "accessed": "2026-10-01",
+    "label": "Portal Correio, 19/08/2026"
+   },
+   "checkId": "sen-plat-senador-222-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://portalcorreio.com.br/marcelo-queiroga-quer-mudar-legislacao-das-emendas-no-senado-e-critica-esquerda/",
+    "names": [
+     "Queiroga"
+    ],
+    "date_marker": "19/08/2026"
+   }
+  },
+  {
+   "id": "sen-plat-senador-222-seg-drogas",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-222"
+   },
+   "questionId": "seg-drogas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Em entrevista ao Correio Debate, criticou a descriminalização das drogas e defendeu endurecer a lei.",
+   "quote": "A esquerda quer descriminalizar as drogas, queremos endurecer a legislação para endurecer e colocar os traficantes na cadeia.",
+   "date": "2026-08-19",
+   "source": {
+    "url": "https://portalcorreio.com.br/marcelo-queiroga-quer-mudar-legislacao-das-emendas-no-senado-e-critica-esquerda/",
+    "accessed": "2026-10-01",
+    "label": "Portal Correio, 19/08/2026"
+   },
+   "checkId": "sen-plat-senador-222-seg-drogas",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://portalcorreio.com.br/marcelo-queiroga-quer-mudar-legislacao-das-emendas-no-senado-e-critica-esquerda/",
+    "names": [
+     "Queiroga"
+    ],
+    "date_marker": "19/08/2026"
+   }
+  },
+  {
+   "id": "sen-plat-senador-222-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-222"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Na sabatina do Bom Dia Paraíba, disse que votaria contra o fim da escala 6x1 no texto em discussão.",
+   "quote": "Se eu tivesse que votar hoje, eu votaria contrário à 6 por 1 da forma que está",
+   "date": "2026-09-08",
+   "source": {
+    "url": "https://newspb.com.br/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-e-a-favor-da-legislacao-atual-sobre-aborto/",
+    "accessed": "2026-10-01",
+    "label": "NewsPB, 08/09/2026"
+   },
+   "checkId": "sen-plat-senador-222-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://newspb.com.br/marcelo-queiroga-candidato-a-senador-pela-paraiba-diz-ser-contra-o-fim-da-escala-6x1-e-a-favor-da-legislacao-atual-sobre-aborto/",
+    "names": [
+     "Queiroga"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-plat-senador-300-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-300"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina do Bom Dia Paraíba, declarou apoio à PEC que reduz a jornada de trabalho, com ressalva sobre o custeio.",
+   "quote": "Eu sou a favor da PEC que vai diminuir a jornada de trabalho, mas também sou a favor de que o Estado possa dizer de onde vai sair o dinheiro para eles continuarem a ganhar o mesmo salário",
+   "date": "2026-09-04",
+   "source": {
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-major-fabio-contraria-posicao-do-novo-e-defende-fim-da-escala-6x1/",
+    "accessed": "2026-10-01",
+    "label": "Polêmica Paraíba, 04/09/2026"
+   },
+   "checkId": "sen-plat-senador-300-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://www.polemicaparaiba.com.br/politica/candidato-ao-senado-major-fabio-contraria-posicao-do-novo-e-defende-fim-da-escala-6x1/",
+    "names": [
+     "Major Fábio"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-plat-senador-151-seg-stf-mandato",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-151"
+   },
+   "questionId": "seg-stf-mandato",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Diário do Sertão, defendeu prazo de mandato para ministros do STF.",
+   "quote": "Ministro do STF já deveria ter sido cassado. E nós vamos estabelecer prazo de mandato de ministro",
+   "date": "2026-09-11",
+   "source": {
+    "url": "https://blogdoninja.com.br/2026/09/11/tv-diario-do-sertao-debate-ao-senado-sobe-o-tom-e-termina-marcado-por-troca-de-farpas/",
+    "accessed": "2026-10-01",
+    "label": "Blog do Ninja, 11/09/2026"
+   },
+   "checkId": "sen-plat-senador-151-seg-stf-mandato",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "web_quote",
+    "url": "https://blogdoninja.com.br/2026/09/11/tv-diario-do-sertao-debate-ao-senado-sobe-o-tom-e-termina-marcado-por-troca-de-farpas/",
+    "names": [
+     "André",
+     "Gadelha"
+    ],
+    "date_marker": null
+   }
+  },
+  {
+   "id": "sen-cap-senador-300-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-300"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Diário do Sertão (11/09/2026), em resposta a Veneziano, defendeu reduzir a maioridade penal para 16 anos.",
+   "quote": "Eu vou lutar por baixar a maioridade penal. Adolescente de 16 anos que pratica crime de adulto, ele tem que responder como adulto.",
+   "date": "2026-09-12",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=E40X9ovj42w&t=6399s",
+    "accessed": "2026-10-01",
+    "label": "TV Diário do Sertão, debate para o Senado (YouTube), 01:46:39; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-300-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "E40X9ovj42w",
+    "vtt": "E40X9ovj42w.pt.vtt",
+    "start": "01:46:39",
+    "names": [
+     "major fábio"
+    ],
+    "speaker_cue": "01:43:12",
+    "speaker_text": "Questionamento agora é do candidato veneziano para o candidato major Fábio",
+    "turn_anchor": "30 segundos agora para tréplica",
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-300-seg-saidinha",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-300"
+   },
+   "questionId": "seg-saidinha",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Diário do Sertão, disse que vai lutar contra as saídas temporárias de presos.",
+   "quote": "E vou lutar também contra as saidinhas dos presídios.",
+   "date": "2026-09-12",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=E40X9ovj42w&t=6407s",
+    "accessed": "2026-10-01",
+    "label": "TV Diário do Sertão, debate para o Senado (YouTube), 01:46:47; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-300-seg-saidinha",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "E40X9ovj42w",
+    "vtt": "E40X9ovj42w.pt.vtt",
+    "start": "01:46:47",
+    "names": [
+     "major fábio"
+    ],
+    "speaker_cue": "01:43:12",
+    "speaker_text": "Questionamento agora é do candidato veneziano para o candidato major Fábio",
+    "turn_anchor": "30 segundos agora para tréplica",
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-300-seg-drogas",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-300"
+   },
+   "questionId": "seg-drogas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, declarou ser contra a legalização das drogas.",
+   "quote": "Eu sou contra a legalização das drogas",
+   "date": "2026-08-18",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=JNBjm8j4a3E&t=138s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:02:18; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-300-seg-drogas",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "JNBjm8j4a3E",
+    "vtt": "JNBjm8j4a3E.pt-orig.vtt",
+    "start": "00:02:18",
+    "names": [
+     "major fábio"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-300-seg-stf-mandato",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-300"
+   },
+   "questionId": "seg-stf-mandato",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina ClickPB/TV Diário do Sertão, criticou o cargo vitalício e defendeu mandato de 8 a 10 anos para ministros do STF.",
+   "quote": "E ser vitalício num cargo público é muito perigoso.",
+   "date": "2026-08-22",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=zc7d4U8eEnI&t=1204s",
+    "accessed": "2026-10-01",
+    "label": "TV Diário do Sertão/ClickPB, sabatina (YouTube), 00:20:04; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-300-seg-stf-mandato",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "zc7d4U8eEnI",
+    "vtt": "zc7d4U8eEnI.pt-orig.vtt",
+    "start": "00:20:04",
+    "names": [
+     "major fábio"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-222-seg-8-janeiro",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-222"
+   },
+   "questionId": "seg-8-janeiro",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Arapuan (31/08/2026), criticou a Câmara por não votar a anistia aos condenados do 8 de janeiro e aprovar só a dosimetria.",
+   "quote": "faz um compromisso de pautar o projeto da anistia das vítimas do 8 de janeiro de 2023 e aí na hora descumpre o compromisso",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=cAqSz5F2QCo&t=9146s",
+    "accessed": "2026-10-01",
+    "label": "TV Arapuan, debate para o Senado (YouTube), 02:32:26; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-222-seg-8-janeiro",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "cAqSz5F2QCo",
+    "vtt": "cAqSz5F2QCo.pt.vtt",
+    "start": "02:32:26",
+    "names": [
+     "queiroga"
+    ],
+    "speaker_cue": "02:25:59",
+    "speaker_text": "mais um confronto ao lado do candidato Marcelo Queiroga",
+    "turn_anchor": "eu conduzi o Ministério da Saúde",
+    "fuzzy": [
+     [
+      "8",
+      "lá"
+     ]
+    ]
+   }
+  },
+  {
+   "id": "sen-cap-senador-151-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-151"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Arapuan, perguntado por Queiroga se votaria a favor da redução da maioridade penal, respondeu que sim.",
+   "quote": "Com certeza, candidato. Nós vamos defender o que é constitucional, o que vai ser discutido da redução da maioridade.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=cAqSz5F2QCo&t=5142s",
+    "accessed": "2026-10-01",
+    "label": "TV Arapuan, debate para o Senado (YouTube), 01:25:42; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-151-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "cAqSz5F2QCo",
+    "vtt": "cAqSz5F2QCo.pt.vtt",
+    "start": "01:25:42",
+    "names": [
+     "gadelha"
+    ],
+    "speaker_cue": "01:23:03",
+    "speaker_text": "precisa convidar o candidato André Gadelha",
+    "turn_anchor": "se compromete comigo a votar a favor dessas",
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-272-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-272"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, disse que votará pela redução da maioridade penal, com 16 anos como limite.",
+   "quote": "E obviamente iremos votar também a favor da redução da maioridade penal.",
+   "date": "2026-08-20",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=PN-anlkjfX8&t=159s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:02:39; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-272-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "PN-anlkjfX8",
+    "vtt": "PN-anlkjfX8.pt-orig.vtt",
+    "start": "00:02:39",
+    "names": [
+     "rinaldo"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-272-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-272"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, perguntado sobre o fim da escala 6x1, disse ser totalmente a favor de reduzir a jornada para 40 horas.",
+   "quote": "Eu sou totalmente a favor",
+   "date": "2026-08-20",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=mG-u03CnNVI&t=226s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 2) (YouTube), 00:03:46; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-272-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "mG-u03CnNVI",
+    "vtt": "mG-u03CnNVI.pt-orig.vtt",
+    "start": "00:03:46",
+    "names": [
+     "rinaldo"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-272-seg-stf-mandato",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-272"
+   },
+   "questionId": "seg-stf-mandato",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, defendeu mandato de menor duração para ministros do STF.",
+   "quote": "Somos a favor de outro modelo, mas com certeza esse mandato com menor duração é de muita importância.",
+   "date": "2026-08-20",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=mG-u03CnNVI&t=141s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 2) (YouTube), 00:02:21; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-272-seg-stf-mandato",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "mG-u03CnNVI",
+    "vtt": "mG-u03CnNVI.pt-orig.vtt",
+    "start": "00:02:21",
+    "names": [
+     "rinaldo"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-801-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-801"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, defendeu ir além da PEC do fim da escala 6x1, com jornada de 36 horas.",
+   "quote": "Ela tem que ser modificada, a gente está defendendo as 36 horas",
+   "date": "2026-08-17",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=AcTTehqamac&t=133s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 2) (YouTube), 00:02:13; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-801-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "AcTTehqamac",
+    "vtt": "AcTTehqamac.pt-orig.vtt",
+    "start": "00:02:13",
+    "names": [
+     "joão batista"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-801-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-801"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Na sabatina da TV Correio, disse que reduzir a maioridade penal não é a medida e defendeu investir em educação e emprego.",
+   "quote": "E acho que essa não é uma medida. a medida investir em educação, em saúde, transporte, lazer e trazer empregos para o povo trabalhar",
+   "date": "2026-08-17",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=cvAO0R7h8Vk&t=440s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:07:20; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-801-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "cvAO0R7h8Vk",
+    "vtt": "cvAO0R7h8Vk.pt-orig.vtt",
+    "start": "00:07:20",
+    "names": [
+     "joão batista"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-800-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-800"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, apontou o fim da escala 6x1 como sua primeira medida.",
+   "quote": "o que nós defendemos e acho como primeira medida é que a gente derrubar com a escala 6 por1",
+   "date": "2026-08-21",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=Hgm0PK8-JME&t=211s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:03:31; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-800-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "Hgm0PK8-JME",
+    "vtt": "Hgm0PK8-JME.pt-orig.vtt",
+    "start": "00:03:31",
+    "names": [
+     "rosilene"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-290-eco-6x1",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-290"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, declarou apoio ao fim da escala 6x1 e defendeu ir além, para a escala 4x3.",
+   "quote": "Somos a favor, né? Todo o direito eh que venha beneficiar a classe trabalhadoras, nós somos a favor.",
+   "date": "2026-08-24",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=KaW7KGxXXT4&t=376s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:06:16; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-290-eco-6x1",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "KaW7KGxXXT4",
+    "vtt": "KaW7KGxXXT4.pt-orig.vtt",
+    "start": "00:06:16",
+    "names": [
+     "adriano"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  },
+  {
+   "id": "sen-cap-senador-290-seg-maioridade",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-290"
+   },
+   "questionId": "seg-maioridade",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Na sabatina da TV Correio, defendeu aumentar o tempo de internação de adolescentes infratores em vez de mudar a maioridade penal.",
+   "quote": "teríamos que ter uma discussão para aumentar não eh a menoridade, né, mas aumentar o tempo de reeducação desse menor que está interno",
+   "date": "2026-08-24",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=KaW7KGxXXT4&t=455s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina (parte 1) (YouTube), 00:07:35; legenda automática original em português do canal"
+   },
+   "checkId": "sen-cap-senador-290-seg-maioridade",
+   "lowDiscrimination": false,
+   "_ref": {
+    "type": "caption_quote",
+    "video": "KaW7KGxXXT4",
+    "vtt": "KaW7KGxXXT4.pt-orig.vtt",
+    "start": "00:07:35",
+    "names": [
+     "adriano"
+    ],
+    "speaker_cue": null,
+    "speaker_text": null,
+    "turn_anchor": null,
+    "fuzzy": []
+   }
+  }
+ ]
+}

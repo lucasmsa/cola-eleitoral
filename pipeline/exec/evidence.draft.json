@@ -1,0 +1,1618 @@
+{
+ "rows": [
+  {
+   "id": "exec-senador-400-eco-reforma-tributaria-carta-cn-2023",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-reforma-tributaria",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Como presidente do Consórcio Nordeste, assinou com os outros oito governadores da região a carta de apoio à aprovação da PEC 45/2019 (reforma tributária), em julho de 2023.",
+   "date": "2023-07-05",
+   "source": {
+    "url": "https://rn.cut.org.br/noticias/governadores-do-nordeste-lancam-carta-de-apoio-pela-aprovacao-da-reforma-tributa-4ed1",
+    "accessed": "2026-10-01",
+    "label": "Carta de Apoio do Consórcio Nordeste pela aprovação da Reforma Tributária (íntegra publicada pela CUT-RN)"
+   },
+   "checkId": "exec-senador-400-eco-reforma-tributaria-carta-cn-2023",
+   "checks": [
+    {
+     "web": "https://rn.cut.org.br/noticias/governadores-do-nordeste-lancam-carta-de-apoio-pela-aprovacao-da-reforma-tributa-4ed1",
+     "contains": [
+      "A Reforma Tributária proposta pela PEC 45/2019 é uma vitória para a sociedade brasileira",
+      "João Azevêdo (Presidente Consórcio Nordeste) - Governador da Paraíba"
+     ]
+    },
+    {
+     "web": "https://www.terra.com.br/economia/dinheiro-em-acao/consorcio-de-governadores-do-nordeste-divulga-carta-em-apoio-a-aprovacao-da-reforma-tributaria,63b9337f3fa349c01f46f724a44ea27fe2nh51i0.html",
+     "contains": [
+      "uma carta em apoio à aprovação da reforma tributária"
+     ],
+     "published": "2023-07-05"
+    }
+   ],
+   "quote": "A Reforma Tributária proposta pela PEC 45/2019 é uma vitória para a sociedade brasileira."
+  },
+  {
+   "id": "exec-senador-400-eco-privatizacao-carta-cn-2021",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Como governador da Paraíba, integrou a carta conjunta dos nove governadores do Nordeste contra a privatização da Eletrobras, divulgada em 19/05/2021.",
+   "date": "2021-05-19",
+   "source": {
+    "url": "https://www.congressoemfoco.com.br/noticia/51529/eletrobras-prvatizacao-governadores-nordeste",
+    "accessed": "2026-10-01",
+    "label": "Congresso em Foco, 19/05/2021"
+   },
+   "checkId": "exec-senador-400-eco-privatizacao-carta-cn-2021",
+   "checks": [
+    {
+     "web": "https://www.congressoemfoco.com.br/noticia/51529/eletrobras-prvatizacao-governadores-nordeste",
+     "contains": [
+      "Os governadores dos nove estados do Nordeste divulgaram nesta quarta-feira (19) uma carta conjunta contra a privatização da Eletrobras",
+      "Este processo de desestatização, além de impactar a tarifa de energia para os consumidores, abrirá caminho para a precarização na prestação do serviço"
+     ],
+     "published": "2021-05-19"
+    },
+    {
+     "governor_on": "2021-05-19",
+     "expect": "JOAO"
+    }
+   ],
+   "quote": "Este processo de desestatização, além de impactar a tarifa de energia para os consumidores, abrirá caminho para a precarização na prestação do serviço"
+  },
+  {
+   "id": "exec-senador-400-seg-8-janeiro-pbagora-2025",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "seg-8-janeiro",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Em entrevista em setembro de 2025, disse ser contra anistiar quem atentou contra a democracia e contra uma anistia geral e irrestrita.",
+   "date": "2025-09-18",
+   "source": {
+    "url": "https://www.pbagora.com.br/noticia/politica/ouca-joao-azevedo-avalia-como-absurda-pec-da-blindagem-e-critica-pl-da-anistia-e-preciso-punir-os-que-cometeram-crimes/",
+    "accessed": "2026-10-01",
+    "label": "PB Agora, 18/09/2025"
+   },
+   "checkId": "exec-senador-400-seg-8-janeiro-pbagora-2025",
+   "checks": [
+    {
+     "web": "https://www.pbagora.com.br/noticia/politica/ouca-joao-azevedo-avalia-como-absurda-pec-da-blindagem-e-critica-pl-da-anistia-e-preciso-punir-os-que-cometeram-crimes/",
+     "contains": [
+      "Não se pode, de forma nenhuma, anistiar quem atentou contra a democracia",
+      "Eu particularmente sou contra anistia geral e irrestrita"
+     ],
+     "near": [
+      "Azevêdo",
+      "João"
+     ],
+     "published": "2025-09-18"
+    }
+   ],
+   "quote": "Não se pode, de forma nenhuma, anistiar quem atentou contra a democracia."
+  },
+  {
+   "id": "exec-senador-400-seg-blindagem-clickpb-2025",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "seg-blindagem",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Criticou a PEC da Blindagem, que exigiria licença do Congresso para processar parlamentares.",
+   "date": "2025-09-22",
+   "source": {
+    "url": "https://www.clickpb.com.br/politica/joao-azevedo-pec-blindagem.html",
+    "accessed": "2026-10-01",
+    "label": "ClickPB, 22/09/2025"
+   },
+   "checkId": "exec-senador-400-seg-blindagem-clickpb-2025",
+   "checks": [
+    {
+     "web": "https://www.clickpb.com.br/politica/joao-azevedo-pec-blindagem.html",
+     "contains": [
+      "Não se pode ter a criação de castas de pessoas privilegiadas, que é o que a PEC da Blindagem estava tentando fazer"
+     ],
+     "near": [
+      "Azevêdo"
+     ],
+     "published": "2025-09-22"
+    }
+   ],
+   "quote": "Não se pode ter a criação de castas de pessoas privilegiadas, que é o que a PEC da Blindagem estava tentando fazer"
+  },
+  {
+   "id": "exec-senador-400-seg-armas-clickpb-2024",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "seg-armas",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Como governador, chamou de irresponsável a liberação de armas do governo anterior.",
+   "date": "2024-04-18",
+   "source": {
+    "url": "https://www.clickpb.com.br/paraiba/joao-azevedo-rebate-criticas-sobre-aumento-da-criminalidade-e-diz-que-no-governo-bolsonaro-era-pior.html",
+    "accessed": "2026-10-01",
+    "label": "ClickPB, 18/04/2024"
+   },
+   "checkId": "exec-senador-400-seg-armas-clickpb-2024",
+   "checks": [
+    {
+     "web": "https://www.clickpb.com.br/paraiba/joao-azevedo-rebate-criticas-sobre-aumento-da-criminalidade-e-diz-que-no-governo-bolsonaro-era-pior.html",
+     "contains": [
+      "Infelizmente nós passamos quatro anos em que a liberação das armas foi feita de uma forma totalmente irresponsável"
+     ],
+     "near": [
+      "Azevêdo"
+     ],
+     "published": "2024-04-18"
+    }
+   ],
+   "quote": "Infelizmente nós passamos quatro anos em que a liberação das armas foi feita de uma forma totalmente irresponsável, onde pessoas que se diziam sócio de um clube tiro podiam comprar mais de 600 armas"
+  },
+  {
+   "id": "exec-senador-400-seg-armas-carta-2019",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "seg-armas",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Assinou em 21/05/2019, com governadores de 13 estados e do DF, carta pedindo a revogação do decreto que flexibilizou armas e munições.",
+   "date": "2019-05-21",
+   "source": {
+    "url": "https://www.brasildefato.com.br/2019/05/21/governadores-de-13-estados-divulgam-carta-aberta-contra-decreto-de-armas-de-bolsonaro",
+    "accessed": "2026-10-01",
+    "label": "Brasil de Fato, 21/05/2019, íntegra da carta"
+   },
+   "checkId": "exec-senador-400-seg-armas-carta-2019",
+   "checks": [
+    {
+     "web": "https://www.brasildefato.com.br/2019/05/21/governadores-de-13-estados-divulgam-carta-aberta-contra-decreto-de-armas-de-bolsonaro",
+     "contains": [
+      "julgamos que as medidas previstas pelo decreto não contribuirão para tornar nossos estados mais seguros",
+      "João Azevedo (PSB-PB)",
+      "21.maio.2019"
+     ]
+    }
+   ],
+   "quote": "julgamos que as medidas previstas pelo decreto não contribuirão para tornar nossos estados mais seguros"
+  },
+  {
+   "id": "exec-governador-11-eco-privatizacao-clickcz-2026",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Como governador, disse que a Cagepa não foi e não será privatizada.",
+   "date": "2026-05-18",
+   "source": {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "ClickCZ, 18/05/2026"
+   },
+   "checkId": "exec-governador-11-eco-privatizacao-clickcz-2026",
+   "checks": [
+    {
+     "web": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "contains": [
+      "Não privatizamos, nem vamos privatizar a Cagepa"
+     ],
+     "near": [
+      "Lucas Ribeiro"
+     ],
+     "published": "2026-05-18"
+    }
+   ],
+   "quote": "Não privatizamos, nem vamos privatizar a Cagepa. A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba e continuará comandando o abastecimento de água e esgotamento sanitário do Estado"
+  },
+  {
+   "id": "exec-governador-11-pb-concessoes-ppp-me-2026",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-concessoes-ppp",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
+   "date": "2026-05-15",
+   "source": {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   "checkId": "exec-governador-11-pb-concessoes-ppp-me-2026",
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população"
+     ],
+     "near": [
+      "Lucas Ribeiro"
+     ],
+     "published": "2026-05-15"
+    }
+   ],
+   "quote": "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população."
+  },
+  {
+   "id": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-concessoes-ppp",
+   "kind": "record",
+   "position": 1,
+   "detail": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
+   "date": "2026-05-15",
+   "source": {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   "checkId": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "O governador Lucas Ribeiro participou do certame na B3",
+      "85 cidades"
+     ],
+     "published": "2026-05-15"
+    },
+    {
+     "governor_on": "2026-05-15",
+     "expect": "LUCAS"
+    }
+   ],
+   "quote": "O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado."
+  },
+  {
+   "id": "exec-governador-11-pb-incentivos-fiscais-plano",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-incentivos-fiscais",
+   "kind": "platform",
+   "position": 1,
+   "detail": "O plano de governo registrado no TSE propõe atrair indústrias com uma política de incentivos fiscais orientada à geração de emprego e renda (p. 21).",
+   "date": "2026-08-13",
+   "source": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+    "accessed": "2026-10-01",
+    "label": "Plano de governo registrado no TSE (LUCAS RIBEIRO, p. 21), arquivo 2026PB150002551789_01.pdf"
+   },
+   "checkId": "exec-governador-11-pb-incentivos-fiscais-plano",
+   "checks": [
+    {
+     "pdf": "../raw/plans/2026PB150002551789_01.pdf",
+     "page": 21,
+     "contains": [
+      "Atrair novas plantas industriais por meio de uma política de incentivos fiscais competitiva, transparente e orientada à geração de emprego e renda"
+     ]
+    }
+   ],
+   "quote": "Atrair novas plantas industriais por meio de uma política de incentivos fiscais competitiva, transparente e orientada à geração de emprego e renda",
+   "page": 21
+  },
+  {
+   "id": "exec-governador-11-pb-incentivos-fiscais-decreto-48520",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-incentivos-fiscais",
+   "kind": "record",
+   "position": 1,
+   "detail": "Como governador, ratificou pelo Decreto 48.520, de 24/07/2026, resoluções do Conselho do FAIN que concedem crédito presumido de ICMS a indústrias.",
+   "date": "2026-07-24",
+   "source": {
+    "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+    "accessed": "2026-10-01",
+    "label": "Diário Oficial do Estado da Paraíba nº 18.637, 25/07/2026"
+   },
+   "checkId": "exec-governador-11-pb-incentivos-fiscais-decreto-48520",
+   "checks": [
+    {
+     "pdf": "raw/sapl/doe_2026-07-25.pdf",
+     "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+     "page": 1,
+     "contains": [
+      "DECRETO Nº 48.520 DE 24 DE JULHO DE 2026",
+      "do Conselho Delibera- tivo do FAIN, que aprovam a concessão de crédito presumido de ICMS",
+      "O GOVERNADOR DO ESTADO DA PARAÍBA"
+     ]
+    },
+    {
+     "governor_on": "2026-07-24",
+     "expect": "LUCAS"
+    }
+   ],
+   "quote": "Ratifica as Resoluções Nºs 029, 030, 031, 032, 033, 034, 035, 036, 037, 038, 039, 040, 041, 042, 043, 053/2026, do Conselho Deliberativo do FAIN, que aprovam a concessão de crédito presumido de ICMS"
+  },
+  {
+   "id": "exec-governador-11-amb-licenciamento-lei-14657",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "amb-licenciamento",
+   "kind": "record",
+   "position": 1,
+   "detail": "Sancionou a Lei 14.657/2026, que passou a exigir EIA/RIMA só de usinas hidrelétricas e termelétricas acima de 300 MW (antes, abaixo de 300 MW) e, na modernização por fonte menos poluente, só acima de 500 MW. Não trata de autolicenciamento.",
+   "date": "2026-08-12",
+   "source": {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2026/19116/lei_14.657.pdf",
+    "accessed": "2026-10-01",
+    "label": "ALPB, SAPL, Lei Ordinária nº 14.657/2026, texto assinado"
+   },
+   "checkId": "exec-governador-11-amb-licenciamento-lei-14657",
+   "checks": [
+    {
+     "pdf": "raw/sapl/lei_14.657.pdf",
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2026/19116/lei_14.657.pdf",
+     "contains": [
+      "Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei",
+      "XV - Usinas Hidrelétricas - UHE e Usinas Termelétricas - UTE com capacidade instalada superior a 300 (trezentos) MW",
+      "LUCAS RIBEIRO NOVAIS DE ARAÚJO Governador"
+     ]
+    },
+    {
+     "pdf": "raw/sapl/16224_texto_integral.pdf",
+     "url": "http://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2023/16224/16224_texto_integral.pdf",
+     "contains": [
+      "XV - Usinas Hidrelétricas - UHE e Usinas Termelétricas - UTE com capacidade instalada inferior a 300 (trezentos) MW"
+     ]
+    },
+    {
+     "norma": "14657",
+     "data": "2026-08-12"
+    }
+   ],
+   "quote": "XV - Usinas Hidrelétricas - UHE e Usinas Termelétricas - UTE com capacidade instalada superior a 300 (trezentos) MW, e seus sistemas associados"
+  },
+  {
+   "id": "exec-senador-400-eco-reforma-tributaria-debate-arapuan",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-reforma-tributaria",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No debate da TV Arapuan para o Senado, defendeu a reforma tributária aprovada como um sistema mais justo.",
+   "date": "2026-08-31",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=cAqSz5F2QCo&t=4908s",
+    "accessed": "2026-10-01",
+    "label": "TV Arapuan, debate para senador, 31/08/2026, em 1:21:48 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-senador-400-eco-reforma-tributaria-debate-arapuan",
+   "checks": [
+    {
+     "vtt": "raw/yt/cAqSz5F2QCo.pt.vtt",
+     "video": "cAqSz5F2QCo",
+     "at": 4908,
+     "channel": "TV ARAPUAN",
+     "title_contains": "DEBATE PARA SENADOR",
+     "contains": "nós vamos ter um sistema muito mais justo que vai trazer benefícios para esse país",
+     "cues": [
+      {
+       "phrase": "governador josevedo",
+       "within": [
+        -40,
+        0
+       ]
+      },
+      {
+       "phrase": "candidato joão azevedo volta para o seu lugar",
+       "within": [
+        0,
+        120
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "nós vamos ter um sistema muito mais justo que vai trazer benefícios para esse país"
+  },
+  {
+   "id": "exec-senador-400-eco-6x1-correio-sabatina",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Na sabatina da TV Correio, disse ser plenamente a favor de acabar com a escala 6x1 e passar de 44 para 40 horas semanais.",
+   "date": "2026-08-25",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=Ocyi7pnQA94&t=160s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, sabatina com João Azevêdo (parte 2), 25/08/2026, em 0:02:40 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-senador-400-eco-6x1-correio-sabatina",
+   "checks": [
+    {
+     "vtt": "raw/yt/Ocyi7pnQA94.pt-orig.vtt",
+     "video": "Ocyi7pnQA94",
+     "at": 160,
+     "channel": "TV Correio",
+     "title_contains": "Sabatina com João Azevêdo",
+     "contains": "eu sou plenamente a favor dessa dessa alteração da legislação trabalhista",
+     "cues": [
+      {
+       "phrase": "o fim da escala 6 por1",
+       "within": [
+        -90,
+        0
+       ]
+      },
+      {
+       "phrase": "saindo de 44 para 40 horas",
+       "within": [
+        -60,
+        0
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "eu sou plenamente a favor dessa dessa alteração da legislação trabalhista"
+  },
+  {
+   "id": "exec-governador-11-pb-ppp-cagepa-me-2026",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": 1,
+   "detail": "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.",
+   "date": "2026-05-15",
+   "source": {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   "checkId": "exec-governador-11-pb-ppp-cagepa-me-2026",
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento"
+     ],
+     "near": [
+      "Lucas Ribeiro"
+     ],
+     "published": "2026-05-15"
+    }
+   ],
+   "quote": "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população."
+  },
+  {
+   "id": "exec-governador-11-pb-ppp-cagepa-leilao-2026",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "record",
+   "position": 1,
+   "detail": "Seu governo levou a PPP a leilão na B3 em 15/05/2026.",
+   "date": "2026-05-15",
+   "source": {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   "checkId": "exec-governador-11-pb-ppp-cagepa-leilao-2026",
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "O governador Lucas Ribeiro participou do certame na B3"
+     ],
+     "published": "2026-05-15"
+    },
+    {
+     "governor_on": "2026-05-15",
+     "expect": "LUCAS"
+    }
+   ],
+   "quote": "O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado."
+  },
+  {
+   "id": "exec-governador-22-pb-ppp-cagepa-IWccMOrxe2o-907",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-22"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+   "date": "2026-07-15",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=IWccMOrxe2o&t=907s",
+    "accessed": "2026-10-01",
+    "label": "CBN Paraíba, sabatina com Efraim Filho, 15/07/2026, em 0:15:07 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-22-pb-ppp-cagepa-IWccMOrxe2o-907",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/IWccMOrxe2o.pt-orig.txt",
+     "video": "IWccMOrxe2o",
+     "at": 907,
+     "contains": "Não só critico como vou cancelar ela no primeiro dia de governo, se isso já me for possível fazer",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Sabatina com Efraim Filho",
+     "channel": "CBN Paraíba",
+     "cues": []
+    }
+   ],
+   "quote": "Não só critico como vou cancelar ela no primeiro dia de governo, se isso já me for possível fazer"
+  },
+  {
+   "id": "exec-governador-15-pb-ppp-cagepa-s56ijpZa39Y-5507",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-15"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": -1,
+   "detail": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
+   "date": "2026-09-28",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5507s",
+    "accessed": "2026-10-01",
+    "label": "Debate 98 FM e Portal Correio, 28/09/2026, em 1:31:47 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-15-pb-ppp-cagepa-s56ijpZa39Y-5507",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/s56ijpZa39Y.pt-orig.txt",
+     "video": "s56ijpZa39Y",
+     "at": 5507,
+     "contains": "eu já assumi de público que eu cancelarei esse leilão",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "DEBATE - GOVERNO DA PARAÍBA",
+     "channel": "Portal Correio",
+     "cues": [
+      {
+       "phrase": "Cícero Lucen candidato",
+       "within": [
+        -60,
+        0
+       ]
+      },
+      {
+       "phrase": "Réplica do candidato Yuri",
+       "within": [
+        0,
+        150
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "eu já assumi de público que eu cancelarei esse leilão"
+  },
+  {
+   "id": "exec-governador-80-pb-ppp-cagepa-W1Vm4q95CHY-2835",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Disse que acabará com a PPP e não fará PPPs no governo.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=2835s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:47:15 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-pb-ppp-cagepa-W1Vm4q95CHY-2835",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/W1Vm4q95CHY.pt-orig.txt",
+     "video": "W1Vm4q95CHY",
+     "at": 2835,
+     "contains": "Nós vamos acabar com a PPP. Não vai ter PPP no governo da unidade popular aqui na Paraíba",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM YURI EZEQUIEL",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "Nós vamos acabar com a PPP. Não vai ter PPP no governo da unidade popular aqui na Paraíba"
+  },
+  {
+   "id": "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
+   "date": "2026-09-16",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:03:30 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
+     "video": "dvfM_oTDPwQ",
+     "at": 210,
+     "contains": "Sim, nós somos totalmente contrários a qualquer tipo de privatização",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Camilo Duarte",
+     "channel": "TV Correio",
+     "cues": [
+      {
+       "phrase": "desfaria esse trato",
+       "within": [
+        -20,
+        0
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização"
+  },
+  {
+   "id": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-27"
+   },
+   "questionId": "pb-vale-saude",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
+   "date": "2026-08-18",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=3692s",
+    "accessed": "2026-10-01",
+    "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 1:01:32 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/6tt_yulTpJ0.pt-orig.txt",
+     "video": "6tt_yulTpJ0",
+     "at": 3692,
+     "contains": "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Pedro Coutinho",
+     "channel": "GClickTV",
+     "cues": []
+    }
+   ],
+   "quote": "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular"
+  },
+  {
+   "id": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "pb-vale-saude",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Disse que dinheiro público deve ir para órgão público.",
+   "date": "2026-09-16",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=218s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:03:38 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
+     "video": "dvfM_oTDPwQ",
+     "at": 218,
+     "contains": "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Camilo Duarte",
+     "channel": "TV Correio",
+     "cues": []
+    }
+   ],
+   "quote": "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população"
+  },
+  {
+   "id": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "pb-empresas-publicas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=750s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:12:30 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/W1Vm4q95CHY.pt-orig.txt",
+     "video": "W1Vm4q95CHY",
+     "at": 750,
+     "contains": "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM YURI EZEQUIEL",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço"
+  },
+  {
+   "id": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "pb-empresas-publicas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Defendeu uma empresa pública de transporte intermunicipal.",
+   "date": "2026-08-18",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=2Ufs3qhUig8&t=989s",
+    "accessed": "2026-10-01",
+    "label": "O Norte Debate, sabatina com Yuri Ezequiel, 18/08/2026, em 0:16:29 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/2Ufs3qhUig8.pt-orig.txt",
+     "video": "2Ufs3qhUig8",
+     "at": 989,
+     "contains": "nós defendemos uma empresa pública de transporte intermunicipal",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "SABATINA COM YURI EZEQUIEL",
+     "channel": "SISTEMA O NORTE",
+     "cues": []
+    }
+   ],
+   "quote": "nós defendemos uma empresa pública de transporte intermunicipal"
+  },
+  {
+   "id": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-27"
+   },
+   "questionId": "pb-empresas-publicas",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Defendeu o estado mínimo em todas as áreas fora da segurança.",
+   "date": "2026-08-18",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=1542s",
+    "accessed": "2026-10-01",
+    "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 0:25:42 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/6tt_yulTpJ0.pt-orig.txt",
+     "video": "6tt_yulTpJ0",
+     "at": 1542,
+     "contains": "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Pedro Coutinho",
+     "channel": "GClickTV",
+     "cues": []
+    }
+   ],
+   "quote": "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação"
+  },
+  {
+   "id": "exec-governador-80-pb-incentivos-fiscais-W1Vm4q95CHY-728",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "pb-incentivos-fiscais",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Criticou as isenções fiscais a grandes empresas, como no polo turístico do Cabo Branco.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=728s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:12:08 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-pb-incentivos-fiscais-W1Vm4q95CHY-728",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/W1Vm4q95CHY.pt-orig.txt",
+     "video": "W1Vm4q95CHY",
+     "at": 728,
+     "contains": "políticas de isenção fiscal para as grandes empresas, como no polo turístico do Cabo Branco",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM YURI EZEQUIEL",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "políticas de isenção fiscal para as grandes empresas, como no polo turístico do Cabo Branco"
+  },
+  {
+   "id": "exec-governador-15-pb-incentivos-fiscais-XzySWIfa1mU-1625",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-15"
+   },
+   "questionId": "pb-incentivos-fiscais",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Citou a redução do ICMS em São Bento como incentivo que atraiu indústria e aumentou a arrecadação.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=XzySWIfa1mU&t=1625s",
+    "accessed": "2026-10-01",
+    "label": "ClickPB, sabatina com Cícero Lucena, 01/09/2026, em 0:27:05 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-15-pb-incentivos-fiscais-XzySWIfa1mU-1625",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/XzySWIfa1mU.pt-orig.txt",
+     "video": "XzySWIfa1mU",
+     "at": 1625,
+     "contains": "baixaram a líquida para 1%, passou a desenvolver a indústria da de São Bento e a recardar mais",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Cícero Lucena",
+     "channel": "GClickTV",
+     "cues": []
+    }
+   ],
+   "quote": "baixaram a líquida para 1%, passou a desenvolver a indústria da de São Bento e a recardar mais"
+  },
+  {
+   "id": "exec-governador-80-eco-privatizacao-W1Vm4q95CHY-911",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Disse que a privatização troca patrimônio público por lucro, sem ganho de eficiência.",
+   "date": "2026-09-01",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=911s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:15:11 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-eco-privatizacao-W1Vm4q95CHY-911",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/W1Vm4q95CHY.pt-orig.txt",
+     "video": "W1Vm4q95CHY",
+     "at": 911,
+     "contains": "A privatização cumpre esse papel de tirar o patrimônio que é nosso para transformar em lucro e não em eficiência",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM YURI EZEQUIEL",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "A privatização cumpre esse papel de tirar o patrimônio que é nosso para transformar em lucro e não em eficiência"
+  },
+  {
+   "id": "exec-governador-29-eco-privatizacao-dvfM_oTDPwQ-210",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "Disse ser totalmente contrário a qualquer privatização.",
+   "date": "2026-09-16",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:03:30 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-eco-privatizacao-dvfM_oTDPwQ-210",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
+     "video": "dvfM_oTDPwQ",
+     "at": 210,
+     "contains": "Sim, nós somos totalmente contrários a qualquer tipo de privatização",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Camilo Duarte",
+     "channel": "TV Correio",
+     "cues": [
+      {
+       "phrase": "desfaria esse trato",
+       "within": [
+        -20,
+        0
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização"
+  },
+  {
+   "id": "exec-governador-22-eco-privatizacao-Wdp8SfV4PQ-4221",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-22"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "No debate da TH+ SBT, disse que não privatizará a Cagepa.",
+   "date": "2026-09-23",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=-Wdp8SfV4PQ&t=4221s",
+    "accessed": "2026-10-01",
+    "label": "Debate TH+ SBT Tambaú, 23/09/2026, em 1:10:21 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-22-eco-privatizacao-Wdp8SfV4PQ-4221",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/-Wdp8SfV4PQ.pt-orig.txt",
+     "video": "-Wdp8SfV4PQ",
+     "at": 4221,
+     "contains": "Não vou privatizar a CAJEPA porque a CAJEPA é um órgão superavitário",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "TH+ SBT João Pessoa",
+     "channel": "TH+ SBT TAMBAÚ",
+     "cues": [
+      {
+       "phrase": "Efraim Filho, o senhor tem 2 minutos para responder",
+       "within": [
+        -30,
+        0
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "Não vou privatizar a CAJEPA porque a CAJEPA é um órgão superavitário"
+  },
+  {
+   "id": "exec-governador-15-eco-privatizacao-s56ijpZa39Y-5550",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-15"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "No debate da 98 FM e Portal Correio, disse não ser favorável à privatização da Cagepa.",
+   "date": "2026-09-28",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5550s",
+    "accessed": "2026-10-01",
+    "label": "Debate 98 FM e Portal Correio, 28/09/2026, em 1:32:30 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-15-eco-privatizacao-s56ijpZa39Y-5550",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/s56ijpZa39Y.pt-orig.txt",
+     "video": "s56ijpZa39Y",
+     "at": 5550,
+     "contains": "eu não sou favorável à privatização da Cajepa",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "DEBATE - GOVERNO DA PARAÍBA",
+     "channel": "Portal Correio",
+     "cues": [
+      {
+       "phrase": "Cícero Lucen candidato",
+       "within": [
+        -120,
+        0
+       ]
+      },
+      {
+       "phrase": "Réplica do candidato Yuri",
+       "within": [
+        0,
+        120
+       ]
+      }
+     ]
+    }
+   ],
+   "quote": "eu não sou favorável à privatização da Cajepa"
+  },
+  {
+   "id": "exec-governador-29-seg-armas-LvPKwMJdVbE-4597",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "seg-armas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Defendeu que toda a população tenha acesso a armas.",
+   "date": "2026-08-24",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=LvPKwMJdVbE&t=4597s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Camilo Duarte, 24/08/2026, em 1:16:37 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-seg-armas-LvPKwMJdVbE-4597",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/LvPKwMJdVbE.pt-orig.txt",
+     "video": "LvPKwMJdVbE",
+     "at": 4597,
+     "contains": "sim, nós defendemos que toda a população tem acesso a armamento",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM CAMILO DUARTE",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "sim, nós defendemos que toda a população tem acesso a armamento"
+  },
+  {
+   "id": "exec-governador-29-soc-aborto-LvPKwMJdVbE-5234",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "soc-aborto",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Disse que a decisão sobre o aborto cabe à mulher grávida.",
+   "date": "2026-08-24",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=LvPKwMJdVbE&t=5234s",
+    "accessed": "2026-10-01",
+    "label": "Sofesta FM, entrevista com Camilo Duarte, 24/08/2026, em 1:27:14 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-soc-aborto-LvPKwMJdVbE-5234",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/LvPKwMJdVbE.pt-orig.txt",
+     "video": "LvPKwMJdVbE",
+     "at": 5234,
+     "contains": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "ENTREVISTA COM CAMILO DUARTE",
+     "channel": "Sofesta FM",
+     "cues": []
+    }
+   ],
+   "quote": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão"
+  },
+  {
+   "id": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-80"
+   },
+   "questionId": "pb-desmilitarizar-pm",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Defendeu a desmilitarização da Polícia Militar.",
+   "date": "2026-09-21",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=1Qu4nlbt1G8&t=40s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, entrevista com Yuri Ezequiel (parte 2), 21/09/2026, em 0:00:40 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/1Qu4nlbt1G8.pt-orig.txt",
+     "video": "1Qu4nlbt1G8",
+     "at": 40,
+     "contains": "Nós defendemos a desmilitarização da Polícia Militar",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Yuri Ezequiel",
+     "channel": "TV Correio",
+     "cues": []
+    }
+   ],
+   "quote": "Nós defendemos a desmilitarização da Polícia Militar"
+  },
+  {
+   "id": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "pb-desmilitarizar-pm",
+   "kind": "platform",
+   "position": 1,
+   "detail": "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
+   "date": "2026-09-16",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=122s",
+    "accessed": "2026-10-01",
+    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:02:02 (legenda automática do YouTube)"
+   },
+   "checkId": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
+     "video": "dvfM_oTDPwQ",
+     "at": 122,
+     "contains": "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Camilo Duarte",
+     "channel": "TV Correio",
+     "cues": []
+    }
+   ],
+   "quote": "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG-gadelha-stf-mandato-as-joao",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "seg-stf-mandato",
+   "kind": "platform",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-08-31",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=cAqSz5F2QCo",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-gadelha-stf-mandato-as-joao",
+   "checks": [
+    {
+     "vtt": "raw/yt/cAqSz5F2QCo.pt.vtt",
+     "video": "cAqSz5F2QCo",
+     "at": 5235,
+     "channel": "TV ARAPUAN",
+     "title_contains": "DEBATE PARA SENADOR",
+     "contains": "os ministros do supremo que são escolhidos pelos senadores eles também possam ter tempo de mandato",
+     "cues": [
+      {
+       "phrase": "candidato joão azevedo volta para o seu lugar",
+       "within": [
+        0,
+        120
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-joao-against-6x1-fabricated",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-6x1",
+   "kind": "platform",
+   "position": -1,
+   "detail": "control",
+   "date": "2026-08-25",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=Ocyi7pnQA94",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-joao-against-6x1-fabricated",
+   "checks": [
+    {
+     "vtt": "raw/yt/Ocyi7pnQA94.pt-orig.vtt",
+     "video": "Ocyi7pnQA94",
+     "at": 160,
+     "channel": "TV Correio",
+     "title_contains": "Sabatina com João Azevêdo",
+     "contains": "eu sou contra o fim da escala 6 por1"
+    }
+   ]
+  },
+  {
+   "id": "NEG-joao-aborto-fabricated",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "soc-aborto",
+   "kind": "platform",
+   "position": 1,
+   "detail": "control",
+   "date": "2025-09-18",
+   "source": {
+    "url": "https://www.pbagora.com.br/noticia/politica/ouca-joao-azevedo-avalia-como-absurda-pec-da-blindagem-e-critica-pl-da-anistia-e-preciso-punir-os-que-cometeram-crimes/",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-joao-aborto-fabricated",
+   "checks": [
+    {
+     "web": "https://www.pbagora.com.br/noticia/politica/ouca-joao-azevedo-avalia-como-absurda-pec-da-blindagem-e-critica-pl-da-anistia-e-preciso-punir-os-que-cometeram-crimes/",
+     "contains": [
+      "Defendo a descriminalização do aborto até a 12ª semana"
+     ],
+     "near": [
+      "Azevêdo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-lucas-quote-as-joao",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "eco-privatizacao",
+   "kind": "platform",
+   "position": -1,
+   "detail": "control",
+   "date": "2026-05-18",
+   "source": {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-lucas-quote-as-joao",
+   "checks": [
+    {
+     "web": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "contains": [
+      "Não privatizamos, nem vamos privatizar a Cagepa"
+     ],
+     "near": [
+      "Azevêdo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-lei-14657-signed-by-joao",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "amb-licenciamento",
+   "kind": "record",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-08-12",
+   "source": {
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2026/19116/lei_14.657.pdf",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-lei-14657-signed-by-joao",
+   "checks": [
+    {
+     "pdf": "raw/sapl/lei_14.657.pdf",
+     "contains": [
+      "JOÃO AZEVÊDO LINS FILHO Governador"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-ppp-wrong-date",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "pb-concessoes-ppp",
+   "kind": "record",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-05-16",
+   "source": {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-ppp-wrong-date",
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "O governador Lucas Ribeiro participou do certame na B3"
+     ],
+     "published": "2026-05-16"
+    }
+   ]
+  },
+  {
+   "id": "NEG-fain-decree-by-joao",
+   "subject": {
+    "type": "candidate",
+    "id": "senador-400"
+   },
+   "questionId": "pb-incentivos-fiscais",
+   "kind": "record",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-07-24",
+   "source": {
+    "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-fain-decree-by-joao",
+   "checks": [
+    {
+     "governor_on": "2026-07-24",
+     "expect": "JOAO"
+    }
+   ]
+  },
+  {
+   "id": "NEG-old-licensing-threshold-swapped",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-11"
+   },
+   "questionId": "amb-licenciamento",
+   "kind": "record",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-08-12",
+   "source": {
+    "url": "http://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2023/16224/16224_texto_integral.pdf",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-old-licensing-threshold-swapped",
+   "checks": [
+    {
+     "pdf": "raw/sapl/16224_texto_integral.pdf",
+     "contains": [
+      "UTE com capacidade instalada superior a 300 (trezentos) MW"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-yuri-ppp-quote-as-cicero",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-15"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": -1,
+   "detail": "control",
+   "date": "2026-09-28",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=s56ijpZa39Y",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-yuri-ppp-quote-as-cicero",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/s56ijpZa39Y.pt-orig.txt",
+     "video": "s56ijpZa39Y",
+     "at": 5600,
+     "contains": "É fundamental enfrentar a precarização da CAJEP a partir desse leilão",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "DEBATE - GOVERNO DA PARAÍBA",
+     "channel": "Portal Correio",
+     "cues": [
+      {
+       "phrase": "Cícero Lucen candidato",
+       "within": [
+        -60,
+        0
+       ]
+      },
+      {
+       "phrase": "Réplica do candidato Yuri",
+       "within": [
+        0,
+        150
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "NEG-efraim-keeps-ppp-fabricated",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-22"
+   },
+   "questionId": "pb-ppp-cagepa",
+   "kind": "platform",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-07-15",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=IWccMOrxe2o",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-efraim-keeps-ppp-fabricated",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/IWccMOrxe2o.pt-orig.txt",
+     "video": "IWccMOrxe2o",
+     "at": 907,
+     "contains": "vou manter a PPP da Cajepa",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Sabatina com Efraim Filho",
+     "channel": "CBN Paraíba",
+     "cues": []
+    }
+   ]
+  },
+  {
+   "id": "NEG-camilo-quote-wrong-video",
+   "subject": {
+    "type": "candidate",
+    "id": "governador-29"
+   },
+   "questionId": "seg-armas",
+   "kind": "platform",
+   "position": 1,
+   "detail": "control",
+   "date": "2026-08-24",
+   "source": {
+    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ",
+    "accessed": "2026-10-01",
+    "label": "x"
+   },
+   "checkId": "NEG-camilo-quote-wrong-video",
+   "checks": [
+    {
+     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
+     "video": "dvfM_oTDPwQ",
+     "at": 4597,
+     "contains": "sim, nós defendemos que toda a população tem acesso a armamento",
+     "meta": "../gov/raw/yt/meta2.txt",
+     "title_contains": "Camilo Duarte",
+     "channel": "TV Correio",
+     "cues": []
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "pb-ppp-cagepa",
+   "area": "economia",
+   "offices": [
+    "governador",
+    "deputado_estadual"
+   ],
+   "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
+   "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+   "sources": [
+    {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-01",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    {
+     "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "accessed": "2026-10-01",
+     "label": "ClickCZ, 18/05/2026"
+    }
+   ],
+   "checks": [
+    {
+     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "contains": [
+      "venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário",
+      "85 cidades",
+      "25 anos",
+      "único lance"
+     ],
+     "published": "2026-05-15"
+    },
+    {
+     "web": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "contains": [
+      "A Cagepa continuará pública"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pb-vale-saude",
+   "area": "social",
+   "offices": [
+    "governador",
+    "deputado_estadual"
+   ],
+   "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
+   "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
+   "sources": [
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-01",
+     "label": "Constituição Federal, art. 199"
+    }
+   ],
+   "checks": [
+    {
+     "file": "../alpb/raw/cf88.html",
+     "encoding": "cp1252",
+     "contains": [
+      "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pb-empresas-publicas",
+   "area": "economia",
+   "offices": [
+    "governador",
+    "deputado_estadual"
+   ],
+   "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
+   "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+   "sources": [
+    {
+     "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "accessed": "2026-10-01",
+     "label": "ClickCZ, 18/05/2026"
+    }
+   ],
+   "checks": [
+    {
+     "web": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "contains": [
+      "A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba"
+     ]
+    }
+   ]
+  }
+ ]
+}

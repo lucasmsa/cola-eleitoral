@@ -1,0 +1,408 @@
+[
+ {
+  "questionId": "eco-reforma-tributaria",
+  "house": "camara",
+  "id": "2196833-326",
+  "date": "2023-07-06",
+  "label": "PEC 45/2019 (reforma tributária), 1º turno na Câmara",
+  "descricao": "Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503.",
+  "tally": {
+   "Sim": 382,
+   "Não": 118,
+   "Abstenção": 3
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/orientacoes"
+  ]
+ },
+ {
+  "questionId": "eco-arcabouco",
+  "house": "camara",
+  "id": "2357053-47",
+  "date": "2023-05-23",
+  "label": "PLP 93/2023 (arcabouço fiscal) na Câmara",
+  "descricao": "Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 372; não: 108; abstenção: 1; total: 481.",
+  "tally": {
+   "Sim": 372,
+   "Não": 108,
+   "Abstenção": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/orientacoes"
+  ]
+ },
+ {
+  "questionId": "eco-privatizacao",
+  "house": "camara",
+  "id": "2270789-73",
+  "date": "2021-05-19",
+  "label": "MP 1.031/2021 (privatização da Eletrobras) na Câmara",
+  "descricao": "Aprovada a Subemenda Substitutiva Global oferecida ao Projeto de Lei de Conversão, adotada pelo Relator da Comissão Mista, ressalvados os destaques. Sim: 313; não: 166; abstenção: 5; total: 484.",
+  "tally": {
+   "Sim": 313,
+   "Não": 166,
+   "Abstenção": 5,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes"
+  ]
+ },
+ {
+  "questionId": "eco-bc-autonomo",
+  "house": "camara",
+  "id": "2265124-70",
+  "date": "2021-02-10",
+  "label": "PLP 19/2019 (autonomia do Banco Central) na Câmara",
+  "descricao": "Aprovado o Projeto de Lei Complementar nº 19, de 2019, ressalvados os destaques. Sim: 339; não: 114; abstenção: 1; total: 454.",
+  "tally": {
+   "Sim": 339,
+   "Não": 114,
+   "Abstenção": 1,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes"
+  ]
+ },
+ {
+  "questionId": "eco-ir-alta-renda",
+  "house": "camara",
+  "id": "2487436-169",
+  "date": "2025-10-01",
+  "label": "PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara",
+  "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493.",
+  "tally": {
+   "Sim": 493,
+   "Artigo 17": 1
+  },
+  "low_discrimination": true,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes"
+  ]
+ },
+ {
+  "questionId": "seg-8-janeiro",
+  "house": "camara",
+  "id": "2358548-89",
+  "date": "2025-12-09",
+  "label": "PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara",
+  "descricao": "Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440.",
+  "tally": {
+   "Sim": 291,
+   "Não": 148,
+   "Abstenção": 1,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+  ]
+ },
+ {
+  "questionId": "seg-blindagem",
+  "house": "camara",
+  "id": "2270800-135",
+  "date": "2025-09-16",
+  "label": "PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara",
+  "descricao": "Aprovado, em primeiro turno, o Substitutivo Reformulado à Proposta de Emenda à Constituição nº 3, de 2021, adotado pelo Relator da Comissão Especial. Sim: 353; Não: 134; Abstenção: 1; Total: 488.",
+  "tally": {
+   "Sim": 353,
+   "Não": 134,
+   "Abstenção": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes"
+  ]
+ },
+ {
+  "questionId": "soc-marco-temporal",
+  "house": "camara",
+  "id": "345311-270",
+  "date": "2023-05-30",
+  "label": "PL 490/2007 (marco temporal das terras indígenas) na Câmara",
+  "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439.",
+  "tally": {
+   "Não": 155,
+   "Sim": 283,
+   "Abstenção": 1,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes"
+  ]
+ },
+ {
+  "questionId": "amb-licenciamento",
+  "house": "camara",
+  "id": "257161-337",
+  "date": "2021-05-12",
+  "label": "PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara",
+  "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.729, de 2004, adotada pelo Relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 300; não: 122; total: 422.",
+  "tally": {
+   "Sim": 300,
+   "Não": 122,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes"
+  ]
+ },
+ {
+  "questionId": "amb-licenciamento",
+  "house": "camara",
+  "id": "257161-454",
+  "date": "2025-07-16",
+  "label": "emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara",
+  "descricao": "Aprovadas.\r\n Sim: 267; Não: 116; Total: 383.",
+  "tally": {
+   "Não": 116,
+   "Sim": 267,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes"
+  ]
+ },
+ {
+  "questionId": "amb-agrotoxicos",
+  "house": "camara",
+  "id": "46249-297",
+  "date": "2022-02-09",
+  "label": "PL 6.299/2002 (registro de agrotóxicos) na Câmara",
+  "descricao": "Aprovada a Subemenda Substitutiva Global ao Projeto de Lei 6.299, de 2002, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 301; não: 150; abstenção: 2; total: 453.",
+  "tally": {
+   "Sim": 301,
+   "Não": 150,
+   "Abstenção": 2,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes"
+  ]
+ },
+ {
+  "questionId": "eco-reforma-tributaria",
+  "house": "senado",
+  "id": 6777,
+  "date": "2023-11-08",
+  "label": "PEC 45/2019 (reforma tributária), 2º turno no Senado",
+  "descricao": "Votação nominal da Proposta de Emenda à Constituição nº 45, de 2019, nos termos do Parecer, em segundo turno.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 53,
+   "Não": 24,
+   "AP": 3,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2019"
+  ]
+ },
+ {
+  "questionId": "eco-arcabouco",
+  "house": "senado",
+  "id": 6714,
+  "date": "2023-06-21",
+  "label": "PLP 93/2023 (arcabouço fiscal) no Senado",
+  "descricao": "Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 57,
+   "LS": 3,
+   "Não": 17,
+   "MIS": 1,
+   "Presidente (art. 51 RISF)": 1,
+   "P-NRV": 2
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=93&ano=2023"
+  ]
+ },
+ {
+  "questionId": "eco-privatizacao",
+  "house": "senado",
+  "id": 6377,
+  "date": "2021-06-16",
+  "label": "MP 1.031/2021 (privatização da Eletrobras) no Senado",
+  "descricao": "(Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras); altera as Leis nºs 5.899, de 1973, 9.991, de 2000, 10.438, de 2002, 10.848, de 2004, 13.182, de 2015, e 14.118, de 2021; e revoga dispositivos da Lei nº 3.890-A, de 1961.)",
+  "resultado": "A",
+  "tally": {
+   "NCom": 1,
+   "Não": 37,
+   "Sim": 42,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=MPV&numero=1031&ano=2021"
+  ]
+ },
+ {
+  "questionId": "eco-bc-autonomo",
+  "house": "senado",
+  "id": 6248,
+  "date": "2020-11-03",
+  "label": "PLP 19/2019 (autonomia do Banco Central) no Senado",
+  "descricao": "Votação da Emenda nº 18 - PLEN (Substitutivo) do Relator ao PLP nº 19, de 2019, ressalvado o destaque.",
+  "resultado": "A",
+  "tally": {
+   "P-NRV": 4,
+   "Sim": 56,
+   "AP": 7,
+   "Presidente (art. 51 RISF)": 1,
+   "Não": 12
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=19&ano=2019"
+  ]
+ },
+ {
+  "questionId": "seg-saidinha",
+  "house": "senado",
+  "id": 6818,
+  "date": "2024-02-20",
+  "label": "PL 2.253/2022 (restrição da saída temporária de presos) no Senado",
+  "descricao": "Votação nominal do Projeto de Lei nº 2.253, de 2022, nos termos do parecer, ressalvados os destaques.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 62,
+   "AP": 4,
+   "Não": 2,
+   "LS": 4,
+   "P-NRV": 5,
+   "Abstenção": 1,
+   "MIS": 1,
+   "NCom": 1,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": true,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2253&ano=2022"
+  ]
+ },
+ {
+  "questionId": "seg-drogas",
+  "house": "senado",
+  "id": 6824,
+  "date": "2024-04-16",
+  "label": "PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado",
+  "descricao": "Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno).",
+  "resultado": "A",
+  "tally": {
+   "MIS": 7,
+   "Sim": 53,
+   "Não": 9,
+   "AP": 8,
+   "LS": 2,
+   "P-NRV": 1,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023"
+  ]
+ },
+ {
+  "questionId": "seg-8-janeiro",
+  "house": "senado",
+  "id": 7041,
+  "date": "2025-12-17",
+  "label": "PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado",
+  "descricao": "Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 48,
+   "Não": 25,
+   "Abstenção": 1,
+   "LS": 1,
+   "Presidente (art. 51 RISF)": 1,
+   "P-NRV": 5
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2162&ano=2023"
+  ]
+ },
+ {
+  "questionId": "soc-marco-temporal",
+  "house": "senado",
+  "id": 6756,
+  "date": "2023-09-27",
+  "label": "PL 2.903/2023 (marco temporal das terras indígenas) no Senado",
+  "descricao": "Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 43,
+   "Não": 21,
+   "MIS": 6,
+   "AP": 6,
+   "P-NRV": 1,
+   "LS": 3,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2903&ano=2023"
+  ]
+ },
+ {
+  "questionId": "amb-licenciamento",
+  "house": "senado",
+  "id": 6935,
+  "date": "2025-05-21",
+  "label": "PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado",
+  "descricao": "Votação nominal do Projeto de Lei nº 2.159, de 2021, nos termos do parecer de Plenário.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 54,
+   "LP": 1,
+   "Não": 13,
+   "AP": 5,
+   "Presidente (art. 51 RISF)": 1,
+   "MIS": 2,
+   "LS": 1,
+   "P-NRV": 2,
+   "NCom": 1,
+   "NA": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2159&ano=2021"
+  ]
+ }
+]

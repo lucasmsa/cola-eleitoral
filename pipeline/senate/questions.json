@@ -1,0 +1,70 @@
+[
+ {
+  "id": "seg-maioridade",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A maioridade penal deve cair para 16 anos nos crimes mais graves, como os hediondos.",
+  "context": "Em 2015 a Câmara aprovou a PEC 171/1993 (imputabilidade penal do maior de 16 anos): 323 sim e 155 não no 1º turno, em 01/07/2015, e 320 sim e 152 não no 2º turno, em 19/08/2015.",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-503",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 14493-503"
+   },
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 14493-536"
+   }
+  ]
+ },
+ {
+  "id": "eco-6x1",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A escala 6x1 deve acabar, com jornada de até 40 horas e dois dias de descanso por semana, sem redução de salário.",
+  "context": "Em 27/05/2026 a Câmara aprovou a PEC 221/2019 (redução da jornada de trabalho): 472 sim e 22 não no 1º turno e 461 sim e 19 não no 2º turno. No Senado, a votação em plenário ficou para depois do 1º turno das eleições.",
+  "sources": [
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 2233802-424"
+   },
+   {
+    "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438",
+    "accessed": "2026-10-01",
+    "label": "Câmara, Dados Abertos, votação 2233802-438"
+   },
+   {
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+    "accessed": "2026-10-01",
+    "label": "Agência Brasil, 02/09/2026"
+   }
+  ]
+ },
+ {
+  "id": "seg-stf-mandato",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador"
+  ],
+  "statement": "Ministros do STF devem ter mandato com prazo fixo, em vez de cargo vitalício.",
+  "context": "A Constituição garante vitaliciedade aos juízes (art. 95, I), o que inclui os ministros do STF. Mudar isso exige emenda constitucional.",
+  "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, Planalto"
+   }
+  ]
+ }
+]

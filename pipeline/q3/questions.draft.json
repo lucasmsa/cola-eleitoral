@@ -1,0 +1,553 @@
+[
+ {
+  "id": "q3-fim-reeleicao",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A reeleição para presidente, governador e prefeito deve acabar.",
+  "context": "Uma PEC que acaba com a reeleição no Executivo e cria mandatos de cinco anos foi aprovada na CCJ do Senado em maio de 2025 e espera votação no plenário.",
+  "contextChecks": [
+   [
+    "Aprovada pela Comissão de Constituição e Justiça em maio de 2025 e pronta para votação em Plenário há quase um ano, a PEC que acaba com a reeleição para presidente, governadores e prefeitos continua parada no Senado.",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    }
+   ],
+   [
+    "A proposta amplia os mandatos para cinco anos.",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 08/05/2026"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/118682/pec-do-fim-da-reeleicao-trava-ha-um-ano-no-senado-otto-cobra-votacao",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 08/05/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Manter a reeleição como é hoje",
+    "value": -1
+   },
+   {
+    "label": "Manter, mas com regras mais duras para quem está no cargo",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende do desenho",
+    "value": 0
+   },
+   {
+    "label": "Acabar com a reeleição, com mandato de 4 anos",
+    "value": 0.5
+   },
+   {
+    "label": "Acabar com a reeleição e ter mandato único de 5 anos",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-civico-militar",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O governo deve ampliar as escolas cívico-militares, em que militares cuidam da disciplina em escolas públicas.",
+  "context": "O programa federal de escolas cívico-militares, criado em 2019, foi revogado por decreto em julho de 2023. Alguns governadores anunciaram que manteriam modelos próprios.",
+  "contextChecks": [
+   [
+    "O programa de escolas cívico-militares, estabelecido em 2019",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    }
+   ],
+   [
+    "DECRETO Nº 11.611, DE 19 DE JULHO DE 2023 Revoga o Decreto nº 10.004, de 5 de setembro de 2019, que institui o Programa Nacional das Escolas Cívico-Militares.",
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11611.htm",
+     "accessed": "2026-10-03",
+     "label": "Planalto, Decreto nº 11.611/2023"
+    }
+   ],
+   [
+    "já anunciaram que pretendem preservar o modelo em suas unidades",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 21/07/2023"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/9473/governo-encerra-programa-de-escolas-civico-militares",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 21/07/2023"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11611.htm",
+    "accessed": "2026-10-03",
+    "label": "Planalto, Decreto nº 11.611/2023"
+   }
+  ],
+  "options": [
+   {
+    "label": "Acabar com o modelo em todas as redes",
+    "value": -1
+   },
+   {
+    "label": "Não ampliar; manter só onde já existe",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende da escola e da comunidade",
+    "value": 0
+   },
+   {
+    "label": "Ampliar onde a comunidade escolar pedir",
+    "value": 0.5
+   },
+   {
+    "label": "Ampliar o modelo em todo o país",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-maconha-uso",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "Portar até 40 gramas de maconha para uso próprio não deve ser crime, como decidiu o STF em 2024.",
+  "context": "O STF decidiu em 2024 que portar maconha para consumo próprio não é crime e fixou 40 gramas como referência. O Senado aprovou em 2024 uma PEC que criminaliza o porte de qualquer quantidade; ela segue na Câmara.",
+  "contextChecks": [
+   [
+    "Foi estabelecido o parâmetro de 40g para diferenciar usuários de traficantes.",
+    {
+     "url": "https://www12.senado.leg.br/radio/1/noticia/2025/02/18/stf-mantem-descriminalizacao-do-porte-de-maconha-mas-senado-tem-proposta-contraria-1",
+     "accessed": "2026-10-03",
+     "label": "Rádio Senado, 18/02/2025"
+    }
+   ],
+   [
+    "Publicado em 27 de Junho, 2024 às 16:00 STF finalizou o julgamento que descriminalizou o porte de maconha para uso pessoal",
+    {
+     "url": "https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/06/porte-de-maconha-entenda-a-decisao-do-supremo-tribunal-federal.html",
+     "accessed": "2026-10-03",
+     "label": "Diario de Pernambuco, 27/06/2024"
+    }
+   ],
+   [
+    "Da Agência Senado | 16/04/2024",
+    {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    }
+   ],
+   [
+    "A PEC segue para a Câmara dos Deputados.",
+    {
+     "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 16/04/2024"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.diariodepernambuco.com.br/amp/noticia/brasil/2024/06/porte-de-maconha-entenda-a-decisao-do-supremo-tribunal-federal.html",
+    "accessed": "2026-10-03",
+    "label": "Diario de Pernambuco, 27/06/2024"
+   },
+   {
+    "url": "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+    "accessed": "2026-10-03",
+    "label": "Agência Senado, 16/04/2024"
+   }
+  ],
+  "options": [
+   {
+    "label": "Deve ser crime, em qualquer quantidade",
+    "value": -1
+   },
+   {
+    "label": "Não ser crime, mas com limite menor que 40 g",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Não ser crime até 40 g, como decidiu o STF",
+    "value": 0.5
+   },
+   {
+    "label": "Não ser crime e regulamentar a venda",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-grandes-fortunas",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "O Brasil deve criar o imposto sobre grandes fortunas, previsto na Constituição e nunca regulamentado.",
+  "context": "A Constituição de 1988 prevê o imposto sobre grandes fortunas (art. 153, VII), mas ele nunca foi regulamentado.",
+  "contextChecks": [
+   [
+    "O Imposto sobre Grandes Fortunas (IGF) está previsto na Constituição Federal de 1988 , no inciso VII do Artigo 153. Todavia, embora seja uma medida constitucional, o imposto nunca foi regulamentado e instituído no Brasil.",
+    {
+     "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+     "accessed": "2026-10-03",
+     "label": "Politize!, 09/07/2025"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.politize.com.br/impostos-sobre-grandes-fortunas/",
+    "accessed": "2026-10-03",
+    "label": "Politize!, 09/07/2025"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não criar; taxar patrimônio afasta investimento",
+    "value": -1
+   },
+   {
+    "label": "Não criar; preferir taxar lucros, dividendos e heranças",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende do desenho",
+    "value": 0
+   },
+   {
+    "label": "Criar, só para patrimônios muito altos",
+    "value": 0.5
+   },
+   {
+    "label": "Criar, com alíquotas progressivas",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-tarifa-zero",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "governador",
+   "deputado_federal",
+   "deputado_estadual"
+  ],
+  "statement": "O transporte público por ônibus deve ser gratuito para todos (tarifa zero), pago com dinheiro público.",
+  "context": "Segundo a NTU, 145 cidades têm algum tipo de gratuidade nos ônibus. O governo federal estuda uma tarifa zero nacional; um grupo de pesquisa estimou o custo em R$ 100 bilhões por ano.",
+  "contextChecks": [
+   [
+    "145 municípios oferecem gratuidade, parcial ou total, no sistema.",
+    {
+     "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 30/03/2025"
+    }
+   ],
+   [
+    "A tarifa zero em todo o País segue nos planos da União.",
+    {
+     "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+     "accessed": "2026-10-03",
+     "label": "Diário do Grande ABC, 24/02/2026"
+    }
+   ],
+   [
+    "O custo estimado para garantir o funcionamento de todo o transporte público no Brasil é de R$ 100 bilhões por ano.",
+    {
+     "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+     "accessed": "2026-10-03",
+     "label": "Diário do Grande ABC, 24/02/2026"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://congressoemfoco.com.br/noticia/107342/tarifa-zero-cresce-e-chega-a-145-cidades-e-5-4-milhoes-de-pessoas",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 30/03/2025"
+   },
+   {
+    "url": "https://www.dgabc.com.br/Noticia/4287023/tarifa-zero-universal-em-todo-o-pais-segue-nos-planos-do-governo",
+    "accessed": "2026-10-03",
+    "label": "Diário do Grande ABC, 24/02/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; quem usa deve pagar a passagem",
+    "value": -1
+   },
+   {
+    "label": "Só passagem mais barata com subsídio, sem gratuidade",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende da cidade",
+    "value": 0
+   },
+   {
+    "label": "Gratuidade para grupos (estudantes, desempregados) ou em alguns dias",
+    "value": 0.5
+   },
+   {
+    "label": "Tarifa zero para toda a população",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-redes-sociais",
+  "area": "social",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "As redes sociais devem ser obrigadas por lei a remover conteúdo criminoso e responder na Justiça quando não agirem.",
+  "context": "O PL das Fake News (PL 2630/2020) começou no Senado e chegou à Câmara em 2020. Na Câmara, a urgência foi aprovada em 2023.",
+  "contextChecks": [
+   [
+    "O Projeto de Lei nº 2630, de 2020 , PL das Fake News, está em tramitação desde 2020 e teve início no Senado Federal.",
+    {
+     "url": "https://www.politize.com.br/?p=19476",
+     "accessed": "2026-10-03",
+     "label": "Politize!, PL das Fake News, 03/05/2023"
+    }
+   ],
+   [
+    "Este foi o primeiro sucesso do texto em plenário desde 2020, quando a matéria chegou à Câmara.",
+    {
+     "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/camara-aprova-urgencia-do-pl-das-fake-news/",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/04/2023"
+    }
+   ],
+   [
+    "25/4/2023 | Atualizado 2/5/2023 às 15:53 A- A+ COMPARTILHE ESTA NOTÍCIA A urgência do PL das Fake News foi aprovada por 238 votos contra 192",
+    {
+     "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/camara-aprova-urgencia-do-pl-das-fake-news/",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 25/04/2023"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.politize.com.br/?p=19476",
+    "accessed": "2026-10-03",
+    "label": "Politize!, PL das Fake News, 03/05/2023"
+   },
+   {
+    "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/camara-aprova-urgencia-do-pl-das-fake-news/",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 25/04/2023"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; isso abre caminho para censura",
+    "value": -1
+   },
+   {
+    "label": "Só regras de transparência, sem punir as plataformas",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende das regras",
+    "value": 0
+   },
+   {
+    "label": "Sim, para crimes graves e proteção de crianças",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, com um órgão regulador fiscalizando",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-pec-seguranca",
+  "area": "seguranca",
+  "offices": [
+   "presidente",
+   "governador",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A União deve ganhar mais poder para coordenar a segurança pública em todo o país, como prevê a PEC da Segurança.",
+  "context": "A PEC 18/2025 foi aprovada pela Câmara em 4 de março de 2026 por ampla maioria e aguarda o Senado.",
+  "contextChecks": [
+   [
+    "A demora chama atenção porque a PEC 18/2025 é tratada pelo Planalto",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    }
+   ],
+   [
+    "23/4/2026 7:00 A- A+ COMPARTILHE ESTA NOTÍCIA Aprovada há 50 dias pela Câmara dos Deputados , a PEC da Segurança Pública segue parada no Senado",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    }
+   ],
+   [
+    "A proposta foi aprovada pelos deputados em 4 de março e autuada no Senado em 10 de março",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    }
+   ],
+   [
+    "passou com ampla margem",
+    {
+     "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 23/04/2026"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara",
+    "accessed": "2026-10-03",
+    "label": "Congresso em Foco, 23/04/2026"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não; segurança deve ficar com os estados",
+    "value": -1
+   },
+   {
+    "label": "Só mais dinheiro e cooperação, sem mudar a Constituição",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, não tenho certeza",
+    "value": 0
+   },
+   {
+    "label": "Sim, com coordenação federal e autonomia dos estados preservada",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, com a União no comando da política de segurança",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "q3-estabilidade",
+  "area": "economia",
+  "offices": [
+   "presidente",
+   "senador",
+   "deputado_federal"
+  ],
+  "statement": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
+  "context": "A reforma administrativa apresentada na Câmara em outubro de 2025 mantém a estabilidade, mas torna o estágio probatório mais rigoroso e prevê avaliações de desempenho.",
+  "contextChecks": [
+   [
+    "03/10/2025 10:22",
+    {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    }
+   ],
+   [
+    "O deputado federal Pedro Paulo (PSD-RJ) protocolou, nessa quinta-feira (2/10), a PEC que sugere uma reforma administrativa no Estado.",
+    {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    }
+   ],
+   [
+    "A estabilidade está mantida, mas o estágio probatório, que é o período “pré-estabilidade” passa a ser mais rigoroso.",
+    {
+     "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 03/10/2025"
+    }
+   ],
+   [
+    "os servidores públicos terão que passar por avaliações de desempenho regulares",
+    {
+     "url": "https://www.band.com.br/noticias/canal-livre/ultimas/reforma-administrativa-tera-processo-de-meritocracia-para-servidores-publicos-entenda-202509281929",
+     "accessed": "2026-10-03",
+     "label": "Band, Canal Livre, 2025"
+    }
+   ]
+  ],
+  "sources": [
+   {
+    "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
+    "accessed": "2026-10-03",
+    "label": "Metrópoles, 03/10/2025"
+   }
+  ],
+  "options": [
+   {
+    "label": "Manter a estabilidade como está",
+    "value": -1
+   },
+   {
+    "label": "Manter, com avaliações só para melhorar o serviço",
+    "value": -0.5
+   },
+   {
+    "label": "Meio-termo, depende das regras",
+    "value": 0
+   },
+   {
+    "label": "Permitir demissão por mau desempenho, com regras claras",
+    "value": 0.5
+   },
+   {
+    "label": "Acabar com a estabilidade, exceto carreiras de Estado",
+    "value": 1
+   }
+  ]
+ }
+]

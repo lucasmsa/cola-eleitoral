@@ -1,0 +1,459 @@
+[
+ {
+  "id": "pres-presidente-30-seg-8-janeiro-0",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista publicada pelo g1, disse que dará anistia ou ao menos \"um tribunal que não seja político\" aos condenados pelo 8 de janeiro.",
+  "quote": "Eu darei anistia ou pelo menos no mínimo um tribunal que não seja político, um tribunal que seja judicial, porque o que nós vimos no Brasil foi perseguição.",
+  "date": "2026-08-25",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=oNntj0DU-OA&t=61s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: g1, \"Eleições 2026 – Romeu Zema responde a pergunta sobre anistia a condenados pelo 8 de janeiro\", 00:01:01 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-30-seg-8-janeiro-0",
+  "lowDiscrimination": false,
+  "timestamp": "00:01:01"
+ },
+ {
+  "id": "pres-presidente-30-eco-6x1-1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No Jornal da Record, chamou de populista a proposta de acabar com a escala 6x1 e defendeu contrato por hora fora da CLT.",
+  "quote": "E vem um governo populista falar que numa canetada vai melhorar a vida do brasileiro. O que eu quero é a solução definitiva. É trabalho por hora além da CLT que existe",
+  "date": "2026-09-17",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=qRA6U_rKmxk&t=1194s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: RECORD, \"Entrevista com Romeu Zema (Novo) no Jornal da Record\", 00:19:54 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-30-eco-6x1-1",
+  "lowDiscrimination": false,
+  "timestamp": "00:19:54"
+ },
+ {
+  "id": "pres-presidente-55-seg-8-janeiro-2",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No Roda Viva (TV Cultura), disse que assinará a anistia aos condenados pelo 8 de janeiro como primeiro ato se eleito.",
+  "quote": "Eu estou dizendo que eu, presidente da República, com a prerrogativa que a Constituição me dá, eu assinarei o ato de anistia imediatamente.",
+  "date": "2025-06-10",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=51g_wYigfag&t=591s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Roda Viva, \"RODA VIVA | RONALDO CAIADO | 09/06/2025\", 00:09:51 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-55-seg-8-janeiro-2",
+  "lowDiscrimination": false,
+  "timestamp": "00:09:51"
+ },
+ {
+  "id": "pres-presidente-55-seg-stf-mandato-3",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No Roda Viva (TV Cultura), defendeu mandato com início e fim para ministros do STF.",
+  "quote": "Eu vejo que o mandato ele é muito mais eh, vamos dizer adequado para o momento que nós estamos vivendo no Brasil.",
+  "date": "2025-06-10",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=51g_wYigfag&t=1820s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Roda Viva, \"RODA VIVA | RONALDO CAIADO | 09/06/2025\", 00:30:20 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-55-seg-stf-mandato-3",
+  "lowDiscrimination": false,
+  "timestamp": "00:30:20"
+ },
+ {
+  "id": "pres-presidente-70-seg-8-janeiro-4",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Na CNN, disse que as condenações do 8 de janeiro foram exageradas em muitos casos e que o golpe não se materializou.",
+  "quote": "as condenações foram realmente exageradas. Em muitos casos. Quem cometeu ou teve a intenção de cometer o golpe tem que ser punido. Mas eu quero dizer para você, golpe você tem quando a materialização, as forças armadas com os golpistas. Isso não houve.",
+  "date": "2026-09-08",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=A0pNnVo2T6k&t=258s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: CNN Brasil, \"ENTREVISTA COM AUGUSTO CURY (AVANTE), CANDIDATO À PRESIDÊNCIA | CNN ELEIÇÕES\", 00:04:18 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-70-seg-8-janeiro-4",
+  "lowDiscrimination": false,
+  "timestamp": "00:04:18"
+ },
+ {
+  "id": "pres-presidente-70-amb-margem-equatorial-5",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "amb-margem-equatorial",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Na CNN, disse que a Margem Equatorial já deveria estar sendo explorada.",
+  "quote": "Para mim, a margem equatorial já deveria estar sendo explorada.",
+  "date": "2026-09-08",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=A0pNnVo2T6k&t=938s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: CNN Brasil, \"ENTREVISTA COM AUGUSTO CURY (AVANTE), CANDIDATO À PRESIDÊNCIA | CNN ELEIÇÕES\", 00:15:38 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-70-amb-margem-equatorial-5",
+  "lowDiscrimination": false,
+  "timestamp": "00:15:38"
+ },
+ {
+  "id": "pres-presidente-70-eco-bc-autonomo-6",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Na CNN, disse que o Banco Central tem que ser independente.",
+  "quote": "o Banco Central tem que ser independente. Claro que tem que ser independente, obviamente.",
+  "date": "2026-09-08",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=A0pNnVo2T6k&t=746s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: CNN Brasil, \"ENTREVISTA COM AUGUSTO CURY (AVANTE), CANDIDATO À PRESIDÊNCIA | CNN ELEIÇÕES\", 00:12:26 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-70-eco-bc-autonomo-6",
+  "lowDiscrimination": false,
+  "timestamp": "00:12:26"
+ },
+ {
+  "id": "pres-presidente-14-eco-privatizacao-7",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Na Revista Oeste, ao dizer que discorda de privatizar a Petrobras, afirmou que faz sentido o país controlar suas reservas e o refino de petróleo.",
+  "quote": "No mundo desses, ter e controlar suas próprias reservas de petróleo e ter as suas operações de refino faz sentido",
+  "date": "2026-05-08",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=gV564Fj2Qv0&t=1342s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Revista Oeste, \"ARENA OESTE #50 | RENAN SANTOS, PRÉ-CANDIDATO À PRESIDÊNCIA\", 00:22:22 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-14-eco-privatizacao-7",
+  "lowDiscrimination": false,
+  "timestamp": "00:22:22"
+ },
+ {
+  "id": "pres-presidente-14-eco-reforma-tributaria-8",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": 0,
+  "detail": "Na Revista Oeste, disse que o modelo de imposto único da reforma tributária é bom, mas que reformaria a lei para tirar as exceções.",
+  "quote": "O modelo que tem esse imposto estadual único, que você não tem as guerras fiscais, é bom. Agora, ele foi deturpado, como quase tudo acontece com o nosso Congresso Nacional, ele foi deturpado por pressões setoriais das mais diversas. Eu reformaria ela para tirar essas deturpações",
+  "date": "2026-05-08",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=gV564Fj2Qv0&t=2121s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Revista Oeste, \"ARENA OESTE #50 | RENAN SANTOS, PRÉ-CANDIDATO À PRESIDÊNCIA\", 00:35:21 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-14-eco-reforma-tributaria-8",
+  "lowDiscrimination": false,
+  "timestamp": "00:35:21"
+ },
+ {
+  "id": "pres-presidente-27-soc-aborto-9",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-27"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No Poder360, defendeu manter as regras atuais sobre aborto e disse ser contra o aborto.",
+  "quote": "Eu defendo a manutenção das regras atuais. Eh, eu sou contra o aborto",
+  "date": "2026-08-25",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=KLZsdpn944A&t=862s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Clariana Barão, candidata à Presidência pelo Democracia Cristã\", 00:14:22 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-27-soc-aborto-9",
+  "lowDiscrimination": false,
+  "timestamp": "00:14:22"
+ },
+ {
+  "id": "pres-presidente-27-seg-8-janeiro-10",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-27"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 0,
+  "detail": "No Poder360, disse não ser a favor da anistia, mas que o STF exagerou nos processos do 8 de janeiro; propõe revisão criminal caso a caso.",
+  "quote": "eu não sou a favor da anistia, mas eu acho que o STF excedeu muito a conduta na tramitação desses processo das pessoas envolvidas no 8 de janeiro.",
+  "date": "2026-08-25",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=KLZsdpn944A&t=1623s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Clariana Barão, candidata à Presidência pelo Democracia Cristã\", 00:27:03 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-27-seg-8-janeiro-10",
+  "lowDiscrimination": false,
+  "timestamp": "00:27:03"
+ },
+ {
+  "id": "pres-presidente-27-eco-privatizacao-11",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-27"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": 0,
+  "detail": "No Poder360, disse ser a favor de privatizações, com exceções como a Petrobras.",
+  "quote": "eu sou a favor das privatizações, mas não de tudo. Eh, não sou a favor, por exemplo, da privatização da Petrobras.",
+  "date": "2026-08-25",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=KLZsdpn944A&t=527s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Clariana Barão, candidata à Presidência pelo Democracia Cristã\", 00:08:47 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-27-eco-privatizacao-11",
+  "lowDiscrimination": false,
+  "timestamp": "00:08:47"
+ },
+ {
+  "id": "pres-presidente-35-seg-8-janeiro-12",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-35"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No Metrópoles, sobre a anistia aos condenados do 8 de janeiro, disse que soltaria todos.",
+  "quote": "depender de mim, eu solto todo mundo.",
+  "date": "2026-09-02",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=Slj2v0RahfU&t=753s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Metrópoles, \"Wilson Grassi sugere salário de R$ 1 milhão a deputados; veja propostas do candidato à presidência\", 00:12:33 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-35-seg-8-janeiro-12",
+  "lowDiscrimination": false,
+  "timestamp": "00:12:33"
+ },
+ {
+  "id": "pres-presidente-35-seg-drogas-13",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-35"
+  },
+  "questionId": "seg-drogas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No Poder360, disse ser a favor da liberação das drogas.",
+  "quote": "Eu sou a favor da liberação dos de droga.",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=dYffqonVmjQ&t=2146s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Wilson Grassi, candidato à Presidência pelo Democrata\", 00:35:46 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-35-seg-drogas-13",
+  "lowDiscrimination": false,
+  "timestamp": "00:35:46"
+ },
+ {
+  "id": "pres-presidente-35-eco-6x1-14",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-35"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No Poder360, sobre o fim da escala 6x1, disse que o governo não deve se meter na relação entre adultos.",
+  "quote": "eu não entendo porque o governo tem que ser babá e se meter na relação entre adultos.",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=dYffqonVmjQ&t=980s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Wilson Grassi, candidato à Presidência pelo Democrata\", 00:16:20 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-35-eco-6x1-14",
+  "lowDiscrimination": false,
+  "timestamp": "00:16:20"
+ },
+ {
+  "id": "pres-presidente-35-eco-bc-autonomo-15",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-35"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No Poder360, disse que o Banco Central tem que ser autônomo.",
+  "quote": "O Banco Central não só tem que ser autônomo quanto ao real",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=dYffqonVmjQ&t=764s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Wilson Grassi, candidato à Presidência pelo Democrata\", 00:12:44 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-35-eco-bc-autonomo-15",
+  "lowDiscrimination": false,
+  "timestamp": "00:12:44"
+ },
+ {
+  "id": "pres-presidente-35-seg-stf-mandato-16",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-35"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No Poder360, propôs mandato de dois a três anos para ministros do STF.",
+  "quote": "E vamos colocar mandato 2, 3 anos no máximo.",
+  "date": "2026-09-01",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=dYffqonVmjQ&t=1788s",
+   "accessed": "2026-10-01",
+   "label": "Vídeo: Poder360, \"Poder Entrevista: Wilson Grassi, candidato à Presidência pelo Democrata\", 00:29:48 (legenda automática em português)"
+  },
+  "checkId": "pres-presidente-35-seg-stf-mandato-16",
+  "lowDiscrimination": false,
+  "timestamp": "00:29:48"
+ },
+ {
+  "id": "pres-presidente-55-eco-privatizacao-17",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como governador de Goiás, sancionou a Lei 20.762/2020, que autoriza desestatizar a CELG-GT, a Metrobus, a Iquego, a Goiasgás e a Goiás Telecom.",
+  "quote": "Autoriza o Poder Executivo do Estado de Goiás a promover medidas de desestatização da CELG Geração e Transmissão S/A - CELG-GT",
+  "date": "2020-01-30",
+  "source": {
+   "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100985",
+   "accessed": "2026-10-01",
+   "label": "Casa Civil de Goiás, Legisla: Lei nº 20.762, de 30/01/2020"
+  },
+  "checkId": "pres-presidente-55-eco-privatizacao-17",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pres-presidente-55-eco-privatizacao-18",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como governador de Goiás, sancionou a Lei 22.286/2023, que autoriza desestatizar a CelgPar.",
+  "quote": "Autoriza o Poder Executivo do Estado de Goiás a promover medidas de desestatização da Companhia Celg de Participações – CELGPAR.",
+  "date": "2023-09-26",
+  "source": {
+   "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107818",
+   "accessed": "2026-10-01",
+   "label": "Casa Civil de Goiás, Legisla: Lei nº 22.286, de 26/09/2023"
+  },
+  "checkId": "pres-presidente-55-eco-privatizacao-18",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pres-presidente-55-amb-licenciamento-19",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como governador de Goiás, sancionou a Lei 20.694/2019, que criou a licença por adesão e compromisso (LAC), concedida por declaração do empreendedor.",
+  "quote": "licença ambiental por adesão e compromisso - LAC: ato administrativo que autoriza a localização, instalação e a operação de atividade ou empreendimento, mediante declaração de adesão e compromisso do empreendedor",
+  "date": "2019-12-26",
+  "source": {
+   "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100893",
+   "accessed": "2026-10-01",
+   "label": "Casa Civil de Goiás, Legisla: Lei nº 20.694, de 26/12/2019"
+  },
+  "checkId": "pres-presidente-55-amb-licenciamento-19",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pres-presidente-55-soc-cotas-20",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "soc-cotas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Como governador de Goiás, sancionou a Lei 20.807/2020, que estende para 25 anos as cotas nas universidades estaduais.",
+  "quote": "O sistema de cotas previsto nesta Lei será empregado durante 25 (vinte e cinco) anos",
+  "date": "2020-07-15",
+  "source": {
+   "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103280",
+   "accessed": "2026-10-01",
+   "label": "Casa Civil de Goiás, Legisla: Lei nº 20.807, de 15/07/2020"
+  },
+  "checkId": "pres-presidente-55-soc-cotas-20",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "pres-presidente-55-soc-aborto-21",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "soc-aborto",
+  "kind": "record",
+  "position": -1,
+  "detail": "Como governador de Goiás, sancionou a Lei 22.537/2024, que cria a Campanha de Conscientização contra o Aborto.",
+  "quote": "Institui a Campanha de Conscientização contra o Aborto para as Mulheres no Estado de Goiás.",
+  "date": "2024-01-11",
+  "source": {
+   "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108399",
+   "accessed": "2026-10-01",
+   "label": "Casa Civil de Goiás, Legisla: Lei nº 22.537, de 11/01/2024"
+  },
+  "checkId": "pres-presidente-55-soc-aborto-21",
+  "lowDiscrimination": false
+ }
+]

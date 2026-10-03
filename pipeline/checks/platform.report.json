@@ -1,0 +1,804 @@
+{
+ "claims": [
+  {
+   "i": 0,
+   "candidateId": "presidente-13",
+   "questionId": "eco-reforma-tributaria",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Aprovamos a histórica reforma tributária do consumo. O número de impostos cairá de cinco (PIS, Cofins, IPI, ICMS e ISS) para dois (CBS federal e IBS subnacional)."
+  },
+  {
+   "i": 1,
+   "candidateId": "presidente-22",
+   "questionId": "eco-reforma-tributaria",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo."
+  },
+  {
+   "i": 2,
+   "candidateId": "presidente-30",
+   "questionId": "eco-reforma-tributaria",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Assegurar uma implementação eficaz da Reforma Tributária: Evitar que a regulamentação da Reforma Tributária replique a complexidade do sis- tema atual por meio de burocracias desnecessárias, regimes especiais, exceções e tratamentos favorecidos"
+  },
+  {
+   "i": 3,
+   "candidateId": "presidente-28",
+   "questionId": "eco-reforma-tributaria",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "A reforma tributária do governo atual promete simplificar, mas ainda assim vai cobrar do empresário uma alíquota que pode chegar a quase 27% a partir de 2027 — continuando a exigir profissional especializado só pra entender quanto se paga. No nosso governo, isso acaba: vira 3,5% pra todo empresário"
+  },
+  {
+   "i": 4,
+   "candidateId": "presidente-70",
+   "questionId": "eco-reforma-tributaria",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários"
+  },
+  {
+   "i": 5,
+   "candidateId": "presidente-13",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Adotamos uma estratégia fiscal inovadora com o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar a recomposição de gastos sociais."
+  },
+  {
+   "i": 6,
+   "candidateId": "presidente-21",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Agiremos para promover a revogação do Arcabouço Fiscal, da Lei de Responsabilidade Fiscal"
+  },
+  {
+   "i": 7,
+   "candidateId": "presidente-16",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Mantém o arcabouço fiscal e a agiotagem escandalosa do pagamento da dívida"
+  },
+  {
+   "i": 8,
+   "candidateId": "presidente-21",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "As empresas estratégicas privatizadas serão retomadas para o patrimônio público"
+  },
+  {
+   "i": 9,
+   "candidateId": "presidente-29",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Cancelamento de todas as privatizações realizadas (Eletrobrás, Vale, bancos, telefonia etc.)"
+  },
+  {
+   "i": 10,
+   "candidateId": "governador-29",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Cancelamento de todas as privatizações realizadas (Eletrobrás, Vale, bancos, telefonia etc.)"
+  },
+  {
+   "i": 11,
+   "candidateId": "presidente-30",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Privatizar todas as empresas estatais para que o governo possa se concentrar na- quilo que de fato lhe cabe, como segurança pública e educação"
+  },
+  {
+   "i": 12,
+   "candidateId": "governador-27",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Vamos enxugar a estrutura, eliminar privilégios e promover uma política agressiva de privatizações e concessões."
+  },
+  {
+   "i": 13,
+   "candidateId": "presidente-22",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "E vamos retomar o Programa Nacional de Desestatização com critério, avaliando caso a caso onde a presença do Estado deixou de fazer sentido."
+  },
+  {
+   "i": 14,
+   "candidateId": "presidente-16",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Estatização das empresas estratégicas do país"
+  },
+  {
+   "i": 15,
+   "candidateId": "presidente-80",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Privatizações e concessões transformam patrimônio coletivo em fonte privada de lucros."
+  },
+  {
+   "i": 16,
+   "candidateId": "governador-80",
+   "questionId": "eco-privatizacao",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Reestatização de empresas estratégicas: Fim definitivo de leilões, parcerias público- privadas (PPPs) e concessões ao capital financeiro."
+  },
+  {
+   "i": 17,
+   "candidateId": "presidente-80",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim do Arcabouço Fiscal garantindo o reajuste nos benefícios"
+  },
+  {
+   "i": 18,
+   "candidateId": "presidente-21",
+   "questionId": "eco-bc-autonomo",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "a retomada do Banco Central (fim da autonomia)"
+  },
+  {
+   "i": 19,
+   "candidateId": "presidente-55",
+   "questionId": "eco-bc-autonomo",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Coordenar políticas fiscal e monetária com respeito à autonomia do Banco Central"
+  },
+  {
+   "i": 20,
+   "candidateId": "presidente-29",
+   "questionId": "eco-bc-autonomo",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim da “independência” do Banco Central"
+  },
+  {
+   "i": 21,
+   "candidateId": "governador-29",
+   "questionId": "eco-bc-autonomo",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim da “independência” do Banco Central"
+  },
+  {
+   "i": 22,
+   "candidateId": "presidente-13",
+   "questionId": "eco-ir-alta-renda",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Na prática, cerca de 140 mil contribuintes do topo da pirâmide social passaram a contribuir mais, viabilizando alívio tributário para mais de 15 milhões de brasileiros e brasileiras."
+  },
+  {
+   "i": 23,
+   "candidateId": "presidente-21",
+   "questionId": "eco-ir-alta-renda",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "redução da tributação sobre o consumo, com cobrança progressiva de impostos, de acordo com o rendimento de cada contribuinte, além da criação de um imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças."
+  },
+  {
+   "i": 24,
+   "candidateId": "presidente-16",
+   "questionId": "eco-ir-alta-renda",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Imposto progressivo sobre as verdadeiras grandes fortunas, o topo da pirâmide, os que possuem de R$ 1 bilhão para cima. Fim dos benefícios fiscais e tributários às grandes empresas Isenção de ir até dez salários mínimos"
+  },
+  {
+   "i": 25,
+   "candidateId": "presidente-29",
+   "questionId": "eco-ir-alta-renda",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas."
+  },
+  {
+   "i": 26,
+   "candidateId": "governador-29",
+   "questionId": "eco-ir-alta-renda",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas."
+  },
+  {
+   "i": 27,
+   "candidateId": "presidente-21",
+   "questionId": "seg-drogas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Descriminalização do uso de drogas, com legalização da maconha a curto prazo."
+  },
+  {
+   "i": 28,
+   "candidateId": "presidente-16",
+   "questionId": "seg-drogas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Descriminalização das drogas e revogação da Lei Antidrogas"
+  },
+  {
+   "i": 29,
+   "candidateId": "presidente-80",
+   "questionId": "seg-8-janeiro",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "é contra a anistia de fascista e blindagem de bandido político."
+  },
+  {
+   "i": 30,
+   "candidateId": "presidente-80",
+   "questionId": "seg-blindagem",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "é contra a anistia de fascista e blindagem de bandido político."
+  },
+  {
+   "i": 31,
+   "candidateId": "governador-80",
+   "questionId": "seg-8-janeiro",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Julgamento, prisão de corruptos e golpistas de ontem e de hoje"
+  },
+  {
+   "i": 32,
+   "candidateId": "presidente-13",
+   "questionId": "seg-armas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "A revogação dos decretos editados no governo anterior, que facilitavam o acesso a armas de fogo, foi uma medida acertada. Por isso, manteremos uma política de controle de armas e munições"
+  },
+  {
+   "i": 33,
+   "candidateId": "presidente-30",
+   "questionId": "seg-armas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Consolidar e ampliar o direito do produtor rural de portar arma em toda a extensão de sua propriedade"
+  },
+  {
+   "i": 34,
+   "candidateId": "presidente-29",
+   "questionId": "seg-armas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Direito de autodefesa e armamento para os trabalhadores do campo e índios"
+  },
+  {
+   "i": 35,
+   "candidateId": "governador-29",
+   "questionId": "seg-armas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Direito de autodefesa e armamento para os trabalhadores do campo e índios"
+  },
+  {
+   "i": 36,
+   "candidateId": "presidente-21",
+   "questionId": "soc-marco-temporal",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Demarcação e proteção integral de todos os territórios indígenas, que serão geridos por conselhos populares dos povos originários. Fim do Marco Temporal."
+  },
+  {
+   "i": 37,
+   "candidateId": "presidente-16",
+   "questionId": "soc-marco-temporal",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Autorizou a exploração de petróleo na Margem Equatorial, enquanto o Congresso aprovou o Projeto de Lei da Devastação e o Marco Temporal"
+  },
+  {
+   "i": 38,
+   "candidateId": "presidente-21",
+   "questionId": "soc-cotas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "a ampliação das cotas (54% para a população negra, refletindo o censo do IBGE e estabelecendo 70 ou 80% de cota para estudantes das escolas públicas)."
+  },
+  {
+   "i": 39,
+   "candidateId": "presidente-16",
+   "questionId": "soc-cotas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Manutenção e ampliação de cotas para negros nas universidades e serviços públicos"
+  },
+  {
+   "i": 40,
+   "candidateId": "presidente-13",
+   "questionId": "soc-cotas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Neste mandato, a política de cotas foi aperfeiçoada, com a inclusão de reserva para quilombolas."
+  },
+  {
+   "i": 41,
+   "candidateId": "presidente-14",
+   "questionId": "soc-cotas",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Abolir o sistema de cotas na educação brasileira e em geral."
+  },
+  {
+   "i": 42,
+   "candidateId": "presidente-16",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Aborto legal, seguro e gratuito pelo sus, contra qualquer interferência de igrejas e setores reacionários"
+  },
+  {
+   "i": 43,
+   "candidateId": "presidente-21",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Legalização do aborto, com garantia de atendimento na rede pública de saúde"
+  },
+  {
+   "i": 44,
+   "candidateId": "presidente-22",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "o respeito à liberdade, à família, à vida desde a concepção"
+  },
+  {
+   "i": 45,
+   "candidateId": "governador-80",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "defesa intransigente da legalização ao direito ao aborto legal na rede de saúde pública"
+  },
+  {
+   "i": 46,
+   "candidateId": "presidente-80",
+   "questionId": "soc-marco-temporal",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim do marco temporal e de qualquer medida que restrinja o direito originário"
+  },
+  {
+   "i": 47,
+   "candidateId": "presidente-80",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Descriminalização e legalização do aborto"
+  },
+  {
+   "i": 48,
+   "candidateId": "presidente-14",
+   "questionId": "amb-licenciamento",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "licenciamento ambiental: implementação plena da Lei Geral do Licenciamento Ambiental (Lei nº 15.190/2025, oriunda do PL 2159/2021)"
+  },
+  {
+   "i": 49,
+   "candidateId": "presidente-30",
+   "questionId": "amb-licenciamento",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Simplificar o processo de licenciamento conforme a nova Lei Geral do Licenciamento Ambiental"
+  },
+  {
+   "i": 50,
+   "candidateId": "presidente-55",
+   "questionId": "amb-licenciamento",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "simplificar o licenciamento de atividades de baixo impacto"
+  },
+  {
+   "i": 51,
+   "candidateId": "presidente-16",
+   "questionId": "amb-licenciamento",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Autorizou a exploração de petróleo na Margem Equatorial, enquanto o Congresso aprovou o Projeto de Lei da Devastação"
+  },
+  {
+   "i": 52,
+   "candidateId": "presidente-21",
+   "questionId": "amb-margem-equatorial",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "No lugar da exploração da Margem Equatorial, defendemos pesquisas e buscas em outras áreas"
+  },
+  {
+   "i": 53,
+   "candidateId": "presidente-16",
+   "questionId": "amb-margem-equatorial",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Não à exploração do petróleo da Margem Equatorial!"
+  },
+  {
+   "i": 54,
+   "candidateId": "presidente-30",
+   "questionId": "amb-agrotoxicos",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Facilitar a produção nacional e a compra de fertilizantes e defensivos agrícolas de alta qualidade do mundo"
+  },
+  {
+   "i": 55,
+   "candidateId": "presidente-16",
+   "questionId": "amb-agrotoxicos",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "defender medidas visando o fim do uso de agrotóxicos"
+  },
+  {
+   "i": 56,
+   "candidateId": "presidente-80",
+   "questionId": "amb-agrotoxicos",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Proibição de Agrotóxicos Banidos no Exterior"
+  },
+  {
+   "i": 57,
+   "candidateId": "governador-80",
+   "questionId": "amb-agrotoxicos",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "redução rigorosa e proibição do uso de agrotóxicos já proibidos internacionalmente"
+  },
+  {
+   "i": 58,
+   "candidateId": "senador-151",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Mas as minhas defesas em relação à família, contra o aborto, contra a criminalidade são princípios da minha história"
+  },
+  {
+   "i": 59,
+   "candidateId": "presidente-13",
+   "questionId": "amb-margem-equatorial",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Então, nós vamos ocupar, explorar petróleo com a maior responsabilidade e fazer com que esse dinheiro possa ser revertido para garantir o futuro desse país”"
+  },
+  {
+   "i": 60,
+   "candidateId": "presidente-22",
+   "questionId": "seg-8-janeiro",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "“O primeiro gesto que eu peço a todas as lideranças políticas que se dizem anti-lula é aprovar a anistia ainda este ano"
+  },
+  {
+   "i": 61,
+   "candidateId": "presidente-22",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública"
+  },
+  {
+   "i": 62,
+   "candidateId": "presidente-14",
+   "questionId": "eco-arcabouco",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "O “Novo Arcabouço Fiscal”, instituído desde então, voltou ao velho modelo petista de aumento da arrecadação para compensar o crescimento desenfreado das despesas."
+  },
+  {
+   "i": 63,
+   "candidateId": "senador-155",
+   "questionId": "seg-8-janeiro",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "“Lamentei a decisão, mas mantive meu posicionamento com coerência. Entendo que votar a dosimetria é, na prática, se aproximar de uma anistia a quem atentou contra as instituições e o regime democrático”"
+  },
+  {
+   "i": 64,
+   "candidateId": "senador-222",
+   "questionId": "soc-aborto",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Ele destacou que a legislação atual considera essas exceções sem punição à mulher ou ao médico responsável. “Acredito que essa legislação atende à maioria da população”"
+  },
+  {
+   "i": 65,
+   "candidateId": "presidente-21",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Contra a redução da maioridade penal e ampliação das medidas socioeducativas."
+  },
+  {
+   "i": 66,
+   "candidateId": "presidente-22",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos."
+  },
+  {
+   "i": 67,
+   "candidateId": "presidente-16",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Contra a redução da maioridade penal"
+  },
+  {
+   "i": 68,
+   "candidateId": "presidente-55",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Trabalhar fortemente pela aprovação da PEC da redução da maioridade penal para 16 (dezesseis) anos"
+  },
+  {
+   "i": 69,
+   "candidateId": "presidente-80",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Não à redução da maioridade penal."
+  },
+  {
+   "i": 70,
+   "candidateId": "presidente-30",
+   "questionId": "seg-maioridade",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Reduzir a maioridade penal para 16 anos, assegurando a responsabilização criminal de adolescentes a partir dessa idade"
+  },
+  {
+   "i": 71,
+   "candidateId": "presidente-21",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Garantiremos o direito ao trabalho para todos, com redução da jornada de trabalho para 30 horas sem redução de salário e o fim da escala 6x1."
+  },
+  {
+   "i": 72,
+   "candidateId": "presidente-16",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim da escala 6×1 sem redução de salários e direitos, sem pejotização e sem demissões"
+  },
+  {
+   "i": 73,
+   "candidateId": "presidente-13",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados."
+  },
+  {
+   "i": 74,
+   "candidateId": "presidente-29",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais)"
+  },
+  {
+   "i": 75,
+   "candidateId": "presidente-80",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Defendemos o fim da escala 6x1, a redução da jornada com aumento salarial"
+  },
+  {
+   "i": 76,
+   "candidateId": "presidente-21",
+   "questionId": "seg-stf-mandato",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "especialmente, que os juízes nomeados para os tribunais regionais e superiores tenham mandato fixo sob controle social: mandatos de 10 anos"
+  },
+  {
+   "i": 77,
+   "candidateId": "presidente-70",
+   "questionId": "seg-stf-mandato",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Propomos estabelecer mandato de oito anos para os ministros do Supremo Tribunal Federal (STF)"
+  },
+  {
+   "i": 78,
+   "candidateId": "presidente-29",
+   "questionId": "seg-stf-mandato",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Fim do Supremo Tribunal Federal (STF); eleição de todos os juízes e procuradores pelo voto popular e com mandatos revogáveis."
+  },
+  {
+   "i": 79,
+   "candidateId": "presidente-14",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Não acredite nesses políticos que estão dizendo para você que você vai trabalhar menos e ganhar mais num país que até as casas Bahia quebram."
+  },
+  {
+   "i": 80,
+   "candidateId": "presidente-70",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "A escala 6x1 atende determinados setores da economia. O que nós temos que fazer, na minha opinião, Renan, é ajustar para atender a necessidade dos trabalhadores e também a necessidade das empresas."
+  },
+  {
+   "i": 81,
+   "candidateId": "presidente-22",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "a gente vai defender a liberdade de você trabalhador escolher qual é a sua escala de trabalho, qual é a proposta alternativa que é muito melhor do que essa daí que no atual governo tá propondo na véspera da eleição."
+  },
+  {
+   "i": 82,
+   "candidateId": "presidente-13",
+   "questionId": "seg-stf-mandato",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Eu sinceramente hoje acho que é preciso a gente discutir um mandato paraa Suprema Corte. Ninguém pode ficar 40 anos no mesmo cargo."
+  },
+  {
+   "i": 83,
+   "candidateId": "presidente-55",
+   "questionId": "eco-6x1",
+   "status": "PASS",
+   "reasons": [],
+   "quote": "Caiado foi questionado por jornalistas se aprova ou não a medida, ao qual ele respondeu: \" Sim, sou a favor \""
+  }
+ ],
+ "controls": [
+  {
+   "name": "ctl-fabricated-plan",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not on PDF page 11"
+   ]
+  },
+  {
+   "name": "ctl-wrong-page",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not on PDF page 16"
+   ]
+  },
+  {
+   "name": "ctl-wrong-candidate",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not on PDF page 15"
+   ]
+  },
+  {
+   "name": "ctl-plan-sq-mismatch",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "plan file SQ != TSE SQ_CANDIDATO 280002542548 for presidente-13"
+   ]
+  },
+  {
+   "name": "ctl-fabricated-web",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not in cached page"
+   ]
+  },
+  {
+   "name": "ctl-wrong-candidate-web",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "candidate name \"queiroga\" not within the quote attribution window"
+   ]
+  },
+  {
+   "name": "ctl-old-web",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "web source older than 2025"
+   ]
+  },
+  {
+   "name": "ctl-video-wrong-candidate",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "alias 'Renan Santos' does not match TSE name ESCRITOR AUGUSTO CURY"
+   ]
+  },
+  {
+   "name": "ctl-video-wrong-anchor",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "moderator anchor not found within 3000 chars before quote"
+   ]
+  },
+  {
+   "name": "ctl-video-wrong-timestamp",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "timestamp 01:40:00 != caption time 01:51:27"
+   ]
+  },
+  {
+   "name": "ctl-video-interviewer-question",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "timestamp 00:11:15 != caption time 00:11:04",
+    "quote contains a question",
+    "a question follows the quote in the same turn (interviewer speech)"
+   ]
+  },
+  {
+   "name": "ctl-video-interviewer-preamble",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "a question follows the quote in the same turn (interviewer speech)"
+   ]
+  },
+  {
+   "name": "ctl-video-fabricated",
+   "status": "FAIL",
+   "expectedFail": true,
+   "ok": true,
+   "reasons": [
+    "quote not in cached captions"
+   ]
+  }
+ ],
+ "summary": {
+  "total": 84,
+  "passed": 84,
+  "cachedOnly": 0,
+  "failed": 0,
+  "controlsOk": true
+ }
+}

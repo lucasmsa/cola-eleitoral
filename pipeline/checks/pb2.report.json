@@ -1,0 +1,95 @@
+{
+ "rows": [
+  {
+   "id": "pb2-senador-400-seg-stf-mandato-sofesta-2026-09-15",
+   "status": "PASS",
+   "claim": "eu defendo, por exemplo, que ministro do supremo tenha mandato, tem um período, não pode ser eterno",
+   "note": "caption match at 00:59:21"
+  },
+  {
+   "id": "pb2-senador-155-seg-stf-mandato-sofesta-2026-09-18",
+   "status": "PASS",
+   "claim": "como também sou defensor de mandatos não vitalícios, mandatos de 8, 10, no máximo, no máximo 12 anos",
+   "note": "caption match at 01:00:49"
+  },
+  {
+   "id": "pb2-senador-222-eco-reforma-tributaria-clickpb-2026-08-21",
+   "status": "PASS",
+   "claim": "fazer uma reforma tributária de verdade que diminui o imposto, não que crie o maior iva do mundo para um governo sedento de imposto",
+   "note": "caption match at 00:35:22"
+  },
+  {
+   "id": "pb2-senador-222-eco-arcabouco-clickpb-2026-08-21",
+   "status": "PASS",
+   "claim": "esse governo acabou com o teto de gastos, foi liberal liberou geral para gastar, né? foi aprovado um tal de um arcaboo fiscal que ele mesmo não compre",
+   "note": "caption match at 01:02:19"
+  },
+  {
+   "id": "pb2-senador-222-seg-8-janeiro-arapuan-2026-09-01",
+   "status": "PASS",
+   "claim": "faz um compromisso de pautar o projeto da anistia das vítimas do lá de janeiro de 2023 e aí na hora descumpre o compromisso e no lugar disso aprova lá uma dosimetria",
+   "note": "caption match at 02:32:26"
+  },
+  {
+   "id": "pb2-senador-151-seg-blindagem-sofesta-2026-09-11",
+   "status": "PASS",
+   "claim": "e pior foi o o nosso paraibano, deputado federal aqui, colocar a pec da blindagem. quer dizer, quem tiver um mandato pode roubar, pode matar, porque eu tô blindado pel uma pec",
+   "note": "caption match at 01:29:51"
+  },
+  {
+   "id": "pb2-senador-272-seg-armas-sofesta-2026-09-09",
+   "status": "PASS",
+   "claim": "eu sou totalmente a favor do armamento, mas que existe e precisa ter uma um estudo melhor de viabilidade desse projeto",
+   "note": "caption match at 00:16:44"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG fabricated João quote",
+   "status": "FAIL",
+   "note": "quote not in captions"
+  },
+  {
+   "id": "NEG João's STF quote attributed to Nabor",
+   "status": "FAIL",
+   "note": "video title does not name the candidate"
+  },
+  {
+   "id": "NEG tampered date",
+   "status": "FAIL",
+   "note": "upload 20260915 != row date 2024-09-15 or older than 2025"
+  },
+  {
+   "id": "NEG wrong timestamp",
+   "status": "FAIL",
+   "note": "timestamp 00:59:21 not in source url/label"
+  },
+  {
+   "id": "NEG senate candidate on a governor-only question",
+   "status": "FAIL",
+   "note": "question does not apply to senador"
+  },
+  {
+   "id": "NEG interviewer question that was never asked",
+   "status": "FAIL",
+   "note": "interviewer question not found before the quote"
+  },
+  {
+   "id": "NEG invalid position value",
+   "status": "FAIL",
+   "note": "bad position"
+  },
+  {
+   "id": "NEG debate quote anchored to another speaker's earlier turn",
+   "status": "FAIL",
+   "note": "speaker turn changes between anchor and quote"
+  },
+  {
+   "id": "NEG Queiroga debate quote attributed to Major Fábio",
+   "status": "FAIL",
+   "note": "moderator cue naming the candidate not right after the quote"
+  }
+ ],
+ "harness_ok": true,
+ "live": false
+}

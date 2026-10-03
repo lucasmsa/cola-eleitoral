@@ -1,0 +1,58 @@
+[
+ {
+  "id": "pb-ppp-cagepa",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
+  "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+  "sources": [
+   {
+    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+    "accessed": "2026-10-01",
+    "label": "Movimento Econômico, 15/05/2026"
+   },
+   {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "ClickCZ, 18/05/2026"
+   }
+  ]
+ },
+ {
+  "id": "pb-vale-saude",
+  "area": "social",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
+  "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
+  "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, art. 199"
+   }
+  ]
+ },
+ {
+  "id": "pb-empresas-publicas",
+  "area": "economia",
+  "offices": [
+   "governador",
+   "deputado_estadual"
+  ],
+  "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
+  "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+  "sources": [
+   {
+    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "accessed": "2026-10-01",
+    "label": "ClickCZ, 18/05/2026"
+   }
+  ]
+ }
+]

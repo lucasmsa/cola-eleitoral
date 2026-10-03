@@ -1,0 +1,122 @@
+[
+ {
+  "questionId": "eco-privatizacao",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque transfere empresas do Estado para acionistas privados."
+ },
+ {
+  "questionId": "eco-bc-autonomo",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque reduz o controle do governo eleito sobre a política de juros."
+ },
+ {
+  "questionId": "eco-ir-alta-renda",
+  "axis": "economico",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque aumenta a tributação de altas rendas para redistribuir."
+ },
+ {
+  "questionId": "eco-6x1",
+  "axis": "economico",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque amplia a regulação do contrato de trabalho por norma constitucional."
+ },
+ {
+  "questionId": "amb-licenciamento",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque reduz exigências prévias do Estado sobre empreendimentos."
+ },
+ {
+  "questionId": "amb-agrotoxicos",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque acelera e simplifica a liberação de produtos pelo Estado."
+ },
+ {
+  "questionId": "pb-concessoes-ppp",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque passa a operação de serviços públicos a empresas privadas."
+ },
+ {
+  "questionId": "pb-ppp-cagepa",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque mantém um serviço público operado por empresa privada."
+ },
+ {
+  "questionId": "pb-vale-saude",
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque leva dinheiro público da saúde para a rede privada por escolha do paciente."
+ },
+ {
+  "questionId": "pb-empresas-publicas",
+  "axis": "economico",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque cria empresas controladas pelo governo."
+ },
+ {
+  "questionId": "seg-saidinha",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa punição mais dura a ordem e tradição."
+ },
+ {
+  "questionId": "seg-drogas",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, porque mantém a criminalização de uma conduta individual."
+ },
+ {
+  "questionId": "seg-armas",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usada no debate brasileiro, embora defensores também invoquem liberdade individual."
+ },
+ {
+  "questionId": "seg-maioridade",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa punição mais dura a ordem."
+ },
+ {
+  "questionId": "soc-marco-temporal",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa direitos territoriais indígenas ao campo progressista."
+ },
+ {
+  "questionId": "soc-aborto",
+  "axis": "social",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque amplia a autonomia individual sobre um tema moral."
+ },
+ {
+  "questionId": "soc-cotas",
+  "axis": "social",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque mantém ação afirmativa racial e social."
+ },
+ {
+  "questionId": "pb-desmilitarizar-pm",
+  "axis": "social",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, na convenção usual que associa a estrutura militar da polícia ao campo da ordem."
+ },
+ {
+  "questionId": "pb-cac-arma",
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na mesma convenção usada para acesso a armas."
+ },
+ {
+  "questionId": "pb-nome-social",
+  "axis": "social",
+  "direction": -1,
+  "rationale": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque amplia o reconhecimento da identidade de gênero."
+ }
+]

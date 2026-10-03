@@ -1,0 +1,1676 @@
+[
+ {
+  "id": "plat-presidente-13-eco-reforma-tributaria",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE apresenta a reforma tributária do consumo, com CBS e IBS, como conquista do governo (p. 11).",
+  "quote": "Aprovamos a histórica reforma tributária do consumo. O número de impostos cairá de cinco (PIS, Cofins, IPI, ICMS e ISS) para dois (CBS federal e IBS subnacional).",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 11), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:0",
+  "page": 11
+ },
+ {
+  "id": "plat-presidente-22-eco-reforma-tributaria",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": 0,
+  "detail": "O plano de governo registrado no TSE propõe revisar e redimensionar a reforma tributária em curso, sem revogá-la (p. 71).",
+  "quote": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo.",
+  "date": "2026-08-13",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 71), arquivo 2026BR280002551544_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:1",
+  "page": 71
+ },
+ {
+  "id": "plat-presidente-30-eco-reforma-tributaria",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe implementar a reforma tributária evitando exceções e regimes especiais (p. 19).",
+  "quote": "Assegurar uma implementação eficaz da Reforma Tributária: Evitar que a regulamentação da Reforma Tributária replique a complexidade do sis- tema atual por meio de burocracias desnecessárias, regimes especiais, exceções e tratamentos favorecidos",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 19), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:2",
+  "page": 19
+ },
+ {
+  "id": "plat-presidente-28-eco-reforma-tributaria",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-28"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe substituir o modelo da reforma por um imposto único de 3,5% (p. 5).",
+  "quote": "A reforma tributária do governo atual promete simplificar, mas ainda assim vai cobrar do empresário uma alíquota que pode chegar a quase 27% a partir de 2027 — continuando a exigir profissional especializado só pra entender quanto se paga. No nosso governo, isso acaba: vira 3,5% pra todo empresário",
+  "date": "2026-09-30",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LEONARDO AVALANCHE, p. 5), arquivo 2026BR280002554479_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:3",
+  "page": 5
+ },
+ {
+  "id": "plat-presidente-70-eco-reforma-tributaria",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "platform",
+  "position": 0,
+  "detail": "O plano de governo registrado no TSE propõe avaliar a reforma tributária e ajustá-la se houver distorções (p. 37).",
+  "quote": "Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários",
+  "date": "2026-08-17",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ESCRITOR AUGUSTO CURY, p. 37), arquivo 2026BR280002551547_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:4",
+  "page": 37
+ },
+ {
+  "id": "plat-presidente-13-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende o arcabouço fiscal como estratégia do governo (p. 10).",
+  "quote": "Adotamos uma estratégia fiscal inovadora com o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar a recomposição de gastos sociais.",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 10), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:5",
+  "page": 10
+ },
+ {
+  "id": "plat-presidente-21-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe revogar o arcabouço fiscal e a Lei de Responsabilidade Fiscal (p. 4).",
+  "quote": "Agiremos para promover a revogação do Arcabouço Fiscal, da Lei de Responsabilidade Fiscal",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 4), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:6",
+  "page": 4
+ },
+ {
+  "id": "plat-presidente-16-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE critica a manutenção do arcabouço fiscal pelo governo atual (p. 4).",
+  "quote": "Mantém o arcabouço fiscal e a agiotagem escandalosa do pagamento da dívida",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 4), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:7",
+  "page": 4
+ },
+ {
+  "id": "plat-presidente-21-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe retomar as empresas estratégicas já privatizadas (p. 4).",
+  "quote": "As empresas estratégicas privatizadas serão retomadas para o patrimônio público",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 4), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:8",
+  "page": 4
+ },
+ {
+  "id": "plat-presidente-29-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe cancelar as privatizações já feitas, incluindo a Eletrobras (p. 3).",
+  "quote": "Cancelamento de todas as privatizações realizadas (Eletrobrás, Vale, bancos, telefonia etc.)",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 3), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:9",
+  "page": 3
+ },
+ {
+  "id": "plat-governador-29-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe cancelar as privatizações já feitas, incluindo a Eletrobras (p. 3).",
+  "quote": "Cancelamento de todas as privatizações realizadas (Eletrobrás, Vale, bancos, telefonia etc.)",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 3), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:10",
+  "page": 3
+ },
+ {
+  "id": "plat-presidente-30-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe privatizar todas as empresas estatais (p. 15).",
+  "quote": "Privatizar todas as empresas estatais para que o governo possa se concentrar na- quilo que de fato lhe cabe, como segurança pública e educação",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 15), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:11",
+  "page": 15
+ },
+ {
+  "id": "plat-governador-27-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-27"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe uma política de privatizações e concessões (p. 2).",
+  "quote": "Vamos enxugar a estrutura, eliminar privilégios e promover uma política agressiva de privatizações e concessões.",
+  "date": "2026-08-12",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (PEDRO COUTINHO, p. 2), arquivo 2026PB150002551911_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:12",
+  "page": 2
+ },
+ {
+  "id": "plat-presidente-22-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe retomar o Programa Nacional de Desestatização, avaliando caso a caso (p. 70).",
+  "quote": "E vamos retomar o Programa Nacional de Desestatização com critério, avaliando caso a caso onde a presença do Estado deixou de fazer sentido.",
+  "date": "2026-08-13",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 70), arquivo 2026BR280002551544_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:13",
+  "page": 70
+ },
+ {
+  "id": "plat-presidente-16-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe estatizar as empresas estratégicas (p. 6).",
+  "quote": "Estatização das empresas estratégicas do país",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 6), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:14",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-80-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE critica privatizações e concessões (p. 7).",
+  "quote": "Privatizações e concessões transformam patrimônio coletivo em fonte privada de lucros.",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 7), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:15",
+  "page": 7
+ },
+ {
+  "id": "plat-governador-80-eco-privatizacao",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe reestatizar empresas estratégicas e encerrar leilões, PPPs e concessões (p. 3).",
+  "quote": "Reestatização de empresas estratégicas: Fim definitivo de leilões, parcerias público- privadas (PPPs) e concessões ao capital financeiro.",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 3), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:16",
+  "page": 3
+ },
+ {
+  "id": "plat-presidente-80-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim do arcabouço fiscal (p. 9).",
+  "quote": "Fim do Arcabouço Fiscal garantindo o reajuste nos benefícios",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 9), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:17",
+  "page": 9
+ },
+ {
+  "id": "plat-presidente-21-eco-bc-autonomo",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe acabar com a autonomia do Banco Central (p. 4).",
+  "quote": "a retomada do Banco Central (fim da autonomia)",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 4), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:18",
+  "page": 4
+ },
+ {
+  "id": "plat-presidente-55-eco-bc-autonomo",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE se compromete a respeitar a autonomia do Banco Central (p. 13).",
+  "quote": "Coordenar políticas fiscal e monetária com respeito à autonomia do Banco Central",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RONALDO CAIADO, p. 13), arquivo 2026BR280002551932_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:19",
+  "page": 13
+ },
+ {
+  "id": "plat-presidente-29-eco-bc-autonomo",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim da independência do Banco Central (p. 6).",
+  "quote": "Fim da “independência” do Banco Central",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 6), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:20",
+  "page": 6
+ },
+ {
+  "id": "plat-governador-29-eco-bc-autonomo",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim da independência do Banco Central (p. 6).",
+  "quote": "Fim da “independência” do Banco Central",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 6), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:21",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-13-eco-ir-alta-renda",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE apresenta a cobrança maior do topo da renda como fonte do alívio do IR para a base (p. 11).",
+  "quote": "Na prática, cerca de 140 mil contribuintes do topo da pirâmide social passaram a contribuir mais, viabilizando alívio tributário para mais de 15 milhões de brasileiros e brasileiras.",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 11), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:22",
+  "page": 11
+ },
+ {
+  "id": "plat-presidente-21-eco-ir-alta-renda",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto especial sobre lucros e dividendos e grandes fortunas (p. 14).",
+  "quote": "redução da tributação sobre o consumo, com cobrança progressiva de impostos, de acordo com o rendimento de cada contribuinte, além da criação de um imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças.",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 14), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:23",
+  "page": 14
+ },
+ {
+  "id": "plat-presidente-16-eco-ir-alta-renda",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe imposto sobre grandes fortunas e isenção de IR até dez salários mínimos (p. 27).",
+  "quote": "Imposto progressivo sobre as verdadeiras grandes fortunas, o topo da pirâmide, os que possuem de R$ 1 bilhão para cima. Fim dos benefícios fiscais e tributários às grandes empresas Isenção de ir até dez salários mínimos",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 27), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:24",
+  "page": 27
+ },
+ {
+  "id": "plat-presidente-29-eco-ir-alta-renda",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe tributar só ganhos de capital e grandes fortunas (p. 6).",
+  "quote": "Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas.",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 6), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:25",
+  "page": 6
+ },
+ {
+  "id": "plat-governador-29-eco-ir-alta-renda",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe tributar só ganhos de capital e grandes fortunas (p. 6).",
+  "quote": "Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas.",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 6), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:26",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-21-seg-drogas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "seg-drogas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe descriminalizar o uso de drogas e legalizar a maconha (p. 12).",
+  "quote": "Descriminalização do uso de drogas, com legalização da maconha a curto prazo.",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 12), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:27",
+  "page": 12
+ },
+ {
+  "id": "plat-presidente-16-seg-drogas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "seg-drogas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe descriminalizar as drogas e revogar a Lei Antidrogas (p. 19).",
+  "quote": "Descriminalização das drogas e revogação da Lei Antidrogas",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 19), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:28",
+  "page": 19
+ },
+ {
+  "id": "plat-presidente-80-seg-8-janeiro",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE se opõe à anistia aos envolvidos nos atos golpistas, incluindo os de 8 de janeiro (p. 54).",
+  "quote": "é contra a anistia de fascista e blindagem de bandido político.",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 54), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:29",
+  "page": 54
+ },
+ {
+  "id": "plat-presidente-80-seg-blindagem",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE critica a PEC que blindava parlamentares (p. 54).",
+  "quote": "é contra a anistia de fascista e blindagem de bandido político.",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 54), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:30",
+  "page": 54
+ },
+ {
+  "id": "plat-governador-80-seg-8-janeiro",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE defende julgamento e prisão de golpistas (p. 6).",
+  "quote": "Julgamento, prisão de corruptos e golpistas de ontem e de hoje",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 6), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:31",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-13-seg-armas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE defende manter a política de controle de armas e munições (p. 28).",
+  "quote": "A revogação dos decretos editados no governo anterior, que facilitavam o acesso a armas de fogo, foi uma medida acertada. Por isso, manteremos uma política de controle de armas e munições",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 28), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:32",
+  "page": 28
+ },
+ {
+  "id": "plat-presidente-30-seg-armas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe ampliar o porte de arma do produtor rural em toda a propriedade (p. 45).",
+  "quote": "Consolidar e ampliar o direito do produtor rural de portar arma em toda a extensão de sua propriedade",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 45), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:33",
+  "page": 45
+ },
+ {
+  "id": "plat-presidente-29-seg-armas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende armamento para trabalhadores do campo e indígenas (p. 4).",
+  "quote": "Direito de autodefesa e armamento para os trabalhadores do campo e índios",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 4), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:34",
+  "page": 4
+ },
+ {
+  "id": "plat-governador-29-seg-armas",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-29"
+  },
+  "questionId": "seg-armas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende armamento para trabalhadores do campo e indígenas (p. 4).",
+  "quote": "Direito de autodefesa e armamento para os trabalhadores do campo e índios",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 4), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:35",
+  "page": 4
+ },
+ {
+  "id": "plat-presidente-21-soc-marco-temporal",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim do marco temporal (p. 12).",
+  "quote": "Demarcação e proteção integral de todos os territórios indígenas, que serão geridos por conselhos populares dos povos originários. Fim do Marco Temporal.",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 12), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:36",
+  "page": 12
+ },
+ {
+  "id": "plat-presidente-16-soc-marco-temporal",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE critica a aprovação do marco temporal pelo Congresso (p. 15).",
+  "quote": "Autorizou a exploração de petróleo na Margem Equatorial, enquanto o Congresso aprovou o Projeto de Lei da Devastação e o Marco Temporal",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 15), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:37",
+  "page": 15
+ },
+ {
+  "id": "plat-presidente-21-soc-cotas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "soc-cotas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe ampliar as cotas nas universidades federais (p. 7).",
+  "quote": "a ampliação das cotas (54% para a população negra, refletindo o censo do IBGE e estabelecendo 70 ou 80% de cota para estudantes das escolas públicas).",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 7), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:38",
+  "page": 7
+ },
+ {
+  "id": "plat-presidente-16-soc-cotas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "soc-cotas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe manter e ampliar as cotas para negros nas universidades (p. 21).",
+  "quote": "Manutenção e ampliação de cotas para negros nas universidades e serviços públicos",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 21), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:39",
+  "page": 21
+ },
+ {
+  "id": "plat-presidente-13-soc-cotas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "soc-cotas",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE apresenta a ampliação da política de cotas como feito do mandato (p. 20).",
+  "quote": "Neste mandato, a política de cotas foi aperfeiçoada, com a inclusão de reserva para quilombolas.",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 20), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:40",
+  "page": 20
+ },
+ {
+  "id": "plat-presidente-14-soc-cotas",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "soc-cotas",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe abolir o sistema de cotas e trocá-lo por bolsas de mérito (p. 32).",
+  "quote": "Abolir o sistema de cotas na educação brasileira e em geral.",
+  "date": "2026-07-23",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RENAN SANTOS, p. 32), arquivo 2026BR280002540694_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:41",
+  "page": 32
+ },
+ {
+  "id": "plat-presidente-16-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende aborto legal, seguro e gratuito pelo SUS (p. 23).",
+  "quote": "Aborto legal, seguro e gratuito pelo sus, contra qualquer interferência de igrejas e setores reacionários",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 23), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:42",
+  "page": 23
+ },
+ {
+  "id": "plat-presidente-21-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe legalizar o aborto com atendimento na rede pública (p. 11).",
+  "quote": "Legalização do aborto, com garantia de atendimento na rede pública de saúde",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 11), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:43",
+  "page": 11
+ },
+ {
+  "id": "plat-presidente-22-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE lista a vida desde a concepção entre seus valores (p. 9).",
+  "quote": "o respeito à liberdade, à família, à vida desde a concepção",
+  "date": "2026-08-13",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 9), arquivo 2026BR280002551544_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:44",
+  "page": 9
+ },
+ {
+  "id": "plat-governador-80-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende a legalização do aborto na rede pública (p. 5).",
+  "quote": "defesa intransigente da legalização ao direito ao aborto legal na rede de saúde pública",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 5), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:45",
+  "page": 5
+ },
+ {
+  "id": "plat-presidente-80-soc-marco-temporal",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim do marco temporal (p. 35).",
+  "quote": "Fim do marco temporal e de qualquer medida que restrinja o direito originário",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 35), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:46",
+  "page": 35
+ },
+ {
+  "id": "plat-presidente-80-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe descriminalizar e legalizar o aborto (p. 28).",
+  "quote": "Descriminalização e legalização do aborto",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 28), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:47",
+  "page": 28
+ },
+ {
+  "id": "plat-presidente-14-amb-licenciamento",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe implementar plenamente a Lei Geral do Licenciamento Ambiental (p. 24).",
+  "quote": "licenciamento ambiental: implementação plena da Lei Geral do Licenciamento Ambiental (Lei nº 15.190/2025, oriunda do PL 2159/2021)",
+  "date": "2026-07-23",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RENAN SANTOS, p. 24), arquivo 2026BR280002540694_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:48",
+  "page": 24
+ },
+ {
+  "id": "plat-presidente-30-amb-licenciamento",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe simplificar o licenciamento conforme a nova Lei Geral (p. 27).",
+  "quote": "Simplificar o processo de licenciamento conforme a nova Lei Geral do Licenciamento Ambiental",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 27), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:49",
+  "page": 27
+ },
+ {
+  "id": "plat-presidente-55-amb-licenciamento",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe simplificar o licenciamento de atividades de baixo impacto (p. 24).",
+  "quote": "simplificar o licenciamento de atividades de baixo impacto",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RONALDO CAIADO, p. 24), arquivo 2026BR280002551932_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:50",
+  "page": 24
+ },
+ {
+  "id": "plat-presidente-16-amb-licenciamento",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE chama a nova lei de licenciamento de 'Projeto de Lei da Devastação' (p. 15).",
+  "quote": "Autorizou a exploração de petróleo na Margem Equatorial, enquanto o Congresso aprovou o Projeto de Lei da Devastação",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 15), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:51",
+  "page": 15
+ },
+ {
+  "id": "plat-presidente-21-amb-margem-equatorial",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "amb-margem-equatorial",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe pesquisar outras áreas no lugar da Margem Equatorial (p. 14).",
+  "quote": "No lugar da exploração da Margem Equatorial, defendemos pesquisas e buscas em outras áreas",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 14), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:52",
+  "page": 14
+ },
+ {
+  "id": "plat-presidente-16-amb-margem-equatorial",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "amb-margem-equatorial",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE se opõe à exploração de petróleo na Margem Equatorial (p. 15).",
+  "quote": "Não à exploração do petróleo da Margem Equatorial!",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 15), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:53",
+  "page": 15
+ },
+ {
+  "id": "plat-presidente-30-amb-agrotoxicos",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe facilitar a compra de defensivos agrícolas e critica entraves na liberação (p. 43).",
+  "quote": "Facilitar a produção nacional e a compra de fertilizantes e defensivos agrícolas de alta qualidade do mundo",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 43), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:54",
+  "page": 43
+ },
+ {
+  "id": "plat-presidente-16-amb-agrotoxicos",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe o fim do uso de agrotóxicos (p. 15).",
+  "quote": "defender medidas visando o fim do uso de agrotóxicos",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 15), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:55",
+  "page": 15
+ },
+ {
+  "id": "plat-presidente-80-amb-agrotoxicos",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe proibir agrotóxicos banidos no exterior (p. 63).",
+  "quote": "Proibição de Agrotóxicos Banidos no Exterior",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 63), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:56",
+  "page": 63
+ },
+ {
+  "id": "plat-governador-80-amb-agrotoxicos",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-80"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe proibir agrotóxicos já proibidos internacionalmente (p. 4).",
+  "quote": "redução rigorosa e proibição do uso de agrotóxicos já proibidos internacionalmente",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 4), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
+  },
+  "checkId": "check_platform:57",
+  "page": 4
+ },
+ {
+  "id": "plat-senador-151-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-151"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Em entrevista ao Bom Dia Paraíba relatada pelo Jornal da Paraíba, o candidato se declarou contra o aborto (02/09/2026).",
+  "quote": "Mas as minhas defesas em relação à família, contra o aborto, contra a criminalidade são princípios da minha história",
+  "date": "2026-09-02",
+  "source": {
+   "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/faltando-32-dias-para-a-eleicao-andre-gadelha-ainda-nao-definiu-seu-voto-para-presidente",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: jornaldaparaiba.com.br"
+  },
+  "checkId": "check_platform:58"
+ },
+ {
+  "id": "plat-presidente-13-amb-margem-equatorial",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "amb-margem-equatorial",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Segundo o SBT News, Lula defendeu em discurso a exploração de petróleo na Margem Equatorial (18/05/2026).",
+  "quote": "Então, nós vamos ocupar, explorar petróleo com a maior responsabilidade e fazer com que esse dinheiro possa ser revertido para garantir o futuro desse país”",
+  "date": "2026-05-18",
+  "source": {
+   "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-defende-exploracao-de-petroleo-na-margem-equatorial-antes-que-trump-ache-que-e-dele",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: sbtnews.sbt.com.br"
+  },
+  "checkId": "check_platform:59"
+ },
+ {
+  "id": "plat-presidente-22-seg-8-janeiro",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Segundo o Money Times, Flávio Bolsonaro pediu em publicação no X a aprovação da anistia (06/12/2025).",
+  "quote": "“O primeiro gesto que eu peço a todas as lideranças políticas que se dizem anti-lula é aprovar a anistia ainda este ano",
+  "date": "2025-12-06",
+  "source": {
+   "url": "https://www.moneytimes.com.br/escolhido-por-bolsonaro-flavio-diz-que-primeiro-gesto-como-pre-candidato-a-presidencia-sera-negociar-anistia-gll/",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: www.moneytimes.com.br"
+  },
+  "checkId": "check_platform:60"
+ },
+ {
+  "id": "plat-presidente-22-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE propõe reformular as regras fiscais atuais, que critica por excesso de exceções (p. 71).",
+  "quote": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública",
+  "date": "2026-08-13",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 71), arquivo 2026BR280002551544_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:61",
+  "page": 71
+ },
+ {
+  "id": "plat-presidente-14-eco-arcabouco",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE critica o arcabouço fiscal por compensar o aumento de despesas com mais arrecadação (p. 9).",
+  "quote": "O “Novo Arcabouço Fiscal”, instituído desde então, voltou ao velho modelo petista de aumento da arrecadação para compensar o crescimento desenfreado das despesas.",
+  "date": "2026-07-23",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RENAN SANTOS, p. 9), arquivo 2026BR280002540694_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:62",
+  "page": 9
+ },
+ {
+  "id": "plat-senador-155-seg-8-janeiro",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Segundo o PB Agora, o senador disse em entrevista à rádio Correio FM que votou pela manutenção do veto ao PL da Dosimetria (04/05/2026).",
+  "quote": "“Lamentei a decisão, mas mantive meu posicionamento com coerência. Entendo que votar a dosimetria é, na prática, se aproximar de uma anistia a quem atentou contra as instituições e o regime democrático”",
+  "date": "2026-05-04",
+  "source": {
+   "url": "https://www.pbagora.com.br/noticia/politica/dosimetria-veneziano-critica-derrubada-de-veto-e-alerta-para-quase-anistia/",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: www.pbagora.com.br"
+  },
+  "checkId": "check_platform:63"
+ },
+ {
+  "id": "plat-senador-222-soc-aborto",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-222"
+  },
+  "questionId": "soc-aborto",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Segundo o F5 Online, em sabatina no Bom Dia Paraíba o candidato defendeu manter a legislação atual sobre aborto (08/09/2026).",
+  "quote": "Ele destacou que a legislação atual considera essas exceções sem punição à mulher ou ao médico responsável. “Acredito que essa legislação atende à maioria da população”",
+  "date": "2026-09-08",
+  "source": {
+   "url": "https://f5online.com.br/marcelo-queiroga-e-contra-fim-da-escala-6x1-e-defende-legislacao-do-aborto/",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: f5online.com.br"
+  },
+  "checkId": "check_platform:64"
+ },
+ {
+  "id": "plat-presidente-21-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE se opõe à redução da maioridade penal (p. 12).",
+  "quote": "Contra a redução da maioridade penal e ampliação das medidas socioeducativas.",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 12), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:65",
+  "page": 12
+ },
+ {
+  "id": "plat-presidente-22-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE promete apoiar e sancionar a redução da maioridade penal para 16 anos (p. 13).",
+  "quote": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos.",
+  "date": "2026-08-13",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (FLAVIO BOLSONARO, p. 13), arquivo 2026BR280002551544_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:66",
+  "page": 13
+ },
+ {
+  "id": "plat-presidente-16-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE se opõe à redução da maioridade penal (p. 21).",
+  "quote": "Contra a redução da maioridade penal",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 21), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:67",
+  "page": 21
+ },
+ {
+  "id": "plat-presidente-55-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende a PEC que reduz a maioridade penal para 16 anos em crimes graves (p. 20).",
+  "quote": "Trabalhar fortemente pela aprovação da PEC da redução da maioridade penal para 16 (dezesseis) anos",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RONALDO CAIADO, p. 20), arquivo 2026BR280002551932_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:68",
+  "page": 20
+ },
+ {
+  "id": "plat-presidente-80-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": -1,
+  "detail": "O plano de governo registrado no TSE se opõe à redução da maioridade penal (p. 30).",
+  "quote": "Não à redução da maioridade penal.",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 30), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:69",
+  "page": 30
+ },
+ {
+  "id": "plat-presidente-30-seg-maioridade",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-30"
+  },
+  "questionId": "seg-maioridade",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe reduzir a maioridade penal para 16 anos (p. 6).",
+  "quote": "Reduzir a maioridade penal para 16 anos, assegurando a responsabilização criminal de adolescentes a partir dessa idade",
+  "date": "2026-08-06",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ZEMA, p. 6), arquivo 2026BR280002539826_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:70",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-21-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe o fim da escala 6x1 e jornada de 30 horas sem redução de salário (p. 5).",
+  "quote": "Garantiremos o direito ao trabalho para todos, com redução da jornada de trabalho para 30 horas sem redução de salário e o fim da escala 6x1.",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 5), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:71",
+  "page": 5
+ },
+ {
+  "id": "plat-presidente-16-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-16"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe o fim da escala 6x1 sem redução de salários (p. 8).",
+  "quote": "Fim da escala 6×1 sem redução de salários e direitos, sem pejotização e sem demissões",
+  "date": "2026-07-31",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (HERTZ DIAS, p. 8), arquivo 2026BR280002541457_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:72",
+  "page": 8
+ },
+ {
+  "id": "plat-presidente-13-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende o fim da escala 6x1 e a jornada de 40 horas sem redução salarial (p. 75).",
+  "quote": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+  "date": "2026-08-07",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (LULA, p. 75), arquivo 2026BR280002542548_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:73",
+  "page": 75
+ },
+ {
+  "id": "plat-presidente-29-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe jornada de 35 horas em 5 dias, sem prejuízo dos salários (p. 2).",
+  "quote": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais)",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 2), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:74",
+  "page": 2
+ },
+ {
+  "id": "plat-presidente-80-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-80"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE defende o fim da escala 6x1 e redução da jornada (p. 7).",
+  "quote": "Defendemos o fim da escala 6x1, a redução da jornada com aumento salarial",
+  "date": "2026-08-15",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (SAMARA, p. 7), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:75",
+  "page": 7
+ },
+ {
+  "id": "plat-presidente-21-seg-stf-mandato",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-21"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe mandato fixo de 10 anos para juízes dos tribunais superiores (p. 13).",
+  "quote": "especialmente, que os juízes nomeados para os tribunais regionais e superiores tenham mandato fixo sob controle social: mandatos de 10 anos",
+  "date": "2026-08-11",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (EDMILSON COSTA, p. 13), arquivo 2026BR280002551975_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:76",
+  "page": 13
+ },
+ {
+  "id": "plat-presidente-70-seg-stf-mandato",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe mandato de oito anos para ministros do STF (p. 64).",
+  "quote": "Propomos estabelecer mandato de oito anos para os ministros do Supremo Tribunal Federal (STF)",
+  "date": "2026-08-17",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (ESCRITOR AUGUSTO CURY, p. 64), arquivo 2026BR280002551547_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:77",
+  "page": 64
+ },
+ {
+  "id": "plat-presidente-29-seg-stf-mandato",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-29"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "O plano de governo registrado no TSE propõe extinguir o STF e eleger juízes com mandatos revogáveis (p. 6).",
+  "quote": "Fim do Supremo Tribunal Federal (STF); eleição de todos os juízes e procuradores pelo voto popular e com mandatos revogáveis.",
+  "date": "2026-08-14",
+  "source": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+   "accessed": "2026-09-30",
+   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 6), arquivo 2026BR280002552487_01.pdf em proposta_governo_2026_BR.zip"
+  },
+  "checkId": "check_platform:78",
+  "page": 6
+ },
+ {
+  "id": "plat-presidente-14-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-14"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": -1,
+  "detail": "No debate da Band (23/08/2026), respondendo sobre o fim da escala 6x1, o candidato disse não acreditar em quem promete trabalhar menos e ganhar mais.",
+  "quote": "Não acredite nesses políticos que estão dizendo para você que você vai trabalhar menos e ganhar mais num país que até as casas Bahia quebram.",
+  "date": "2026-08-24",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=8ejQOXgiMvI&t=6687s",
+   "accessed": "2026-09-30",
+   "label": "Vídeo: Band Jornalismo, \"DEBATE PRESIDENCIAL 2026 NA BAND \", 01:51:27 (legenda automática em português)"
+  },
+  "checkId": "check_platform:79",
+  "timestamp": "01:51:27"
+ },
+ {
+  "id": "plat-presidente-70-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-70"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 0,
+  "detail": "No debate da Band (23/08/2026), o candidato defendeu ajustar a escala para atender trabalhadores e empresas.",
+  "quote": "A escala 6x1 atende determinados setores da economia. O que nós temos que fazer, na minha opinião, Renan, é ajustar para atender a necessidade dos trabalhadores e também a necessidade das empresas.",
+  "date": "2026-08-24",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=8ejQOXgiMvI&t=6796s",
+   "accessed": "2026-09-30",
+   "label": "Vídeo: Band Jornalismo, \"DEBATE PRESIDENCIAL 2026 NA BAND \", 01:53:16 (legenda automática em português)"
+  },
+  "checkId": "check_platform:80",
+  "timestamp": "01:53:16"
+ },
+ {
+  "id": "plat-presidente-22-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": -1,
+  "detail": "Em entrevista à Record News (31/08/2026), o candidato defendeu que o trabalhador escolha a escala, em vez da proposta do governo.",
+  "quote": "a gente vai defender a liberdade de você trabalhador escolher qual é a sua escala de trabalho, qual é a proposta alternativa que é muito melhor do que essa daí que no atual governo tá propondo na véspera da eleição.",
+  "date": "2026-08-31",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=NB7mAtpM3gc&t=675s",
+   "accessed": "2026-09-30",
+   "label": "Vídeo: Record News, \"Eleições 2026: Record News exibe entrevista exclusiva com Flávio Bolsonaro\", 00:11:15 (legenda automática em português)"
+  },
+  "checkId": "check_platform:81",
+  "timestamp": "00:11:15"
+ },
+ {
+  "id": "plat-presidente-13-seg-stf-mandato",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "seg-stf-mandato",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Em entrevista ao SBT Brasil (10/09/2026), o candidato defendeu discutir mandato para ministros do STF.",
+  "quote": "Eu sinceramente hoje acho que é preciso a gente discutir um mandato paraa Suprema Corte. Ninguém pode ficar 40 anos no mesmo cargo.",
+  "date": "2026-09-10",
+  "source": {
+   "url": "https://www.youtube.com/watch?v=GWZvPWEQOKU&t=907s",
+   "accessed": "2026-09-30",
+   "label": "Vídeo: SBT Jornalismo, \"LULA (PT) \", 00:15:07 (legenda automática em português)"
+  },
+  "checkId": "check_platform:82",
+  "timestamp": "00:15:07"
+ },
+ {
+  "id": "plat-presidente-55-eco-6x1",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-55"
+  },
+  "questionId": "eco-6x1",
+  "kind": "platform",
+  "position": 1,
+  "detail": "Segundo o VIVA (Broadcast Estadão), o candidato disse ser a favor do fim da escala 6x1 em agenda em Campinas (22/08/2026).",
+  "quote": "Caiado foi questionado por jornalistas se aprova ou não a medida, ao qual ele respondeu: \" Sim, sou a favor \"",
+  "date": "2026-08-22",
+  "source": {
+   "url": "https://viva.com.br/politica/ronaldo-caiado-muda-discurso-e-se-diz-a-favor-do-fim-da-escala-6x1.html",
+   "accessed": "2026-09-30",
+   "label": "Reportagem: viva.com.br"
+  },
+  "checkId": "check_platform:83"
+ }
+]

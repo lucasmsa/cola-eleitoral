@@ -1,0 +1,777 @@
+[
+ {
+  "id": "pol-lula-lava-jato-c0",
+  "status": "PASS",
+  "claim": "Em 2017, Lula foi condenado em primeira instância no caso do triplex do Guarujá por corrupção passiva e lavagem de dinheiro.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-lava-jato-c1",
+  "status": "PASS",
+  "claim": "Em abril de 2021, o plenário do STF manteve, por 8 votos a 3, a anulação das condenações dele na Lava Jato.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-lava-jato-c2",
+  "status": "PASS",
+  "claim": "Em janeiro de 2022, a Justiça Federal do DF arquivou a ação do triplex por prescrição; ele não pode mais ser processado por esses fatos.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-lava-jato-r0",
+  "status": "PASS",
+  "claim": "A defesa afirma que o caso serviu para perseguição judicial com objetivos políticos (lawfare).",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-lava-jato-status-dn_lula",
+  "status": "PASS",
+  "claim": "status 'manter a anulação das condenações' in dn_lula",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-lava-jato-status-istoe_lula",
+  "status": "PASS",
+  "claim": "status 'prescrição' in istoe_lula",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou erro ao dizer que o PIB só voltou a crescer acima de 3% depois de 2023.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos, como o crescimento de 7,5% em 2010.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lula-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'errou' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-rachadinha-c0",
+  "status": "PASS",
+  "claim": "Em 2020, o MPRJ o denunciou sob acusação de liderar um esquema para recolher parte do salário de ex-funcionários do gabinete na Alerj.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-rachadinha-c1",
+  "status": "PASS",
+  "claim": "Em 2022, o Órgão Especial do TJRJ rejeitou a denúncia, porque as provas usadas foram anuladas pelo STJ.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-rachadinha-c2",
+  "status": "PASS",
+  "claim": "O arquivamento ocorreu sem análise do conteúdo das provas.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-rachadinha-r0",
+  "status": "PASS",
+  "claim": "Ele e Fabrício Queiroz negaram todas as acusações.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-rachadinha-status-im_flavio",
+  "status": "PASS",
+  "claim": "status 'rejeitou a denúncia' in im_flavio",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou erro ao dizer que Jair Bolsonaro nunca foi ameaça para a democracia e ao negar o aquecimento global.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos, como o Brasil seguir entre as economias com maior juro real.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-flavio-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'errou' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-tre-go-c0",
+  "status": "PASS",
+  "claim": "A Justiça Eleitoral entendeu que ele usou a sede do governo de Goiás em eventos da campanha do aliado Sandro Mabel.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-tre-go-c1",
+  "status": "PASS",
+  "claim": "O TRE-GO derrubou por unanimidade a inelegibilidade aplicada em primeira instância.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-tre-go-c2",
+  "status": "PASS",
+  "claim": "O tribunal manteve a multa de R$ 60 mil por condutas vedadas nas eleições municipais de 2024.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-tre-go-r0",
+  "status": "PASS",
+  "claim": "A defesa recorreu, alegando que os encontros foram regulares e restritos.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-tre-go-status-ab_caiado",
+  "status": "PASS",
+  "claim": "status 'manteve, contudo, a aplicação de multa de R$ 60 mil' in ab_caiado",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou erro ao dizer que Lula era alvo de investigações no STF.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos sobre reforma administrativa e índices educacionais de Goiás.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-caiado-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'errou' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-proposta-bolsa-c0",
+  "status": "PASS",
+  "claim": "No Jornal Nacional, prometeu que beneficiários do Bolsa Família poderiam ter uma segunda renda sem perder o benefício.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-proposta-bolsa-status-lupa_cury_jn",
+  "status": "PASS",
+  "claim": "status 'já existe' in lupa_cury_jn",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou erro, mais de uma vez, ao dizer que cada criança brasileira nasce devendo R$ 50 mil.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos, como o número de famílias no Bolsa Família.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'errou' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cury-experiencia-c0",
+  "status": "PASS",
+  "claim": "O histórico de candidaturas do TSE não registra nenhuma eleição anterior disputada por ele.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-danos-morais-c0",
+  "status": "PASS",
+  "claim": "Foi condenado a pagar R$ 30 mil à filósofa Djamila Ribeiro por associá-la ao crime organizado em post no X.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-danos-morais-c1",
+  "status": "PASS",
+  "claim": "Foi condenado a indenizar o deputado estadual Gil Diniz (PL) por xingamentos publicados em 2021.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-danos-morais-r0",
+  "status": "PASS",
+  "claim": "No caso de Gil Diniz, a defesa alegou liberdade de expressão e falta de prova de dano.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-danos-morais-status-mig_renan",
+  "status": "PASS",
+  "claim": "status 'foi condenado a indenizar' in mig_renan",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-danos-morais-status-met_renan",
+  "status": "PASS",
+  "claim": "status 'foi condenado' in met_renan",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou erro ao dizer que o escândalo do Banco Master surgiu no governo Lula e dados falsos sobre o Bolsa Família.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos, como sobre o endividamento do Brasil.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'errou' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-renan-experiencia-c0",
+  "status": "PASS",
+  "claim": "O histórico de candidaturas do TSE não registra nenhuma eleição anterior disputada por ele.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-rejeito-c0",
+  "status": "PASS",
+  "claim": "Segundo o despacho judicial da Operação Rejeito, um decreto de Zema de novembro de 2024 retirou a exigência de pagar multas ambientais para seguir com o licenciamento e beneficiou uma mineradora investigada.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-rejeito-r0",
+  "status": "PASS",
+  "claim": "Zema disse apoiar as investigações e esperar punição exemplar aos envolvidos.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-rejeito-status-em_zema",
+  "status": "PASS",
+  "claim": "status 'Operação Rejeito' in em_zema",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-checagem-c0",
+  "status": "PASS",
+  "claim": "A Lupa apontou exagero sobre a dívida pública e afirmações falsas sobre segurança.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem registrou acertos, como a saída de Minas do déficit para o superávit.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-zema-checagem-status-lupa",
+  "status": "PASS",
+  "claim": "status 'falsas' in lupa",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-c0",
+  "status": "PASS",
+  "claim": "Cícero Lucena acionou a Justiça Eleitoral acusando ele e a vice Lígia Feliciano de compra de votos.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-r0",
+  "status": "PASS",
+  "claim": "Disse que os adversários estão desesperados e espetacularizando a eleição.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-status-pba_lucas",
+  "status": "PASS",
+  "claim": "status 'Ação de Investigação Judicial Eleitoral' in pba_lucas",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-checagem-c0",
+  "status": "PASS",
+  "claim": "Disse que 70% do PIB da Paraíba está fora da Grande João Pessoa; a checagem classificou como incorreto.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem confirmou a fala sobre o resultado positivo do Caged em agosto.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-checagem-r0",
+  "status": "PASS",
+  "claim": "A assessoria disse que João Pessoa responde por 29,33% do PIB do estado.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-checagem-status-jp_debate",
+  "status": "PASS",
+  "claim": "status 'A INFORMAÇÃO É INCORRETA' in jp_debate",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-suplente-c0",
+  "status": "PASS",
+  "claim": "Seu suplente no Senado, Erik Marinho, é investigado pela PF por suspeita de ocultar patrimônio ligado ao chamado Careca do INSS.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-suplente-c1",
+  "status": "PASS",
+  "claim": "Reportagem do Estadão revelou que o suplente pagou um boleto de R$ 51 mil do senador.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-suplente-c2",
+  "status": "PASS",
+  "claim": "Efraim não é investigado no caso.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-suplente-r0",
+  "status": "PASS",
+  "claim": "Negou irregularidade e disse que o boleto vinha de uma dívida pessoal.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-suplente-status-jp_efraim",
+  "status": "PASS",
+  "claim": "status 'Efraim Filho não é investigado' in jp_efraim",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-checagem-c0",
+  "status": "PASS",
+  "claim": "Disse que 95% das delegacias da Paraíba fecham à noite; a checagem classificou como incorreto (são 86%).",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem confirmou a fala sobre os concursados da PB Saúde ainda aguardando convocação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-checagem-r0",
+  "status": "PASS",
+  "claim": "A assessoria disse que o número traduz a concentração do atendimento noturno.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-efraim-checagem-status-jp_debate",
+  "status": "PASS",
+  "claim": "status 'A INFORMAÇÃO É INCORRETA' in jp_debate",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-c0",
+  "status": "PASS",
+  "claim": "O TSE formou maioria pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-c1",
+  "status": "PASS",
+  "claim": "O MP Eleitoral aponta suposto uso de uma facção criminosa para favorecer o projeto político dele.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-c2",
+  "status": "PASS",
+  "claim": "Um pedido de vista suspendeu o julgamento; ele pode disputar no domingo, e a decisão não é definitiva.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-c3",
+  "status": "PASS",
+  "claim": "Ele não tem condenação criminal nem denúncia formal contra si.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-r0",
+  "status": "PASS",
+  "claim": "A defesa disse que o pedido de vista reinicia a discussão do caso.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-status-jp_cicero_tse",
+  "status": "PASS",
+  "claim": "status 'pedido de vista' in jp_cicero_tse",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-territorio-livre-c0",
+  "status": "PASS",
+  "claim": "A Justiça Eleitoral recebeu denúncia contra a então primeira-dama de João Pessoa, Lauremília Lucena, e outras nove pessoas.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-territorio-livre-c1",
+  "status": "PASS",
+  "claim": "Segundo o MP, líderes de uma facção e parentes recebiam cargos na prefeitura de João Pessoa em troca de controle territorial nas eleições.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-territorio-livre-r0",
+  "status": "PASS",
+  "claim": "Na prisão dela, em 2024, a assessoria de Cícero chamou a operação de ataque arquitetado por adversários.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-territorio-livre-status-mppb_tl",
+  "status": "PASS",
+  "claim": "status 'recebeu a denúncia' in mppb_tl",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-confraria-c0",
+  "status": "PASS",
+  "claim": "Em 2005 foi alvo de mandado de prisão da PF na Operação Confraria, sobre suposto favorecimento a empreiteiras.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-confraria-c1",
+  "status": "PASS",
+  "claim": "Em 2019, a Quarta Turma do TRF5 concluiu que ele não cometeu os crimes apontados pelo MPF.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-confraria-r0",
+  "status": "PASS",
+  "claim": "Disse ter sempre tido a consciência limpa.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-confraria-status-jp_confraria",
+  "status": "PASS",
+  "claim": "status 'não cometeu os crimes' in jp_confraria",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-checagem-c0",
+  "status": "PASS",
+  "claim": "Disse que João Pessoa é o destino mais procurado do Brasil; a checagem classificou como incorreto.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-checagem-c1",
+  "status": "PASS",
+  "claim": "A mesma checagem confirmou a retirada do ITBI na entrada de imóveis do Minha Casa, Minha Vida.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-checagem-r0",
+  "status": "PASS",
+  "claim": "A assessoria citou rankings de plataformas de viagem que põem João Pessoa entre os destinos em alta.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-checagem-status-jp_debate",
+  "status": "PASS",
+  "claim": "status 'A INFORMAÇÃO É INCORRETA' in jp_debate",
+  "why": "ok"
+ },
+ {
+  "id": "pol-yuri-experiencia-c0",
+  "status": "PASS",
+  "claim": "O histórico do TSE registra uma candidatura anterior, a prefeito de João Pessoa em 2024, sem eleição.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-camilo-experiencia-c0",
+  "status": "PASS",
+  "claim": "O histórico do TSE registra seis candidaturas anteriores, de 2004 a 2024, sem nenhuma eleição.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-calvario-c0",
+  "status": "PASS",
+  "claim": "Foi investigado na Operação Calvário, que apurou desvios na saúde e na educação no governo de Ricardo Coutinho.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-calvario-c1",
+  "status": "PASS",
+  "claim": "A PGR chegou a apontar 11 hipóteses envolvendo ele, parte delas arquivada no STJ.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-calvario-c2",
+  "status": "PASS",
+  "claim": "O MPPB concluiu que as acusações se apoiavam só em delações e não encontrou indícios mínimos de participação dele.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-calvario-status-jp_calvario",
+  "status": "PASS",
+  "claim": "status 'promoveu o arquivamento' in jp_calvario",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-propaganda-2022-c0",
+  "status": "PASS",
+  "claim": "Em 2022, a Justiça Eleitoral suspendeu uma inserção da campanha dele contra Pedro Cunha Lima.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-propaganda-2022-c1",
+  "status": "PASS",
+  "claim": "A juíza considerou a peça propagação de informação falsa e difamatória.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-propaganda-2022-status-jp_joao_2022",
+  "status": "PASS",
+  "claim": "status 'determinou a imediata suspensão' in jp_joao_2022",
+  "why": "ok"
+ },
+ {
+  "id": "pol-veneziano-stf-c0",
+  "status": "PASS",
+  "claim": "Em 2017, a Primeira Turma do STF trancou a AP 912, em que era acusado de fraude em licitação, por ausência de justa causa.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-veneziano-stf-c1",
+  "status": "PASS",
+  "claim": "Em 2015, a Segunda Turma extinguiu a AP 933, sobre compra de votos em Campina Grande, por nulidade na investigação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-veneziano-stf-status-stf_ven_912",
+  "status": "PASS",
+  "claim": "status 'trancamento' in stf_ven_912",
+  "why": "ok"
+ },
+ {
+  "id": "pol-veneziano-stf-status-stf_ven_933",
+  "status": "PASS",
+  "claim": "status 'extinguir' in stf_ven_933",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tce-c0",
+  "status": "PASS",
+  "claim": "O TCE-PB rejeitou por unanimidade o recurso dele e manteve a decisão que julgou procedente denúncia sobre um pregão de serviços gráficos.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tce-c1",
+  "status": "PASS",
+  "claim": "O tribunal apontou falhas pontuais, mas entendeu que não houve prejuízo à legalidade geral do processo.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tce-status-rpb_nabor",
+  "status": "PASS",
+  "claim": "status 'rejeitaram o recurso' in rpb_nabor",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tse-publicidade-c0",
+  "status": "PASS",
+  "claim": "O TRE-PB o havia condenado por gastos com publicidade acima do limite no ano eleitoral de 2024.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tse-publicidade-c1",
+  "status": "PASS",
+  "claim": "O TSE o absolveu da acusação de conduta vedada.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-nabor-tse-publicidade-status-pba_nabor",
+  "status": "PASS",
+  "claim": "status 'absolveu' in pba_nabor",
+  "why": "ok"
+ },
+ {
+  "id": "pol-queiroga-cpi-c0",
+  "status": "PASS",
+  "claim": "O relatório final da CPI da Covid sugeriu o indiciamento dele por prevaricação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-queiroga-cpi-c1",
+  "status": "PASS",
+  "claim": "A PGR pediu o arquivamento das apurações que o envolviam.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-queiroga-cpi-r0",
+  "status": "PASS",
+  "claim": "Disse que não comentaria o relatório e que sua função era salvar vidas.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-queiroga-cpi-status-sen_cpi",
+  "status": "PASS",
+  "claim": "status 'pediu o arquivamento' in sen_cpi",
+  "why": "ok"
+ },
+ {
+  "id": "pol-major-fabio-nada-c0",
+  "status": "PASS",
+  "claim": "O histórico do TSE registra oito candidaturas anteriores, de 2004 a 2024.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-13-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 4.775.650,64 em bens em 2026 e R$ 7.423.725,78 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-22-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 8.186.555,83 em bens em 2026 e R$ 1.741.758,15 na candidatura anterior, em 2018. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-14-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 795.089,00 em bens em 2026. Não há candidatura anterior no histórico do TSE. Valor nominal, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-70-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 242.593.012,43 em bens em 2026. Não há candidatura anterior no histórico do TSE. Valor nominal, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-55-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 52.557.930,98 em bens em 2026 e R$ 24.874.436,19 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-presidente-30-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 178.707.610,09 em bens em 2026 e R$ 129.795.313,70 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-governador-11-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 741.354,91 em bens em 2026 e R$ 547.107,27 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-governador-22-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 1.682.784,38 em bens em 2026 e R$ 785.349,66 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-governador-15-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 2.517.809,94 em bens em 2026 e R$ 1.960.723,73 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-governador-80-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 353,89 em bens em 2026 e R$ 187,21 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-governador-29-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE nenhum bem (R$ 0,00) em 2026 e nenhum bem (R$ 0,00) na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-senador-400-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 1.929.603,60 em bens em 2026 e R$ 1.431.545,85 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-senador-155-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 1.054.843,13 em bens em 2026 e R$ 1.186.262,52 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-senador-100-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 1.190.319,03 em bens em 2026 e R$ 1.207.245,68 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-senador-222-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE R$ 477.662,47 em bens em 2026 e R$ 171.657,70 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-patrimonio-senador-300-c0",
+  "status": "PASS",
+  "claim": "Declarou ao TSE nenhum bem (R$ 0,00) em 2026 e nenhum bem (R$ 0,00) na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+  "why": "ok"
+ },
+ {
+  "id": "NEG status escalated investigado->condenado (Queiroga)",
+  "status": "FAIL",
+  "claim": "NEG status escalated investigado->condenado (Queiroga)"
+ },
+ {
+  "id": "NEG wrong case number (AP 913)",
+  "status": "FAIL",
+  "claim": "NEG wrong case number (AP 913)"
+ },
+ {
+  "id": "NEG wrong candidate (Efraim fact moved to Lucas)",
+  "status": "FAIL",
+  "claim": "NEG wrong candidate (Efraim fact moved to Lucas)"
+ },
+ {
+  "id": "NEG fabricated quote (Zema)",
+  "status": "FAIL",
+  "claim": "NEG fabricated quote (Zema)"
+ },
+ {
+  "id": "NEG dropped response (Flávio)",
+  "status": "FAIL",
+  "claim": "NEG dropped response (Flávio)"
+ },
+ {
+  "id": "NEG outdated status (Cícero deferido)",
+  "status": "FAIL",
+  "claim": "NEG outdated status (Cícero deferido)"
+ },
+ {
+  "id": "NEG wrong TSE asset total (Flávio)",
+  "status": "FAIL",
+  "claim": "NEG wrong TSE asset total (Flávio)"
+ },
+ {
+  "id": "NEG wrong history count (Cury)",
+  "status": "FAIL",
+  "claim": "NEG wrong history count (Cury)"
+ },
+ {
+  "id": "NEG stale comparison year (Veneziano 2018 instead of latest)",
+  "status": "FAIL",
+  "claim": "NEG stale comparison year (Veneziano 2018 instead of latest)"
+ },
+ {
+  "id": "NEG wrong 2026 total (Lucas)",
+  "status": "FAIL",
+  "claim": "NEG wrong 2026 total (Lucas)"
+ },
+ {
+  "id": "NEG flipped fact-check rating (Lucas)",
+  "status": "FAIL",
+  "claim": "NEG flipped fact-check rating (Lucas)"
+ }
+]

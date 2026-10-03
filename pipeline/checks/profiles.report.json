@@ -1,0 +1,3515 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "prof-presidente-13-presents-1",
+   "status": "PASS",
+   "claim": "“O que nos move são os sonhos do povo brasileiro.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-presents-2",
+   "status": "PASS",
+   "claim": "“colocar o pobre no orçamento e o rico no Imposto de Renda”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: BRASIL PRONTO PRA MAIS (PSB / PDT / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='BRASIL PRONTO PRA MAIS'"
+  },
+  {
+   "id": "prof-presidente-13-presents-4",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-presidente-13-presents-5",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Torneiro mecânico.",
+   "why": "DS_OCUPACAO='TORNEIRO MECÂNICO'"
+  },
+  {
+   "id": "prof-presidente-13-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para presidente (BR), pelo PT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-13-experience-2",
+   "status": "PASS",
+   "claim": "O plano de governo chama o mandato iniciado em 2023 de “governo Lula III”, o terceiro como presidente.",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-experience-3",
+   "status": "PASS",
+   "claim": "Posse como presidente da República em 1º/01/2003 (1º mandato), após eleição direta com 52.793.364 votos.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-13-experience-4",
+   "status": "PASS",
+   "claim": "Posse para o 2º mandato em 1º/01/2007, após eleição direta com 58.295.042 votos.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-13-proposals-1",
+   "status": "PASS",
+   "claim": "“Fortaleceremos o Programa Brasil Contra o Crime Organizado, lançado em maio de 2026.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-proposals-2",
+   "status": "PASS",
+   "claim": "“Ampliaremos o programa de estímulos para uso de câmeras corporais, com padrões nacionais para utilização, gestão e preservação das imagens.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-proposals-3",
+   "status": "PASS",
+   "claim": "“Vamos dar continuidade e fortalecer o Pé-de-Meia.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-proposals-4",
+   "status": "PASS",
+   "claim": "“Ampliaremos o Programa Cisternas em regiões com estresse hídrico, garantindo água para consumo e produção.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-13-proposals-5",
+   "status": "PASS",
+   "claim": "“Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-presents-1",
+   "status": "PASS",
+   "claim": "“Brasil sem Medo, para sua família voltar para casa em paz”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-presents-2",
+   "status": "PASS",
+   "claim": "“A soberania começa na porta da sua casa”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-presidente-22-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Senador.",
+   "why": "DS_OCUPACAO='SENADOR'"
+  },
+  {
+   "id": "prof-presidente-22-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para senador (RJ), pelo PSL. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-22-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (RJ), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-22-experience-3",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado estadual (RJ), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-22-experience-4",
+   "status": "PASS",
+   "claim": "2006: eleição para deputado estadual (RJ), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-22-experience-5",
+   "status": "PASS",
+   "claim": "Senador pelo Rio de Janeiro em exercício desde 1º/02/2019, com mandato até 31/01/2027.",
+   "why": "Senado API mandate matches"
+  },
+  {
+   "id": "prof-presidente-22-proposals-1",
+   "status": "PASS",
+   "claim": "“Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-proposals-2",
+   "status": "PASS",
+   "claim": "“Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-proposals-3",
+   "status": "PASS",
+   "claim": "“Vamos implantar o Muralha Brasileira - um sistema nacional de reconhecimento facial integrado a bancos de dados criminais”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-proposals-4",
+   "status": "PASS",
+   "claim": "“Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-proposals-5",
+   "status": "PASS",
+   "claim": "“Por isso defendemos o negociado sobre o legislado”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-22-proposals-6",
+   "status": "PASS",
+   "claim": "“Manteremos e aperfeiçoaremos os programas sociais, porque nenhum brasileiro pode ficar para trás”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-presents-1",
+   "status": "PASS",
+   "claim": "“O FUTURO É GLORIOSO”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-presents-2",
+   "status": "PASS",
+   "claim": "“Resumo executivo do Livro Amarelo”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MISSÃO).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-presidente-14-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-presidente-14-experience-1",
+   "status": "PASS",
+   "claim": "Fundou o Movimento Brasil Livre (MBL) em 2014, com Kim Kataguiri, Fernando Holiday e Rubinho Nunes.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-14-experience-2",
+   "status": "PASS",
+   "claim": "2026 é a primeira eleição que disputa.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-14-proposals-1",
+   "status": "PASS",
+   "claim": "“Em “SUS Fila Zero” propomos uma agenda de inovação na área da saúde, com integração da inteligência artificial para melhoria e democratização dos serviços.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-proposals-2",
+   "status": "PASS",
+   "claim": "“No nível universitário, propomos a ampliação das vagas de STEM e a substituição das cotas por um conceito de bolsas por mérito”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-proposals-3",
+   "status": "PASS",
+   "claim": "“desde o primeiro dia do governo, estaremos em campanha contra o crime organizado, utilizando os mecanismos da GLO e do Estado de Defesa para romper o controle territorial das facções.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-proposals-4",
+   "status": "PASS",
+   "claim": "“a fusão de Ministério da Cultura e Ministério da Educação”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-14-proposals-5",
+   "status": "PASS",
+   "claim": "“buscaremos ampliar a competência da União para ela proceder à adoção do modelo de escolas civis-militares.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-presents-1",
+   "status": "PASS",
+   "claim": "“Não queremos ser voz do ódio, mas a voz da cultura da paz.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-presents-2",
+   "status": "PASS",
+   "claim": "“Queremos defender ideias sem destruir pessoas e construir pontes onde muitos constroem muros.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: BRASIL DOS NOSSOS SONHOS (AGIR / AVANTE).",
+   "why": "NM_COLIGACAO='BRASIL DOS NOSSOS SONHOS'"
+  },
+  {
+   "id": "prof-presidente-70-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Escritor e crítico.",
+   "why": "DS_OCUPACAO='ESCRITOR E CRÍTICO'"
+  },
+  {
+   "id": "prof-presidente-70-experience-1",
+   "status": "PASS",
+   "claim": "Médico psiquiatra formado em São José do Rio Preto; publicou mais de 70 livros.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-70-proposals-1",
+   "status": "PASS",
+   "claim": "“Implantaremos uma ampla rede nacional de Escolas de Empreendedorismo, formando milhões de jovens e adultos para criar empresas, inovar, administrar recursos e gerar empregos.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-proposals-2",
+   "status": "PASS",
+   "claim": "“Criaremos um banco especializado em financiar pequenos empreendedores, microempresas e startups, oferecendo crédito acessível, orientação técnica e educação financeira.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-proposals-3",
+   "status": "PASS",
+   "claim": "“Implantaremos um grande programa nacional para estimular a instalação de 10 mil novas indústrias ao longo dos próximos anos”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-proposals-4",
+   "status": "PASS",
+   "claim": "“Iremos avaliar os impactos da reforma tributária sobre os diferentes setores da economia”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-70-proposals-5",
+   "status": "PASS",
+   "claim": "“PROJETO 1 - A REVOLUÇÃO DA EDUCAÇÃO”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-presents-1",
+   "status": "PASS",
+   "claim": "“Muito pra mostrar Nada pra esconder”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-presents-2",
+   "status": "PASS",
+   "claim": "“como médico, produtor rural, parlamentar e governador”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-presidente-55-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-presidente-55-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para governador (GO), pelo UNIÃO. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-55-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para governador (GO), pelo DEM. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-55-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para senador (GO), pelo DEM. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-55-experience-4",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado federal (GO), pelo DEM. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-presidente-55-experience-5",
+   "status": "PASS",
+   "claim": "Senador por Goiás de 1º/02/2015 até renunciar ao mandato em 1º/01/2019.",
+   "why": "Senado API mandate matches"
+  },
+  {
+   "id": "prof-presidente-55-experience-6",
+   "status": "PASS",
+   "claim": "Deixou o governo de Goiás em 2026, após 7 anos e 3 meses no cargo, para concorrer à Presidência.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-presidente-55-proposals-1",
+   "status": "PASS",
+   "claim": "“reduzir desperdícios, rever privilégios e subsídios sem resultado, qualificar o gasto e recuperar a capacidade de investir.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-proposals-2",
+   "status": "PASS",
+   "claim": "“Manteremos a rede de transferência de renda para quem precisa, mas conectaremos benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-proposals-3",
+   "status": "PASS",
+   "claim": "“Vamos combater com rigor o desmatamento, a grilagem e a mineração ilegal”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-proposals-4",
+   "status": "PASS",
+   "claim": "“Aplicaremos esse método em escala nacional, combinando firmeza, tecnologia, integridade e respeito à lei para devolver a paz às famílias brasileiras.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-presidente-55-proposals-5",
+   "status": "PASS",
+   "claim": "“Não adotaremos alinhamentos automáticos nem aceitaremos falsas escolhas entre polos geopolíticos rivais.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-presents-1",
+   "status": "PASS",
+   "claim": "“AGORA, É DAQUI PRA MELHOR.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-presents-2",
+   "status": "PASS",
+   "claim": "“Conheço a Paraíba que acorda cedo, que trabalha muito, que enfrenta os desafios e não perde a coragem de sonhar.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: DAQUI PRA MELHOR (PODE / MOBILIZA / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / AGIR / FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE) / FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP) / REPUBLICANOS / PSB).",
+   "why": "NM_COLIGACAO='DAQUI PRA MELHOR'"
+  },
+  {
+   "id": "prof-governador-11-presents-4",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-governador-11-presents-5",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Governador.",
+   "why": "DS_OCUPACAO='GOVERNADOR'"
+  },
+  {
+   "id": "prof-governador-11-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para vice-governador (PB), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-11-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para vice-prefeito (Campina Grande), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-11-experience-3",
+   "status": "PASS",
+   "claim": "Em 2 de abril de 2026 João Azevêdo renunciou ao governo da Paraíba para disputar o Senado, e Lucas Ribeiro assumiu o cargo.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-governador-11-proposals-1",
+   "status": "PASS",
+   "claim": "“Expandir a infraestrutura para segurança hídrica com a conclusão do plano Novas Adutoras, com destaque para a conclusão dos ramais Cariri e Curimataú, e do Programa de Construção de Barragens 7.3.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-proposals-2",
+   "status": "PASS",
+   "claim": "“Expandir o ensino médio e o ensino técnico e profissional, ampliando a Escola Cidadã Integral (ECI) e a Escola Integral Cidadã Técnica (ECIT).”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-proposals-3",
+   "status": "PASS",
+   "claim": "“implantar unidade prisional com modelo RDD”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-proposals-4",
+   "status": "PASS",
+   "claim": "“Implantar, ainda, uma política estadual de prevenção e cuidado relacionados ao vício em apostas on-line, com atendimento aos usuários e seus familiares.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-11-proposals-5",
+   "status": "PASS",
+   "claim": "“ampliar o socorro aeromédico com um helicóptero equipado com UTI aérea e integrado ao Corpo de Bombeiros”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-presents-1",
+   "status": "PASS",
+   "claim": "“Um Novo Tempo para a Paraíba”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-presents-2",
+   "status": "PASS",
+   "claim": "“Porque a Paraíba pode mais, e nós vamos fazer, juntos.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-governador-22-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Senador.",
+   "why": "DS_OCUPACAO='SENADOR'"
+  },
+  {
+   "id": "prof-governador-22-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para senador (PB), pelo UNIÃO. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-22-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo DEM. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-22-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo DEM. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-22-experience-4",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado federal (PB), pelo DEM. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-22-experience-5",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 617.477 votos nominais no 1º turno para senador na Paraíba.",
+   "why": "TSE sum 617477"
+  },
+  {
+   "id": "prof-governador-22-proposals-1",
+   "status": "PASS",
+   "claim": "“implantar a zona de processamento para exportação”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-proposals-2",
+   "status": "PASS",
+   "claim": "“criar um fundo de garantia para viabilizar crédito”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-proposals-3",
+   "status": "PASS",
+   "claim": "“implantar uma rede de urgências e emergências com cobertura sertaneja”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-proposals-4",
+   "status": "PASS",
+   "claim": "“ampliar o uso de inteligência e investigação para desarticular o crime organizado”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-22-proposals-5",
+   "status": "PASS",
+   "claim": "“Queremos cidades feitas para pessoas, com calçadas largas, ciclovias conectadas e um transporte público que seja a primeira escolha do cidadão pela sua eficiência e conforto.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-presents-1",
+   "status": "PASS",
+   "claim": "“Queremos uma Paraíba que inspire confiança.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-presents-2",
+   "status": "PASS",
+   "claim": "“Vamos planejar a Paraíba olhando para cada região, respeitando suas características, suas vocações, seu potencial, e suas lideranças.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: JUNTOS PARA A PARAÍBA DAR O PRÓXIMO PASSO (MDB / DEMOCRATA / PSD / FEDERAÇÃO PSDB CIDADANIA (45-PSDB / 23-CIDADANIA) / PDT).",
+   "why": "NM_COLIGACAO='JUNTOS PARA A PARAÍBA DAR O PRÓXIMO PASSO'"
+  },
+  {
+   "id": "prof-governador-15-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Outros.",
+   "why": "DS_OCUPACAO='OUTROS'"
+  },
+  {
+   "id": "prof-governador-15-experience-1",
+   "status": "PASS",
+   "claim": "2024: eleição para prefeito (João Pessoa), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-15-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para prefeito (João Pessoa), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-15-experience-3",
+   "status": "PASS",
+   "claim": "2006: eleição para senador (PB), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-governador-15-proposals-1",
+   "status": "PASS",
+   "claim": "“Implantar seis “Centros Regionais de Comando e Controle” nas regiões de Cajazeiras, Sousa, Catolé do Rocha, Monteiro, Vale do Piancó e Guarabira”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-proposals-2",
+   "status": "PASS",
+   "claim": "“Implantar o “SAMU Aéreo Paraíba”, rede estadual de transporte aeromédico”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-proposals-3",
+   "status": "PASS",
+   "claim": "“Implantar a “Central Única Estadual de Regulação”, com aplicativo para o cidadão, transparência no respeito à ordem da fila e mutirões permanentes.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-proposals-4",
+   "status": "PASS",
+   "claim": "“Garantir Passe Livre Estudantil para estudantes da Rede Pública.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-15-proposals-5",
+   "status": "PASS",
+   "claim": "“Instituir o novo “Plano de Cargos, Carreiras e Remuneração da Educação” e realizar concurso público regular.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-presents-1",
+   "status": "PASS",
+   "claim": "“PARAÍBA PARA QUEM TRABALHA”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-presents-2",
+   "status": "PASS",
+   "claim": "“Defendemos a retomada do controle público sobre os setores fundamentais da economia, garantindo planejamento estatal, eficiência social e acesso universal à população.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (UP).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-governador-80-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-governador-80-experience-1",
+   "status": "PASS",
+   "claim": "Advogado; preside o diretório municipal da UP em João Pessoa e integra a direção nacional do partido.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-governador-80-proposals-1",
+   "status": "PASS",
+   "claim": "“Fim das Organizações Sociais e da terceirização do serviço público.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-proposals-2",
+   "status": "PASS",
+   "claim": "“Fim imediato de todos os subsídios e incentivos fiscais e financeiros concedidos pelo Estado aos monopólios, grandes empresários e agroexportadores, substituídos por auditoria popular.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-proposals-3",
+   "status": "PASS",
+   "claim": "“Fim das terceirizações e rescisão imediata dos contratos com a iniciativa privada, garantindo 100% dos leitos nos setores públicos ou sem fins lucrativos.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-80-proposals-4",
+   "status": "PASS",
+   "claim": "“Defendemos uma política de segurança comprometida com os direitos humanos, a proteção da vida e o enfrentamento de todas as formas de opressão.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-presents-1",
+   "status": "PASS",
+   "claim": "“Por salário, trabalho e terra”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-presents-2",
+   "status": "PASS",
+   "claim": "“O PCO não participa das eleições para fazer promessas”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-presents-3",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PCO).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-governador-29-presents-4",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Servidor público federal.",
+   "why": "DS_OCUPACAO='SERVIDOR PÚBLICO FEDERAL'"
+  },
+  {
+   "id": "prof-governador-29-experience-1",
+   "status": "PASS",
+   "claim": "Presidente estadual do PCO na Paraíba.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-governador-29-experience-2",
+   "status": "PASS",
+   "claim": "Disputou vereador (2004, 2012), deputado federal (2010, 2014) e prefeito de João Pessoa (2020, 2024), sem se eleger.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-governador-29-proposals-1",
+   "status": "PASS",
+   "claim": "“Revogar todas as \"reformas\" contra os trabalhadores da ativa e aposentados, em todos os níveis (federal, estadual e municipal)”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-proposals-2",
+   "status": "PASS",
+   "claim": "“Fim do teto de gastos e da Lei de Responsabilidade Fiscal”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-proposals-3",
+   "status": "PASS",
+   "claim": "“Fim dos impostos sobre o consumo e os salários.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-29-proposals-4",
+   "status": "PASS",
+   "claim": "“Fim dos privilégios de oficiais militares, juízes e familiares”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-27-presents-4",
+   "status": "PASS",
+   "claim": "Em 30/09/2026 anunciou que deixa a disputa e que se une a Lucas Ribeiro. O TSE registrou a renúncia nos dados de 03/10/2026. O prazo para trocar candidato acabou 20 dias antes da eleição (Lei 9.504, art. 13, § 3º), então não há substituto.",
+   "why": "notice PASS"
+  },
+  {
+   "id": "prof-governador-27-presents-1",
+   "status": "PASS",
+   "claim": "“Vamos diminuir o tamanho do Estado para aumentar o tamanho do cidadão!”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-27-presents-2",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (DC).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-governador-27-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-governador-27-proposals-1",
+   "status": "PASS",
+   "claim": "“Vamos enxugar a estrutura, eliminar privilégios e promover uma política agressiva de privatizações e concessões.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-27-proposals-2",
+   "status": "PASS",
+   "claim": "“Queremos transformar nosso sol e nossos ventos em emprego, renda e desenvolvimento.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-governador-27-proposals-3",
+   "status": "PASS",
+   "claim": "“Queremos que o jovem permaneça na Paraíba porque aqui encontrará oportunidades para realizar seus sonhos.”",
+   "why": "pdf ok"
+  },
+  {
+   "id": "prof-senador-400-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: COLIGAÇÃO DAQUI PRA MELHOR (REPUBLICANOS / PODE / MOBILIZA / AGIR / PSB / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE) / FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='COLIGAÇÃO DAQUI PRA MELHOR'"
+  },
+  {
+   "id": "prof-senador-400-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Engenheiro.",
+   "why": "DS_OCUPACAO='ENGENHEIRO'"
+  },
+  {
+   "id": "prof-senador-400-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para governador (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-400-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para governador (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-400-experience-3",
+   "status": "PASS",
+   "claim": "Em 2 de abril de 2026 João Azevêdo renunciou ao governo da Paraíba para disputar o Senado, e Lucas Ribeiro assumiu o cargo.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-senador-400-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 863.174 votos nominais no 1º turno para governador na Paraíba.",
+   "why": "TSE sum 863174"
+  },
+  {
+   "id": "prof-senador-400-experience-5",
+   "status": "PASS",
+   "claim": "Cargo anterior: governador da Paraíba, 2019-2026.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-400-experience-6",
+   "status": "PASS",
+   "claim": "Cargos anteriores: secretário municipal de Infraestrutura de João Pessoa e secretário estadual de Infraestrutura.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-400-experience-7",
+   "status": "PASS",
+   "claim": "Atividade profissional: engenheiro civil e professor.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-400-proposals-1",
+   "status": "PASS",
+   "claim": "“eu sou plenamente a favor dessa dessa alteração da legislação trabalhista”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-400-proposals-2",
+   "status": "PASS",
+   "claim": "“Não se pode, de forma nenhuma, anistiar quem atentou contra a democracia.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-400-proposals-3",
+   "status": "PASS",
+   "claim": "“nós vamos ter um sistema muito mais justo que vai trazer benefícios para esse país”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-155-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: JUNTOS PARA A PARAÍBA DAR O PRÓXIMO PASSO (MDB / DEMOCRATA / PSD / FEDERAÇÃO PSDB CIDADANIA (45-PSDB / 23-CIDADANIA) / PDT).",
+   "why": "NM_COLIGACAO='JUNTOS PARA A PARAÍBA DAR O PRÓXIMO PASSO'"
+  },
+  {
+   "id": "prof-senador-155-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-senador-155-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para senador (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-155-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PMDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-155-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para prefeito (Campina Grande), pelo PMDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-155-experience-4",
+   "status": "PASS",
+   "claim": "2004: eleição para prefeito (Campina Grande), pelo PMDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-155-experience-5",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 373.511 votos nominais no 1º turno para governador na Paraíba.",
+   "why": "TSE sum 373511"
+  },
+  {
+   "id": "prof-senador-155-experience-6",
+   "status": "PASS",
+   "claim": "Vereador de Campina Grande, 1997-2005.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-155-experience-7",
+   "status": "PASS",
+   "claim": "Prefeito de Campina Grande, 2005-2013.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-155-experience-8",
+   "status": "PASS",
+   "claim": "Deputado federal, 2015-2019.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-155-experience-9",
+   "status": "PASS",
+   "claim": "Senador desde 2019.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-155-proposals-1",
+   "status": "PASS",
+   "claim": "“Eu sou a favor da matéria como ela veio da Câmara.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-155-proposals-2",
+   "status": "PASS",
+   "claim": "““Lamentei a decisão, mas mantive meu posicionamento com coerência. Entendo que votar a dosimetria é, na prática, se aproximar de uma anistia a quem atentou contra as instituições e o regime democrático””",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-100-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: COLIGAÇÃO DAQUI PRA MELHOR (REPUBLICANOS / PODE / MOBILIZA / AGIR / PSB / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE) / FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='COLIGAÇÃO DAQUI PRA MELHOR'"
+  },
+  {
+   "id": "prof-senador-100-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-senador-100-experience-1",
+   "status": "PASS",
+   "claim": "2024: eleição para prefeito (Patos), pelo REPUBLICANOS. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-100-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para prefeito (Patos), pelo REPUBLICANOS. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-100-experience-3",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PRB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-100-experience-4",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-senador-100-experience-5",
+   "status": "PASS",
+   "claim": "Prefeito de Patos em 2005-2013 e 2021-2026.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-100-experience-6",
+   "status": "PASS",
+   "claim": "Deputado estadual, 2015-2020.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-100-experience-7",
+   "status": "PASS",
+   "claim": "Atividade profissional: advogado.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-100-proposals-1",
+   "status": "PASS",
+   "claim": "“Sou a favor do fim da escala 6×1, porque o trabalhador e a trabalhadora precisam ter mais tempo para cuidar da família, para o lazer e para o descanso”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-100-proposals-2",
+   "status": "PASS",
+   "claim": "“Eu sou a favor do fim da maioridade penal para os crimes hediondos.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-222-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-senador-222-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-senador-222-experience-1",
+   "status": "PASS",
+   "claim": "Tomou posse como ministro da Saúde em 23 de março de 2021, no governo Jair Bolsonaro.",
+   "why": "web page text"
+  },
+  {
+   "id": "prof-senador-222-experience-2",
+   "status": "PASS",
+   "claim": "Cargo anterior: ministro da Saúde, 2021-2022.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-222-experience-3",
+   "status": "PASS",
+   "claim": "Atividade profissional: médico.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-222-proposals-1",
+   "status": "PASS",
+   "claim": "“Na segurança, a redução da maioridade penal. Se um indivíduo com 16 anos pode votar, se ele comete um crime hediondo ele deve pagar por isso.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-222-proposals-2",
+   "status": "PASS",
+   "claim": "“A esquerda quer descriminalizar as drogas, queremos endurecer a legislação para endurecer e colocar os traficantes na cadeia.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-222-proposals-3",
+   "status": "PASS",
+   "claim": "“Se eu tivesse que votar hoje, eu votaria contrário à 6 por 1 da forma que está”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-300-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (NOVO).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-senador-300-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Militar reformado.",
+   "why": "DS_OCUPACAO='MILITAR REFORMADO'"
+  },
+  {
+   "id": "prof-senador-300-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 2.455 votos nominais no 1º turno para governador na Paraíba.",
+   "why": "TSE sum 2455"
+  },
+  {
+   "id": "prof-senador-300-experience-2",
+   "status": "PASS",
+   "claim": "Deputado federal em 2007-2011, 2012 e 2013-2015.",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-300-experience-3",
+   "status": "PASS",
+   "claim": "Atividade profissional: oficial da Polícia Militar (reformado).",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "prof-senador-300-proposals-1",
+   "status": "PASS",
+   "claim": "“Eu vou lutar por baixar a maioridade penal. Adolescente de 16 anos que pratica crime de adulto, ele tem que responder como adulto.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-300-proposals-2",
+   "status": "PASS",
+   "claim": "“E vou lutar também contra as saidinhas dos presídios.”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-300-proposals-3",
+   "status": "PASS",
+   "claim": "“Eu sou contra a legalização das drogas”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-senador-300-proposals-4",
+   "status": "PASS",
+   "claim": "“Eu sou a favor da PEC que vai diminuir a jornada de trabalho, mas também sou a favor de que o Estado possa dizer de onde vai sair o dinheiro para eles continuarem a ganhar o mesmo salário”",
+   "why": "evidence row PASS in its stream"
+  },
+  {
+   "id": "prof-deputado_federal-7796-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-7796-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Renovação Solidária (25-PRD/77-SOLIDARIEDADE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA'"
+  },
+  {
+   "id": "prof-deputado_federal-7796-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Locutor e comentarista de rádio e televisão e radialista.",
+   "why": "DS_OCUPACAO='LOCUTOR E COMENTARISTA DE RÁDIO E TELEVISÃO E RADIALISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-7796-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 4.425 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 4425"
+  },
+  {
+   "id": "prof-deputado_federal-2507-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-2507-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Renovação Solidária (25-PRD/77-SOLIDARIEDADE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA'"
+  },
+  {
+   "id": "prof-deputado_federal-2507-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Professor de ensino médio.",
+   "why": "DS_OCUPACAO='PROFESSOR DE ENSINO MÉDIO'"
+  },
+  {
+   "id": "prof-deputado_federal-2507-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 330 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 330"
+  },
+  {
+   "id": "prof-deputado_federal-2512-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA (25-PRD / 77-SOLIDARIEDADE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-2512-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Renovação Solidária (25-PRD/77-SOLIDARIEDADE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA'"
+  },
+  {
+   "id": "prof-deputado_federal-2512-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-2512-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 234 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 234"
+  },
+  {
+   "id": "prof-deputado_federal-1111-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1111-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-1111-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1111-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1111-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1111-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1111-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 135.001 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 135001"
+  },
+  {
+   "id": "prof-deputado_federal-4444-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-4444-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-4444-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-deputado_federal-4444-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo UNIÃO. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-4444-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PDT. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-4444-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PDT. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-4444-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 64.023 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 64023"
+  },
+  {
+   "id": "prof-deputado_federal-1133-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1133-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-1133-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Veterinário.",
+   "why": "DS_OCUPACAO='VETERINÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-1133-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1133-experience-2",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Pombal), pelo PT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1133-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para prefeito (Pombal), pelo PT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1133-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 457.679 votos nominais no 1º turno para senador na Paraíba.",
+   "why": "TSE sum 457679"
+  },
+  {
+   "id": "prof-deputado_federal-1122-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1122-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-1122-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Jornalista e redator.",
+   "why": "DS_OCUPACAO='JORNALISTA E REDATOR'"
+  },
+  {
+   "id": "prof-deputado_federal-1122-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1122-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1122-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 63.777 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 63777"
+  },
+  {
+   "id": "prof-deputado_federal-1177-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1177-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_federal-1177-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-1177-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PSL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1177-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 36.530 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 36530"
+  },
+  {
+   "id": "prof-deputado_federal-1222-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1222-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Comerciante.",
+   "why": "DS_OCUPACAO='COMERCIANTE'"
+  },
+  {
+   "id": "prof-deputado_federal-1222-experience-1",
+   "status": "PASS",
+   "claim": "2016: eleição para prefeito (São João Do Rio Do Peixe), pelo PP. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1222-experience-2",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (São João Do Rio Do Peixe), pelo PSC. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1222-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 17.438 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 17438"
+  },
+  {
+   "id": "prof-deputado_federal-1211-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1211-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Comerciante.",
+   "why": "DS_OCUPACAO='COMERCIANTE'"
+  },
+  {
+   "id": "prof-deputado_federal-1211-experience-1",
+   "status": "PASS",
+   "claim": "2016: eleição para vereador (Bayeux), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1211-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 2.763 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 2763"
+  },
+  {
+   "id": "prof-deputado_federal-1213-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1213-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Cabeleireiro e barbeiro.",
+   "why": "DS_OCUPACAO='CABELEIREIRO E BARBEIRO'"
+  },
+  {
+   "id": "prof-deputado_federal-1213-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 402 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 402"
+  },
+  {
+   "id": "prof-deputado_federal-2222-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2222-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2222-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2222-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2222-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 126.876 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 126876"
+  },
+  {
+   "id": "prof-deputado_federal-2211-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2211-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2211-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo UNIÃO. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2211-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 26.733 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 26733"
+  },
+  {
+   "id": "prof-deputado_federal-2255-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2255-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Fisioterapeuta e terapeuta ocupacional.",
+   "why": "DS_OCUPACAO='FISIOTERAPEUTA E TERAPEUTA OCUPACIONAL'"
+  },
+  {
+   "id": "prof-deputado_federal-2255-experience-1",
+   "status": "PASS",
+   "claim": "2024: eleição para vereador (Campina Grande), pelo UNIÃO. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2255-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 22.417 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 22417"
+  },
+  {
+   "id": "prof-deputado_federal-2223-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2223-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Vereador.",
+   "why": "DS_OCUPACAO='VEREADOR'"
+  },
+  {
+   "id": "prof-deputado_federal-2223-experience-1",
+   "status": "PASS",
+   "claim": "2024: eleição para vereador (Conde), pelo UNIÃO. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2223-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para vereador (Conde), pelo PTB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2223-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 10.284 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 10284"
+  },
+  {
+   "id": "prof-deputado_federal-2288-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2288-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-2288-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 6.121 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 6121"
+  },
+  {
+   "id": "prof-deputado_federal-1833-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1833-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_federal-1833-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Professor de ensino médio.",
+   "why": "DS_OCUPACAO='PROFESSOR DE ENSINO MÉDIO'"
+  },
+  {
+   "id": "prof-deputado_federal-1833-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 659 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 659"
+  },
+  {
+   "id": "prof-deputado_federal-1819-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1819-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_federal-1819-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-1819-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 402 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 402"
+  },
+  {
+   "id": "prof-deputado_federal-1899-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1899-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_federal-1899-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Outros.",
+   "why": "DS_OCUPACAO='OUTROS'"
+  },
+  {
+   "id": "prof-deputado_federal-1899-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 347 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 347"
+  },
+  {
+   "id": "prof-deputado_federal-2026-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PODE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2026-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2026-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PSC. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2026-experience-2",
+   "status": "PASS",
+   "claim": "2016: eleição para prefeito (Campina Grande), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2026-experience-3",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Campina Grande), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2026-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 114.573 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 114573"
+  },
+  {
+   "id": "prof-deputado_federal-2030-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PODE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2030-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2030-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PSC. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2030-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PSDB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2030-experience-3",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado federal (PB), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2030-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 102.531 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 102531"
+  },
+  {
+   "id": "prof-deputado_federal-2020-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PODE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2020-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Servidor público federal.",
+   "why": "DS_OCUPACAO='SERVIDOR PÚBLICO FEDERAL'"
+  },
+  {
+   "id": "prof-deputado_federal-2020-experience-1",
+   "status": "PASS",
+   "claim": "2006: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2020-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 65.573 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 65573"
+  },
+  {
+   "id": "prof-deputado_federal-2000-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PODE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2000-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Outros.",
+   "why": "DS_OCUPACAO='OUTROS'"
+  },
+  {
+   "id": "prof-deputado_federal-2000-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 17.753 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 17753"
+  },
+  {
+   "id": "prof-deputado_federal-2055-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PODE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2055-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-2055-experience-1",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Queimadas), pelo PSD. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2055-experience-2",
+   "status": "PASS",
+   "claim": "2006: eleição para deputado estadual (PB), pelo PDT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-2055-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 17.145 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 17145"
+  },
+  {
+   "id": "prof-deputado_federal-3555-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (DEMOCRATA).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-3555-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Corretor de imóveis, seguros, títulos e valores.",
+   "why": "DS_OCUPACAO='CORRETOR DE IMÓVEIS, SEGUROS, TÍTULOS E VALORES'"
+  },
+  {
+   "id": "prof-deputado_federal-3555-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 183 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 183"
+  },
+  {
+   "id": "prof-deputado_federal-1011-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1011-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1011-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1011-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PRB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1011-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PMDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1011-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 158.171 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 158171"
+  },
+  {
+   "id": "prof-deputado_federal-1044-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1044-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1044-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1044-experience-2",
+   "status": "PASS",
+   "claim": "2012: eleição para vereador (Campina Grande), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1044-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 112.891 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 112891"
+  },
+  {
+   "id": "prof-deputado_federal-1010-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1010-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1010-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1010-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PTB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1010-experience-3",
+   "status": "PASS",
+   "claim": "2006: eleição para deputado federal (PB), pelo PMDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1010-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 84.407 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 84407"
+  },
+  {
+   "id": "prof-deputado_federal-1033-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1033-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1033-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1033-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo AVANTE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1033-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PSL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1033-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 41.806 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 41806"
+  },
+  {
+   "id": "prof-deputado_federal-1015-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1015-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1015-experience-1",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo MDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1015-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1015-experience-3",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1015-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 33.550 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 33550"
+  },
+  {
+   "id": "prof-deputado_federal-7090-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (AVANTE).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-7090-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-7090-experience-1",
+   "status": "PASS",
+   "claim": "2012: eleição para vereador (Santa Rita), pelo PC do B. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-7090-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 335 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 335"
+  },
+  {
+   "id": "prof-deputado_federal-4050-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-4050-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Policial militar.",
+   "why": "DS_OCUPACAO='POLICIAL MILITAR'"
+  },
+  {
+   "id": "prof-deputado_federal-4050-experience-1",
+   "status": "PASS",
+   "claim": "2024: eleição para vereador (Campina Grande), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-4050-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 9.228 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 9228"
+  },
+  {
+   "id": "prof-deputado_federal-4001-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-4001-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Servidor público federal.",
+   "why": "DS_OCUPACAO='SERVIDOR PÚBLICO FEDERAL'"
+  },
+  {
+   "id": "prof-deputado_federal-4001-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 6.304 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 6304"
+  },
+  {
+   "id": "prof-deputado_federal-5555-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5555-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_federal-5555-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PP. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5555-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para vice-prefeito (Cabedelo), pelo REPUBLICANOS. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5555-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 114.818 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 114818"
+  },
+  {
+   "id": "prof-deputado_federal-5522-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5522-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5522-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PL. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5522-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5522-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5522-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 109.067 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 109067"
+  },
+  {
+   "id": "prof-deputado_federal-5550-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5550-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Aposentado (exceto servidor público).",
+   "why": "DS_OCUPACAO='APOSENTADO (EXCETO SERVIDOR PÚBLICO)'"
+  },
+  {
+   "id": "prof-deputado_federal-5550-experience-1",
+   "status": "PASS",
+   "claim": "2016: eleição para vereador (João Pessoa), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5550-experience-2",
+   "status": "PASS",
+   "claim": "2012: eleição para vereador (João Pessoa), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5550-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para vereador (João Pessoa), pelo PR. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-5550-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 9.364 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 9364"
+  },
+  {
+   "id": "prof-deputado_federal-5511-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5511-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Professor de ensino superior.",
+   "why": "DS_OCUPACAO='PROFESSOR DE ENSINO SUPERIOR'"
+  },
+  {
+   "id": "prof-deputado_federal-5511-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 8.689 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 8689"
+  },
+  {
+   "id": "prof-deputado_federal-5512-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSD).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-5512-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Professor e instrutor de formação profissional.",
+   "why": "DS_OCUPACAO='PROFESSOR E INSTRUTOR DE FORMAÇÃO PROFISSIONAL'"
+  },
+  {
+   "id": "prof-deputado_federal-5512-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 6.324 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 6324"
+  },
+  {
+   "id": "prof-deputado_federal-6565-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-6565-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_federal-6565-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-6565-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-6565-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado federal (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-6565-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-6565-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 69.405 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 69405"
+  },
+  {
+   "id": "prof-deputado_federal-1345-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1345-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_federal-1345-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_federal-1345-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado federal (PB), pelo PT. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1345-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PT. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1345-experience-3",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado federal (PB), pelo PT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1345-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 54.851 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 54851"
+  },
+  {
+   "id": "prof-deputado_federal-1313-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_federal-1313-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_federal-1313-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Farmacêutico.",
+   "why": "DS_OCUPACAO='FARMACÊUTICO'"
+  },
+  {
+   "id": "prof-deputado_federal-1313-experience-1",
+   "status": "PASS",
+   "claim": "2014: eleição para governador (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1313-experience-2",
+   "status": "PASS",
+   "claim": "2010: eleição para governador (PB), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1313-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para prefeito (João Pessoa), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_federal-1313-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 431.857 votos nominais no 1º turno para senador na Paraíba.",
+   "why": "TSE sum 431857"
+  },
+  {
+   "id": "prof-deputado_federal-2929-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PCO).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_federal-2929-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Estudante, bolsista, estagiário e assemelhados.",
+   "why": "DS_OCUPACAO='ESTUDANTE, BOLSISTA, ESTAGIÁRIO E ASSEMELHADOS'"
+  },
+  {
+   "id": "prof-deputado_federal-2929-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 48 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 48"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10444-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 59.329 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 59329"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PTB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado federal (PB), pelo PTB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10110-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 47.129 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 47129"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Industrial.",
+   "why": "DS_OCUPACAO='INDUSTRIAL'"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-experience-2",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-experience-3",
+   "status": "PASS",
+   "claim": "2006: eleição para deputado estadual (PB), pelo PMDB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10234-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 40.909 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 40909"
+  },
+  {
+   "id": "prof-deputado_estadual-10456-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10456-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Contador.",
+   "why": "DS_OCUPACAO='CONTADOR'"
+  },
+  {
+   "id": "prof-deputado_estadual-10456-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10456-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 37.235 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 37235"
+  },
+  {
+   "id": "prof-deputado_estadual-10123-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (REPUBLICANOS).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-10123-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Locutor e comentarista de rádio e televisão e radialista.",
+   "why": "DS_OCUPACAO='LOCUTOR E COMENTARISTA DE RÁDIO E TELEVISÃO E RADIALISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-10123-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10123-experience-2",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PRB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-10123-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 33.272 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 33272"
+  },
+  {
+   "id": "prof-deputado_estadual-22190-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22190-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22190-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-22190-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PATRIOTA. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-22190-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 49.419 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 49419"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para vereador (Campina Grande), pelo PSD. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-experience-3",
+   "status": "PASS",
+   "claim": "2016: eleição para vereador (Campina Grande), pelo PRTB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-22999-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 20.602 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 20602"
+  },
+  {
+   "id": "prof-deputado_estadual-22222-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22222-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Jornalista e redator.",
+   "why": "DS_OCUPACAO='JORNALISTA E REDATOR'"
+  },
+  {
+   "id": "prof-deputado_estadual-22222-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 406.604 votos nominais no 1º turno para governador na Paraíba.",
+   "why": "TSE sum 406604"
+  },
+  {
+   "id": "prof-deputado_estadual-22033-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22033-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22033-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 1.805 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 1805"
+  },
+  {
+   "id": "prof-deputado_estadual-22111-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PL).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22111-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_estadual-22111-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 1.656 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 1656"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo SOLIDARIEDADE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-experience-2",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Mamanguape), pelo PR. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para prefeito (Mamanguape), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-40777-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 22.778 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 22778"
+  },
+  {
+   "id": "prof-deputado_estadual-40013-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PSB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-40013-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-deputado_estadual-40013-experience-1",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PT. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-40013-experience-2",
+   "status": "PASS",
+   "claim": "2010: eleição para deputado estadual (PB), pelo PT. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-40013-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 12.859 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 12859"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PT. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-13400-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 31.819 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 31819"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REDE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo REDE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-experience-3",
+   "status": "PASS",
+   "claim": "2016: eleição para prefeito (Remígio), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43789-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 28.569 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 28569"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo MDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSC. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-experience-3",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Esperança), pelo PSC. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-43147-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 25.218 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 25218"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PC do B. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PC do B. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PT do B. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65555-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 24.266 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 24266"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Brasil Da Esperança - Fe Brasil (13-PT/65-PC do B/43-PV).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL'"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Médico.",
+   "why": "DS_OCUPACAO='MÉDICO'"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo MDB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para prefeito (Congo), pelo PSB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-experience-3",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Congo), pelo PDT. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-65123-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 24.075 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 24075"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MDB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSD. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PATRIOTA. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-experience-3",
+   "status": "PASS",
+   "claim": "2012: eleição para vereador (João Pessoa), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15999-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 48.277 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 48277"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MDB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Estudante, bolsista, estagiário e assemelhados.",
+   "why": "DS_OCUPACAO='ESTUDANTE, BOLSISTA, ESTAGIÁRIO E ASSEMELHADOS'"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para prefeito (Lagoa Seca), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-experience-3",
+   "status": "PASS",
+   "claim": "2016: eleição para prefeito (Lagoa Seca), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15555-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 48.260 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 48260"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MDB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PL. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PR. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PR. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15222-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 36.809 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 36809"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MDB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-experience-3",
+   "status": "PASS",
+   "claim": "2014: eleição para deputado estadual (PB), pelo PSDB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15111-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 32.586 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 32586"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (MDB).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Psicólogo.",
+   "why": "DS_OCUPACAO='PSICÓLOGO'"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-experience-3",
+   "status": "PASS",
+   "claim": "2008: eleição para vereador (João Pessoa), pelo PSDB. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-15123-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 31.798 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 31798"
+  },
+  {
+   "id": "prof-deputado_estadual-12333-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-12333-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Pecuarista.",
+   "why": "DS_OCUPACAO='PECUARISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-12333-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 1.595 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 1595"
+  },
+  {
+   "id": "prof-deputado_estadual-12247-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-12247-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Enfermeiro.",
+   "why": "DS_OCUPACAO='ENFERMEIRO'"
+  },
+  {
+   "id": "prof-deputado_estadual-12247-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 435 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 435"
+  },
+  {
+   "id": "prof-deputado_estadual-12111-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-12111-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Policial militar.",
+   "why": "DS_OCUPACAO='POLICIAL MILITAR'"
+  },
+  {
+   "id": "prof-deputado_estadual-12111-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 179 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 179"
+  },
+  {
+   "id": "prof-deputado_estadual-12192-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (PDT).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-12192-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Policial militar.",
+   "why": "DS_OCUPACAO='POLICIAL MILITAR'"
+  },
+  {
+   "id": "prof-deputado_estadual-12192-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 130 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 130"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Empresário.",
+   "why": "DS_OCUPACAO='EMPRESÁRIO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo SOLIDARIEDADE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo PRTB. Resultado no TSE: Eleito por média.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-experience-3",
+   "status": "PASS",
+   "claim": "2016: eleição para vereador (João Pessoa), pelo PRTB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11333-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 47.535 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 47535"
+  },
+  {
+   "id": "prof-deputado_estadual-11011-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11011-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-11011-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11011-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo REPUBLICANOS. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11011-experience-2",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 46.699 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 46699"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PP. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-experience-2",
+   "status": "PASS",
+   "claim": "2016: eleição para prefeito (Boqueirão), pelo PSD. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-experience-3",
+   "status": "PASS",
+   "claim": "2012: eleição para prefeito (Boqueirão), pelo PSD. Resultado no TSE: Eleito.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11369-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 46.088 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 46088"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Deputado.",
+   "why": "DS_OCUPACAO='DEPUTADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-experience-2",
+   "status": "PASS",
+   "claim": "2020: eleição para vereador (João Pessoa), pelo AVANTE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-experience-3",
+   "status": "PASS",
+   "claim": "2016: eleição para vereador (João Pessoa), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11789-experience-4",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 42.087 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 42087"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO UNIÃO PROGRESSISTA (44-UNIÃO / 11-PP)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação União Progressista (44-UNIÃO/11-PP).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO UNIÃO PROGRESSISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Advogado.",
+   "why": "DS_OCUPACAO='ADVOGADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-experience-1",
+   "status": "PASS",
+   "claim": "2022: eleição para deputado estadual (PB), pelo PSB. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-experience-2",
+   "status": "PASS",
+   "claim": "2018: eleição para deputado estadual (PB), pelo AVANTE. Resultado no TSE: Eleito por QP.",
+   "why": "history row found"
+  },
+  {
+   "id": "prof-deputado_estadual-11777-experience-3",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 41.800 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 41800"
+  },
+  {
+   "id": "prof-deputado_estadual-18188-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-18188-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_estadual-18188-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Policial militar.",
+   "why": "DS_OCUPACAO='POLICIAL MILITAR'"
+  },
+  {
+   "id": "prof-deputado_estadual-18188-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 467 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 467"
+  },
+  {
+   "id": "prof-deputado_estadual-18777-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-18777-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_estadual-18777-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Agente de saúde e sanitarista.",
+   "why": "DS_OCUPACAO='AGENTE DE SAÚDE E SANITARISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-18777-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 446 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 446"
+  },
+  {
+   "id": "prof-deputado_estadual-18888-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-18888-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_estadual-18888-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Fisioterapeuta e terapeuta ocupacional.",
+   "why": "DS_OCUPACAO='FISIOTERAPEUTA E TERAPEUTA OCUPACIONAL'"
+  },
+  {
+   "id": "prof-deputado_estadual-18888-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 291 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 291"
+  },
+  {
+   "id": "prof-deputado_estadual-50777-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-50777-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_estadual-50777-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Servidor público municipal.",
+   "why": "DS_OCUPACAO='SERVIDOR PÚBLICO MUNICIPAL'"
+  },
+  {
+   "id": "prof-deputado_estadual-50777-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 283 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 283"
+  },
+  {
+   "id": "prof-deputado_estadual-18800-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: FEDERAÇÃO (FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE)).",
+   "why": "NM_COLIGACAO='FEDERAÇÃO'"
+  },
+  {
+   "id": "prof-deputado_estadual-18800-presents-2",
+   "status": "PASS",
+   "claim": "Concorre pela Federação Psol Rede (50-PSOL/18-REDE).",
+   "why": "NM_FEDERACAO='FEDERAÇÃO PSOL REDE'"
+  },
+  {
+   "id": "prof-deputado_estadual-18800-presents-3",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Vendedor de comércio varejista e atacadista.",
+   "why": "DS_OCUPACAO='VENDEDOR DE COMÉRCIO VAREJISTA E ATACADISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-18800-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 215 votos nominais no 1º turno para deputado estadual na Paraíba.",
+   "why": "TSE sum 215"
+  },
+  {
+   "id": "prof-deputado_estadual-80180-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (UP).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-80180-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Assistente social.",
+   "why": "DS_OCUPACAO='ASSISTENTE SOCIAL'"
+  },
+  {
+   "id": "prof-deputado_estadual-80180-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 1.374 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 1374"
+  },
+  {
+   "id": "prof-deputado_estadual-80123-presents-1",
+   "status": "PASS",
+   "claim": "Coligação registrada no TSE: PARTIDO ISOLADO (UP).",
+   "why": "NM_COLIGACAO='PARTIDO ISOLADO'"
+  },
+  {
+   "id": "prof-deputado_estadual-80123-presents-2",
+   "status": "PASS",
+   "claim": "Ocupação que declarou ao TSE: Locutor e comentarista de rádio e televisão e radialista.",
+   "why": "DS_OCUPACAO='LOCUTOR E COMENTARISTA DE RÁDIO E TELEVISÃO E RADIALISTA'"
+  },
+  {
+   "id": "prof-deputado_estadual-80123-experience-1",
+   "status": "PASS",
+   "claim": "Em 2022 recebeu 1.337 votos nominais no 1º turno para deputado federal na Paraíba.",
+   "why": "TSE sum 1337"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG wrong 2022 vote total",
+   "status": "FAIL",
+   "why": "TSE sum 617477"
+  },
+  {
+   "id": "NEG Caiado slogan attributed to Lula's plan",
+   "status": "FAIL",
+   "why": "quote not on PDF page 1"
+  },
+  {
+   "id": "NEG Efraim elected one year earlier",
+   "status": "FAIL",
+   "why": "no TSE history row with that year, office, result and party"
+  },
+  {
+   "id": "NEG fabricated Flávio plan quote",
+   "status": "FAIL",
+   "why": "quote not on PDF page 13"
+  },
+  {
+   "id": "NEG Lula quote on the wrong page",
+   "status": "FAIL",
+   "why": "quote not on PDF page 28"
+  },
+  {
+   "id": "NEG wrong declared occupation",
+   "status": "FAIL",
+   "why": "DS_OCUPACAO='TORNEIRO MECÂNICO'"
+  },
+  {
+   "id": "NEG Veneziano's senate term credited to Nabor's block",
+   "status": "FAIL",
+   "why": "inside the candidate's own block"
+  },
+  {
+   "id": "NEG Flávio senator since 2015",
+   "status": "FAIL",
+   "why": "no Senado mandate/exercise with those dates"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "soc-aborto": [
+  {
+   "label": "Crime em todos os casos, inclusive os permitidos hoje",
+   "value": -1
+  },
+  {
+   "label": "Manter só os casos atuais (estupro, risco de vida, anencefalia)",
+   "value": -0.5
+  },
+  {
+   "label": "Meio-termo, não tenho certeza",
+   "value": 0
+  },
+  {
+   "label": "Ampliar os casos permitidos, sem liberar até 12 semanas",
+   "value": 0.5
+  },
+  {
+   "label": "Permitido até 12 semanas",
+   "value": 1
+  }
+ ],
+ "seg-drogas": [
+  {
+   "label": "Descriminalizar o porte de todas as drogas para uso próprio",
+   "value": -1
+  },
+  {
+   "label": "Não ser crime só pequena quantidade de maconha, como decidiu o STF",
+   "value": -0.5
+  },
+  {
+   "label": "Meio-termo, não tenho certeza",
+   "value": 0
+  },
+  {
+   "label": "Crime, mas pela lei comum, sem mudar a Constituição",
+   "value": 0.5
+  },
+  {
+   "label": "Crime em qualquer quantidade, escrito na Constituição",
+   "value": 1
+  }
+ ],
+ "seg-armas": [
+  {
+   "label": "Proibir armas para civis",
+   "value": -1
+  },
+  {
+   "label": "Manter ou apertar as regras atuais",
+   "value": -0.5
+  },
+  {
+   "label": "Meio-termo, não tenho certeza",
+   "value": 0
+  },
+  {
+   "label": "Facilitar só a posse em casa",
+   "value": 0.5
+  },
+  {
+   "label": "Facilitar posse e porte",
+   "value": 1
+  }
+ ],
+ "eco-privatizacao": [
+  {
+   "label": "Reestatizar o que foi privatizado",
+   "value": -1
+  },
+  {
+   "label": "Manter as estatais que existem hoje",
+   "value": -0.5
+  },
+  {
+   "label": "Meio-termo, caso a caso",
+   "value": 0
+  },
+  {
+   "label": "Privatizar algumas, mantendo as estratégicas",
+   "value": 0.5
+  },
+  {
+   "label": "Privatizar a maioria das estatais",
+   "value": 1
+  }
+ ]
+}

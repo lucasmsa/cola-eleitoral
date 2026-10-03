@@ -1,0 +1,1823 @@
+[
+ {
+  "id": "lula-lava-jato",
+  "candidateId": "presidente-13",
+  "category": "justica",
+  "title": "Condenações da Lava Jato anuladas; caso do triplex arquivado por prescrição",
+  "status": "Condenações anuladas pelo STF (2021); ação do triplex arquivada por prescrição (2022)",
+  "statusKeys": [
+   [
+    "dn_lula",
+    "manter a anulação das condenações"
+   ],
+   [
+    "istoe_lula",
+    "prescrição"
+   ]
+  ],
+  "date": "2022-01-27",
+  "name": "Lula",
+  "claims": [
+   {
+    "text": "Em 2017, Lula foi condenado em primeira instância no caso do triplex do Guarujá por corrupção passiva e lavagem de dinheiro.",
+    "support": "Em 2017, Lula foi condenado pelo então juiz Sergio Moro a 9 anos e 6 meses de prisão por corrupção passiva e lavagem de dinheiro no caso do tríplex do Guarujá.",
+    "source": {
+     "url": "https://www.jb.com.br/pais/justica/2021/03/1028825-ministro-do-stf-anula-condenacoes-de-lula-ligadas-a-lava-jato.html",
+     "accessed": "2026-10-03",
+     "label": "Jornal do Brasil, 08/03/2021"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-lava-jato-c0"
+   },
+   {
+    "text": "Em abril de 2021, o plenário do STF manteve, por 8 votos a 3, a anulação das condenações dele na Lava Jato.",
+    "support": "decidiu, por oito votos a favor e três contra, manter a anulação das condenações do ex-presidente Lula na operação Lava Jato",
+    "source": {
+     "url": "https://diariodonordeste.verdesmares.com.br/politica/stf-mantem-anulacao-das-condenacoes-de-lula-na-lava-jato-1.3073726",
+     "accessed": "2026-10-03",
+     "label": "Diário do Nordeste/Folhapress, 15/04/2021"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-lava-jato-c1"
+   },
+   {
+    "text": "Em janeiro de 2022, a Justiça Federal do DF arquivou a ação do triplex por prescrição; ele não pode mais ser processado por esses fatos.",
+    "support": "ele não poderá ser processado pelos mesmos fatos que lhe foram imputados",
+    "source": {
+     "url": "https://istoedinheiro.com.br/juiza-arquiva-acao-contra-lula-no-caso-do-triplex",
+     "accessed": "2026-10-03",
+     "label": "IstoÉ Dinheiro/Estadão Conteúdo, 28/01/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-lava-jato-c2"
+   }
+  ],
+  "response": [
+   {
+    "text": "A defesa afirma que o caso serviu para perseguição judicial com objetivos políticos (lawfare).",
+    "support": "O encerramento definitivo do caso do tríplex pela Justiça reforça que ele serviu apenas para que alguns membros do Sistema de Justiça praticassem lawfare contra Lula",
+    "source": {
+     "url": "https://istoedinheiro.com.br/juiza-arquiva-acao-contra-lula-no-caso-do-triplex",
+     "accessed": "2026-10-03",
+     "label": "IstoÉ Dinheiro/Estadão Conteúdo, 28/01/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-lava-jato-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "lula-checagem",
+  "candidateId": "presidente-13",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "errou"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Lula",
+  "claims": [
+   {
+    "text": "A Lupa apontou erro ao dizer que o PIB só voltou a crescer acima de 3% depois de 2023.",
+    "support": "o presidente Lula errou ao falar que o Produto Interno Bruto (PIB) do país só voltou a crescer acima de 3% após seu retorno à Presidência, em 2023",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos, como o crescimento de 7,5% em 2010.",
+    "support": "Lula acertou ao afirmar que o Brasil cresceu 7,5% em 2010",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-lula-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "flavio-rachadinha",
+  "candidateId": "presidente-22",
+  "category": "justica",
+  "title": "Caso das rachadinhas na Alerj",
+  "status": "Denúncia rejeitada pelo TJRJ (maio/2022) depois que STJ e STF anularam provas; arquivado sem análise do mérito",
+  "statusKeys": [
+   [
+    "im_flavio",
+    "rejeitou a denúncia"
+   ]
+  ],
+  "date": "2022-05-16",
+  "name": "Flávio",
+  "claims": [
+   {
+    "text": "Em 2020, o MPRJ o denunciou sob acusação de liderar um esquema para recolher parte do salário de ex-funcionários do gabinete na Alerj.",
+    "support": "Em 2020, Flávio Bolsonaro — que é o filho mais velho do presidente — foi denunciado pelo Ministério Público do Rio de Janeiro sob acusação de liderar uma organização criminosa para recolher parte do salário de ex-funcionários públicos em benefício próprio",
+    "source": {
+     "url": "https://www.correiobraziliense.com.br/politica/2022/10/5043990-rachadinha-o-que-aconteceu-com-caso-que-envolve-filho-de-bolsonaro.html",
+     "accessed": "2026-10-03",
+     "label": "Correio Braziliense/BBC, 03/10/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-rachadinha-c0"
+   },
+   {
+    "text": "Em 2022, o Órgão Especial do TJRJ rejeitou a denúncia, porque as provas usadas foram anuladas pelo STJ.",
+    "support": "O Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro rejeitou a denúncia no processo movido contra o senador Flávio Bolsonaro",
+    "source": {
+     "url": "https://www.infomoney.com.br/?p=1856409",
+     "accessed": "2026-10-03",
+     "label": "InfoMoney/Reuters, 17/05/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-rachadinha-c1"
+   },
+   {
+    "text": "O arquivamento ocorreu sem análise do conteúdo das provas.",
+    "support": "por que o caso foi arquivado sem uma análise do conteúdo das provas",
+    "source": {
+     "url": "https://www.correiobraziliense.com.br/politica/2022/10/5043990-rachadinha-o-que-aconteceu-com-caso-que-envolve-filho-de-bolsonaro.html",
+     "accessed": "2026-10-03",
+     "label": "Correio Braziliense/BBC, 03/10/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-rachadinha-c2"
+   }
+  ],
+  "response": [
+   {
+    "text": "Ele e Fabrício Queiroz negaram todas as acusações.",
+    "support": "Fabrício Queiroz e Flávio Bolsonaro negaram todas as acusações.",
+    "source": {
+     "url": "https://www.correiobraziliense.com.br/politica/2022/10/5043990-rachadinha-o-que-aconteceu-com-caso-que-envolve-filho-de-bolsonaro.html",
+     "accessed": "2026-10-03",
+     "label": "Correio Braziliense/BBC, 03/10/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-rachadinha-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "flavio-checagem",
+  "candidateId": "presidente-22",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "errou"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Flávio",
+  "claims": [
+   {
+    "text": "A Lupa apontou erro ao dizer que Jair Bolsonaro nunca foi ameaça para a democracia e ao negar o aquecimento global.",
+    "support": "Flávio, por sua vez, errou ao afirmar que Jair Bolsonaro “nunca foi ameaça para a democracia”, negou a existência do aquecimento global",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos, como o Brasil seguir entre as economias com maior juro real.",
+    "support": "o candidato do PL acertou sobre o Brasil seguir no topo entre as economias com maior juro real do mundo",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-flavio-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "caiado-tre-go",
+  "candidateId": "presidente-55",
+  "category": "justica",
+  "title": "Condenação por conduta vedada nas eleições de Goiânia em 2024",
+  "status": "TRE-GO afastou a inelegibilidade e manteve multa de R$ 60 mil (abr/2025); cabia recurso ao TSE",
+  "statusKeys": [
+   [
+    "ab_caiado",
+    "manteve, contudo, a aplicação de multa de R$ 60 mil"
+   ]
+  ],
+  "date": "2025-04-08",
+  "name": "Caiado",
+  "claims": [
+   {
+    "text": "A Justiça Eleitoral entendeu que ele usou a sede do governo de Goiás em eventos da campanha do aliado Sandro Mabel.",
+    "support": "utilizar a sede do governo estadual para eventos ligados à campanha de seu aliado Sandro Mabel",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-04/tre-go-afasta-inelegibilidade-de-governador-ronaldo-caiado",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 09/04/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-tre-go-c0"
+   },
+   {
+    "text": "O TRE-GO derrubou por unanimidade a inelegibilidade aplicada em primeira instância.",
+    "support": "decidiu nessa terça-feira (8), por unanimidade, derrubar a inelegibilidade do governador do estado, Ronaldo Caiado",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-04/tre-go-afasta-inelegibilidade-de-governador-ronaldo-caiado",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 09/04/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-tre-go-c1"
+   },
+   {
+    "text": "O tribunal manteve a multa de R$ 60 mil por condutas vedadas nas eleições municipais de 2024.",
+    "support": "manteve, contudo, a aplicação de multa de R$ 60 mil ao governador, pela prática de condutas vedadas durante as eleições municipais de 2024",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-04/tre-go-afasta-inelegibilidade-de-governador-ronaldo-caiado",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 09/04/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-tre-go-c2"
+   }
+  ],
+  "response": [
+   {
+    "text": "A defesa recorreu, alegando que os encontros foram regulares e restritos.",
+    "support": "As defesas dos condenados entraram com recurso, alegando que os encontros foram regulares e fechados a um grupo restrito de pessoas",
+    "source": {
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-04/tre-go-afasta-inelegibilidade-de-governador-ronaldo-caiado",
+     "accessed": "2026-10-03",
+     "label": "Agência Brasil, 09/04/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-tre-go-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "caiado-checagem",
+  "candidateId": "presidente-55",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "errou"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Caiado",
+  "claims": [
+   {
+    "text": "A Lupa apontou erro ao dizer que Lula era alvo de investigações no STF.",
+    "support": "Caiado errou ao afirmar que Lula era alvo de investigações no Supremo Tribunal Federal (STF)",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos sobre reforma administrativa e índices educacionais de Goiás.",
+    "support": "o ex-governador de Goiás acertou ao falar sobre reforma administrativa e índices educacionais do estado",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-caiado-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "cury-proposta-bolsa",
+  "candidateId": "presidente-70",
+  "category": "proposta",
+  "title": "Proposta para o Bolsa Família que já existe",
+  "status": "Checagem jornalística (Lupa, 29/08/2026): falta contexto",
+  "statusKeys": [
+   [
+    "lupa_cury_jn",
+    "já existe"
+   ]
+  ],
+  "date": "2026-08-29",
+  "name": "Cury",
+  "claims": [
+   {
+    "text": "No Jornal Nacional, prometeu que beneficiários do Bolsa Família poderiam ter uma segunda renda sem perder o benefício.",
+    "support": "Cury também prometeu o pagamento do Bolsa Família para pessoas que têm uma segunda fonte de renda, sem que elas percam o benefício. No entanto, essa possibilidade já existe.",
+    "source": {
+     "url": "https://www.agencialupa.org/checagem/2026/08/29/ao-vivo-checagem-da-entrevista-de-augusto-cury-ao-jornal-nacional/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 29/08/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cury-proposta-bolsa-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "cury-checagem",
+  "candidateId": "presidente-70",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "errou"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Cury",
+  "claims": [
+   {
+    "text": "A Lupa apontou erro, mais de uma vez, ao dizer que cada criança brasileira nasce devendo R$ 50 mil.",
+    "support": "O candidato errou, mais de uma vez, ao afirmar que uma criança brasileira “nasce devendo” R$ 50 mil",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cury-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos, como o número de famílias no Bolsa Família.",
+    "support": "o candidato acertou ao citar o número de famílias que recebem o Bolsa Família",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cury-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "cury-experiencia",
+  "candidateId": "presidente-70",
+  "category": "experiencia",
+  "title": "Primeira eleição disputada",
+  "status": "Sem candidaturas anteriores no histórico do TSE",
+  "statusKeys": [],
+  "date": "2026-08-15",
+  "name": "Cury",
+  "claims": [
+   {
+    "text": "O histórico de candidaturas do TSE não registra nenhuma eleição anterior disputada por ele.",
+    "support": "presidente-70|0",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/historico_candidatura/historico_candidatura_2026.zip",
+     "accessed": "2026-10-03",
+     "label": "TSE, histórico de candidaturas 2026"
+    },
+    "kind": "tse-history",
+    "checkId": "pol-cury-experiencia-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "renan-danos-morais",
+  "candidateId": "presidente-14",
+  "category": "justica",
+  "title": "Condenações cíveis por ofensas em redes sociais",
+  "status": "Condenado a indenizar em ações cíveis por danos morais na Justiça de São Paulo (2025 e 2026)",
+  "statusKeys": [
+   [
+    "mig_renan",
+    "foi condenado a indenizar"
+   ],
+   [
+    "met_renan",
+    "foi condenado"
+   ]
+  ],
+  "date": "2026-02-09",
+  "name": "Renan",
+  "claims": [
+   {
+    "text": "Foi condenado a pagar R$ 30 mil à filósofa Djamila Ribeiro por associá-la ao crime organizado em post no X.",
+    "support": "O fundador do MBL, Renan Santos, foi condenado a indenizar em R$ 30 mil a escritora e filósofa Djamila Ribeiro por ofensas publicadas na rede social X.",
+    "source": {
+     "url": "https://www.migalhas.com.br/quentes/449594/fundador-do-mbl-indenizara-djamila-ribeiro-por-associa-la-ao-crime",
+     "accessed": "2026-10-03",
+     "label": "Migalhas, 09/02/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-renan-danos-morais-c0"
+   },
+   {
+    "text": "Foi condenado a indenizar o deputado estadual Gil Diniz (PL) por xingamentos publicados em 2021.",
+    "support": "foi condenado na Justiça paulista a indenizar o deputado estadual Gil Diniz",
+    "source": {
+     "url": "https://www.metropoles.com/sao-paulo/lider-mbl-indenizar-bolsonarista",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 10/06/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-renan-danos-morais-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "No caso de Gil Diniz, a defesa alegou liberdade de expressão e falta de prova de dano.",
+    "support": "Já a defesa de Renan alegou que o deputado não provou os supostos danos causados à sua honra, e que o militante estava amparado pelo direito à liberdade de expressão",
+    "source": {
+     "url": "https://www.metropoles.com/sao-paulo/lider-mbl-indenizar-bolsonarista",
+     "accessed": "2026-10-03",
+     "label": "Metrópoles, 10/06/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-renan-danos-morais-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "renan-checagem",
+  "candidateId": "presidente-14",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "errou"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Renan",
+  "claims": [
+   {
+    "text": "A Lupa apontou erro ao dizer que o escândalo do Banco Master surgiu no governo Lula e dados falsos sobre o Bolsa Família.",
+    "support": "Renan Santos errou durante a campanha ao afirmar que o escândalo do Banco Master surgiu no governo Lula, citou dados falsos sobre o Bolsa Família",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-renan-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos, como sobre o endividamento do Brasil.",
+    "support": "Santos acertou ao falar do endividamento do Brasil",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-renan-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "renan-experiencia",
+  "candidateId": "presidente-14",
+  "category": "experiencia",
+  "title": "Primeira eleição disputada",
+  "status": "Sem candidaturas anteriores no histórico do TSE",
+  "statusKeys": [],
+  "date": "2026-08-15",
+  "name": "Renan",
+  "claims": [
+   {
+    "text": "O histórico de candidaturas do TSE não registra nenhuma eleição anterior disputada por ele.",
+    "support": "presidente-14|0",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/historico_candidatura/historico_candidatura_2026.zip",
+     "accessed": "2026-10-03",
+     "label": "TSE, histórico de candidaturas 2026"
+    },
+    "kind": "tse-history",
+    "checkId": "pol-renan-experiencia-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "zema-rejeito",
+  "candidateId": "presidente-30",
+  "category": "investigacao",
+  "title": "Decreto de licenciamento citado na Operação Rejeito",
+  "status": "Investigação da PF em andamento (Operação Rejeito, set/2025); o despacho judicial cita o decreto",
+  "statusKeys": [
+   [
+    "em_zema",
+    "Operação Rejeito"
+   ]
+  ],
+  "date": "2025-09-17",
+  "name": "Zema",
+  "claims": [
+   {
+    "text": "Segundo o despacho judicial da Operação Rejeito, um decreto de Zema de novembro de 2024 retirou a exigência de pagar multas ambientais para seguir com o licenciamento e beneficiou uma mineradora investigada.",
+    "support": "foi modificado, em novembro do ano passado, por meio do Decreto 48.935, de 1º/11/2024 para retirar essa exigência e beneficiar a Patrimônio Mineração Ltda",
+    "source": {
+     "url": "https://www.em.com.br/politica/2025/09/7251390-decreto-alterado-por-zema-favoreceu-empresa-investigada-na-operacao-rejeito.html",
+     "accessed": "2026-10-03",
+     "label": "Estado de Minas, 09/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-zema-rejeito-c0"
+   }
+  ],
+  "response": [
+   {
+    "text": "Zema disse apoiar as investigações e esperar punição exemplar aos envolvidos.",
+    "support": "Nós estamos dando todo o apoio às investigações.",
+    "source": {
+     "url": "https://www.otempo.com.br/politica/2025/9/18/zema-quebra-silencio-sobre-a-operacao-rejeito-espero-punicao-exemplar",
+     "accessed": "2026-10-03",
+     "label": "O Tempo, 18/09/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-zema-rejeito-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "zema-checagem",
+  "candidateId": "presidente-30",
+  "category": "declaracao",
+  "title": "Checagem da Lupa: erros e acertos na campanha",
+  "status": "Checagem jornalística (Lupa, 01/10/2026)",
+  "statusKeys": [
+   [
+    "lupa",
+    "falsas"
+   ]
+  ],
+  "date": "2026-10-01",
+  "name": "Zema",
+  "claims": [
+   {
+    "text": "A Lupa apontou exagero sobre a dívida pública e afirmações falsas sobre segurança.",
+    "support": "Zema exagerou em dados sobre dívida pública, fez afirmações falsas sobre segurança pública",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-zema-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem registrou acertos, como a saída de Minas do déficit para o superávit.",
+    "support": "o ex-governador de Minas apontou avanços de sua gestão, como ter tirado o estado de um déficit para um superávit",
+    "source": {
+     "url": "https://www.agencialupa.org/noticias/2026/10/01/erros-e-acertos-dos-candidatos-que-disputam-a-presidencia-do-brasil-em-2026/",
+     "accessed": "2026-10-03",
+     "label": "Lupa, 01/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-zema-checagem-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "lucas-aije",
+  "candidateId": "governador-11",
+  "category": "justica",
+  "title": "Ação eleitoral por suposta compra de votos",
+  "status": "Ação de Investigação Judicial Eleitoral proposta por Cícero Lucena em 30/09/2026; sem julgamento",
+  "statusKeys": [
+   [
+    "pba_lucas",
+    "Ação de Investigação Judicial Eleitoral"
+   ]
+  ],
+  "date": "2026-09-30",
+  "name": "Lucas",
+  "claims": [
+   {
+    "text": "Cícero Lucena acionou a Justiça Eleitoral acusando ele e a vice Lígia Feliciano de compra de votos.",
+    "support": "A ação foi apresentada por Cícero Lucena à Justiça Eleitoral nesta quarta-feira (30), com acusações relacionadas à suposta compra de votos envolvendo Lucas Ribeiro e Lígia Feliciano.",
+    "source": {
+     "url": "https://www.pbagora.com.br/noticia/politica/lucas-ribeiro-reage-a-acao-de-cicero-lucena-na-justica-eleitoral-e-acusa-adversario-de-espetacularizar-a-eleicao/",
+     "accessed": "2026-10-03",
+     "label": "PB Agora, 30/09/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-lucas-aije-c0"
+   }
+  ],
+  "response": [
+   {
+    "text": "Disse que os adversários estão desesperados e espetacularizando a eleição.",
+    "support": "Estão desesperados, atacando de qualquer forma e qualquer jeito, espetacularizando a eleição para tentar chamar atenção de alguma forma",
+    "source": {
+     "url": "https://www.pbagora.com.br/noticia/politica/lucas-ribeiro-reage-a-acao-de-cicero-lucena-na-justica-eleitoral-e-acusa-adversario-de-espetacularizar-a-eleicao/",
+     "accessed": "2026-10-03",
+     "label": "PB Agora, 30/09/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-lucas-aije-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "lucas-checagem",
+  "candidateId": "governador-11",
+  "category": "declaracao",
+  "title": "Checagem do Jornal da Paraíba no debate de 29/09",
+  "status": "Checagem jornalística (Jornal da Paraíba, 30/09/2026)",
+  "statusKeys": [
+   [
+    "jp_debate",
+    "A INFORMAÇÃO É INCORRETA"
+   ]
+  ],
+  "date": "2026-09-30",
+  "name": "Lucas",
+  "claims": [
+   {
+    "text": "Disse que 70% do PIB da Paraíba está fora da Grande João Pessoa; a checagem classificou como incorreto.",
+    "support": "“70% do nosso PIB está fora da grande João Pessoa.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É INCORRETA",
+    "checkId": "pol-lucas-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem confirmou a fala sobre o resultado positivo do Caged em agosto.",
+    "support": "“Nesse mês de agosto, tivemos mais um resultado positivo do Caged, inclusive um dos maiores do país”.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É VERDADEIRA",
+    "checkId": "pol-lucas-checagem-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "A assessoria disse que João Pessoa responde por 29,33% do PIB do estado.",
+    "support": "A assessoria do candidato informou que João Pessoa responde por 29,33% do Produto Interno Bruto (PIB) da Paraíba",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-lucas-checagem-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "efraim-suplente",
+  "candidateId": "governador-22",
+  "category": "investigacao",
+  "title": "Suplente no Senado investigado nas fraudes do INSS",
+  "status": "Efraim não é investigado; o suplente Erik Marinho foi alvo de busca na Operação Sem Desconto (PF)",
+  "statusKeys": [
+   [
+    "jp_efraim",
+    "Efraim Filho não é investigado"
+   ]
+  ],
+  "date": "2026-03-24",
+  "name": "Efraim",
+  "claims": [
+   {
+    "text": "Seu suplente no Senado, Erik Marinho, é investigado pela PF por suspeita de ocultar patrimônio ligado ao chamado Careca do INSS.",
+    "support": "A Polícia Federal apontou que o suplente Erik Marinho atuava para ocultar e blindar patrimônio ligado a Antonio Carlos Camilo Antunes, conhecido como 'Careca do INSS'",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/suplente-investigado-nas-fraudes-do-inss-e-pagamento-de-boleto-vao-exigir-explicacoes-de-efraim",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 24/03/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-efraim-suplente-c0"
+   },
+   {
+    "text": "Reportagem do Estadão revelou que o suplente pagou um boleto de R$ 51 mil do senador.",
+    "support": "o senador teve um boleto de R$ 51 mil pago pelo suplente",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/suplente-investigado-nas-fraudes-do-inss-e-pagamento-de-boleto-vao-exigir-explicacoes-de-efraim",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 24/03/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-efraim-suplente-c1"
+   },
+   {
+    "text": "Efraim não é investigado no caso.",
+    "support": "Efraim Filho não é investigado.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/suplente-investigado-nas-fraudes-do-inss-e-pagamento-de-boleto-vao-exigir-explicacoes-de-efraim",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 24/03/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-efraim-suplente-c2"
+   }
+  ],
+  "response": [
+   {
+    "text": "Negou irregularidade e disse que o boleto vinha de uma dívida pessoal.",
+    "support": "Efraim negou qualquer tipo de irregularidade. Afirmou que o boleto era oriundo de uma dívida pessoal",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/pleno-poder/suplente-investigado-nas-fraudes-do-inss-e-pagamento-de-boleto-vao-exigir-explicacoes-de-efraim",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 24/03/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-efraim-suplente-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "efraim-checagem",
+  "candidateId": "governador-22",
+  "category": "declaracao",
+  "title": "Checagem do Jornal da Paraíba no debate de 29/09",
+  "status": "Checagem jornalística (Jornal da Paraíba, 30/09/2026)",
+  "statusKeys": [
+   [
+    "jp_debate",
+    "A INFORMAÇÃO É INCORRETA"
+   ]
+  ],
+  "date": "2026-09-30",
+  "name": "Efraim",
+  "claims": [
+   {
+    "text": "Disse que 95% das delegacias da Paraíba fecham à noite; a checagem classificou como incorreto (são 86%).",
+    "support": "95% das delegacias são fechadas na Paraíba, à noite, na hora que você e sua família mais precisam\".",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É INCORRETA",
+    "checkId": "pol-efraim-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem confirmou a fala sobre os concursados da PB Saúde ainda aguardando convocação.",
+    "support": "“Nós vamos convocar, por exemplo, os concursados da PB Saúde, que até hoje estão esperando.”",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É VERDADEIRA",
+    "checkId": "pol-efraim-checagem-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "A assessoria disse que o número traduz a concentração do atendimento noturno.",
+    "support": "a referência aos 95% traduz a dimensão apontada pelo candidato para a concentração do atendimento noturno",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-efraim-checagem-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "cicero-registro-tse",
+  "candidateId": "governador-15",
+  "category": "justica",
+  "title": "Registro de candidatura contestado no TSE",
+  "status": "Registro sub judice: maioria no TSE pelo indeferimento em 02/10/2026; julgamento suspenso por pedido de vista",
+  "statusKeys": [
+   [
+    "jp_cicero_tse",
+    "pedido de vista"
+   ]
+  ],
+  "date": "2026-10-02",
+  "name": "Cícero",
+  "claims": [
+   {
+    "text": "O TSE formou maioria pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
+    "support": "O Tribunal Superior Eleitoral (TSE) formou maioria pelo indeferimento da candidatura de Cícero Lucena (MDB) ao governo da Paraíba nas eleições de 2026.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 02/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-registro-tse-c0"
+   },
+   {
+    "text": "O MP Eleitoral aponta suposto uso de uma facção criminosa para favorecer o projeto político dele.",
+    "support": "O Ministério Público Eleitoral apontou suposto uso de uma facção criminosa para favorecer o projeto político do ex-prefeito de João Pessoa.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 02/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-registro-tse-c1"
+   },
+   {
+    "text": "Um pedido de vista suspendeu o julgamento; ele pode disputar no domingo, e a decisão não é definitiva.",
+    "support": "Mesmo com a maioria, no entanto, Cícero Lucena pode concorrer ao cargo de governador no domingo (4), isso porque houve um pedido de vista",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 02/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-registro-tse-c2"
+   },
+   {
+    "text": "Ele não tem condenação criminal nem denúncia formal contra si.",
+    "support": "Cícero Lucena não tem condenação criminal nem denúncia formal apresentada contra ele",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 02/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-registro-tse-c3"
+   }
+  ],
+  "response": [
+   {
+    "text": "A defesa disse que o pedido de vista reinicia a discussão do caso.",
+    "support": "Amanhã caem todos os votos que foram dados e recomeça do zero",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 02/10/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-registro-tse-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "cicero-territorio-livre",
+  "candidateId": "governador-15",
+  "category": "familia",
+  "title": "Esposa denunciada na Operação Território Livre",
+  "status": "A esposa, Lauremília Lucena, é ré em ação penal eleitoral (denúncia recebida em set/2025)",
+  "statusKeys": [
+   [
+    "mppb_tl",
+    "recebeu a denúncia"
+   ]
+  ],
+  "date": "2025-09-16",
+  "name": "Lauremília",
+  "claims": [
+   {
+    "text": "A Justiça Eleitoral recebeu denúncia contra a então primeira-dama de João Pessoa, Lauremília Lucena, e outras nove pessoas.",
+    "support": "Foram denunciados: a primeira-dama da Capital, Maria Lauremília Assis de Lucena",
+    "source": {
+     "url": "https://www.mppb.mp.br/index.php/pt/comunicacao/noticias/51-gaeco/72-gaeco/26784-justica-acolhe-denuncia-do-mppb-no-ambito-da-operacao-territorio-livre",
+     "accessed": "2026-10-03",
+     "label": "MPPB, 16/09/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-territorio-livre-c0"
+   },
+   {
+    "text": "Segundo o MP, líderes de uma facção e parentes recebiam cargos na prefeitura de João Pessoa em troca de controle territorial nas eleições.",
+    "support": "líderes do grupo criminoso e seus parentes recebiam cargos e benefícios na Administração Pública Municipal",
+    "source": {
+     "url": "https://www.mppb.mp.br/index.php/pt/comunicacao/noticias/51-gaeco/72-gaeco/26784-justica-acolhe-denuncia-do-mppb-no-ambito-da-operacao-territorio-livre",
+     "accessed": "2026-10-03",
+     "label": "MPPB, 16/09/2025"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-territorio-livre-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "Na prisão dela, em 2024, a assessoria de Cícero chamou a operação de ataque arquitetado por adversários.",
+    "support": "foi alvo de mais um ataque covarde e brutal, ardilosamente arquitetado por seus adversários às vésperas da eleição, envolvendo sua família",
+    "source": {
+     "url": "https://congressoemfoco.com.br/area/pais/cicero-lucena-responsabiliza-adversarios-por-prisao-de-esposa-ataque-covarde-e-brutal",
+     "accessed": "2026-10-03",
+     "label": "Congresso em Foco, 28/09/2024"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-territorio-livre-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "cicero-confraria",
+  "candidateId": "governador-15",
+  "category": "justica",
+  "title": "Operação Confraria (2005)",
+  "status": "Absolvido pelo TRF5 (nov/2019)",
+  "statusKeys": [
+   [
+    "jp_confraria",
+    "não cometeu os crimes"
+   ]
+  ],
+  "date": "2019-11-13",
+  "name": "Cícero",
+  "claims": [
+   {
+    "text": "Em 2005 foi alvo de mandado de prisão da PF na Operação Confraria, sobre suposto favorecimento a empreiteiras.",
+    "support": "foi alvo de mandado de prisão expedido pela Polícia Federal em meio a denúncias sobre a “Operação Confraria”",
+    "source": {
+     "url": "https://www.osguedes.com.br/2019/11/14/cicero-sobre-a-operacao-confraria-sempre-tive-a-consciencia-limpa/",
+     "accessed": "2026-10-03",
+     "label": "Os Guedes (Nonato Guedes), 14/11/2019"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-confraria-c0"
+   },
+   {
+    "text": "Em 2019, a Quarta Turma do TRF5 concluiu que ele não cometeu os crimes apontados pelo MPF.",
+    "support": "Quarta turma do TRF5 entendeu que o ex-prefeito não cometeu os crimes apontados pelo MPF.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/_/125686",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 13/11/2019"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-confraria-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "Disse ter sempre tido a consciência limpa.",
+    "support": "Sempre tive a consciência limpa",
+    "source": {
+     "url": "https://www.osguedes.com.br/2019/11/14/cicero-sobre-a-operacao-confraria-sempre-tive-a-consciencia-limpa/",
+     "accessed": "2026-10-03",
+     "label": "Os Guedes (Nonato Guedes), 14/11/2019"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-confraria-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "cicero-checagem",
+  "candidateId": "governador-15",
+  "category": "declaracao",
+  "title": "Checagem do Jornal da Paraíba no debate de 29/09",
+  "status": "Checagem jornalística (Jornal da Paraíba, 30/09/2026)",
+  "statusKeys": [
+   [
+    "jp_debate",
+    "A INFORMAÇÃO É INCORRETA"
+   ]
+  ],
+  "date": "2026-09-30",
+  "name": "Cícero",
+  "claims": [
+   {
+    "text": "Disse que João Pessoa é o destino mais procurado do Brasil; a checagem classificou como incorreto.",
+    "support": "“É tanto que João Pessoa hoje é a queridinha do Brasil, é o destino mais procurado do Brasil…”",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É INCORRETA",
+    "checkId": "pol-cicero-checagem-c0"
+   },
+   {
+    "text": "A mesma checagem confirmou a retirada do ITBI na entrada de imóveis do Minha Casa, Minha Vida.",
+    "support": "“Retiramos o ITBI para o Programa Minha Casa, Minha Vida como entrada dos imóveis",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "rating",
+    "rating": "A INFORMAÇÃO É VERDADEIRA",
+    "checkId": "pol-cicero-checagem-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "A assessoria citou rankings de plataformas de viagem que põem João Pessoa entre os destinos em alta.",
+    "support": "a assessoria do candidato Cícero Lucena informou que relatórios de tendências de viagens baseados em dados da Booking.com e da Expedia",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/debate-1-turno-veja-acertos-erros-e-imprecisoes-nas-falas-dos-candidatos-ao-governo-da-paraiba",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, checagem do debate de 29/09/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-cicero-checagem-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "yuri-experiencia",
+  "candidateId": "governador-80",
+  "category": "experiencia",
+  "title": "Sem mandato anterior",
+  "status": "Uma candidatura anterior, não eleito (TSE)",
+  "statusKeys": [],
+  "date": "2026-08-15",
+  "name": "Yuri",
+  "claims": [
+   {
+    "text": "O histórico do TSE registra uma candidatura anterior, a prefeito de João Pessoa em 2024, sem eleição.",
+    "support": "governador-80|1|0",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/historico_candidatura/historico_candidatura_2026.zip",
+     "accessed": "2026-10-03",
+     "label": "TSE, histórico de candidaturas 2026"
+    },
+    "kind": "tse-history",
+    "checkId": "pol-yuri-experiencia-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "camilo-experiencia",
+  "candidateId": "governador-29",
+  "category": "experiencia",
+  "title": "Sem mandato anterior",
+  "status": "Seis candidaturas anteriores, nenhuma eleita (TSE)",
+  "statusKeys": [],
+  "date": "2026-08-15",
+  "name": "Camilo",
+  "claims": [
+   {
+    "text": "O histórico do TSE registra seis candidaturas anteriores, de 2004 a 2024, sem nenhuma eleição.",
+    "support": "governador-29|6|0",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/historico_candidatura/historico_candidatura_2026.zip",
+     "accessed": "2026-10-03",
+     "label": "TSE, histórico de candidaturas 2026"
+    },
+    "kind": "tse-history",
+    "checkId": "pol-camilo-experiencia-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "joao-calvario",
+  "candidateId": "senador-400",
+  "category": "investigacao",
+  "title": "Operação Calvário",
+  "status": "Inquérito arquivado pelo MPPB em relação a ele (jan/2026); parte das hipóteses já havia sido arquivada no STJ",
+  "statusKeys": [
+   [
+    "jp_calvario",
+    "promoveu o arquivamento"
+   ]
+  ],
+  "date": "2026-01-13",
+  "name": "João Azevêdo",
+  "claims": [
+   {
+    "text": "Foi investigado na Operação Calvário, que apurou desvios na saúde e na educação no governo de Ricardo Coutinho.",
+    "support": "O Ministério Público da Paraíba (MPPB) promoveu o arquivamento da investigação criminal que apurava supostos crimes atribuídos ao governador João Azevêdo (PSB) no âmbito da Operação Calvário.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/operacao-calvario-mppb-arquiva-inquerito-joao-azevedo",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 13/01/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-joao-calvario-c0"
+   },
+   {
+    "text": "A PGR chegou a apontar 11 hipóteses envolvendo ele, parte delas arquivada no STJ.",
+    "support": "a Procuradoria-Geral da República chegou a apontar 11 hipóteses envolvendo João Azevêdo, parte delas já arquivadas no STJ",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/operacao-calvario-mppb-arquiva-inquerito-joao-azevedo",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 13/01/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-joao-calvario-c1"
+   },
+   {
+    "text": "O MPPB concluiu que as acusações se apoiavam só em delações e não encontrou indícios mínimos de participação dele.",
+    "support": "não foi possível identificar indícios mínimos da participação de João Azevêdo nos crimes investigados",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/operacao-calvario-mppb-arquiva-inquerito-joao-azevedo",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 13/01/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-joao-calvario-c2"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "joao-propaganda-2022",
+  "candidateId": "senador-400",
+  "category": "declaracao",
+  "title": "Propaganda de 2022 suspensa por informação falsa",
+  "status": "Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
+  "statusKeys": [
+   [
+    "jp_joao_2022",
+    "determinou a imediata suspensão"
+   ]
+  ],
+  "date": "2022-10-25",
+  "name": "João Azevêdo",
+  "claims": [
+   {
+    "text": "Em 2022, a Justiça Eleitoral suspendeu uma inserção da campanha dele contra Pedro Cunha Lima.",
+    "support": "determinou a imediata suspensão de uma inserção eleitoral de João Azevêdo (PSB) contra Pedro Cunha Lima (PSDB)",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/justica-insercoes-fake-news-calvario-contra-pedro",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 25/10/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-joao-propaganda-2022-c0"
+   },
+   {
+    "text": "A juíza considerou a peça propagação de informação falsa e difamatória.",
+    "support": "O material, veiculado em inserções no rádio e TV, foi considerado propagação de informação falsa e difamatória pela magistrada.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/justica-insercoes-fake-news-calvario-contra-pedro",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 25/10/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-joao-propaganda-2022-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "veneziano-stf",
+  "candidateId": "senador-155",
+  "category": "justica",
+  "title": "Ações penais encerradas no STF",
+  "status": "Duas ações penais encerradas pelo STF sem julgamento do mérito (2015 e 2017)",
+  "statusKeys": [
+   [
+    "stf_ven_912",
+    "trancamento"
+   ],
+   [
+    "stf_ven_933",
+    "extinguir"
+   ]
+  ],
+  "date": "2017-03-07",
+  "name": "Veneziano",
+  "claims": [
+   {
+    "text": "Em 2017, a Primeira Turma do STF trancou a AP 912, em que era acusado de fraude em licitação, por ausência de justa causa.",
+    "support": "determinou o trancamento da Ação Penal (AP) 912, na qual o deputado federal Veneziano Vital do Rêgo (PMDB-PB) era acusado de fraude em licitação",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/determinado-trancamento-de-acao-penal-contra-deputado-veneziano-vital-do-rego/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 07/03/2017"
+    },
+    "kind": "text",
+    "checkId": "pol-veneziano-stf-c0"
+   },
+   {
+    "text": "Em 2015, a Segunda Turma extinguiu a AP 933, sobre compra de votos em Campina Grande, por nulidade na investigação.",
+    "support": "extinguir, por ausência de justa causa, a Ação Penal (AP) 933, ajuizada contra o deputado federal Veneziano Vital do Rego (PMDB-PB), acusado de compra de votos",
+    "source": {
+     "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-extingue-acao-penal-contra-deputado-federal-por-nulidade-na-investigacao/",
+     "accessed": "2026-10-03",
+     "label": "STF, notícia de 06/10/2015"
+    },
+    "kind": "text",
+    "checkId": "pol-veneziano-stf-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "nabor-tce",
+  "candidateId": "senador-100",
+  "category": "justica",
+  "title": "Licitação de serviços gráficos em Patos",
+  "status": "TCE-PB manteve decisão que julgou a denúncia procedente (mar/2026), sem anular o pregão",
+  "statusKeys": [
+   [
+    "rpb_nabor",
+    "rejeitaram o recurso"
+   ]
+  ],
+  "date": "2026-03-25",
+  "name": "Nabor",
+  "claims": [
+   {
+    "text": "O TCE-PB rejeitou por unanimidade o recurso dele e manteve a decisão que julgou procedente denúncia sobre um pregão de serviços gráficos.",
+    "support": "De forma unânime, os conselheiros rejeitaram o recurso de apelação apresentado pelo prefeito Nabor Wanderley",
+    "source": {
+     "url": "https://www.reporterpb.com.br/noticia/sertao/2026/04/06/patos-recurso-de-nabor-wanderley-e-negado-e-tce-confirma-irregularidades/185662.html",
+     "accessed": "2026-10-03",
+     "label": "Repórter PB, 06/04/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-nabor-tce-c0"
+   },
+   {
+    "text": "O tribunal apontou falhas pontuais, mas entendeu que não houve prejuízo à legalidade geral do processo.",
+    "support": "não houve prejuízo à legalidade geral do processo",
+    "source": {
+     "url": "https://www.reporterpb.com.br/noticia/sertao/2026/04/06/patos-recurso-de-nabor-wanderley-e-negado-e-tce-confirma-irregularidades/185662.html",
+     "accessed": "2026-10-03",
+     "label": "Repórter PB, 06/04/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-nabor-tce-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "nabor-tse-publicidade",
+  "candidateId": "senador-100",
+  "category": "justica",
+  "title": "Gastos com publicidade em 2024",
+  "status": "Absolvido pelo TSE (jun/2026) após condenação e multa no TRE-PB",
+  "statusKeys": [
+   [
+    "pba_nabor",
+    "absolveu"
+   ]
+  ],
+  "date": "2026-06-26",
+  "name": "Nabor",
+  "claims": [
+   {
+    "text": "O TRE-PB o havia condenado por gastos com publicidade acima do limite no ano eleitoral de 2024.",
+    "support": "Nabor havia sido condenado pelo Tribunal Regional Eleitoral da Paraíba (TRE/PB) por supostamente ter ultrapassado o limite legal de despesas com publicidade institucional",
+    "source": {
+     "url": "https://www.pbagora.com.br/noticia/politica/tse-da-provimento-a-recurso-de-nabor-wanderley-e-absolve-ex-prefeito-de-patos-em-caso-sobre-gastos-com-publicidade/",
+     "accessed": "2026-10-03",
+     "label": "PB Agora, 26/06/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-nabor-tse-publicidade-c0"
+   },
+   {
+    "text": "O TSE o absolveu da acusação de conduta vedada.",
+    "support": "O Tribunal Superior Eleitoral (TSE) absolveu o ex-prefeito de Patos, Nabor Wanderley da Nóbrega Filho, de acusações de conduta vedada",
+    "source": {
+     "url": "https://www.pbagora.com.br/noticia/politica/tse-da-provimento-a-recurso-de-nabor-wanderley-e-absolve-ex-prefeito-de-patos-em-caso-sobre-gastos-com-publicidade/",
+     "accessed": "2026-10-03",
+     "label": "PB Agora, 26/06/2026"
+    },
+    "kind": "text",
+    "checkId": "pol-nabor-tse-publicidade-c1"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "queiroga-cpi",
+  "candidateId": "senador-222",
+  "category": "investigacao",
+  "title": "Pedido de indiciamento na CPI da Covid",
+  "status": "CPI pediu indiciamento (out/2021); a PGR pediu o arquivamento das apurações (2022)",
+  "statusKeys": [
+   [
+    "sen_cpi",
+    "pediu o arquivamento"
+   ]
+  ],
+  "date": "2022-07-26",
+  "name": "Queiroga",
+  "claims": [
+   {
+    "text": "O relatório final da CPI da Covid sugeriu o indiciamento dele por prevaricação.",
+    "support": "O documento sugere indiciamento de seis pessoas por prevaricação. Além do presidente Bolsonaro, os ministros da Saúde, Marcelo Queiroga",
+    "source": {
+     "url": "https://www.cnnbrasil.com.br/politica/veja-lista-dos-supostos-crimes-apontados-no-relatorio-da-cpi-da-pandemia/",
+     "accessed": "2026-10-03",
+     "label": "CNN Brasil, 10/2021"
+    },
+    "kind": "text",
+    "checkId": "pol-queiroga-cpi-c0"
+   },
+   {
+    "text": "A PGR pediu o arquivamento das apurações que o envolviam.",
+    "support": "Lindôra Araújo também pediu o arquivamento de apurações que envolviam os ministros Marcelo Queiroga (Saúde)",
+    "source": {
+     "url": "https://www12.senado.leg.br/noticias/materias/2022/07/26/senadores-contestam-arquivamento-de-investigacoes-indicadas-pela-cpi-da-pandemia",
+     "accessed": "2026-10-03",
+     "label": "Agência Senado, 26/07/2022"
+    },
+    "kind": "text",
+    "checkId": "pol-queiroga-cpi-c1"
+   }
+  ],
+  "response": [
+   {
+    "text": "Disse que não comentaria o relatório e que sua função era salvar vidas.",
+    "support": "Eu não comento relatório. Eu não sou comentarista de relatório. Eu sou ministro da Saúde.",
+    "source": {
+     "url": "https://revistaoeste.com/brasil/queiroga-nao-comento-relatorio-minha-funcao-e-salvar-vidas/",
+     "accessed": "2026-10-03",
+     "label": "Revista Oeste, 20/10/2021"
+    },
+    "kind": "text",
+    "checkId": "pol-queiroga-cpi-r0"
+   }
+  ],
+  "responseExpected": true
+ },
+ {
+  "id": "major-fabio-nada",
+  "candidateId": "senador-300",
+  "category": "experiencia",
+  "title": "Nada documentado na busca padrão",
+  "status": "Nenhum processo, investigação ou checagem encontrada nas fontes do protocolo",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "Major Fábio",
+  "claims": [
+   {
+    "text": "O histórico do TSE registra oito candidaturas anteriores, de 2004 a 2024.",
+    "support": "senador-300|8|any",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/historico_candidatura/historico_candidatura_2026.zip",
+     "accessed": "2026-10-03",
+     "label": "TSE, histórico de candidaturas 2026"
+    },
+    "kind": "tse-history",
+    "checkId": "pol-major-fabio-nada-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-13",
+  "candidateId": "presidente-13",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 4.775.650,64 em bens em 2026 e R$ 7.423.725,78 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "presidente-13|2022=7423725.78|2026=4775650.64",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-13-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-22",
+  "candidateId": "presidente-22",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 8.186.555,83 em bens em 2026 e R$ 1.741.758,15 na candidatura anterior, em 2018. Valores nominais, sem correção pela inflação.",
+    "support": "presidente-22|2018=1741758.15|2026=8186555.83",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-22-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-14",
+  "candidateId": "presidente-14",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 795.089,00 em bens em 2026. Não há candidatura anterior no histórico do TSE. Valor nominal, sem correção pela inflação.",
+    "support": "presidente-14|2026=795089.00",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-14-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-70",
+  "candidateId": "presidente-70",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 242.593.012,43 em bens em 2026. Não há candidatura anterior no histórico do TSE. Valor nominal, sem correção pela inflação.",
+    "support": "presidente-70|2026=242593012.43",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-70-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-55",
+  "candidateId": "presidente-55",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 52.557.930,98 em bens em 2026 e R$ 24.874.436,19 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "presidente-55|2022=24874436.19|2026=52557930.98",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-55-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-presidente-30",
+  "candidateId": "presidente-30",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 178.707.610,09 em bens em 2026 e R$ 129.795.313,70 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "presidente-30|2022=129795313.70|2026=178707610.09",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-presidente-30-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-governador-11",
+  "candidateId": "governador-11",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 741.354,91 em bens em 2026 e R$ 547.107,27 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "governador-11|2022=547107.27|2026=741354.91",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-governador-11-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-governador-22",
+  "candidateId": "governador-22",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 1.682.784,38 em bens em 2026 e R$ 785.349,66 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "governador-22|2022=785349.66|2026=1682784.38",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-governador-22-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-governador-15",
+  "candidateId": "governador-15",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 2.517.809,94 em bens em 2026 e R$ 1.960.723,73 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "governador-15|2024=1960723.73|2026=2517809.94",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-governador-15-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-governador-80",
+  "candidateId": "governador-80",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 353,89 em bens em 2026 e R$ 187,21 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "governador-80|2024=187.21|2026=353.89",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-governador-80-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-governador-29",
+  "candidateId": "governador-29",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE nenhum bem (R$ 0,00) em 2026 e nenhum bem (R$ 0,00) na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "governador-29|2024=0.00|2026=0.00",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-governador-29-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-senador-400",
+  "candidateId": "senador-400",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 1.929.603,60 em bens em 2026 e R$ 1.431.545,85 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "senador-400|2022=1431545.85|2026=1929603.60",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-senador-400-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-senador-155",
+  "candidateId": "senador-155",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 1.054.843,13 em bens em 2026 e R$ 1.186.262,52 na candidatura anterior, em 2022. Valores nominais, sem correção pela inflação.",
+    "support": "senador-155|2022=1186262.52|2026=1054843.13",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-senador-155-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-senador-100",
+  "candidateId": "senador-100",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 1.190.319,03 em bens em 2026 e R$ 1.207.245,68 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "senador-100|2024=1207245.68|2026=1190319.03",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-senador-100-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-senador-222",
+  "candidateId": "senador-222",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE R$ 477.662,47 em bens em 2026 e R$ 171.657,70 na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "senador-222|2024=171657.70|2026=477662.47",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-senador-222-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ },
+ {
+  "id": "patrimonio-senador-300",
+  "candidateId": "senador-300",
+  "category": "patrimonio",
+  "title": "Patrimônio declarado ao TSE",
+  "status": "Valores nominais declarados ao TSE (dados de 03/10/2026)",
+  "statusKeys": [],
+  "date": "2026-10-03",
+  "name": "",
+  "claims": [
+   {
+    "text": "Declarou ao TSE nenhum bem (R$ 0,00) em 2026 e nenhum bem (R$ 0,00) na candidatura anterior, em 2024. Valores nominais, sem correção pela inflação.",
+    "support": "senador-300|2024=0.00|2026=0.00",
+    "source": {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/",
+     "accessed": "2026-10-03",
+     "label": "TSE, bens declarados (bem_candidato 2018, 2022, 2026)"
+    },
+    "kind": "tse-assets",
+    "checkId": "pol-patrimonio-senador-300-c0"
+   }
+  ],
+  "response": [],
+  "responseExpected": false
+ }
+]

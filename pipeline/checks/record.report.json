@@ -1,0 +1,1532 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "rec-deputado_federal-5555-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1044-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou NÃO na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-eco-reforma-tributaria-cd2196833-326",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PL).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1044-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-eco-arcabouco-cd2357053-47",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no DEM).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PDT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PSB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PTB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1177-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PSL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PL).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REDE-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do REDE orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSOL-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PSOL orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PCdoB-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PCdoB orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSD-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PSD orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PODE-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PODE orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REPUBLICANOS-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do REPUBLICANOS orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-SOLIDARIEDADE-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do SOLIDARIEDADE orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PP-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PP orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-MDB-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do MDB orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PT-eco-privatizacao-cd2270789-73",
+   "status": "PASS",
+   "claim": "A liderança do PT orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PTB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1177-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSOL-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PSOL orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSD-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PSD orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-MDB-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do MDB orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REDE-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do REDE orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PP-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PP orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REPUBLICANOS-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do REPUBLICANOS orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-SOLIDARIEDADE-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do SOLIDARIEDADE orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PODE-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PODE orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PV-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PV orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PCdoB-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PCdoB orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PT-eco-bc-autonomo-cd2265124-70",
+   "status": "PASS",
+   "claim": "A liderança do PT orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PSB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1044-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-eco-ir-alta-renda-cd2487436-169",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PSB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PT).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-seg-8-janeiro-cd2358548-89",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1044-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-seg-blindagem-cd2270800-135",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1044-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSC).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5522-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PT_PCdoB_PV-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "A liderança da federação PT-PCdoB-PV orientou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-soc-marco-temporal-cd345311-270",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no DEM).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no REPUBLICANOS).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PP).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1177-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PSL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PT-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PT orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-SOLIDARIEDADE-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do SOLIDARIEDADE orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REDE-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do REDE orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PODE-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PODE orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PP-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PP orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSD-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PSD orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PCdoB-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PCdoB orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PV-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PV orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REPUBLICANOS-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do REPUBLICANOS orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-MDB-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do MDB orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSOL-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PSOL orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-amb-licenciamento-cd257161-337",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-5555-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-4444-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no UNIÃO).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2222-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2026-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PODE).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1345-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PT).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-Fdr_PSOL_REDE-amb-licenciamento-cd257161-454",
+   "status": "PASS",
+   "claim": "A liderança da federação PSOL-REDE orientou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no DEM).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2020-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSC).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-2030-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-6565-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1010-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PTB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1011-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no REPUBLICANOS).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1111-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_federal-1177-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PP-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PP orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REDE-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do REDE orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PCdoB-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PCdoB orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-REPUBLICANOS-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do REPUBLICANOS orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSOL-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PSOL orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSD-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PSD orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PDT-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PDT orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PT-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PT orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-SOLIDARIEDADE-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do SOLIDARIEDADE orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-NOVO-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do NOVO orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-list-MDB-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do MDB orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PSB-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PSB orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-list-PL-amb-agrotoxicos-cd46249-297",
+   "status": "PASS",
+   "claim": "A liderança do PL orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-eco-reforma-tributaria-sf6777",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no MDB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-eco-reforma-tributaria-sf6777",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-eco-reforma-tributaria-sf6777",
+   "status": "PASS",
+   "claim": "Votou NÃO na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-eco-arcabouco-sf6714",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no MDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-eco-arcabouco-sf6714",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-eco-arcabouco-sf6714",
+   "status": "PASS",
+   "claim": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-eco-privatizacao-sf6377",
+   "status": "PASS",
+   "claim": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) no Senado, 16/06/2021 (então no MDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-eco-privatizacao-sf6377",
+   "status": "PASS",
+   "claim": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) no Senado, 16/06/2021 (então no PATRIOTA).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-eco-bc-autonomo-sf6248",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) no Senado, 03/11/2020 (então sem partido).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-deputado_estadual-11000-eco-bc-autonomo-sf6248",
+   "status": "PASS",
+   "claim": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) no Senado, 03/11/2020 (então no PP).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-seg-saidinha-sf6818",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no MDB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-seg-saidinha-sf6818",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-seg-saidinha-sf6818",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-seg-drogas-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no MDB).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-seg-drogas-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-seg-drogas-sf6824",
+   "status": "PASS",
+   "claim": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-senador-155-seg-8-janeiro-sf7041",
+   "status": "PASS",
+   "claim": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no MDB).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-seg-8-janeiro-sf7041",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no UNIÃO).",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-seg-8-janeiro-sf7041",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-soc-marco-temporal-sf6756",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.903/2023 (marco temporal das terras indígenas) no Senado, 27/09/2023 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-governador-22-amb-licenciamento-sf6935",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado, 21/05/2025 (então no UNIÃO).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-22-amb-licenciamento-sf6935",
+   "status": "PASS",
+   "claim": "Votou SIM no PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado, 21/05/2025 (então no PL).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-eco-arcabouco-exec-lcp200",
+   "status": "PASS",
+   "claim": "Sancionou a Lei Complementar 200/2023 (arcabouço fiscal), proposta pelo Poder Executivo, com vetos parciais.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-eco-reforma-tributaria-exec-lcp214",
+   "status": "PASS",
+   "claim": "Sancionou a Lei Complementar 214/2025, que institui o IBS e a CBS da reforma tributária, com vetos parciais.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-eco-ir-alta-renda-exec-l15270",
+   "status": "PASS",
+   "claim": "Sancionou a Lei 15.270/2025, que reduz o IR e cria tributação mínima para altas rendas.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-seg-saidinha-exec-vep144_24",
+   "status": "PASS",
+   "claim": "Vetou parcialmente o PL 2.253/2022, mantendo a saída temporária para visita à família (Mensagem de veto nº 144/2024).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-seg-8-janeiro-exec-l15402",
+   "status": "PASS",
+   "claim": "Vetou integralmente o PL 2.162/2023; o Congresso derrubou o veto e a Lei 15.402/2026 foi promulgada pelo presidente do Senado em 08/05/2026.",
+   "live": true,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-soc-marco-temporal-exec-vep536_23",
+   "status": "PASS",
+   "claim": "Vetou o artigo do PL 2.903/2023 que fixava a data da promulgação da Constituição (5/10/1988) como marco para demarcar terras indígenas (Mensagem de veto nº 536/2023).",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-soc-cotas-exec-l14723",
+   "status": "PASS",
+   "claim": "Sancionou a Lei 14.723/2023, que altera a Lei de Cotas (Lei 12.711/2012) e dispõe sobre o programa especial de acesso às instituições federais de ensino.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-amb-licenciamento-exec-vep1097_25",
+   "status": "PASS",
+   "claim": "Sancionou a lei geral do licenciamento ambiental (Lei 15.190/2025) com vetos parciais, entre eles o trecho que previa a Licença por Adesão e Compromisso (LAC) para obras de ampliação e pavimentação.",
+   "live": false,
+   "error": ""
+  },
+  {
+   "id": "rec-presidente-13-amb-agrotoxicos-exec-vep741_23",
+   "status": "PASS",
+   "claim": "Sancionou a nova lei de agrotóxicos (Lei 14.785/2023) com vetos parciais, entre eles o que dava ao Ministério da Agricultura a coordenação exclusiva das reanálises de risco.",
+   "live": false,
+   "error": ""
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG-flip-couto-marco",
+   "status": "FAIL",
+   "claim": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PT).",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "position 1 but source says Não"
+  },
+  {
+   "id": "NEG-flip-flavio-drogas",
+   "status": "FAIL",
+   "claim": "Votou NÃO na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no PL).",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "position -1 but source says Sim"
+  },
+  {
+   "id": "NEG-hugo-voted-dosimetria",
+   "status": "FAIL",
+   "claim": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PP).",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "'Artigo 17'"
+  },
+  {
+   "id": "NEG-lula-sanctioned-dosimetria",
+   "status": "FAIL",
+   "claim": "Vetou integralmente o PL 2.162/2023; o Congresso derrubou o veto e a Lei 15.402/2026 foi promulgada pelo presidente do Senado em 08/05/2026.",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "phrases not in source: ['eu sanciono', 'LUIZ INÁCIO LULA DA SILVA']"
+  },
+  {
+   "id": "NEG-flip-PL-orient-reforma",
+   "status": "FAIL",
+   "claim": "A liderança do PL orientou NÃO na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "position 1 but orientation Não"
+  },
+  {
+   "id": "NEG-date-tamper",
+   "status": "FAIL",
+   "claim": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 01/01/2020 (então no PP).",
+   "expected": "FAIL",
+   "harness_ok": true,
+   "error": "date differs"
+  }
+ ]
+}

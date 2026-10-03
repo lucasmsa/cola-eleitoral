@@ -1,0 +1,143 @@
+{
+ "rows": [
+  {
+   "id": "pres2-presidente-29-soc-aborto-0",
+   "status": "PASS",
+   "claim": "No Poder Entrevista (Poder360), perguntado se mantém as regras atuais sobre aborto, disse que defende a legalização integral do aborto.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-29-seg-drogas-1",
+   "status": "PASS",
+   "claim": "No Poder Entrevista (Poder360), disse ser favorável à liberação da maconha e das drogas em geral.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-29-amb-margem-equatorial-2",
+   "status": "PASS",
+   "claim": "No Poder Entrevista (Poder360), chamou de absurda a ideia de proibir a prospecção de petróleo na Margem Equatorial.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-29-seg-8-janeiro-3",
+   "status": "PASS",
+   "claim": "No Metrópoles, disse que a anistia seria uma forma de remediar, mas que o correto seria revisar os processos do 8 de janeiro, que chamou de antidemocráticos.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-55-eco-arcabouco-4",
+   "status": "PASS",
+   "claim": "No Roda Viva (TV Cultura), disse que sua regra fiscal não será o arcabouço (a legenda automática grafou \"acabolso\") nem o teto de gastos, e sim um corte anual de 1 ponto da dívida em relação ao PIB.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-55-eco-reforma-tributaria-5",
+   "status": "PASS",
+   "claim": "Na sabatina da CBN, disse não ser contra a reforma tributária, mas que vai revisitar o tema.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-70-seg-armas-6",
+   "status": "PASS",
+   "claim": "Na sabatina da CBN, perguntado se armaria a população, respondeu que não e que é preciso armar e valorizar a polícia.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "pres2-presidente-70-eco-privatizacao-7",
+   "status": "PASS",
+   "claim": "Na Jovem Pan, disse que privatizaria as estatais que não forem eficientes, citando os Correios; em outra sabatina, defendeu manter a Petrobras para financiar programas.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-70-seg-maioridade-8",
+   "status": "PASS",
+   "claim": "Na Jovem Pan, perguntado se é favorável à redução da maioridade penal para 16 anos, disse que é favorável.",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-14-seg-maioridade-9",
+   "status": "PASS",
+   "claim": "Em sabatina com empresários exibida pela CNN, defendeu reduzir a maioridade penal para crimes violentos (a legenda automática grafou \"morade penal\").",
+   "why": [],
+   "live": false
+  },
+  {
+   "id": "pres2-presidente-13-eco-privatizacao-10",
+   "status": "PASS",
+   "claim": "Como presidente, assinou o Decreto 11.478/2023, que tirou do Programa Nacional de Desestatização os Correios, a EBC, a Dataprev, o Serpro, a Nuclep, a ABGF e o Ceitec.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "pres2-presidente-22-seg-armas-11",
+   "status": "PASS",
+   "claim": "Votou NÃO no PDL 233/2019, que sustava o Decreto 9.785/2019 sobre aquisição, posse e porte de armas, no Senado, em 18/06/2019 (então no PSL).",
+   "why": [],
+   "live": true
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG-fabricated-rui-quote",
+   "status": "FAIL",
+   "why": [
+    "quote not in cached captions"
+   ]
+  },
+  {
+   "id": "NEG-flavio-voted-sim-pdl233",
+   "status": "FAIL",
+   "why": [
+    "vote is Não, row says Sim",
+    "position does not follow the vote"
+   ]
+  },
+  {
+   "id": "NEG-decree-signed-by-bolsonaro",
+   "status": "FAIL",
+   "why": [
+    "signer not in law text"
+   ]
+  },
+  {
+   "id": "NEG-old-statement",
+   "status": "FAIL",
+   "why": [
+    "statement older than 2025"
+   ]
+  },
+  {
+   "id": "NEG-cury-quote-as-zema",
+   "status": "FAIL",
+   "why": [
+    "video title does not name the candidate"
+   ]
+  },
+  {
+   "id": "NEG-interviewer-question-as-quote",
+   "status": "FAIL",
+   "why": [
+    "timestamp 00:31:06 != 00:31:04",
+    "quote addresses the candidate (interviewer speech)",
+    "no first-person speech in the quote turn"
+   ]
+  },
+  {
+   "id": "NEG-tampered-timestamp",
+   "status": "FAIL",
+   "why": [
+    "timestamp 00:10:00 != 00:00:23"
+   ]
+  }
+ ],
+ "harness_ok": true
+}

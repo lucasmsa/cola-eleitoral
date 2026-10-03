@@ -1,0 +1,1220 @@
+[
+ {
+  "id": "ctry-uruguai-soc-aborto-0dde60",
+  "country": "Uruguai",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Lei 18.987/2012 afasta os crimes de aborto do Código Penal quando a interrupção é feita nas primeiras 12 semanas, cumpridos requisitos como a consulta médica prévia.",
+  "support": "se realice durante las primeras doce semanas de gravidez",
+  "source": {
+   "url": "https://www.impo.com.uy/bases/leyes/18987-2012",
+   "accessed": "2026-10-03",
+   "label": "IMPO, Lei 18.987/2012"
+  },
+  "checkId": "ctry-uruguai-soc-aborto-0dde60"
+ },
+ {
+  "id": "ctry-argentina-soc-aborto-1fa6bd",
+  "country": "Argentina",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Lei 27.610/2020 garante o aborto a pedido até a 14ª semana.",
+  "support": "acceder a la interrupción de su embarazo hasta la semana catorce (14), inclusive",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/345000-349999/346231/norma.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei 27.610/2020"
+  },
+  "checkId": "ctry-argentina-soc-aborto-1fa6bd"
+ },
+ {
+  "id": "ctry-chile-soc-aborto-b23ae4",
+  "country": "Chile",
+  "questionId": "soc-aborto",
+  "position": -1,
+  "detail": "A Lei 21.030/2017 permite o aborto só em três situações: risco de vida, feto inviável e estupro.",
+  "support": "sea resultado de una violación, siempre que no hayan transcurrido más de doce semanas de gestación",
+  "source": {
+   "url": "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=1108237",
+   "accessed": "2026-10-03",
+   "label": "BCN LeyChile, Lei 21.030/2017"
+  },
+  "checkId": "ctry-chile-soc-aborto-b23ae4"
+ },
+ {
+  "id": "ctry-colmbia-soc-aborto-addd69",
+  "country": "Colômbia",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Corte Constitucional (Sentença C-055/2022) decidiu que o aborto não é crime até a 24ª semana.",
+  "support": "no se configura el delito cuando la conducta se practique antes de la semana 24 de gestación",
+  "source": {
+   "url": "https://www.corteconstitucional.gov.co/comunicados/Comunicado%20de%20prensa%20Sentencia%20C-055-22%20-%20Febrero%2021-22.pdf",
+   "accessed": "2026-10-03",
+   "label": "Corte Constitucional, comunicado da Sentença C-055/2022"
+  },
+  "checkId": "ctry-colmbia-soc-aborto-addd69"
+ },
+ {
+  "id": "ctry-eua-soc-aborto-4b0257",
+  "country": "EUA",
+  "questionId": "soc-aborto",
+  "position": 0,
+  "detail": "Desde Dobbs (2022), a Suprema Corte deixou a regra para cada estado; há estados que proíbem e outros que permitem.",
+  "support": "the authority to regulate abortion is returned to the people and their elected representatives",
+  "source": {
+   "url": "https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf",
+   "accessed": "2026-10-03",
+   "label": "Suprema Corte dos EUA, Dobbs v. Jackson (2022)"
+  },
+  "checkId": "ctry-eua-soc-aborto-4b0257"
+ },
+ {
+  "id": "ctry-portugal-soc-aborto-ca1099",
+  "country": "Portugal",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "O Código Penal (art. 142, redação da Lei 16/2007) não pune o aborto feito por opção da mulher até a 10ª semana.",
+  "support": "por opção da mulher, nas primeiras 10 semanas de gravidez",
+  "source": {
+   "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0142&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "accessed": "2026-10-03",
+   "label": "PGD Lisboa, Código Penal, art. 142"
+  },
+  "checkId": "ctry-portugal-soc-aborto-ca1099"
+ },
+ {
+  "id": "ctry-espanha-soc-aborto-33466c",
+  "country": "Espanha",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Lei Orgânica 2/2010 (art. 14) permite o aborto a pedido nas primeiras 14 semanas.",
+  "support": "podrá interrumpirse el embarazo dentro de las primeras catorce semanas de gestación a petición de la mujer embarazada",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-3514",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei Orgânica 2/2010"
+  },
+  "checkId": "ctry-espanha-soc-aborto-33466c"
+ },
+ {
+  "id": "ctry-frana-soc-aborto-cedb67",
+  "country": "França",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "Desde 2024 a Constituição (art. 34) garante a liberdade de interromper a gravidez, nos termos da lei.",
+  "support": "the woman's guaranteed freedom to have a voluntary interruption of pregnancy",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/France_2024?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, França 2024"
+  },
+  "checkId": "ctry-frana-soc-aborto-cedb67"
+ },
+ {
+  "id": "ctry-alemanha-soc-aborto-a086c7",
+  "country": "Alemanha",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "O Código Penal (§ 218a) não considera crime o aborto até 12 semanas após a concepção, com aconselhamento obrigatório pelo menos 3 dias antes.",
+  "support": "seit der empfängnis nicht mehr als zwölf wochen vergangen sind",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/stgb/__218a.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, StGB § 218a"
+  },
+  "checkId": "ctry-alemanha-soc-aborto-a086c7"
+ },
+ {
+  "id": "ctry-sucia-soc-aborto-8349e9",
+  "country": "Suécia",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Lei do Aborto (1974:595) permite o aborto a pedido até o fim da 18ª semana.",
+  "support": "får abort utföras om åtgärden vidtas före utgången av artonde havandeskapsveckan",
+  "source": {
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/abortlag-1974595_sfs-1974-595/",
+   "accessed": "2026-10-03",
+   "label": "Riksdagen, Abortlag (1974:595)"
+  },
+  "checkId": "ctry-sucia-soc-aborto-8349e9"
+ },
+ {
+  "id": "ctry-rssia-soc-aborto-04a85c",
+  "country": "Rússia",
+  "questionId": "soc-aborto",
+  "position": 1,
+  "detail": "A Lei Federal 323-FZ (art. 56) permite o aborto a pedido até a 12ª semana.",
+  "support": "искусственное прерывание беременности по желанию женщины проводится при сроке беременности до двенадцати недель",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_121895/5e5a1acccfe61df97f5fcb684e12cab5fee05e25/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, Lei Federal 323-FZ, art. 56"
+  },
+  "checkId": "ctry-rssia-soc-aborto-04a85c"
+ },
+ {
+  "id": "ctry-ndia-soc-aborto-7872c2",
+  "country": "Índia",
+  "questionId": "soc-aborto",
+  "position": 0,
+  "detail": "A Lei MTP (emenda de 2021) permite o aborto até a 20ª semana com aval médico e por motivos definidos em lei, como falha de método contraceptivo.",
+  "support": "where the length of the pregnancy does not exceed twenty weeks",
+  "source": {
+   "url": "https://egazette.gov.in/WriteReadData/2021/226130.pdf",
+   "accessed": "2026-10-03",
+   "label": "Gazette of India, MTP (Amendment) Act 2021"
+  },
+  "checkId": "ctry-ndia-soc-aborto-7872c2"
+ },
+ {
+  "id": "ctry-espanha-seg-stf-mandato-c0e7a9",
+  "country": "Espanha",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os juízes do Tribunal Constitucional têm mandato de 9 anos (Constituição, art. 159).",
+  "support": "members of the constitutional court shall be appointed for a period of nine years",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Spain_2011?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Espanha"
+  },
+  "checkId": "ctry-espanha-seg-stf-mandato-c0e7a9"
+ },
+ {
+  "id": "ctry-portugal-seg-stf-mandato-313f74",
+  "country": "Portugal",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os juízes do Tribunal Constitucional têm mandato de 9 anos, sem renovação (Constituição, art. 222).",
+  "support": "the term of office of judge of the constitutional court shall be nine years and shall not be renewable",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Portugal_2005?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Portugal"
+  },
+  "checkId": "ctry-portugal-seg-stf-mandato-313f74"
+ },
+ {
+  "id": "ctry-frana-seg-stf-mandato-2781f6",
+  "country": "França",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os membros do Conselho Constitucional têm mandato de 9 anos, sem renovação (Constituição, art. 56).",
+  "support": "each of whom shall hold office for a non-renewable term of nine years",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/France_2024?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, França 2024"
+  },
+  "checkId": "ctry-frana-seg-stf-mandato-2781f6"
+ },
+ {
+  "id": "ctry-chile-seg-stf-mandato-4d18ad",
+  "country": "Chile",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os ministros do Tribunal Constitucional têm mandato de 9 anos (Constituição, art. 92).",
+  "support": "its members shall last nine years in office",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Chile_2021?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Chile"
+  },
+  "checkId": "ctry-chile-seg-stf-mandato-4d18ad"
+ },
+ {
+  "id": "ctry-colmbia-seg-stf-mandato-df9b0d",
+  "country": "Colômbia",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os magistrados da Corte Constitucional têm mandato único de 8 anos (Constituição, art. 239).",
+  "support": "the judges of the constitutional court shall be elected by the senate of the republic for single terms of eight years",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Colombia_2015?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Colômbia"
+  },
+  "checkId": "ctry-colmbia-seg-stf-mandato-df9b0d"
+ },
+ {
+  "id": "ctry-uruguai-seg-stf-mandato-f27043",
+  "country": "Uruguai",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os ministros da Suprema Corte de Justiça têm mandato de 10 anos (Constituição, art. 237).",
+  "support": "the members of the supreme court of justice shall serve for ten years",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Uruguay_2004?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Uruguai"
+  },
+  "checkId": "ctry-uruguai-seg-stf-mandato-f27043"
+ },
+ {
+  "id": "ctry-alemanha-seg-stf-mandato-f5dc8f",
+  "country": "Alemanha",
+  "questionId": "seg-stf-mandato",
+  "position": 1,
+  "detail": "Os juízes do Tribunal Constitucional Federal têm mandato de 12 anos, sem reeleição (BVerfGG, § 4).",
+  "support": "die amtszeit der richter dauert zwölf jahre",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/bverfgg/__4.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, BVerfGG § 4"
+  },
+  "checkId": "ctry-alemanha-seg-stf-mandato-f5dc8f"
+ },
+ {
+  "id": "ctry-argentina-seg-stf-mandato-4f636c",
+  "country": "Argentina",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes da Suprema Corte ficam no cargo enquanto tiverem boa conduta; aos 75 anos precisam de nova nomeação (Constituição, arts. 99 e 110).",
+  "support": "shall hold their offices during their good behavior",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Argentina_1994?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Argentina"
+  },
+  "checkId": "ctry-argentina-seg-stf-mandato-4f636c"
+ },
+ {
+  "id": "ctry-eua-seg-stf-mandato-920b0c",
+  "country": "EUA",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes da Suprema Corte são vitalícios enquanto tiverem boa conduta (Constituição, art. III).",
+  "support": "the judges, both of the supreme and inferior courts, shall hold their offices during good behaviour",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/United_States_of_America_1992?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, EUA"
+  },
+  "checkId": "ctry-eua-seg-stf-mandato-920b0c"
+ },
+ {
+  "id": "ctry-ndia-seg-stf-mandato-28b7a3",
+  "country": "Índia",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes da Suprema Corte ficam no cargo até os 65 anos (Constituição, art. 124).",
+  "support": "shall hold office until he attains the age of sixty-five years",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/India_2023?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Índia"
+  },
+  "checkId": "ctry-ndia-seg-stf-mandato-28b7a3"
+ },
+ {
+  "id": "ctry-japo-seg-stf-mandato-37f27e",
+  "country": "Japão",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes da Suprema Corte ficam até a idade de aposentadoria fixada em lei, com revisão popular nas eleições (Constituição, art. 79).",
+  "support": "the judges of the supreme court shall be retired upon the attainment of the age as fixed by law",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Japan_1946?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Japão"
+  },
+  "checkId": "ctry-japo-seg-stf-mandato-37f27e"
+ },
+ {
+  "id": "ctry-canad-seg-stf-mandato-732c4c",
+  "country": "Canadá",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes da Suprema Corte deixam o cargo aos 75 anos, sem prazo fixo (Supreme Court Act, s. 9).",
+  "support": "a judge shall cease to hold office on attaining the age of seventy-five years",
+  "source": {
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/s-26/page-1.html",
+   "accessed": "2026-10-03",
+   "label": "Justice Laws, Supreme Court Act"
+  },
+  "checkId": "ctry-canad-seg-stf-mandato-732c4c"
+ },
+ {
+  "id": "ctry-sucia-seg-stf-mandato-171e72",
+  "country": "Suécia",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Juízes efetivos só deixam o cargo por falta grave ou aposentadoria (Instrumento de Governo, cap. 11, art. 7).",
+  "support": "he or she has reached the applicable retirement age",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Sweden_2012?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Suécia"
+  },
+  "checkId": "ctry-sucia-seg-stf-mandato-171e72"
+ },
+ {
+  "id": "ctry-rssia-seg-stf-mandato-63e12d",
+  "country": "Rússia",
+  "questionId": "seg-stf-mandato",
+  "position": -1,
+  "detail": "Os juízes do Tribunal Constitucional não têm prazo de mandato; o limite é a idade de 70 anos (Lei Constitucional Federal 1-FKZ, art. 12).",
+  "support": "полномочия судьи конституционного суда российской федерации не ограничены определенным сроком",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_4172/3663587b424165f21b75863c808d15ab44bc5ff0/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, 1-FKZ, art. 12"
+  },
+  "checkId": "ctry-rssia-seg-stf-mandato-63e12d"
+ },
+ {
+  "id": "ctry-china-seg-stf-mandato-0fe7e0",
+  "country": "China",
+  "questionId": "seg-stf-mandato",
+  "position": 0,
+  "detail": "Só o presidente da Suprema Corte Popular tem mandato fixo na Constituição: o mesmo da Assembleia, com no máximo dois seguidos (art. 129).",
+  "support": "the term of office of the president of the supreme people's court is the same as that of the national people's congress; he shall serve no more than two consecutive terms",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/China_2018?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, China"
+  },
+  "checkId": "ctry-china-seg-stf-mandato-0fe7e0"
+ },
+ {
+  "id": "ctry-chile-eco-bc-autonomo-e60673",
+  "country": "Chile",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Constituição (art. 108) cria o Banco Central como órgão autônomo, de caráter técnico.",
+  "support": "there shall be an autonomous body, with its own patrimony, of a technical nature, called central bank",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Chile_2021?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Chile"
+  },
+  "checkId": "ctry-chile-eco-bc-autonomo-e60673"
+ },
+ {
+  "id": "ctry-colmbia-eco-bc-autonomo-99747b",
+  "country": "Colômbia",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Constituição (art. 371) dá ao Banco da República autonomia administrativa, patrimonial e técnica.",
+  "support": "with administrative, patrimonial, and technical autonomy",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Colombia_2015?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Colômbia"
+  },
+  "checkId": "ctry-colmbia-eco-bc-autonomo-99747b"
+ },
+ {
+  "id": "ctry-mxico-eco-bc-autonomo-31bbe3",
+  "country": "México",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Constituição (art. 28) determina um banco central autônomo em suas funções e administração.",
+  "support": "the state shall have a central bank that shall be autonomous in the exercise of its functions and its administration",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Mexico_2015?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, México"
+  },
+  "checkId": "ctry-mxico-eco-bc-autonomo-31bbe3"
+ },
+ {
+  "id": "ctry-uruguai-eco-bc-autonomo-a17e87",
+  "country": "Uruguai",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Carta Orgânica (Lei 16.696, art. 1) define o Banco Central como ente autônomo, com autonomia técnica, administrativa e financeira.",
+  "support": "es un ente autónomo y dotado de autonomía técnica, administrativa y financiera",
+  "source": {
+   "url": "https://www.impo.com.uy/bases/leyes/16696-1995",
+   "accessed": "2026-10-03",
+   "label": "IMPO, Lei 16.696/1995"
+  },
+  "checkId": "ctry-uruguai-eco-bc-autonomo-a17e87"
+ },
+ {
+  "id": "ctry-argentina-eco-bc-autonomo-0d32da",
+  "country": "Argentina",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Carta Orgânica (Lei 24.144) define o BCRA como entidade autárquica, com presidente e diretores de mandato de 6 anos.",
+  "support": "durarán seis (6) años en sus funciones",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/542/norma.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei 24.144"
+  },
+  "checkId": "ctry-argentina-eco-bc-autonomo-0d32da"
+ },
+ {
+  "id": "ctry-eua-eco-bc-autonomo-896fa2",
+  "country": "EUA",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "Os diretores do Federal Reserve têm mandato de 14 anos (Federal Reserve Act, seção 10).",
+  "support": "for terms of fourteen years",
+  "source": {
+   "url": "https://www.federalreserve.gov/aboutthefed/section10.htm",
+   "accessed": "2026-10-03",
+   "label": "Federal Reserve, Federal Reserve Act, seção 10"
+  },
+  "checkId": "ctry-eua-eco-bc-autonomo-896fa2"
+ },
+ {
+  "id": "ctry-canad-eco-bc-autonomo-bf98cd",
+  "country": "Canadá",
+  "questionId": "eco-bc-autonomo",
+  "position": 0,
+  "detail": "O presidente do Banco do Canadá tem mandato de 7 anos, mas o ministro pode dar uma ordem escrita sobre política monetária (Bank of Canada Act, s. 14).",
+  "support": "give to the governor a written directive concerning monetary policy",
+  "source": {
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/b-2/page-2.html",
+   "accessed": "2026-10-03",
+   "label": "Justice Laws, Bank of Canada Act"
+  },
+  "checkId": "ctry-canad-eco-bc-autonomo-bf98cd"
+ },
+ {
+  "id": "ctry-espanha-eco-bc-autonomo-bc951d",
+  "country": "Espanha",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "O Banco de Espanha atua com autonomia em relação à administração do Estado, e o presidente tem mandato de 6 anos sem renovação (Lei 13/1994, arts. 1 e 25).",
+  "support": "actuará con autonomía respecto a la administración general del estado",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-12553",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei 13/1994"
+  },
+  "checkId": "ctry-espanha-eco-bc-autonomo-bc951d"
+ },
+ {
+  "id": "ctry-alemanha-eco-bc-autonomo-57364b",
+  "country": "Alemanha",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Lei Fundamental (art. 88) admite transferir as funções do Bundesbank ao Banco Central Europeu, que é independente.",
+  "support": "the european central bank, which is independent",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/German_Federal_Republic_2014?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Alemanha"
+  },
+  "checkId": "ctry-alemanha-eco-bc-autonomo-57364b"
+ },
+ {
+  "id": "ctry-sucia-eco-bc-autonomo-17b4b6",
+  "country": "Suécia",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "Pelo Instrumento de Governo (cap. 9, art. 13), nenhuma autoridade pode determinar como o Riksbank decide a política monetária.",
+  "support": "no public authority may determine how the riksbank shall decide in matters of monetary policy",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Sweden_2012?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Suécia"
+  },
+  "checkId": "ctry-sucia-eco-bc-autonomo-17b4b6"
+ },
+ {
+  "id": "ctry-rssia-eco-bc-autonomo-3289ce",
+  "country": "Rússia",
+  "questionId": "eco-bc-autonomo",
+  "position": 1,
+  "detail": "A Constituição (art. 75) manda o Banco Central proteger o rublo de forma independente dos outros órgãos do Estado.",
+  "support": "which it shall fulfil independently of other state governmental bodies",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Russia_2014?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Rússia"
+  },
+  "checkId": "ctry-rssia-eco-bc-autonomo-3289ce"
+ },
+ {
+  "id": "ctry-argentina-seg-drogas-0cdefe",
+  "country": "Argentina",
+  "questionId": "seg-drogas",
+  "position": 1,
+  "detail": "A Lei 23.737 (art. 14) pune com 1 mês a 2 anos de prisão a posse de pouca droga para uso pessoal.",
+  "support": "la pena será de un mes a dos años de prisión cuando, por su escasa cantidad y demás circunstancias, surgiere inequívocamente que la tenencia es para uso personal",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/138/texact.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei 23.737"
+  },
+  "checkId": "ctry-argentina-seg-drogas-0cdefe"
+ },
+ {
+  "id": "ctry-chile-seg-drogas-cc3b24",
+  "country": "Chile",
+  "questionId": "seg-drogas",
+  "position": 0,
+  "detail": "A Lei 20.000 (art. 4) não aplica a pena de prisão a quem justifica que a droga é para uso pessoal exclusivo e próximo no tempo.",
+  "support": "a menos que justifique que están destinadas a la atención de un tratamiento médico o a su uso o consumo personal exclusivo y próximo en el tiempo",
+  "source": {
+   "url": "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=235507",
+   "accessed": "2026-10-03",
+   "label": "BCN LeyChile, Lei 20.000"
+  },
+  "checkId": "ctry-chile-seg-drogas-cc3b24"
+ },
+ {
+  "id": "ctry-espanha-seg-drogas-bd0150",
+  "country": "Espanha",
+  "questionId": "seg-drogas",
+  "position": -1,
+  "detail": "Consumir ou portar droga em lugar público é infração administrativa grave, não crime (Lei Orgânica 4/2015, de segurança cidadã, art. 36, item 16).",
+  "support": "el consumo o la tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, aunque no estuvieran destinadas al tráfico, en lugares, vías, establecimientos públicos",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-3442",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei Orgânica 4/2015"
+  },
+  "checkId": "ctry-espanha-seg-drogas-bd0150"
+ },
+ {
+  "id": "ctry-alemanha-seg-drogas-085651",
+  "country": "Alemanha",
+  "questionId": "seg-drogas",
+  "position": 0,
+  "detail": "A lei (BtMG § 29) pune a posse de drogas sem autorização, mas o tribunal pode deixar de punir quando é pouca quantidade para uso próprio.",
+  "support": "betäubungsmittel besitzt, ohne zugleich im besitz einer schriftlichen erlaubnis für den erwerb zu sein",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/btmg_1981/__29.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, BtMG § 29"
+  },
+  "checkId": "ctry-alemanha-seg-drogas-085651"
+ },
+ {
+  "id": "ctry-sucia-seg-drogas-2e0f78",
+  "country": "Suécia",
+  "questionId": "seg-drogas",
+  "position": 1,
+  "detail": "A Lei Penal de Drogas (1968:64, art. 1) pune com até 3 anos de prisão quem possui ou usa droga.",
+  "support": "innehar, brukar eller tar annan befattning med narkotika döms för narkotikabrott till fängelse i högst tre år",
+  "source": {
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/narkotikastrafflag-196864_sfs-1968-64/",
+   "accessed": "2026-10-03",
+   "label": "Riksdagen, Narkotikastrafflag (1968:64)"
+  },
+  "checkId": "ctry-sucia-seg-drogas-2e0f78"
+ },
+ {
+  "id": "ctry-eua-seg-drogas-3efc61",
+  "country": "EUA",
+  "questionId": "seg-drogas",
+  "position": 1,
+  "detail": "Pela lei federal (21 U.S.C. § 844), possuir substância controlada sem receita é crime.",
+  "support": "it shall be unlawful for any person knowingly or intentionally to possess a controlled substance unless such substance was obtained directly, or pursuant to a valid prescription",
+  "source": {
+   "url": "https://www.law.cornell.edu/uscode/text/21/844",
+   "accessed": "2026-10-03",
+   "label": "Cornell LII, 21 U.S.C. § 844"
+  },
+  "checkId": "ctry-eua-seg-drogas-3efc61"
+ },
+ {
+  "id": "ctry-canad-seg-drogas-410ce1",
+  "country": "Canadá",
+  "questionId": "seg-drogas",
+  "position": 0,
+  "detail": "A lei proíbe a posse das drogas das listas I a III (CDSA, s. 4), mas a maconha é legal para adultos até 30 g em público (Cannabis Act, s. 8).",
+  "support": "no person shall possess a substance included in schedule i, ii or iii",
+  "source": {
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-1.html",
+   "accessed": "2026-10-03",
+   "label": "Justice Laws, CDSA"
+  },
+  "checkId": "ctry-canad-seg-drogas-410ce1"
+ },
+ {
+  "id": "ctry-colmbia-seg-drogas-a097d5",
+  "country": "Colômbia",
+  "questionId": "seg-drogas",
+  "position": 0,
+  "detail": "A Constituição (art. 49) proíbe portar e consumir drogas sem receita médica e manda a lei prever, para usuários, medidas administrativas e tratamento.",
+  "support": "the possession and the consumption of narcotic and psychoactive drugs is prohibited, except for medical prescription",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/Colombia_2015?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Colômbia"
+  },
+  "checkId": "ctry-colmbia-seg-drogas-a097d5"
+ },
+ {
+  "id": "ctry-portugal-eco-6x1-7aca15",
+  "country": "Portugal",
+  "questionId": "eco-6x1",
+  "position": 1,
+  "detail": "O Código do Trabalho (art. 203) limita o período normal a 8 horas por dia e 40 horas por semana.",
+  "support": "o período normal de trabalho não pode exceder oito horas por dia e quarenta horas por semana",
+  "source": {
+   "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0203&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "accessed": "2026-10-03",
+   "label": "PGD Lisboa, Código do Trabalho, art. 203"
+  },
+  "checkId": "ctry-portugal-eco-6x1-7aca15"
+ },
+ {
+  "id": "ctry-espanha-eco-6x1-8f59ed",
+  "country": "Espanha",
+  "questionId": "eco-6x1",
+  "position": 1,
+  "detail": "O Estatuto dos Trabalhadores (art. 34) limita a jornada a 40 horas semanais em média anual.",
+  "support": "la duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales de trabajo efectivo de promedio en cómputo anual",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
+   "accessed": "2026-10-03",
+   "label": "BOE, Estatuto dos Trabalhadores"
+  },
+  "checkId": "ctry-espanha-eco-6x1-8f59ed"
+ },
+ {
+  "id": "ctry-sucia-eco-6x1-0020dc",
+  "country": "Suécia",
+  "questionId": "eco-6x1",
+  "position": 1,
+  "detail": "A Lei da Jornada (1982:673, § 5) limita a jornada ordinária a 40 horas por semana.",
+  "support": "den ordinarie arbetstiden får uppgå till högst 40 timmar i veckan",
+  "source": {
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arbetstidslag-1982673_sfs-1982-673/",
+   "accessed": "2026-10-03",
+   "label": "Riksdagen, Arbetstidslag (1982:673)"
+  },
+  "checkId": "ctry-sucia-eco-6x1-0020dc"
+ },
+ {
+  "id": "ctry-rssia-eco-6x1-0c083d",
+  "country": "Rússia",
+  "questionId": "eco-6x1",
+  "position": 1,
+  "detail": "O Código do Trabalho (art. 91) limita a jornada normal a 40 horas por semana.",
+  "support": "нормальная продолжительность рабочего времени не может превышать 40 часов в неделю",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_34683/bd14cccf0a1f074ef104e82522f7e2dea04d651f/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, Código do Trabalho, art. 91"
+  },
+  "checkId": "ctry-rssia-eco-6x1-0c083d"
+ },
+ {
+  "id": "ctry-eua-eco-6x1-3a833c",
+  "country": "EUA",
+  "questionId": "eco-6x1",
+  "position": 0,
+  "detail": "A lei federal (FLSA, 29 U.S.C. § 207) não proíbe passar de 40 horas por semana, mas exige pagar hora extra com 50% a mais acima disso.",
+  "support": "for a workweek longer than forty hours unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times",
+  "source": {
+   "url": "https://www.law.cornell.edu/uscode/text/29/207",
+   "accessed": "2026-10-03",
+   "label": "Cornell LII, 29 U.S.C. § 207"
+  },
+  "checkId": "ctry-eua-eco-6x1-3a833c"
+ },
+ {
+  "id": "ctry-colmbia-eco-6x1-e4dc72",
+  "country": "Colômbia",
+  "questionId": "eco-6x1",
+  "position": 0,
+  "detail": "A Lei 2.101/2021 reduziu a jornada máxima para 42 horas semanais, em 5 ou 6 dias.",
+  "support": "la duración máxima de la jornada ordinaria de trabajo es de cuarenta y dos (42) horas a la semana, que podrán ser distribuidas, de común acuerdo, entre empleador y trabajador, en 5 o 6 días a la semana",
+  "source": {
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2101_2021.html",
+   "accessed": "2026-10-03",
+   "label": "Secretaria do Senado, Lei 2.101/2021"
+  },
+  "checkId": "ctry-colmbia-eco-6x1-e4dc72"
+ },
+ {
+  "id": "ctry-argentina-eco-6x1-90f0ce",
+  "country": "Argentina",
+  "questionId": "eco-6x1",
+  "position": -1,
+  "detail": "A Lei 11.544 permite até 8 horas por dia e 48 horas por semana.",
+  "support": "la duración del trabajo no podrá exceder de ocho horas diarias o cuarenta y ocho horas semanales",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63368/norma.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei 11.544"
+  },
+  "checkId": "ctry-argentina-eco-6x1-90f0ce"
+ },
+ {
+  "id": "ctry-eua-seg-maioridade-ede080",
+  "country": "EUA",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "A lei federal (18 U.S.C. § 5032) permite processar como adulto quem tem 15 anos ou mais e comete crime violento grave.",
+  "support": "with respect to a juvenile fifteen years and older alleged to have committed an act after his fifteenth birthday which if committed by an adult would be a felony that is a crime of violence",
+  "source": {
+   "url": "https://www.law.cornell.edu/uscode/text/18/5032",
+   "accessed": "2026-10-03",
+   "label": "Cornell LII, 18 U.S.C. § 5032"
+  },
+  "checkId": "ctry-eua-seg-maioridade-ede080"
+ },
+ {
+  "id": "ctry-alemanha-seg-maioridade-d92f78",
+  "country": "Alemanha",
+  "questionId": "seg-maioridade",
+  "position": -1,
+  "detail": "A Lei dos Tribunais de Menores (JGG, § 1) aplica a lei juvenil a quem tem de 14 anos até os 18 incompletos.",
+  "support": "jugendlicher ist, wer zur zeit der tat vierzehn, aber noch nicht achtzehn",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/jgg/__1.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, JGG § 1"
+  },
+  "checkId": "ctry-alemanha-seg-maioridade-d92f78"
+ },
+ {
+  "id": "ctry-espanha-seg-maioridade-028ddc",
+  "country": "Espanha",
+  "questionId": "seg-maioridade",
+  "position": -1,
+  "detail": "A Lei Orgânica 5/2000 (art. 1) aplica a lei de menores a quem tem mais de 14 e menos de 18 anos.",
+  "support": "la responsabilidad de las personas mayores de catorce años y menores de dieciocho",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-641",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei Orgânica 5/2000"
+  },
+  "checkId": "ctry-espanha-seg-maioridade-028ddc"
+ },
+ {
+  "id": "ctry-portugal-seg-maioridade-08b5b6",
+  "country": "Portugal",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "O Código Penal (art. 19) só considera inimputáveis os menores de 16 anos; a partir dos 16 responde-se pelo Código Penal.",
+  "support": "os menores de 16 anos são inimputáveis",
+  "source": {
+   "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0019&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "accessed": "2026-10-03",
+   "label": "PGD Lisboa, Código Penal, art. 19"
+  },
+  "checkId": "ctry-portugal-seg-maioridade-08b5b6"
+ },
+ {
+  "id": "ctry-argentina-seg-maioridade-9ebcc5",
+  "country": "Argentina",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "A Lei 22.278 (art. 1) não pune menores de 16 anos; dos 16 aos 18 a punição vale para crimes com pena de prisão acima de 2 anos.",
+  "support": "no es punible el menor que no haya cumplido dieciséis (16) años de edad",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/114167/texact.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei 22.278"
+  },
+  "checkId": "ctry-argentina-seg-maioridade-9ebcc5"
+ },
+ {
+  "id": "ctry-uruguai-seg-maioridade-ed5484",
+  "country": "Uruguai",
+  "questionId": "seg-maioridade",
+  "position": -1,
+  "detail": "O Código da Infância e Adolescência (Lei 17.823) trata como adolescente quem tem de 13 a 18 anos, com regime próprio para infrações penais.",
+  "support": "por adolescente a los mayores de trece y menores de dieciocho años de edad",
+  "source": {
+   "url": "https://www.impo.com.uy/bases/codigo-ninez-adolescencia/17823-2004",
+   "accessed": "2026-10-03",
+   "label": "IMPO, Lei 17.823"
+  },
+  "checkId": "ctry-uruguai-seg-maioridade-ed5484"
+ },
+ {
+  "id": "ctry-chile-seg-maioridade-1dded0",
+  "country": "Chile",
+  "questionId": "seg-maioridade",
+  "position": -1,
+  "detail": "A Lei 20.084 aplica a responsabilidade penal adolescente a quem tem mais de 14 e menos de 18 anos.",
+  "support": "sean mayores de catorce y menores de dieciocho años, los que, para los efectos de esta ley, se consideran adolescentes",
+  "source": {
+   "url": "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=244803",
+   "accessed": "2026-10-03",
+   "label": "BCN LeyChile, Lei 20.084"
+  },
+  "checkId": "ctry-chile-seg-maioridade-1dded0"
+ },
+ {
+  "id": "ctry-mxico-seg-maioridade-28e99a",
+  "country": "México",
+  "questionId": "seg-maioridade",
+  "position": -1,
+  "detail": "A Lei Nacional do Sistema de Justiça Penal para Adolescentes aplica regime próprio a quem tem de 12 a 18 anos incompletos.",
+  "support": "tengan entre doce años cumplidos y menos de dieciocho años de edad",
+  "source": {
+   "url": "https://web.archive.org/web/2025id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+   "accessed": "2026-10-03",
+   "label": "Câmara dos Deputados do México, LNSIJPA (cópia do Internet Archive)"
+  },
+  "checkId": "ctry-mxico-seg-maioridade-28e99a"
+ },
+ {
+  "id": "ctry-rssia-seg-maioridade-cf5451",
+  "country": "Rússia",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "O Código Penal (art. 20) fixa a responsabilidade penal aos 16 anos, e aos 14 para crimes graves listados.",
+  "support": "уголовной ответственности подлежит лицо, достигшее ко времени совершения преступления шестнадцатилетнего возраста",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_10699/fd969cc22a68d513db2c83a94d6ad355a95dbec7/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, Código Penal, art. 20"
+  },
+  "checkId": "ctry-rssia-seg-maioridade-cf5451"
+ },
+ {
+  "id": "ctry-china-seg-maioridade-53600e",
+  "country": "China",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "A Lei Penal (art. 17) faz responder criminalmente quem tem 16 anos, e a partir dos 14 por crimes graves como homicídio e estupro.",
+  "support": "if a person who has reached the age of 16 commits a crime, he shall bear criminal responsibility",
+  "source": {
+   "url": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384075.htm",
+   "accessed": "2026-10-03",
+   "label": "Assembleia Popular Nacional, Lei Penal (tradução oficial)"
+  },
+  "checkId": "ctry-china-seg-maioridade-53600e"
+ },
+ {
+  "id": "ctry-ndia-seg-maioridade-f3d9af",
+  "country": "Índia",
+  "questionId": "seg-maioridade",
+  "position": 1,
+  "detail": "A Lei de Justiça Juvenil de 2015 (seções 15 e 18) permite julgar como adulto quem tem 16 anos ou mais e comete crime hediondo.",
+  "support": "pass an order that there is a need for trial of the said child as an adult",
+  "source": {
+   "url": "https://web.archive.org/web/2023id_/https://www.indiacode.nic.in/bitstream/123456789/2148/1/A2016-2.pdf",
+   "accessed": "2026-10-03",
+   "label": "India Code, Juvenile Justice Act 2015 (cópia do Internet Archive)"
+  },
+  "checkId": "ctry-ndia-seg-maioridade-f3d9af"
+ },
+ {
+  "id": "ctry-canad-seg-maioridade-f72de0",
+  "country": "Canadá",
+  "questionId": "seg-maioridade",
+  "position": 0,
+  "detail": "Jovens são julgados na justiça juvenil, mas quem tem 14 anos ou mais pode receber pena de adulto por crime com pena acima de 2 anos (YCJA, s. 64).",
+  "support": "found guilty of an offence for which an adult is liable to imprisonment for a term of more than two years and that was committed after the young person attained the age of 14 years",
+  "source": {
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/y-1.5/page-8.html",
+   "accessed": "2026-10-03",
+   "label": "Justice Laws, Youth Criminal Justice Act"
+  },
+  "checkId": "ctry-canad-seg-maioridade-f72de0"
+ },
+ {
+  "id": "ctry-eua-seg-armas-f439ea",
+  "country": "EUA",
+  "questionId": "seg-armas",
+  "position": 1,
+  "detail": "A Segunda Emenda da Constituição garante o direito do povo de ter e portar armas.",
+  "support": "the right of the people to keep and bear arms, shall not be infringed",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/United_States_of_America_1992?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, EUA"
+  },
+  "checkId": "ctry-eua-seg-armas-f439ea"
+ },
+ {
+  "id": "ctry-reinounido-seg-armas-5dd5fd",
+  "country": "Reino Unido",
+  "questionId": "seg-armas",
+  "position": -1,
+  "detail": "Ter arma de fogo exige certificado policial, dado só a quem prova ter boa razão para ela (Firearms Act 1968, seções 1 e 27).",
+  "support": "that he has a good reason for having in his possession, or for purchasing or acquiring, the firearm",
+  "source": {
+   "url": "https://web.archive.org/web/2025id_/https://www.legislation.gov.uk/ukpga/1968/27/section/27",
+   "accessed": "2026-10-03",
+   "label": "legislation.gov.uk, Firearms Act 1968 (cópia do Internet Archive)"
+  },
+  "checkId": "ctry-reinounido-seg-armas-5dd5fd"
+ },
+ {
+  "id": "ctry-alemanha-seg-armas-f22f07",
+  "country": "Alemanha",
+  "questionId": "seg-armas",
+  "position": -1,
+  "detail": "A Lei de Armas (WaffG, § 8) exige comprovar necessidade, como caça ou tiro esportivo, para ter arma.",
+  "support": "der nachweis eines bedürfnisses ist erbracht, wenn",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/waffg_2002/__8.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, WaffG § 8"
+  },
+  "checkId": "ctry-alemanha-seg-armas-f22f07"
+ },
+ {
+  "id": "ctry-ndia-seg-armas-e0af33",
+  "country": "Índia",
+  "questionId": "seg-armas",
+  "position": -1,
+  "detail": "A Lei de Armas de 1959 exige licença para ter arma, dada só a quem tem boa razão (seções 3 e 13).",
+  "support": "no person shall acquire, have in his possession, or carry any firearm or ammunition unless he holds in this behalf a licence",
+  "source": {
+   "url": "https://web.archive.org/web/2025id_/https://www.indiacode.nic.in/bitstream/123456789/1398/1/A1959-54.pdf",
+   "accessed": "2026-10-03",
+   "label": "India Code, Arms Act 1959 (cópia do Internet Archive)"
+  },
+  "checkId": "ctry-ndia-seg-armas-e0af33"
+ },
+ {
+  "id": "ctry-espanha-eco-reforma-tributaria-38f61b",
+  "country": "Espanha",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Espanha cobra o IVA, imposto sobre valor agregado (Lei 37/1992).",
+  "support": "el impuesto sobre el valor añadido es un tributo de naturaleza indirecta que recae sobre el consumo",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei 37/1992"
+  },
+  "checkId": "ctry-espanha-eco-reforma-tributaria-38f61b"
+ },
+ {
+  "id": "ctry-alemanha-eco-reforma-tributaria-ddb167",
+  "country": "Alemanha",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Alemanha cobra a Umsatzsteuer, seu imposto sobre valor agregado (UStG, § 1).",
+  "support": "der umsatzsteuer unterliegen die folgenden umsätze",
+  "source": {
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__1.html",
+   "accessed": "2026-10-03",
+   "label": "Gesetze im Internet, UStG § 1"
+  },
+  "checkId": "ctry-alemanha-eco-reforma-tributaria-ddb167"
+ },
+ {
+  "id": "ctry-sucia-eco-reforma-tributaria-8b9116",
+  "country": "Suécia",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Suécia cobra imposto sobre valor agregado (mervärdesskatt), regido pela Lei 2023:200.",
+  "support": "mervärdesskattelag (2023:200)",
+  "source": {
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/mervardesskattelag-2023200_sfs-2023-200/",
+   "accessed": "2026-10-03",
+   "label": "Riksdagen, Mervärdesskattelag (2023:200)"
+  },
+  "checkId": "ctry-sucia-eco-reforma-tributaria-8b9116"
+ },
+ {
+  "id": "ctry-argentina-eco-reforma-tributaria-c4075b",
+  "country": "Argentina",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Argentina cobra o IVA (Lei 23.349, texto ordenado de 1997).",
+  "support": "ley de impuesto al valor agregado, sustituido por el artículo 1° de la ley n° 23.349",
+  "source": {
+   "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42701/texact.htm",
+   "accessed": "2026-10-03",
+   "label": "InfoLEG, Lei do IVA"
+  },
+  "checkId": "ctry-argentina-eco-reforma-tributaria-c4075b"
+ },
+ {
+  "id": "ctry-chile-eco-reforma-tributaria-92195c",
+  "country": "Chile",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "O Chile cobra o IVA sobre vendas e serviços (Decreto-Lei 825).",
+  "support": "el impuesto de este título afecta a las ventas y servicios",
+  "source": {
+   "url": "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?idNorma=6369",
+   "accessed": "2026-10-03",
+   "label": "BCN LeyChile, Decreto-Lei 825"
+  },
+  "checkId": "ctry-chile-eco-reforma-tributaria-92195c"
+ },
+ {
+  "id": "ctry-mxico-eco-reforma-tributaria-b1fc72",
+  "country": "México",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "O México cobra o IVA, criado pela lei de 1978.",
+  "support": "están obligadas al pago del impuesto al valor agregado establecido en esta ley",
+  "source": {
+   "url": "https://web.archive.org/web/2025id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+   "accessed": "2026-10-03",
+   "label": "Câmara dos Deputados do México, Lei do IVA (cópia do Internet Archive)"
+  },
+  "checkId": "ctry-mxico-eco-reforma-tributaria-b1fc72"
+ },
+ {
+  "id": "ctry-japo-eco-reforma-tributaria-d38306",
+  "country": "Japão",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "O Japão cobra o imposto sobre consumo, com crédito do imposto pago nas compras, como um IVA.",
+  "support": "consumption tax is levied on",
+  "source": {
+   "url": "https://www.nta.go.jp/english/taxes/consumption_tax/01.htm",
+   "accessed": "2026-10-03",
+   "label": "Agência Nacional de Tributos do Japão"
+  },
+  "checkId": "ctry-japo-eco-reforma-tributaria-d38306"
+ },
+ {
+  "id": "ctry-canad-eco-reforma-tributaria-82b560",
+  "country": "Canadá",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "O Canadá cobra o GST, imposto sobre bens e serviços com crédito do imposto pago nos insumos (Excise Tax Act, parte IX).",
+  "support": "part ix - goods and services tax",
+  "source": {
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/e-15/page-24.html",
+   "accessed": "2026-10-03",
+   "label": "Justice Laws, Excise Tax Act"
+  },
+  "checkId": "ctry-canad-eco-reforma-tributaria-82b560"
+ },
+ {
+  "id": "ctry-eua-eco-reforma-tributaria-904f21",
+  "country": "EUA",
+  "questionId": "eco-reforma-tributaria",
+  "position": -1,
+  "detail": "Os EUA são o único país da OCDE sem imposto sobre valor agregado (relatório CRS R41708 do Congresso).",
+  "support": "the united states is the only member without a vat",
+  "source": {
+   "url": "https://www.everycrsreport.com/reports/R41708.html",
+   "accessed": "2026-10-03",
+   "label": "Congressional Research Service, R41708"
+  },
+  "checkId": "ctry-eua-eco-reforma-tributaria-904f21"
+ },
+ {
+  "id": "ctry-sucia-eco-privatizacao-406048",
+  "country": "Suécia",
+  "questionId": "eco-privatizacao",
+  "position": -1,
+  "detail": "A Vattenfall, maior empresa de energia do país, pertence 100% ao Estado sueco.",
+  "support": "vattenfall ab is 100% owned by the swedish state",
+  "source": {
+   "url": "https://group.vattenfall.com/who-we-are",
+   "accessed": "2026-10-03",
+   "label": "Vattenfall, página institucional"
+  },
+  "checkId": "ctry-sucia-eco-privatizacao-406048"
+ },
+ {
+  "id": "ctry-eua-eco-privatizacao-fe6235",
+  "country": "EUA",
+  "questionId": "eco-privatizacao",
+  "position": 1,
+  "detail": "Empresas privadas de capital aberto atendiam 72% dos consumidores de energia em 2017 (EIA).",
+  "support": "investor-owned utilities served 72% of u.s. electricity customers in 2017",
+  "source": {
+   "url": "https://www.eia.gov/todayinenergy/detail.php?id=40913",
+   "accessed": "2026-10-03",
+   "label": "U.S. Energy Information Administration"
+  },
+  "checkId": "ctry-eua-eco-privatizacao-fe6235"
+ },
+ {
+  "id": "ctry-espanha-amb-margem-equatorial-32c94f",
+  "country": "Espanha",
+  "questionId": "amb-margem-equatorial",
+  "position": -1,
+  "detail": "A Lei 7/2021 de mudança climática (art. 9) proíbe novas licenças de exploração de petróleo e gás, inclusive no mar.",
+  "support": "no se otorgarán en el territorio nacional, incluido el mar territorial, la zona económica exclusiva y la plataforma continental, nuevas autorizaciones de exploración",
+  "source": {
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447",
+   "accessed": "2026-10-03",
+   "label": "BOE, Lei 7/2021"
+  },
+  "checkId": "ctry-espanha-amb-margem-equatorial-32c94f"
+ },
+ {
+  "id": "ctry-eua-amb-margem-equatorial-506b33",
+  "country": "EUA",
+  "questionId": "amb-margem-equatorial",
+  "position": 1,
+  "detail": "O governo aprova a cada 5 anos um calendário de leilões de áreas de petróleo e gás no mar (OCS Lands Act, seção 18).",
+  "support": "the secretary of the interior is responsible for approving a schedule of ocs oil and gas lease sales for a 5-year period",
+  "source": {
+   "url": "https://www.boem.gov/oil-gas-energy/national-program",
+   "accessed": "2026-10-03",
+   "label": "BOEM, National OCS Program"
+  },
+  "checkId": "ctry-eua-amb-margem-equatorial-506b33"
+ },
+ {
+  "id": "ctry-eua-soc-cotas-3c5af2",
+  "country": "EUA",
+  "questionId": "soc-cotas",
+  "position": -1,
+  "detail": "A Suprema Corte (SFFA v. Harvard, 2023) derrubou o uso da raça na admissão de Harvard e da Universidade da Carolina do Norte.",
+  "support": "both programs lack sufficiently focused and measurable objectives warranting the use of race",
+  "source": {
+   "url": "https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf",
+   "accessed": "2026-10-03",
+   "label": "Suprema Corte dos EUA, SFFA v. Harvard (2023)"
+  },
+  "checkId": "ctry-eua-soc-cotas-3c5af2"
+ },
+ {
+  "id": "ctry-ndia-soc-cotas-7028ba",
+  "country": "Índia",
+  "questionId": "soc-cotas",
+  "position": 1,
+  "detail": "A Constituição (art. 15) permite reservar vagas no ensino para castas e tribos registradas e classes atrasadas.",
+  "support": "or for the scheduled castes or the scheduled tribes in so far as such special provisions relate to their admission to educational institutions",
+  "source": {
+   "url": "https://www.constituteproject.org/constitution/India_2023?lang=en",
+   "accessed": "2026-10-03",
+   "label": "Constituição, via Constitute Project, Índia"
+  },
+  "checkId": "ctry-ndia-soc-cotas-7028ba"
+ },
+ {
+  "id": "ctry-rssia-eco-reforma-tributaria-d1c594",
+  "country": "Rússia",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Rússia cobra o imposto sobre valor agregado (NDS), regido pelo Código Tributário (art. 143).",
+  "support": "налогоплательщиками налога на добавленную стоимость",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_28165/2ade1f82a7dbf4c31bcce5c8df14ca42d9fd66b7/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, Código Tributário, art. 143"
+  },
+  "checkId": "ctry-rssia-eco-reforma-tributaria-d1c594"
+ },
+ {
+  "id": "ctry-colmbia-eco-reforma-tributaria-c2dc02",
+  "country": "Colômbia",
+  "questionId": "eco-reforma-tributaria",
+  "position": 1,
+  "detail": "A Colômbia cobra o IVA (imposto sobre as vendas, com desconto do imposto pago antes), regido pelo Estatuto Tributário.",
+  "support": "la tarifa general del impuesto sobre las ventas prevista en este estatuto",
+  "source": {
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario_pr017.html",
+   "accessed": "2026-10-03",
+   "label": "Secretaria do Senado, Estatuto Tributário"
+  },
+  "checkId": "ctry-colmbia-eco-reforma-tributaria-c2dc02"
+ },
+ {
+  "id": "ctry-rssia-seg-drogas-cb8abd",
+  "country": "Rússia",
+  "questionId": "seg-drogas",
+  "position": 0,
+  "detail": "Guardar droga sem intenção de vender é infração administrativa, com multa ou detenção de até 15 dias (Código de Infrações, art. 6.8); em quantidade significativa vira crime (Código Penal, art. 228).",
+  "support": "незаконные приобретение, хранение, перевозка, изготовление, переработка без цели сбыта наркотических средств",
+  "source": {
+   "url": "https://www.consultant.ru/document/cons_doc_LAW_34661/8c58af8ec7516f0ddf1334e950f3a60ea525ca28/",
+   "accessed": "2026-10-03",
+   "label": "ConsultantPlus, Código de Infrações Administrativas, art. 6.8"
+  },
+  "checkId": "ctry-rssia-seg-drogas-cb8abd"
+ }
+]

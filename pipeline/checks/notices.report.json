@@ -1,0 +1,37 @@
+[
+ {
+  "id": "governador-27",
+  "status": "PASS",
+  "claim": "Em 30/09/2026 anunciou que deixa a disputa e que se une a Lucas Ribeiro. O TSE registrou a renúncia nos dados de 03/10/2026. O prazo para trocar candidato acabou 20 dias antes da eleição (Lei 9.504, art. 13, § 3º), então não há substituto."
+ },
+ {
+  "id": "governador-15",
+  "status": "PASS",
+  "claim": "O registro está deferido, mas sob recurso (TSE, dados de 03/10/2026, 12:30). Segundo o Jornal da Paraíba, o TSE formou maioria pelo indeferimento em 02/10/2026, e um pedido de vista suspendeu o julgamento; ele pode concorrer no domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A)."
+ },
+ {
+  "id": "NEG yt title says Lucas Ribeiro deixa disputa",
+  "status": "FAIL",
+  "claim": "NEG yt title says Lucas Ribeiro deixa disputa"
+ },
+ {
+  "id": "NEG law says 30 dias",
+  "status": "FAIL",
+  "claim": "NEG law says 30 dias"
+ },
+ {
+  "id": "NEG TSE says DEFERIDO",
+  "status": "FAIL",
+  "claim": "NEG TSE says DEFERIDO"
+ },
+ {
+  "id": "NEG JP says Cícero cannot run",
+  "status": "FAIL",
+  "claim": "NEG JP says Cícero cannot run"
+ },
+ {
+  "id": "NEG Cícero status INDEFERIDO",
+  "status": "FAIL",
+  "claim": "NEG Cícero status INDEFERIDO"
+ }
+]

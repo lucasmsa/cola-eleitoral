@@ -1,0 +1,32 @@
+[
+ {
+  "axis": "social",
+  "direction": 1,
+  "rationale": "Convenção de método: ampliar a gestão disciplinar por militares nas escolas aponta para o polo de ordem e tradição do eixo de costumes.",
+  "questionId": "q3-civico-militar"
+ },
+ {
+  "axis": "social",
+  "direction": -1,
+  "rationale": "Convenção de método: tirar do direito penal o porte para uso pessoal aponta para o polo liberal nos costumes.",
+  "questionId": "q3-maconha-uso"
+ },
+ {
+  "axis": "economico",
+  "direction": -1,
+  "rationale": "Convenção de método: criar um imposto sobre patrimônio para redistribuir aponta para o polo de mais Estado no eixo econômico.",
+  "questionId": "q3-grandes-fortunas"
+ },
+ {
+  "axis": "economico",
+  "direction": -1,
+  "rationale": "Convenção de método: financiar com dinheiro público um serviço hoje pago pelo usuário aponta para o polo de mais Estado.",
+  "questionId": "q3-tarifa-zero"
+ },
+ {
+  "axis": "economico",
+  "direction": 1,
+  "rationale": "Convenção de método: aproximar as regras do servidor às do emprego privado aponta para o polo de mais mercado.",
+  "questionId": "q3-estabilidade"
+ }
+]

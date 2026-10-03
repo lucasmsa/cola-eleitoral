@@ -1,0 +1,83 @@
+[
+ {
+  "questionId": "q3-redes-sociais",
+  "house": "camara",
+  "id": "2310837-8",
+  "date": "2023-04-25",
+  "label": "requerimento de urgência do PL 2.630/2020 (PL das Fake News) na Câmara",
+  "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430.",
+  "tally": {
+   "Sim": 238,
+   "Não": 192,
+   "Artigo 17": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes"
+  ]
+ },
+ {
+  "questionId": "q3-pec-seguranca",
+  "house": "camara",
+  "id": "2500080-320",
+  "date": "2026-03-04",
+  "label": "PEC 18/2025 (PEC da Segurança Pública), 1º turno na Câmara",
+  "descricao": "Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503.",
+  "tally": {
+   "Sim": 487,
+   "Não": 15,
+   "Abstenção": 1
+  },
+  "low_discrimination": true,
+  "urls": [
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/votos",
+   "https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320/orientacoes"
+  ]
+ },
+ {
+  "questionId": "q3-redes-sociais",
+  "house": "senado",
+  "id": 6147,
+  "date": "2020-06-30",
+  "label": "PL 2.630/2020 (PL das Fake News), substitutivo no Senado",
+  "descricao": "Votação da Emenda 153 (Subst.) ao PL 2630/2020, com os ajustes propostos pelo Relator, ressalvados os destaques.",
+  "resultado": "A",
+  "tally": {
+   "Sim": 44,
+   "Não": 32,
+   "Presidente (art. 51 RISF)": 1,
+   "AP": 1,
+   "Abstenção": 2,
+   "LS": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2630&ano=2020"
+  ]
+ },
+ {
+  "questionId": "q3-maconha-uso",
+  "house": "senado",
+  "id": 6824,
+  "date": "2024-04-16",
+  "label": "PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado",
+  "descricao": "Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno).",
+  "resultado": "A",
+  "tally": {
+   "MIS": 7,
+   "Sim": 53,
+   "Não": 9,
+   "AP": 8,
+   "LS": 2,
+   "P-NRV": 1,
+   "Presidente (art. 51 RISF)": 1
+  },
+  "low_discrimination": false,
+  "urls": [
+   "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023"
+  ]
+ }
+]

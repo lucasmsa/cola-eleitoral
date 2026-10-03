@@ -1,0 +1,4011 @@
+[
+ {
+  "id": "rec-deputado_federal-5555-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PP).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-5555-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSC).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-2030-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-4444-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no UNIÃO).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-4444-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PL).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-2222-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSB).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-6565-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1044-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-1044-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-1010-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PSC).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-2026-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no REPUBLICANOS).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-1011-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PP).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-1111-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PT).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-1345-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5522-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023 (então no PL).",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2196833-326"
+  },
+  "checkId": "rec-deputado_federal-5522-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PSOL-REDE orientou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2196833-326"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PL orientou NÃO na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2196833-326"
+  },
+  "checkId": "rec-list-PL-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-eco-reforma-tributaria-cd2196833-326",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou SIM na PEC 45/2019 (reforma tributária), 1º turno na Câmara, 06/07/2023.",
+  "date": "2023-07-06",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2196833-326/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2196833-326"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-eco-reforma-tributaria-cd2196833-326",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5555-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PP).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-5555-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSC).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-2030-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-4444-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no UNIÃO).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-4444-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PL).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-2222-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSB).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-6565-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1044-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-1044-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-1010-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PSC).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-2026-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no REPUBLICANOS).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-1011-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PP).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-1111-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PT).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-1345-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5522-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023 (então no PL).",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2357053-47"
+  },
+  "checkId": "rec-deputado_federal-5522-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou SIM no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2357053-47"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do NOVO orientou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2357053-47"
+  },
+  "checkId": "rec-list-NOVO-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-eco-arcabouco-cd2357053-47",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO no PLP 93/2023 (arcabouço fiscal) na Câmara, 23/05/2023.",
+  "date": "2023-05-23",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357053-47/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2357053-47"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-eco-arcabouco-cd2357053-47",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no DEM).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-governador-22-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-4444-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PDT).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-4444-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PSB).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-6565-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PTB).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-1010-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no REPUBLICANOS).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-1011-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PP).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-1111-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1177-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1177"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PSL).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-1177-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5522-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021 (então no PL).",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270789-73"
+  },
+  "checkId": "rec-deputado_federal-5522-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PDT-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PDT orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PDT-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSB-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSB orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PSB-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PL-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REDE-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do REDE orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-REDE-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do NOVO orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-NOVO-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSOL-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSOL orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PSOL-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PCdoB-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PCdoB orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PCdoB-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSD-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "PSD"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSD orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PSD-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PODE-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "PODE"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PODE orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PODE-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REPUBLICANOS-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "REPUBLICANOS"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do REPUBLICANOS orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-REPUBLICANOS-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-SOLIDARIEDADE-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "25-PRD/77-SOLIDARIEDADE"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do SOLIDARIEDADE orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-SOLIDARIEDADE-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PP-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "44-UNIÃO/11-PP"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PP orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PP-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-MDB-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "MDB"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do MDB orientou SIM na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-MDB-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PT-eco-privatizacao-cd2270789-73",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PT orientou NÃO na MP 1.031/2021 (privatização da Eletrobras) na Câmara, 19/05/2021.",
+  "date": "2021-05-19",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270789-73"
+  },
+  "checkId": "rec-list-PT-eco-privatizacao-cd2270789-73",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSDB).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-2030-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSB).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-6565-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PTB).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-1010-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no REPUBLICANOS).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-1011-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PP).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-1111-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1177-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1177"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021 (então no PSL).",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2265124-70"
+  },
+  "checkId": "rec-deputado_federal-1177-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSOL-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSOL orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PSOL-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PL-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSD-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "PSD"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSD orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PSD-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-MDB-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "MDB"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do MDB orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-MDB-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-NOVO-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REDE-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do REDE orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-REDE-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PP-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "44-UNIÃO/11-PP"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PP orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PP-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PDT-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PDT orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PDT-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSB-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSB orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PSB-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REPUBLICANOS-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "REPUBLICANOS"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do REPUBLICANOS orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-REPUBLICANOS-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-SOLIDARIEDADE-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "25-PRD/77-SOLIDARIEDADE"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do SOLIDARIEDADE orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-SOLIDARIEDADE-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PODE-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "PODE"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PODE orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PODE-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PV-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PV orientou SIM no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PV-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PCdoB-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PCdoB orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PCdoB-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PT-eco-bc-autonomo-cd2265124-70",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PT orientou NÃO no PLP 19/2019 (autonomia do Banco Central) na Câmara, 10/02/2021.",
+  "date": "2021-02-10",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2265124-70"
+  },
+  "checkId": "rec-list-PT-eco-bc-autonomo-cd2265124-70",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5555-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PP).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-5555-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-2030-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PODE).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-2030-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-4444-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no UNIÃO).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-4444-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-2222-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PL).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-2222-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-6565-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PSB).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-6565-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-1044-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no REPUBLICANOS).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-1044-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-1010-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no REPUBLICANOS).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-1010-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-2026-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PODE).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-2026-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-1111-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PP).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-1111-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-1345-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PT).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-1345-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-5522-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025 (então no PL).",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2487436-169"
+  },
+  "checkId": "rec-deputado_federal-5522-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-list-PSB-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSB orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2487436-169"
+  },
+  "checkId": "rec-list-PSB-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PSOL-REDE orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2487436-169"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-list-NOVO-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2487436-169"
+  },
+  "checkId": "rec-list-NOVO-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-list-PDT-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PDT orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2487436-169"
+  },
+  "checkId": "rec-list-PDT-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-eco-ir-alta-renda-cd2487436-169",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou SIM no PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara, 01/10/2025.",
+  "date": "2025-10-01",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2487436-169/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2487436-169"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-eco-ir-alta-renda-cd2487436-169",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-deputado_federal-5555-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PP).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-5555-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PODE).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-2030-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PL).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-2222-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PSB).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-6565-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PODE).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-2026-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025 (então no PT).",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2358548-89"
+  },
+  "checkId": "rec-deputado_federal-1345-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PDT-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PDT orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-PDT-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-PL-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-NOVO-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSB-seg-8-janeiro-cd2358548-89",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSB orientou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara, 09/12/2025.",
+  "date": "2025-12-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2358548-89"
+  },
+  "checkId": "rec-list-PSB-seg-8-janeiro-cd2358548-89",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5555-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PP).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-5555-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PODE).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-2030-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-4444-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no UNIÃO).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-4444-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PL).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-2222-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PSB).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-6565-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1044-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-1044-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-1010-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PODE).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-2026-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no REPUBLICANOS).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-1011-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PP).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-1111-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PT).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-1345-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5522-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025 (então no PL).",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 2270800-135"
+  },
+  "checkId": "rec-deputado_federal-5522-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do NOVO orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270800-135"
+  },
+  "checkId": "rec-list-NOVO-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270800-135"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-seg-blindagem-cd2270800-135",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "seg-blindagem",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou NÃO na PEC 3/2021 (licença prévia da Casa para processar parlamentares), 1º turno na Câmara, 16/09/2025.",
+  "date": "2025-09-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 2270800-135"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-seg-blindagem-cd2270800-135",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5555-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PP).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-5555-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSC).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-2030-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PL).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-2222-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSB).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-6565-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1044-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1044"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no REPUBLICANOS).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-1044-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PSC).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-2026-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no REPUBLICANOS).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-1011-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PP).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-1111-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PT).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-1345-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5522-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5522"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023 (então no PL).",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 345311-270"
+  },
+  "checkId": "rec-deputado_federal-5522-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 345311-270"
+  },
+  "checkId": "rec-list-PL-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 345311-270"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PT_PCdoB_PV-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PT-PCdoB-PV orientou NÃO no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 345311-270"
+  },
+  "checkId": "rec-list-Fdr_PT_PCdoB_PV-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-soc-marco-temporal-cd345311-270",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PL 490/2007 (marco temporal das terras indígenas) na Câmara, 30/05/2023.",
+  "date": "2023-05-30",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 345311-270"
+  },
+  "checkId": "rec-list-NOVO-soc-marco-temporal-cd345311-270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no DEM).",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-337"
+  },
+  "checkId": "rec-governador-22-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PSB).",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-337"
+  },
+  "checkId": "rec-deputado_federal-6565-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no REPUBLICANOS).",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-337"
+  },
+  "checkId": "rec-deputado_federal-1011-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PP).",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-337"
+  },
+  "checkId": "rec-deputado_federal-1111-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1177-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1177"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021 (então no PSL).",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-337"
+  },
+  "checkId": "rec-deputado_federal-1177-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PT-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PT orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PT-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-SOLIDARIEDADE-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "25-PRD/77-SOLIDARIEDADE"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do SOLIDARIEDADE orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-SOLIDARIEDADE-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REDE-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do REDE orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-REDE-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSB-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSB orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PSB-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PODE-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "PODE"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PODE orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PODE-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PP-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "44-UNIÃO/11-PP"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PP orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PP-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PL-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSD-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "PSD"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSD orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PSD-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PCdoB-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PCdoB orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PCdoB-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PV-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PV orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PV-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REPUBLICANOS-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "REPUBLICANOS"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do REPUBLICANOS orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-REPUBLICANOS-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-MDB-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "MDB"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do MDB orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-MDB-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSOL-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSOL orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PSOL-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-NOVO-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PDT-amb-licenciamento-cd257161-337",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PDT orientou NÃO no PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara, 12/05/2021.",
+  "date": "2021-05-12",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-337"
+  },
+  "checkId": "rec-list-PDT-amb-licenciamento-cd257161-337",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-5555-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-5555"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PP).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-5555-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PODE).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-2030-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-4444-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-4444"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no UNIÃO).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-4444-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2222-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2222"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PL).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-2222-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PSB).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-6565-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2026-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2026"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PODE).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-2026-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1345-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1345"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025 (então no PT).",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 257161-454"
+  },
+  "checkId": "rec-deputado_federal-1345-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025.",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-454"
+  },
+  "checkId": "rec-list-NOVO-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-Fdr_PSOL_REDE-amb-licenciamento-cd257161-454",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança da federação PSOL-REDE orientou NÃO nas emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara, 16/07/2025.",
+  "date": "2025-07-16",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 257161-454"
+  },
+  "checkId": "rec-list-Fdr_PSOL_REDE-amb-licenciamento-cd257161-454",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no DEM).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-governador-22-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2020-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2020"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSC).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-2020-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-2030-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-2030"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSDB).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-2030-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-6565-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-6565"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSB).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-6565-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1010-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1010"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PTB).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-1010-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1011-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1011"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no REPUBLICANOS).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-1011-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1111-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1111"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PP).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-1111-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_federal-1177-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_federal-1177"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022 (então no PSL).",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/votos",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, votação 46249-297"
+  },
+  "checkId": "rec-deputado_federal-1177-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PP-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "44-UNIÃO/11-PP"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PP orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PP-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REDE-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do REDE orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-REDE-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PCdoB-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PCdoB orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PCdoB-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-REPUBLICANOS-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "REPUBLICANOS"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do REPUBLICANOS orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-REPUBLICANOS-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSOL-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "50-PSOL/18-REDE"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSOL orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PSOL-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSD-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "PSD"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PSD orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PSD-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PDT-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "PDT"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PDT orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PDT-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PT-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "13-PT/65-PC do B/43-PV"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PT orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PT-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-SOLIDARIEDADE-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "25-PRD/77-SOLIDARIEDADE"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do SOLIDARIEDADE orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-SOLIDARIEDADE-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-NOVO-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "NOVO"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do NOVO orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-NOVO-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-MDB-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "MDB"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do MDB orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-MDB-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PSB-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "PSB"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": -1,
+  "detail": "A liderança do PSB orientou NÃO no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PSB-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-list-PL-amb-agrotoxicos-cd46249-297",
+  "subject": {
+   "type": "list",
+   "id": "PL"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 1,
+  "detail": "A liderança do PL orientou SIM no PL 6.299/2002 (registro de agrotóxicos) na Câmara, 09/02/2022.",
+  "date": "2022-02-09",
+  "source": {
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/46249-297/orientacoes",
+   "accessed": "2026-09-30",
+   "label": "Câmara dos Deputados, Dados Abertos, orientações da votação 46249-297"
+  },
+  "checkId": "rec-list-PL-amb-agrotoxicos-cd46249-297",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-senador-155-eco-reforma-tributaria-sf6777",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no MDB).",
+  "date": "2023-11-08",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2019",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6777"
+  },
+  "checkId": "rec-senador-155-eco-reforma-tributaria-sf6777",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-eco-reforma-tributaria-sf6777",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no UNIÃO).",
+  "date": "2023-11-08",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2019",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6777"
+  },
+  "checkId": "rec-governador-22-eco-reforma-tributaria-sf6777",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-eco-reforma-tributaria-sf6777",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na PEC 45/2019 (reforma tributária), 2º turno no Senado, 08/11/2023 (então no PL).",
+  "date": "2023-11-08",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2019",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6777"
+  },
+  "checkId": "rec-presidente-22-eco-reforma-tributaria-sf6777",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-senador-155-eco-arcabouco-sf6714",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no MDB).",
+  "date": "2023-06-21",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=93&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6714"
+  },
+  "checkId": "rec-senador-155-eco-arcabouco-sf6714",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-eco-arcabouco-sf6714",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no UNIÃO).",
+  "date": "2023-06-21",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=93&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6714"
+  },
+  "checkId": "rec-governador-22-eco-arcabouco-sf6714",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-eco-arcabouco-sf6714",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PLP 93/2023 (arcabouço fiscal) no Senado, 21/06/2023 (então no PL).",
+  "date": "2023-06-21",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=93&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6714"
+  },
+  "checkId": "rec-presidente-22-eco-arcabouco-sf6714",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-senador-155-eco-privatizacao-sf6377",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO na MP 1.031/2021 (privatização da Eletrobras) no Senado, 16/06/2021 (então no MDB).",
+  "date": "2021-06-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=MPV&numero=1031&ano=2021",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6377"
+  },
+  "checkId": "rec-senador-155-eco-privatizacao-sf6377",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-eco-privatizacao-sf6377",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-privatizacao",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na MP 1.031/2021 (privatização da Eletrobras) no Senado, 16/06/2021 (então no PATRIOTA).",
+  "date": "2021-06-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=MPV&numero=1031&ano=2021",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6377"
+  },
+  "checkId": "rec-presidente-22-eco-privatizacao-sf6377",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-eco-bc-autonomo-sf6248",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) no Senado, 03/11/2020 (então sem partido).",
+  "date": "2020-11-03",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=19&ano=2019",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6248"
+  },
+  "checkId": "rec-presidente-22-eco-bc-autonomo-sf6248",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-deputado_estadual-11000-eco-bc-autonomo-sf6248",
+  "subject": {
+   "type": "candidate",
+   "id": "deputado_estadual-11000"
+  },
+  "questionId": "eco-bc-autonomo",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PLP 19/2019 (autonomia do Banco Central) no Senado, 03/11/2020 (então no PP).",
+  "date": "2020-11-03",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=19&ano=2019",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6248"
+  },
+  "checkId": "rec-deputado_estadual-11000-eco-bc-autonomo-sf6248",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-senador-155-seg-saidinha-sf6818",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "seg-saidinha",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no MDB).",
+  "date": "2024-02-20",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2253&ano=2022",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6818"
+  },
+  "checkId": "rec-senador-155-seg-saidinha-sf6818",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-governador-22-seg-saidinha-sf6818",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "seg-saidinha",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no UNIÃO).",
+  "date": "2024-02-20",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2253&ano=2022",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6818"
+  },
+  "checkId": "rec-governador-22-seg-saidinha-sf6818",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-presidente-22-seg-saidinha-sf6818",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "seg-saidinha",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.253/2022 (restrição da saída temporária de presos) no Senado, 20/02/2024 (então no PL).",
+  "date": "2024-02-20",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2253&ano=2022",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6818"
+  },
+  "checkId": "rec-presidente-22-seg-saidinha-sf6818",
+  "lowDiscrimination": true
+ },
+ {
+  "id": "rec-senador-155-seg-drogas-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "seg-drogas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no MDB).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "rec-senador-155-seg-drogas-sf6824",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-seg-drogas-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "seg-drogas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no UNIÃO).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "rec-governador-22-seg-drogas-sf6824",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-seg-drogas-sf6824",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "seg-drogas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM na PEC 45/2023 (criminalização da posse e do porte de drogas), 1º turno no Senado, 16/04/2024 (então no PL).",
+  "date": "2024-04-16",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PEC&numero=45&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6824"
+  },
+  "checkId": "rec-presidente-22-seg-drogas-sf6824",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-senador-155-seg-8-janeiro-sf7041",
+  "subject": {
+   "type": "candidate",
+   "id": "senador-155"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "Votou NÃO no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no MDB).",
+  "date": "2025-12-17",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2162&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 7041"
+  },
+  "checkId": "rec-senador-155-seg-8-janeiro-sf7041",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-seg-8-janeiro-sf7041",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no UNIÃO).",
+  "date": "2025-12-17",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2162&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 7041"
+  },
+  "checkId": "rec-governador-22-seg-8-janeiro-sf7041",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-seg-8-janeiro-sf7041",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado, 17/12/2025 (então no PL).",
+  "date": "2025-12-17",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2162&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 7041"
+  },
+  "checkId": "rec-presidente-22-seg-8-janeiro-sf7041",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-soc-marco-temporal-sf6756",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.903/2023 (marco temporal das terras indígenas) no Senado, 27/09/2023 (então no UNIÃO).",
+  "date": "2023-09-27",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2903&ano=2023",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6756"
+  },
+  "checkId": "rec-governador-22-soc-marco-temporal-sf6756",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-governador-22-amb-licenciamento-sf6935",
+  "subject": {
+   "type": "candidate",
+   "id": "governador-22"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado, 21/05/2025 (então no UNIÃO).",
+  "date": "2025-05-21",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2159&ano=2021",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6935"
+  },
+  "checkId": "rec-governador-22-amb-licenciamento-sf6935",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-22-amb-licenciamento-sf6935",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 1,
+  "detail": "Votou SIM no PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado, 21/05/2025 (então no PL).",
+  "date": "2025-05-21",
+  "source": {
+   "url": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=2159&ano=2021",
+   "accessed": "2026-09-30",
+   "label": "Senado Federal, Dados Abertos, votação nominal 6935"
+  },
+  "checkId": "rec-presidente-22-amb-licenciamento-sf6935",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-eco-arcabouco-exec-lcp200",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-arcabouco",
+  "kind": "record",
+  "position": 1,
+  "detail": "Sancionou a Lei Complementar 200/2023 (arcabouço fiscal), proposta pelo Poder Executivo, com vetos parciais.",
+  "date": "2023-08-30",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-eco-arcabouco-exec-lcp200",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-eco-reforma-tributaria-exec-lcp214",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-reforma-tributaria",
+  "kind": "record",
+  "position": 1,
+  "detail": "Sancionou a Lei Complementar 214/2025, que institui o IBS e a CBS da reforma tributária, com vetos parciais.",
+  "date": "2025-01-16",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-eco-reforma-tributaria-exec-lcp214",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-eco-ir-alta-renda-exec-l15270",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "eco-ir-alta-renda",
+  "kind": "record",
+  "position": 1,
+  "detail": "Sancionou a Lei 15.270/2025, que reduz o IR e cria tributação mínima para altas rendas.",
+  "date": "2025-11-26",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-eco-ir-alta-renda-exec-l15270",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-seg-saidinha-exec-vep144_24",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "seg-saidinha",
+  "kind": "record",
+  "position": -1,
+  "detail": "Vetou parcialmente o PL 2.253/2022, mantendo a saída temporária para visita à família (Mensagem de veto nº 144/2024).",
+  "date": "2024-04-11",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Msg/Vep/VEP-144-24.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-seg-saidinha-exec-vep144_24",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-seg-8-janeiro-exec-l15402",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "seg-8-janeiro",
+  "kind": "record",
+  "position": -1,
+  "detail": "Vetou integralmente o PL 2.162/2023; o Congresso derrubou o veto e a Lei 15.402/2026 foi promulgada pelo presidente do Senado em 08/05/2026.",
+  "date": "2026-05-08",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-seg-8-janeiro-exec-l15402",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-soc-marco-temporal-exec-vep536_23",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "soc-marco-temporal",
+  "kind": "record",
+  "position": -1,
+  "detail": "Vetou o artigo do PL 2.903/2023 que fixava a data da promulgação da Constituição (5/10/1988) como marco para demarcar terras indígenas (Mensagem de veto nº 536/2023).",
+  "date": "2023-10-20",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Msg/Vep/VEP-536-23.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-soc-marco-temporal-exec-vep536_23",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-soc-cotas-exec-l14723",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "soc-cotas",
+  "kind": "record",
+  "position": 1,
+  "detail": "Sancionou a Lei 14.723/2023, que altera a Lei de Cotas (Lei 12.711/2012) e dispõe sobre o programa especial de acesso às instituições federais de ensino.",
+  "date": "2023-11-13",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-soc-cotas-exec-l14723",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-amb-licenciamento-exec-vep1097_25",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "amb-licenciamento",
+  "kind": "record",
+  "position": 0,
+  "detail": "Sancionou a lei geral do licenciamento ambiental (Lei 15.190/2025) com vetos parciais, entre eles o trecho que previa a Licença por Adesão e Compromisso (LAC) para obras de ampliação e pavimentação.",
+  "date": "2025-08-08",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Msg/Vep/VEP-1097-25.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-amb-licenciamento-exec-vep1097_25",
+  "lowDiscrimination": false
+ },
+ {
+  "id": "rec-presidente-13-amb-agrotoxicos-exec-vep741_23",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-13"
+  },
+  "questionId": "amb-agrotoxicos",
+  "kind": "record",
+  "position": 0,
+  "detail": "Sancionou a nova lei de agrotóxicos (Lei 14.785/2023) com vetos parciais, entre eles o que dava ao Ministério da Agricultura a coordenação exclusiva das reanálises de risco.",
+  "date": "2023-12-27",
+  "source": {
+   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Msg/Vep/VEP-741-23.htm",
+   "accessed": "2026-09-30",
+   "label": "Presidência da República, Planalto, legislação"
+  },
+  "checkId": "rec-presidente-13-amb-agrotoxicos-exec-vep741_23",
+  "lowDiscrimination": false
+ }
+]

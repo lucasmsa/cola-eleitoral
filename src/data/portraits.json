@@ -1,0 +1,866 @@
+[
+ {
+  "candidateId": "presidente-13",
+  "file": "/portraits/presidente-13.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FBR280002542548_div.jpg"
+  }
+ },
+ {
+  "candidateId": "presidente-22",
+  "file": "/portraits/presidente-22.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FBR280002551544_div.jpg"
+  }
+ },
+ {
+  "candidateId": "presidente-14",
+  "file": "/portraits/presidente-14.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FBR280002540694_div.jpg"
+  }
+ },
+ {
+  "candidateId": "presidente-70",
+  "file": "/portraits/presidente-70.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FBR280002551547_div.jpg"
+  }
+ },
+ {
+  "candidateId": "presidente-55",
+  "file": "/portraits/presidente-55.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FBR280002551932_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-11",
+  "file": "/portraits/governador-11.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002551789_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-22",
+  "file": "/portraits/governador-22.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538692_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-15",
+  "file": "/portraits/governador-15.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544133_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-80",
+  "file": "/portraits/governador-80.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540204_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-29",
+  "file": "/portraits/governador-29.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002552603_div.jpg"
+  }
+ },
+ {
+  "candidateId": "governador-27",
+  "file": "/portraits/governador-27.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002551911_div.jpg"
+  }
+ },
+ {
+  "candidateId": "senador-400",
+  "file": "/portraits/senador-400.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549793_div.jpg"
+  }
+ },
+ {
+  "candidateId": "senador-155",
+  "file": "/portraits/senador-155.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544905_div.jpg"
+  }
+ },
+ {
+  "candidateId": "senador-100",
+  "file": "/portraits/senador-100.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549791_div.jpg"
+  }
+ },
+ {
+  "candidateId": "senador-222",
+  "file": "/portraits/senador-222.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538459_div.jpg"
+  }
+ },
+ {
+  "candidateId": "senador-300",
+  "file": "/portraits/senador-300.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548968_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-7796",
+  "file": "/portraits/deputado_federal-7796.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549757_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2507",
+  "file": "/portraits/deputado_federal-2507.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549761_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2512",
+  "file": "/portraits/deputado_federal-2512.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549766_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1111",
+  "file": "/portraits/deputado_federal-1111.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549636_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-4444",
+  "file": "/portraits/deputado_federal-4444.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549638_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1133",
+  "file": "/portraits/deputado_federal-1133.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549646_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1122",
+  "file": "/portraits/deputado_federal-1122.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549637_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1177",
+  "file": "/portraits/deputado_federal-1177.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549635_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1222",
+  "file": "/portraits/deputado_federal-1222.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002552377_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1211",
+  "file": "/portraits/deputado_federal-1211.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002552380_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1213",
+  "file": "/portraits/deputado_federal-1213.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002552378_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2222",
+  "file": "/portraits/deputado_federal-2222.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538457_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2211",
+  "file": "/portraits/deputado_federal-2211.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538453_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2255",
+  "file": "/portraits/deputado_federal-2255.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538454_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2223",
+  "file": "/portraits/deputado_federal-2223.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538455_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2288",
+  "file": "/portraits/deputado_federal-2288.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538451_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1833",
+  "file": "/portraits/deputado_federal-1833.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002550467_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1819",
+  "file": "/portraits/deputado_federal-1819.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002550475_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1899",
+  "file": "/portraits/deputado_federal-1899.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002550468_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2026",
+  "file": "/portraits/deputado_federal-2026.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002533571_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2030",
+  "file": "/portraits/deputado_federal-2030.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002533578_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2020",
+  "file": "/portraits/deputado_federal-2020.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002533568_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2000",
+  "file": "/portraits/deputado_federal-2000.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002533574_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2055",
+  "file": "/portraits/deputado_federal-2055.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002533570_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-3555",
+  "file": "/portraits/deputado_federal-3555.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002538698_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1011",
+  "file": "/portraits/deputado_federal-1011.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544205_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1044",
+  "file": "/portraits/deputado_federal-1044.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544203_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1010",
+  "file": "/portraits/deputado_federal-1010.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544208_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1033",
+  "file": "/portraits/deputado_federal-1033.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544209_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1015",
+  "file": "/portraits/deputado_federal-1015.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544200_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-7090",
+  "file": "/portraits/deputado_federal-7090.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002553964_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-4050",
+  "file": "/portraits/deputado_federal-4050.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544605_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-4001",
+  "file": "/portraits/deputado_federal-4001.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544602_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-5555",
+  "file": "/portraits/deputado_federal-5555.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544003_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-5522",
+  "file": "/portraits/deputado_federal-5522.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544010_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-5550",
+  "file": "/portraits/deputado_federal-5550.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544012_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-5511",
+  "file": "/portraits/deputado_federal-5511.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544007_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-5512",
+  "file": "/portraits/deputado_federal-5512.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544013_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-6565",
+  "file": "/portraits/deputado_federal-6565.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544178_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1345",
+  "file": "/portraits/deputado_federal-1345.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544174_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-1313",
+  "file": "/portraits/deputado_federal-1313.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544167_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_federal-2929",
+  "file": "/portraits/deputado_federal-2929.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002552604_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-10444",
+  "file": "/portraits/deputado_estadual-10444.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544180_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-10110",
+  "file": "/portraits/deputado_estadual-10110.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544184_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-10234",
+  "file": "/portraits/deputado_estadual-10234.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544198_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-10456",
+  "file": "/portraits/deputado_estadual-10456.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544197_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-10123",
+  "file": "/portraits/deputado_estadual-10123.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544190_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-22190",
+  "file": "/portraits/deputado_estadual-22190.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002541191_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-22999",
+  "file": "/portraits/deputado_estadual-22999.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002541190_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-22222",
+  "file": "/portraits/deputado_estadual-22222.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002541194_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-22033",
+  "file": "/portraits/deputado_estadual-22033.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002541177_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-22111",
+  "file": "/portraits/deputado_estadual-22111.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002541207_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-40777",
+  "file": "/portraits/deputado_estadual-40777.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544667_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-40013",
+  "file": "/portraits/deputado_estadual-40013.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544670_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-13400",
+  "file": "/portraits/deputado_estadual-13400.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544145_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-43789",
+  "file": "/portraits/deputado_estadual-43789.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544163_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-43147",
+  "file": "/portraits/deputado_estadual-43147.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544152_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-65555",
+  "file": "/portraits/deputado_estadual-65555.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544151_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-65123",
+  "file": "/portraits/deputado_estadual-65123.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002544157_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-15999",
+  "file": "/portraits/deputado_estadual-15999.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540234_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-15555",
+  "file": "/portraits/deputado_estadual-15555.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540246_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-15222",
+  "file": "/portraits/deputado_estadual-15222.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540235_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-15111",
+  "file": "/portraits/deputado_estadual-15111.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540243_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-15123",
+  "file": "/portraits/deputado_estadual-15123.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540238_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-12333",
+  "file": "/portraits/deputado_estadual-12333.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002551583_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-12247",
+  "file": "/portraits/deputado_estadual-12247.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002554303_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-12111",
+  "file": "/portraits/deputado_estadual-12111.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002551589_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-12192",
+  "file": "/portraits/deputado_estadual-12192.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002551582_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-11333",
+  "file": "/portraits/deputado_estadual-11333.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548950_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-11011",
+  "file": "/portraits/deputado_estadual-11011.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548940_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-11369",
+  "file": "/portraits/deputado_estadual-11369.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548935_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-11789",
+  "file": "/portraits/deputado_estadual-11789.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548945_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-11777",
+  "file": "/portraits/deputado_estadual-11777.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002548932_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-18188",
+  "file": "/portraits/deputado_estadual-18188.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549743_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-18777",
+  "file": "/portraits/deputado_estadual-18777.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549744_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-18888",
+  "file": "/portraits/deputado_estadual-18888.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549754_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-50777",
+  "file": "/portraits/deputado_estadual-50777.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549749_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-18800",
+  "file": "/portraits/deputado_estadual-18800.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002549746_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-80180",
+  "file": "/portraits/deputado_estadual-80180.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540201_div.jpg"
+  }
+ },
+ {
+  "candidateId": "deputado_estadual-80123",
+  "file": "/portraits/deputado_estadual-80123.svg",
+  "photoSource": {
+   "url": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_PB_div.zip",
+   "accessed": "2026-10-03",
+   "label": "Foto oficial do TSE, arquivo FPB150002540202_div.jpg"
+  }
+ }
+]

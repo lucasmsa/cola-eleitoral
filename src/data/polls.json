@@ -1,0 +1,256 @@
+[
+ {
+  "id": "presidente-datafolha-2026-09-22",
+  "office": "presidente",
+  "institute": "Datafolha",
+  "fieldStart": "2026-09-22",
+  "fieldEnd": "2026-09-23",
+  "sample": 2002,
+  "marginPp": 2.0,
+  "registration": "BR-00304/2026",
+  "results": [
+   {
+    "label": "Lula",
+    "pct": 40
+   },
+   {
+    "label": "Flávio Bolsonaro",
+    "pct": 36
+   },
+   {
+    "label": "Augusto Cury",
+    "pct": 5
+   },
+   {
+    "label": "Ronaldo Caiado",
+    "pct": 4
+   },
+   {
+    "label": "Renan Santos",
+    "pct": 3
+   },
+   {
+    "label": "Romeu Zema",
+    "pct": 1
+   },
+   {
+    "label": "Samara",
+    "pct": 1
+   },
+   {
+    "label": "branco/nulo/nenhum",
+    "pct": 5
+   },
+   {
+    "label": "indecisos",
+    "pct": 2
+   }
+  ],
+  "source": {
+   "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/",
+   "accessed": "2026-09-30",
+   "label": "Imprensa"
+  },
+  "verified": "press"
+ },
+ {
+  "id": "presidente-quaest-2026-09-24",
+  "office": "presidente",
+  "institute": "Quaest",
+  "fieldStart": "2026-09-24",
+  "fieldEnd": "2026-09-27",
+  "sample": 2004,
+  "marginPp": 2.0,
+  "registration": "BR-06520/2026",
+  "results": [
+   {
+    "label": "Lula",
+    "pct": 39
+   },
+   {
+    "label": "Flávio Bolsonaro",
+    "pct": 34
+   },
+   {
+    "label": "Augusto Cury",
+    "pct": 4
+   },
+   {
+    "label": "Ronaldo Caiado",
+    "pct": 4
+   },
+   {
+    "label": "Renan Santos",
+    "pct": 3
+   },
+   {
+    "label": "Romeu Zema",
+    "pct": 1
+   },
+   {
+    "label": "indecisos",
+    "pct": 5
+   },
+   {
+    "label": "branco/nulo/não vai votar",
+    "pct": 10
+   }
+  ],
+  "source": {
+   "url": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34",
+   "accessed": "2026-09-30",
+   "label": "Imprensa"
+  },
+  "verified": "press"
+ },
+ {
+  "id": "presidente-atlasintel-2026-09-23",
+  "office": "presidente",
+  "institute": "AtlasIntel/Bloomberg",
+  "fieldStart": "2026-09-23",
+  "fieldEnd": "2026-09-28",
+  "sample": 5005,
+  "marginPp": 1.0,
+  "registration": "BR-04391/2026",
+  "results": [
+   {
+    "label": "Lula",
+    "pct": 45.3
+   },
+   {
+    "label": "Flávio Bolsonaro",
+    "pct": 42.2
+   },
+   {
+    "label": "Renan Santos",
+    "pct": 5.2
+   },
+   {
+    "label": "Augusto Cury",
+    "pct": 2.0
+   },
+   {
+    "label": "Ronaldo Caiado",
+    "pct": 1.8
+   },
+   {
+    "label": "Romeu Zema",
+    "pct": 0.9
+   },
+   {
+    "label": "indecisos",
+    "pct": 1.1
+   }
+  ],
+  "source": {
+   "url": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/",
+   "accessed": "2026-09-30",
+   "label": "Imprensa"
+  },
+  "verified": "press"
+ },
+ {
+  "id": "governador-quaest-2026-09-18",
+  "office": "governador",
+  "institute": "Quaest",
+  "fieldStart": "2026-09-18",
+  "fieldEnd": "2026-09-21",
+  "sample": 804,
+  "marginPp": 3.0,
+  "registration": "PB-01325/2026; BR-09990/2026",
+  "results": [
+   {
+    "label": "Lucas Ribeiro",
+    "pct": 49
+   },
+   {
+    "label": "Efraim Filho",
+    "pct": 16
+   },
+   {
+    "label": "Cícero Lucena",
+    "pct": 15
+   },
+   {
+    "label": "Pedro Coutinho",
+    "pct": 1
+   },
+   {
+    "label": "Camilo Duarte",
+    "pct": 0
+   },
+   {
+    "label": "Yuri Ezequiel",
+    "pct": 0
+   },
+   {
+    "label": "indecisos",
+    "pct": 12
+   },
+   {
+    "label": "branco/nulo/não vai votar",
+    "pct": 7
+   }
+  ],
+  "source": {
+   "url": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html",
+   "accessed": "2026-09-30",
+   "label": "Imprensa"
+  },
+  "verified": "press"
+ },
+ {
+  "id": "senador-quaest-2026-09-18",
+  "office": "senador",
+  "institute": "Quaest",
+  "fieldStart": "2026-09-18",
+  "fieldEnd": "2026-09-21",
+  "sample": 804,
+  "marginPp": 3.0,
+  "registration": "PB-01325/2026; BR-09990/2026",
+  "results": [
+   {
+    "label": "João Azevêdo",
+    "pct": 28
+   },
+   {
+    "label": "Veneziano",
+    "pct": 18
+   },
+   {
+    "label": "Nabor",
+    "pct": 12
+   },
+   {
+    "label": "Dr. Marcelo Queiroga",
+    "pct": 7
+   },
+   {
+    "label": "Major Fábio",
+    "pct": 3
+   },
+   {
+    "label": "André Gadelha",
+    "pct": 1
+   },
+   {
+    "label": "João Batista",
+    "pct": 1
+   },
+   {
+    "label": "indecisos",
+    "pct": 14
+   },
+   {
+    "label": "branco/nulo/não vai votar",
+    "pct": 16
+   }
+  ],
+  "source": {
+   "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio",
+   "accessed": "2026-09-30",
+   "label": "Imprensa"
+  },
+  "verified": "press"
+ }
+]

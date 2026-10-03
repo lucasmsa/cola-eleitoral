@@ -1,0 +1,355 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Cola Eleitoral, capa</title>
+<style>
+@font-face { font-family: Kalam; font-weight: 700; src: url(/public/fonts/kalam-latin-700.woff2) format('woff2'); }
+@font-face { font-family: Kalam; font-weight: 700; src: url(/public/fonts/kalam-latin-ext-700.woff2) format('woff2'); unicode-range: U+0100-024F; }
+@font-face { font-family: Bitter; font-weight: 500; src: url(/vendor/bitter/files/bitter-latin-500-normal.woff2) format('woff2'); }
+@font-face { font-family: Bitter; font-weight: 600; src: url(/vendor/bitter/files/bitter-latin-600-normal.woff2) format('woff2'); }
+:root { --paper: #fbfaf5; --ink: #1f2a44; --muted: #4b5670; --pen: #c2410c; --rule: #d7deec; }
+html, body { margin: 0; background: #111; }
+#stage { position: relative; overflow: hidden; background: var(--paper); }
+#cam, #paper, .layer { position: absolute; inset: 0; }
+#cam { transform-origin: 50% 50%; }
+canvas { position: absolute; display: block; }
+#word { position: absolute; overflow: visible; z-index: 5; }
+#word text { font-family: Kalam; font-weight: 700; fill: var(--ink); stroke: var(--ink); stroke-linejoin: round; paint-order: stroke; }
+#underline { fill: none; stroke: var(--pen); stroke-linecap: round; }
+#nib { fill: var(--pen); }
+#sub { position: absolute; z-index: 5; font-family: Bitter; font-weight: 500; color: var(--muted); line-height: 1.32; }
+#sub .w { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: 0.12em; margin-bottom: -0.12em; }
+#sub .w > span { display: inline-block; will-change: transform; }
+#mascot { z-index: 4; }
+#shadow { position: absolute; z-index: 3; border-radius: 50%; background: var(--ink); }
+#stamp { z-index: 6; }
+#turn { z-index: 20; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="cam">
+    <canvas id="paper"></canvas>
+    <div id="shadow"></div>
+    <canvas id="mascot"></canvas>
+    <svg id="word"></svg>
+    <div id="sub"></div>
+    <canvas id="stamp"></canvas>
+  </div>
+  <canvas id="turn"></canvas>
+</div>
+<script src="/vendor/canvas/rive.js"></script>
+<script>
+// ---------------------------------------------------------------- setup
+const Q = new URLSearchParams(location.search);
+const W = +(Q.get('w') || 1600), H = +(Q.get('h') || 900);
+const LOOP = Q.get('loop') === '1';
+const T_FILM = 9.0;                        // film ends on the cover frame
+const T_TURN = 0.45;                       // loop cut adds a page turn back to frame 0
+const T = LOOP ? T_FILM + T_TURN : T_FILM;
+const SS = 2;                              // canvas supersample
+const $ = (id) => document.getElementById(id);
+const stage = $('stage'); stage.style.width = W + 'px'; stage.style.height = H + 'px';
+
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const seg = (t, a, b) => clamp((t - a) / (b - a));
+const io = (x) => x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+const out = (x) => 1 - Math.pow(1 - x, 3);
+const o5 = (x) => 1 - Math.pow(1 - x, 5);
+const lerp = (a, b, x) => a + (b - a) * x;
+// closed-form damped spring step response (0 -> 1), damping ratio z >= 0.72
+function step(t, f = 2.2, z = 0.78) {
+  if (t <= 0) return 0;
+  const w = 2 * Math.PI * f, wd = w * Math.sqrt(1 - z * z);
+  return 1 - Math.exp(-z * w * t) * (Math.cos(wd * t) + (z * w / wd) * Math.sin(wd * t));
+}
+
+// ---------------------------------------------------------------- layout (one timeline, two framings)
+function layout() {
+  const wide = W / H >= 1.4;
+  if (wide) {
+    const m = H * 0.66;
+    return {
+      wide, mascot: { size: m, cx: W * 0.255, base: H * 0.875 },
+      word: { x: W * 0.455, y1: H * 0.37, y2: H * 0.575, fs: H * 0.19 },
+      sub: { x: W * 0.462, y: H * 0.655, w: W * 0.43, fs: H * 0.038 },
+      stamp: { w: W * 0.2 },
+      margin: W * 0.075, ruleGap: H * 0.052, ruleTop: H * 0.12,
+    };
+  }
+  const m = H * 0.43;
+  return {
+    wide, mascot: { size: m, cx: W * 0.5, base: H * 0.5 },
+    word: { x: W * 0.12, y1: H * 0.645, y2: H * 0.775, fs: H * 0.125, center: true },
+    sub: { x: W * 0.1, y: H * 0.83, w: W * 0.8, fs: H * 0.036, center: true },
+    stamp: { w: W * 0.3 },
+    margin: W * 0.09, ruleGap: H * 0.052, ruleTop: H * 0.1,
+  };
+}
+const L = layout();
+
+// ---------------------------------------------------------------- paper (rules draw in, margin line drops)
+const paper = $('paper');
+paper.width = W * SS; paper.height = H * SS; paper.style.width = W + 'px'; paper.style.height = H + 'px';
+const pctx = paper.getContext('2d');
+const rules = [];
+for (let y = L.ruleTop; y < H + L.ruleGap; y += L.ruleGap) rules.push(y);
+function drawPaper(t) {
+  pctx.setTransform(SS, 0, 0, SS, 0, 0);
+  pctx.clearRect(0, 0, W, H);
+  pctx.lineWidth = Math.max(1.5, H / 520);
+  pctx.strokeStyle = '#d7deec';
+  rules.forEach((y, k) => {
+    const p = io(seg(t, 0.05 + k * 0.028, 0.55 + k * 0.028));
+    if (p <= 0) return;
+    pctx.beginPath(); pctx.moveTo(0, y); pctx.lineTo(W * p, y); pctx.stroke();
+  });
+  const mp = io(seg(t, 0.25, 0.95));
+  if (mp > 0) {
+    pctx.strokeStyle = 'rgba(194,65,12,0.5)'; pctx.lineWidth = Math.max(2, H / 420);
+    pctx.beginPath(); pctx.moveTo(L.margin, 0); pctx.lineTo(L.margin, H * mp); pctx.stroke();
+  }
+}
+
+// ---------------------------------------------------------------- wordmark (hand-written letter by letter)
+const svg = $('word');
+svg.setAttribute('width', W); svg.setAttribute('height', H); svg.style.left = 0; svg.style.top = 0;
+const NS = 'http://www.w3.org/2000/svg';
+const lines = [{ text: 'Cola', y: L.word.y1 }, { text: 'Eleitoral', y: L.word.y2 }];
+const letters = [];
+let underline, nib;
+const WRITE_T0 = 3.35, PER = 0.13, STROKE_T = 0.2, FILL_T = 0.16;
+function buildWord() {
+  const c = document.createElement('canvas').getContext('2d');
+  c.font = `700 ${L.word.fs}px Kalam`;
+  let k = 0;
+  lines.forEach((ln, li) => {
+    const total = c.measureText(ln.text).width;
+    const x0 = L.word.center ? (W - total) / 2 : L.word.x + (li === 1 ? L.word.fs * 0.18 : 0);
+    ln.x0 = x0; ln.w = total;
+    [...ln.text].forEach((ch, ci) => {
+      const x = x0 + c.measureText(ln.text.slice(0, ci)).width;
+      const el = document.createElementNS(NS, 'text');
+      el.textContent = ch; el.setAttribute('x', x); el.setAttribute('y', ln.y);
+      el.setAttribute('font-size', L.word.fs);
+      el.setAttribute('stroke-width', L.word.fs * 0.02);
+      el.setAttribute('stroke-dasharray', `${L.word.fs * 4} ${L.word.fs * 4}`);
+      svg.appendChild(el);
+      letters.push({ el, t0: WRITE_T0 + k * PER + (li === 1 ? 0.12 : 0), x, w: c.measureText(ch).width, y: ln.y });
+      k++;
+    });
+  });
+  // hand-drawn underline under "Eleitoral", a little wobble, seeded
+  const ln = lines[1], y = ln.y + L.word.fs * 0.2, x0 = ln.x0 - L.word.fs * 0.05, x1 = ln.x0 + ln.w * 0.98;
+  underline = document.createElementNS(NS, 'path');
+  underline.setAttribute('id', 'underline');
+  underline.setAttribute('d', `M${x0} ${y + 6} C ${lerp(x0, x1, 0.3)} ${y - 4}, ${lerp(x0, x1, 0.62)} ${y + 10}, ${x1} ${y - 2}`);
+  underline.setAttribute('stroke-width', L.word.fs * 0.055);
+  svg.appendChild(underline);
+  // the stamp lands just past the end of "Cola", overlapping the line a little
+  const l0 = lines[0];
+  L.stamp.cx = l0.x0 + l0.w + L.stamp.w * 0.5;
+  L.stamp.cy = l0.y - L.word.fs * 0.32;
+  nib = document.createElementNS(NS, 'circle');
+  nib.setAttribute('id', 'nib'); nib.setAttribute('r', L.word.fs * 0.045);
+  svg.appendChild(nib);
+}
+const UL_T0 = () => letters[letters.length - 1].t0 + 0.22;
+function drawWord(t) {
+  let pen = null;
+  letters.forEach((l) => {
+    const s = seg(t, l.t0, l.t0 + STROKE_T), f = seg(t, l.t0 + STROKE_T * 0.55, l.t0 + STROKE_T * 0.55 + FILL_T);
+    l.el.style.visibility = s > 0 ? 'inherit' : 'hidden';
+    l.el.setAttribute('stroke-dashoffset', L.word.fs * 4 * (1 - out(s)));
+    l.el.style.fillOpacity = io(f);
+    l.el.style.strokeOpacity = 1;
+    if (s > 0 && s < 1) pen = { x: l.x + l.w * out(s), y: l.y - L.word.fs * (0.55 - 0.45 * out(s)) };
+  });
+  const len = underline.getTotalLength();
+  const u = io(seg(t, UL_T0(), UL_T0() + 0.42));
+  underline.style.strokeDasharray = `${len} ${len}`;
+  underline.style.strokeDashoffset = len * (1 - u);
+  underline.style.visibility = u > 0 ? 'inherit' : 'hidden';
+  if (!pen && u > 0 && u < 1) { const p = underline.getPointAtLength(len * u); pen = { x: p.x, y: p.y }; }
+  nib.style.visibility = pen ? 'inherit' : 'hidden';
+  if (pen) { nib.setAttribute('cx', pen.x); nib.setAttribute('cy', pen.y); }
+}
+
+// ---------------------------------------------------------------- subtitle (masked word rise)
+const SUB = 'Descubra quem pensa como você, com fonte em cada fato';
+const subEl = $('sub'); const words = [];
+function buildSub() {
+  Object.assign(subEl.style, { left: L.sub.x + 'px', top: L.sub.y + 'px', width: L.sub.w + 'px', fontSize: L.sub.fs + 'px', textAlign: L.sub.center ? 'center' : 'left' });
+  SUB.split(' ').forEach((w, i) => {
+    const o = document.createElement('span'); o.className = 'w';
+    const inner = document.createElement('span'); inner.textContent = w;
+    o.appendChild(inner); subEl.appendChild(o);
+    subEl.appendChild(w.endsWith(',') ? document.createElement('br') : document.createTextNode(' '));
+    words.push(inner);
+  });
+}
+const SUB_T0 = 5.75;
+function drawSub(t) {
+  words.forEach((w, i) => {
+    const p = step(t - (SUB_T0 + i * 0.055), 2.4, 0.8);
+    w.style.transform = `translateY(${(1 - p) * 105}%) rotate(${(1 - p) * 4}deg)`;
+  });
+}
+
+// ---------------------------------------------------------------- Rive: deterministic, stepped by seek(t)
+let RT;
+async function loadRiv(url) { return RT.load(new Uint8Array(await (await fetch(url)).arrayBuffer())); }
+class Sim {
+  constructor(file, artboard, machine, canvas, events, opts = {}) {
+    Object.assign(this, { file, artboardName: artboard, machineName: machine, canvas, events, opts });
+    this.renderer = RT.makeRenderer(canvas);
+    this.reset();
+  }
+  reset() {
+    if (this.sm) { this.sm.delete(); this.ab.delete(); }
+    this.ab = this.file.artboardByName(this.artboardName);
+    this.sm = new RT.StateMachineInstance(this.ab.stateMachineByName(this.machineName), this.ab);
+    this.vmi = this.file.defaultArtboardViewModel(this.ab).defaultInstance();
+    this.ab.bindViewModelInstance(this.vmi); this.sm.bindViewModelInstance(this.vmi);
+    this.time = 0; this.done = new Set();
+    this.sm.advanceAndApply(0);
+  }
+  advanceTo(t) {
+    if (t < this.time - 1e-9) this.reset();
+    const freeze = this.opts.freezeAt;
+    if (freeze !== undefined) t = Math.min(t, freeze);
+    for (const [i, ev] of this.events.entries()) {
+      if (this.done.has(i) || ev.t > t) continue;
+      this.chunk(ev.t); ev.fn(this.vmi); this.done.add(i);
+    }
+    this.chunk(t);
+  }
+  chunk(t) {
+    while (this.time < t - 1e-9) {
+      const dt = Math.min(1 / 120, t - this.time);
+      this.sm.advanceAndApply(dt); this.time += dt;
+    }
+  }
+  draw() {
+    const r = this.renderer, c = this.canvas;
+    r.beginFrame(true);
+    r.save();
+    const k = this.opts.inset || 0, ix = c.width * k, iy = c.height * k;
+    r.align(RT.Fit.contain, RT.Alignment.center, { minX: ix, minY: iy, maxX: c.width - ix, maxY: c.height - iy }, this.ab.bounds);
+    this.ab.draw(r);
+    r.restore();
+    r.flush();
+  }
+}
+
+const mascotC = $('mascot'), stampC = $('stamp'), turnC = $('turn'), shadowEl = $('shadow');
+let mascot, stamp, turn;
+const ARRIVE = 3.0, STAMP_T = 6.6, WALK_T0 = 0.55;
+function sizeCanvas(c, w, h) { c.width = Math.round(w * SS); c.height = Math.round(h * SS); c.style.width = w + 'px'; c.style.height = h + 'px'; }
+
+async function buildRive() {
+  rive.RuntimeLoader.setWasmUrl('/vendor/canvas/rive.wasm');
+  RT = await rive.RuntimeLoader.awaitInstance();
+  const [mf, sf, tf] = await Promise.all([loadRiv('/public/mascot/calango.riv'), loadRiv('/public/rive/carimbo.riv'), loadRiv('/public/rive/pagina.riv')]);
+  sizeCanvas(mascotC, L.mascot.size, L.mascot.size);
+  sizeCanvas(stampC, L.stamp.w * 2, L.stamp.w);
+  sizeCanvas(turnC, W, H); turnC.style.left = 0; turnC.style.top = 0;
+  const mood = (v) => (vmi) => { vmi.number('mood').value = v; };
+  mascot = new Sim(mf, 'Calango', 'Mascot', mascotC, [
+    { t: ARRIVE + 0.04, fn: (v) => v.trigger('nod').trigger() },
+    { t: ARRIVE + 0.3, fn: mood(3) },
+    { t: 5.7, fn: mood(0) },
+    { t: STAMP_T + 0.02, fn: mood(4) },
+  ]);
+  // the stamp freezes once it has landed (its own clip would fade it out at 0.33 s)
+  stamp = new Sim(sf, 'Carimbo', 'Stamp', stampC, [{ t: 0, fn: (v) => v.trigger('stamp').trigger() }], { freezeAt: 0.3, inset: 0.25 });
+  turn = new Sim(tf, 'Pagina', 'Turn', turnC, [{ t: 0, fn: (v) => v.trigger('turn').trigger() }]);
+}
+
+// ---------------------------------------------------------------- camera
+function camera(t) {
+  // settle in from a slight push, zoom keyed in log space; stamp punch decays; a breath of drift in the hold
+  const z0 = Math.log(1.07), z1 = 0;
+  let lz = lerp(z0, z1, io(seg(t, 0, 1.6)));
+  if (t > STAMP_T) lz += 0.014 * Math.exp(-(t - STAMP_T) * 7);
+  lz += 0.008 * io(seg(t, 7.2, T_FILM));
+  const shake = t > STAMP_T ? Math.exp(-(t - STAMP_T) * 18) * H * 0.004 * Math.sin((t - STAMP_T) * 90) : 0;
+  $('cam').style.transform = `translateY(${shake}px) scale(${Math.exp(lz)})`;
+}
+
+// ---------------------------------------------------------------- mascot walk (transform) + Rive
+function drawMascot(t) {
+  const m = L.mascot, x1 = m.cx, x0 = -m.size * 0.6;
+  const u = seg(t, WALK_T0, ARRIVE);
+  const p = 1 - Math.pow(1 - u, 2);          // walk at near-even pace, slow over the last steps
+  const v = u < 1 ? 2 * (1 - u) : 0;         // d(p)/du: 2 at the start, 0 on arrival
+  const x = lerp(x0, x1, p);
+  const stepLen = m.size * 0.21;
+  const phase = (x - x0) / stepLen;
+  const amp = clamp(v / 1.2);
+  const bob = -Math.abs(Math.sin(Math.PI * phase)) * m.size * 0.045 * amp;
+  const rock = Math.sin(Math.PI * phase) * 3.2 * amp;
+  const squash = 1 - 0.035 * (1 - Math.abs(Math.sin(Math.PI * phase))) * amp;
+  // landing settle after arrival
+  const land = t > ARRIVE ? Math.exp(-(t - ARRIVE) * 9) * Math.sin((t - ARRIVE) * 26) * 0.025 : 0;
+  const sy = squash - land, sx = 1 + (1 - squash) * 0.6 + land * 0.6;
+  mascotC.style.left = (x - m.size / 2) + 'px';
+  mascotC.style.top = (m.base - m.size + bob) + 'px';
+  mascotC.style.transformOrigin = '50% 100%';
+  mascotC.style.transform = `rotate(${rock}deg) scale(${sx}, ${sy})`;
+  const sw = m.size * 0.5 * (1 + bob / (m.size * 0.2));
+  Object.assign(shadowEl.style, { width: sw + 'px', height: m.size * 0.05 + 'px', left: (x - sw / 2) + 'px', top: (m.base - m.size * 0.035) + 'px', opacity: 0.09 * (1 + bob / (m.size * 0.15)) });
+  mascot.advanceTo(t);
+  mascot.draw();
+}
+
+function drawStamp(t) {
+  const s = L.stamp;
+  Object.assign(stampC.style, { left: (s.cx - s.w) + 'px', top: (s.cy - s.w / 2) + 'px' });
+  stampC.style.visibility = t >= STAMP_T ? 'inherit' : 'hidden';
+  if (t < STAMP_T) return;
+  stamp.advanceTo(t - STAMP_T);
+  stamp.draw();
+}
+
+// loop cut: page turn from the cover back to the empty page (t = 0 underneath once the sheet covers)
+function drawTurn(t) {
+  turnC.style.visibility = LOOP && t >= T_FILM ? 'inherit' : 'hidden';
+  if (!(LOOP && t >= T_FILM)) return;
+  turn.advanceTo(t - T_FILM);
+  turn.draw();
+}
+
+// ---------------------------------------------------------------- seek
+window.seek = async (t) => {
+  t = clamp(t, 0, T);
+  // in the loop cut, once the sheet covers (13 frames in) the page underneath is already back at t = 0
+  const scene = LOOP && t >= T_FILM + 13 / 60 ? 0 : Math.min(t, T_FILM);
+  camera(scene); drawPaper(scene); drawMascot(scene); drawWord(scene); drawSub(scene); drawStamp(scene); drawTurn(t);
+  RT.resolveAnimationFrame();
+};
+window.DURATION = T;
+
+(async () => {
+  await document.fonts.load(`700 ${L.word.fs}px Kalam`);
+  await document.fonts.load(`500 ${L.sub.fs}px Bitter`);
+  await document.fonts.ready;
+  buildWord(); buildSub();
+  await buildRive();
+  await window.seek(0);
+  window.ready = true;
+})();
+
+// preview controls (the only wall clock; the render never uses it)
+let playing = false, t0 = 0, tp = 0;
+addEventListener('keydown', (e) => {
+  if (e.code === 'Space') { playing = !playing; t0 = performance.now() - tp * 1000; if (playing) requestAnimationFrame(loop); }
+  if (e.key === 'ArrowRight') { tp = Math.min(T, tp + 1 / 60); seek(tp); }
+  if (e.key === 'ArrowLeft') { tp = Math.max(0, tp - 1 / 60); seek(tp); }
+  if (e.key === 'r') { tp = 0; seek(0); }
+});
+function loop(now) { if (!playing) return; tp = ((now - t0) / 1000) % T; seek(tp); requestAnimationFrame(loop); }
+</script>
+</body>
+</html>

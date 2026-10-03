@@ -1,0 +1,13 @@
+import { chromium } from '@playwright/test';
+import fs from 'node:fs';
+import path from 'node:path';
+const [out, size, start, count] = process.argv.slice(2);
+const dir = 'public/portraits';
+const files = fs.readdirSync(dir).filter((f) => f.endsWith('.svg')).sort().slice(Number(start), Number(start) + Number(count));
+const cells = files.map((f) => `<figure><img src="data:image/svg+xml;base64,${fs.readFileSync(path.join(dir, f)).toString('base64')}" width="${size}"><figcaption>${f.replace('.svg', '')}</figcaption></figure>`).join('');
+const html = `<html><body style="margin:0;background:#fbfaf5;font:10px sans-serif;display:flex;flex-wrap:wrap;gap:6px;padding:6px">${cells}</body></html>`;
+const b = await chromium.launch({ executablePath: process.env.PW_CHROMIUM });
+const p = await b.newPage({ viewport: { width: 1400, height: 900 } });
+await p.setContent(html);
+await p.screenshot({ path: out, fullPage: true });
+await b.close();
