@@ -168,48 +168,6 @@
   "checkId": "check_alpb:7"
  },
  {
-  "id": "plat-governador-80-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe desmilitarizar a PM e criar uma Polícia Cidadã (p. 5).",
-  "quote": "desmilitarização da Polícia Militar: Criação da Polícia Cidadã, fundamentada nos direitos humanos",
-  "page": 5,
-  "date": "2026-08-06",
-  "lowDiscrimination": false,
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 5), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "checkId": "check_alpb:8"
- },
- {
-  "id": "plat-governador-29-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe dissolver a Polícia Militar (p. 5).",
-  "quote": "Dissolução da polícia militar e de todo o aparato repressivo",
-  "page": 5,
-  "date": "2026-08-14",
-  "lowDiscrimination": false,
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 5), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "checkId": "check_alpb:9"
- },
- {
   "id": "rec-alpb-22453-deputado_estadual-43789",
   "subject": {
    "type": "candidate",
@@ -226,7 +184,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:10"
+  "checkId": "check_alpb:8"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-11113",
@@ -245,7 +203,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:11"
+  "checkId": "check_alpb:9"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-43147",
@@ -264,7 +222,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:12"
+  "checkId": "check_alpb:10"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-10660",
@@ -283,7 +241,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:13"
+  "checkId": "check_alpb:11"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-10110",
@@ -302,7 +260,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:14"
+  "checkId": "check_alpb:12"
  },
  {
   "id": "rec-alpb-22453-deputado_federal-2211",
@@ -321,7 +279,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:15"
+  "checkId": "check_alpb:13"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-11369",
@@ -340,7 +298,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:16"
+  "checkId": "check_alpb:14"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-10888",
@@ -359,7 +317,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:17"
+  "checkId": "check_alpb:15"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-10456",
@@ -378,7 +336,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:18"
+  "checkId": "check_alpb:16"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-11333",
@@ -397,7 +355,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:19"
+  "checkId": "check_alpb:17"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-22999",
@@ -416,7 +374,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:20"
+  "checkId": "check_alpb:18"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-22190",
@@ -435,7 +393,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:21"
+  "checkId": "check_alpb:19"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-13400",
@@ -454,7 +412,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:22"
+  "checkId": "check_alpb:20"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-65123",
@@ -473,7 +431,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:23"
+  "checkId": "check_alpb:21"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-15555",
@@ -492,7 +450,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:24"
+  "checkId": "check_alpb:22"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-11789",
@@ -511,7 +469,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:25"
+  "checkId": "check_alpb:23"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-15123",
@@ -530,7 +488,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:26"
+  "checkId": "check_alpb:24"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-11777",
@@ -549,7 +507,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:27"
+  "checkId": "check_alpb:25"
  },
  {
   "id": "rec-alpb-22453-deputado_federal-1033",
@@ -568,7 +526,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:28"
+  "checkId": "check_alpb:26"
  },
  {
   "id": "rec-alpb-22453-deputado_estadual-15100",
@@ -587,7 +545,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:29"
+  "checkId": "check_alpb:27"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-10444",
@@ -606,7 +564,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:30"
+  "checkId": "check_alpb:28"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-43147",
@@ -625,7 +583,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:31"
+  "checkId": "check_alpb:29"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11113",
@@ -644,7 +602,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:32"
+  "checkId": "check_alpb:30"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-10888",
@@ -663,7 +621,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:33"
+  "checkId": "check_alpb:31"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-15111",
@@ -682,7 +640,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:34"
+  "checkId": "check_alpb:32"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-43789",
@@ -701,7 +659,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:35"
+  "checkId": "check_alpb:33"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-13400",
@@ -720,7 +678,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:36"
+  "checkId": "check_alpb:34"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-10456",
@@ -739,7 +697,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:37"
+  "checkId": "check_alpb:35"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-22190",
@@ -758,7 +716,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:38"
+  "checkId": "check_alpb:36"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11111",
@@ -777,7 +735,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:39"
+  "checkId": "check_alpb:37"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-65123",
@@ -796,7 +754,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:40"
+  "checkId": "check_alpb:38"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11333",
@@ -815,7 +773,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:41"
+  "checkId": "check_alpb:39"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-15999",
@@ -834,7 +792,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:42"
+  "checkId": "check_alpb:40"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11222",
@@ -853,7 +811,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:43"
+  "checkId": "check_alpb:41"
  },
  {
   "id": "rec-alpb-49945-deputado_federal-2211",
@@ -872,7 +830,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:44"
+  "checkId": "check_alpb:42"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-44555",
@@ -891,7 +849,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:45"
+  "checkId": "check_alpb:43"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-15123",
@@ -910,7 +868,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:46"
+  "checkId": "check_alpb:44"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-65555",
@@ -929,7 +887,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:47"
+  "checkId": "check_alpb:45"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11611",
@@ -948,7 +906,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:48"
+  "checkId": "check_alpb:46"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11369",
@@ -967,7 +925,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:49"
+  "checkId": "check_alpb:47"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11777",
@@ -986,7 +944,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:50"
+  "checkId": "check_alpb:48"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-10123",
@@ -1005,7 +963,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:51"
+  "checkId": "check_alpb:49"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-10660",
@@ -1024,7 +982,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:52"
+  "checkId": "check_alpb:50"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11011",
@@ -1043,7 +1001,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:53"
+  "checkId": "check_alpb:51"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-22999",
@@ -1062,7 +1020,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:54"
+  "checkId": "check_alpb:52"
  },
  {
   "id": "rec-alpb-49945-deputado_federal-1022",
@@ -1081,7 +1039,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:55"
+  "checkId": "check_alpb:53"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-11789",
@@ -1100,7 +1058,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:56"
+  "checkId": "check_alpb:54"
  },
  {
   "id": "rec-alpb-49945-deputado_estadual-15100",
@@ -1119,6 +1077,6 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:57"
+  "checkId": "check_alpb:55"
  }
 ]

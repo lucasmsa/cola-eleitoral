@@ -56,9 +56,6 @@ AXES = [
     {"questionId": "amb-licenciamento", "axis": "economico", "direction": 1, "rationale": _E + "mais mercado, porque reduz exigências prévias do Estado sobre empreendimentos."},
     {"questionId": "amb-agrotoxicos", "axis": "economico", "direction": 1, "rationale": _E + "mais mercado, porque acelera e simplifica a liberação de produtos pelo Estado."},
     {"questionId": "pb-concessoes-ppp", "axis": "economico", "direction": 1, "rationale": _E + "mais mercado, porque passa a operação de serviços públicos a empresas privadas."},
-    {"questionId": "pb-ppp-cagepa", "axis": "economico", "direction": 1, "rationale": _E + "mais mercado, porque mantém um serviço público operado por empresa privada."},
-    {"questionId": "pb-vale-saude", "axis": "economico", "direction": 1, "rationale": _E + "mais mercado, porque leva dinheiro público da saúde para a rede privada por escolha do paciente."},
-    {"questionId": "pb-empresas-publicas", "axis": "economico", "direction": -1, "rationale": _E + "mais Estado, porque cria empresas controladas pelo governo."},
     {"questionId": "seg-saidinha", "axis": "social", "direction": 1, "rationale": _S + "conservador, na convenção usual que associa punição mais dura a ordem e tradição."},
     {"questionId": "seg-drogas", "axis": "social", "direction": 1, "rationale": _S + "conservador, porque mantém a criminalização de uma conduta individual."},
     {"questionId": "seg-armas", "axis": "social", "direction": 1, "rationale": _S + "conservador, na convenção usada no debate brasileiro, embora defensores também invoquem liberdade individual."},
@@ -66,7 +63,6 @@ AXES = [
     {"questionId": "soc-marco-temporal", "axis": "social", "direction": 1, "rationale": _S + "conservador, na convenção usual que associa direitos territoriais indígenas ao campo progressista."},
     {"questionId": "soc-aborto", "axis": "social", "direction": -1, "rationale": _S + "progressista, porque amplia a autonomia individual sobre um tema moral."},
     {"questionId": "soc-cotas", "axis": "social", "direction": -1, "rationale": _S + "progressista, porque mantém ação afirmativa racial e social."},
-    {"questionId": "pb-desmilitarizar-pm", "axis": "social", "direction": -1, "rationale": _S + "progressista, na convenção usual que associa a estrutura militar da polícia ao campo da ordem."},
     {"questionId": "pb-cac-arma", "axis": "social", "direction": 1, "rationale": _S + "conservador, na mesma convenção usada para acesso a armas."},
     {"questionId": "pb-nome-social", "axis": "social", "direction": -1, "rationale": _S + "progressista, porque amplia o reconhecimento da identidade de gênero."},
 ]

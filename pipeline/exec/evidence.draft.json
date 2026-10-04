@@ -224,70 +224,6 @@
    "quote": "Não privatizamos, nem vamos privatizar a Cagepa. A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba e continuará comandando o abastecimento de água e esgotamento sanitário do Estado"
   },
   {
-   "id": "exec-governador-11-pb-concessoes-ppp-me-2026",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-11"
-   },
-   "questionId": "pb-concessoes-ppp",
-   "kind": "platform",
-   "position": 1,
-   "detail": "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
-   "date": "2026-05-15",
-   "source": {
-    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-    "accessed": "2026-10-01",
-    "label": "Movimento Econômico, 15/05/2026"
-   },
-   "checkId": "exec-governador-11-pb-concessoes-ppp-me-2026",
-   "checks": [
-    {
-     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "contains": [
-      "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população"
-     ],
-     "near": [
-      "Lucas Ribeiro"
-     ],
-     "published": "2026-05-15"
-    }
-   ],
-   "quote": "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população."
-  },
-  {
-   "id": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-11"
-   },
-   "questionId": "pb-concessoes-ppp",
-   "kind": "record",
-   "position": 1,
-   "detail": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
-   "date": "2026-05-15",
-   "source": {
-    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-    "accessed": "2026-10-01",
-    "label": "Movimento Econômico, 15/05/2026"
-   },
-   "checkId": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
-   "checks": [
-    {
-     "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "contains": [
-      "O governador Lucas Ribeiro participou do certame na B3",
-      "85 cidades"
-     ],
-     "published": "2026-05-15"
-    },
-    {
-     "governor_on": "2026-05-15",
-     "expect": "LUCAS"
-    }
-   ],
-   "quote": "O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado."
-  },
-  {
    "id": "exec-governador-11-pb-incentivos-fiscais-plano",
    "subject": {
     "type": "candidate",
@@ -488,10 +424,10 @@
     "type": "candidate",
     "id": "governador-11"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": 1,
-   "detail": "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.",
+   "detail": "No leilão da PPP do esgoto da Cagepa, defendeu a parceria com a empresa vencedora.",
    "date": "2026-05-15",
    "source": {
     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
@@ -519,10 +455,10 @@
     "type": "candidate",
     "id": "governador-11"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "record",
    "position": 1,
-   "detail": "Seu governo levou a PPP a leilão na B3 em 15/05/2026.",
+   "detail": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP do esgoto de 85 cidades atendidas pela Cagepa.",
    "date": "2026-05-15",
    "source": {
     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
@@ -534,7 +470,8 @@
     {
      "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "contains": [
-      "O governador Lucas Ribeiro participou do certame na B3"
+      "O governador Lucas Ribeiro participou do certame na B3",
+      "85 cidades"
      ],
      "published": "2026-05-15"
     },
@@ -551,10 +488,10 @@
     "type": "candidate",
     "id": "governador-22"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": -1,
-   "detail": "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+   "detail": "Na sabatina da CBN, disse que cancelaria a PPP do esgoto da Cagepa no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
    "date": "2026-07-15",
    "source": {
     "url": "https://www.youtube.com/watch?v=IWccMOrxe2o&t=907s",
@@ -582,10 +519,10 @@
     "type": "candidate",
     "id": "governador-15"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": -1,
-   "detail": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
+   "detail": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP do esgoto da Cagepa.",
    "date": "2026-09-28",
    "source": {
     "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5507s",
@@ -628,10 +565,10 @@
     "type": "candidate",
     "id": "governador-80"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": -1,
-   "detail": "Disse que acabará com a PPP e não fará PPPs no governo.",
+   "detail": "Disse que acabará com a PPP do esgoto da Cagepa e não fará PPPs no governo.",
    "date": "2026-09-01",
    "source": {
     "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=2835s",
@@ -659,10 +596,10 @@
     "type": "candidate",
     "id": "governador-29"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": -1,
-   "detail": "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
+   "detail": "Perguntado se desfaria a PPP do esgoto da Cagepa, respondeu que sim e que é contra qualquer privatização.",
    "date": "2026-09-16",
    "source": {
     "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
@@ -691,161 +628,6 @@
     }
    ],
    "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização"
-  },
-  {
-   "id": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-27"
-   },
-   "questionId": "pb-vale-saude",
-   "kind": "platform",
-   "position": 1,
-   "detail": "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
-   "date": "2026-08-18",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=3692s",
-    "accessed": "2026-10-01",
-    "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 1:01:32 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/6tt_yulTpJ0.pt-orig.txt",
-     "video": "6tt_yulTpJ0",
-     "at": 3692,
-     "contains": "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "Pedro Coutinho",
-     "channel": "GClickTV",
-     "cues": []
-    }
-   ],
-   "quote": "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular"
-  },
-  {
-   "id": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-29"
-   },
-   "questionId": "pb-vale-saude",
-   "kind": "platform",
-   "position": -1,
-   "detail": "Disse que dinheiro público deve ir para órgão público.",
-   "date": "2026-09-16",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=218s",
-    "accessed": "2026-10-01",
-    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:03:38 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
-     "video": "dvfM_oTDPwQ",
-     "at": 218,
-     "contains": "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "Camilo Duarte",
-     "channel": "TV Correio",
-     "cues": []
-    }
-   ],
-   "quote": "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população"
-  },
-  {
-   "id": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-80"
-   },
-   "questionId": "pb-empresas-publicas",
-   "kind": "platform",
-   "position": 1,
-   "detail": "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
-   "date": "2026-09-01",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=750s",
-    "accessed": "2026-10-01",
-    "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:12:30 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/W1Vm4q95CHY.pt-orig.txt",
-     "video": "W1Vm4q95CHY",
-     "at": 750,
-     "contains": "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "ENTREVISTA COM YURI EZEQUIEL",
-     "channel": "Sofesta FM",
-     "cues": []
-    }
-   ],
-   "quote": "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço"
-  },
-  {
-   "id": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-80"
-   },
-   "questionId": "pb-empresas-publicas",
-   "kind": "platform",
-   "position": 1,
-   "detail": "Defendeu uma empresa pública de transporte intermunicipal.",
-   "date": "2026-08-18",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=2Ufs3qhUig8&t=989s",
-    "accessed": "2026-10-01",
-    "label": "O Norte Debate, sabatina com Yuri Ezequiel, 18/08/2026, em 0:16:29 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/2Ufs3qhUig8.pt-orig.txt",
-     "video": "2Ufs3qhUig8",
-     "at": 989,
-     "contains": "nós defendemos uma empresa pública de transporte intermunicipal",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "SABATINA COM YURI EZEQUIEL",
-     "channel": "SISTEMA O NORTE",
-     "cues": []
-    }
-   ],
-   "quote": "nós defendemos uma empresa pública de transporte intermunicipal"
-  },
-  {
-   "id": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-27"
-   },
-   "questionId": "pb-empresas-publicas",
-   "kind": "platform",
-   "position": -1,
-   "detail": "Defendeu o estado mínimo em todas as áreas fora da segurança.",
-   "date": "2026-08-18",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=1542s",
-    "accessed": "2026-10-01",
-    "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 0:25:42 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/6tt_yulTpJ0.pt-orig.txt",
-     "video": "6tt_yulTpJ0",
-     "at": 1542,
-     "contains": "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "Pedro Coutinho",
-     "channel": "GClickTV",
-     "cues": []
-    }
-   ],
-   "quote": "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação"
   },
   {
    "id": "exec-governador-80-pb-incentivos-fiscais-W1Vm4q95CHY-728",
@@ -1125,68 +907,6 @@
     }
    ],
    "quote": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão"
-  },
-  {
-   "id": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-80"
-   },
-   "questionId": "pb-desmilitarizar-pm",
-   "kind": "platform",
-   "position": 1,
-   "detail": "Defendeu a desmilitarização da Polícia Militar.",
-   "date": "2026-09-21",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=1Qu4nlbt1G8&t=40s",
-    "accessed": "2026-10-01",
-    "label": "TV Correio, entrevista com Yuri Ezequiel (parte 2), 21/09/2026, em 0:00:40 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/1Qu4nlbt1G8.pt-orig.txt",
-     "video": "1Qu4nlbt1G8",
-     "at": 40,
-     "contains": "Nós defendemos a desmilitarização da Polícia Militar",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "Yuri Ezequiel",
-     "channel": "TV Correio",
-     "cues": []
-    }
-   ],
-   "quote": "Nós defendemos a desmilitarização da Polícia Militar"
-  },
-  {
-   "id": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
-   "subject": {
-    "type": "candidate",
-    "id": "governador-29"
-   },
-   "questionId": "pb-desmilitarizar-pm",
-   "kind": "platform",
-   "position": 1,
-   "detail": "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
-   "date": "2026-09-16",
-   "source": {
-    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=122s",
-    "accessed": "2026-10-01",
-    "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:02:02 (legenda automática do YouTube)"
-   },
-   "checkId": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
-   "checks": [
-    {
-     "captxt": "../gov/raw/yt/dvfM_oTDPwQ.pt-orig.txt",
-     "video": "dvfM_oTDPwQ",
-     "at": 122,
-     "contains": "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje",
-     "meta": "../gov/raw/yt/meta2.txt",
-     "title_contains": "Camilo Duarte",
-     "channel": "TV Correio",
-     "cues": []
-    }
-   ],
-   "quote": "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje"
   }
  ],
  "controls": [
@@ -1422,7 +1142,7 @@
     "type": "candidate",
     "id": "governador-15"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": -1,
    "detail": "control",
@@ -1467,7 +1187,7 @@
     "type": "candidate",
     "id": "governador-22"
    },
-   "questionId": "pb-ppp-cagepa",
+   "questionId": "pb-concessoes-ppp",
    "kind": "platform",
    "position": 1,
    "detail": "control",
@@ -1524,15 +1244,20 @@
  ],
  "questions": [
   {
-   "id": "pb-ppp-cagepa",
+   "id": "pb-concessoes-ppp",
    "area": "economia",
    "offices": [
     "governador",
     "deputado_estadual"
    ],
-   "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
-   "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+   "statement": "A Paraíba deve passar mais obras e serviços públicos, como o esgoto das cidades, para empresas privadas fazerem por contrato, recebendo tarifa ou pagamento do governo.",
+   "context": "Concessão e PPP (parceria público-privada) são contratos em que uma empresa privada constrói ou opera um serviço público e recebe tarifa dos usuários. Na PPP, o governo também paga a empresa, e o contrato dura de 5 a 35 anos. Em 15/05/2026 a Paraíba leiloou a PPP do esgoto de 85 cidades atendidas pela Cagepa, num contrato de 25 anos. A Cagepa continua pública e segue cuidando da água.",
    "sources": [
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+     "accessed": "2026-10-01",
+     "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+    },
     {
      "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "accessed": "2026-10-01",
@@ -1544,14 +1269,44 @@
      "label": "ClickCZ, 18/05/2026"
     }
    ],
+   "options": [
+    {
+     "label": "Não: obras e serviços como o esgoto devem ficar com o governo",
+     "value": -1
+    },
+    {
+     "label": "Só em casos pontuais, com regras mais duras",
+     "value": -0.5
+    },
+    {
+     "label": "Depende do caso, não sei",
+     "value": 0
+    },
+    {
+     "label": "Sim, mas revendo contratos como o da Cagepa",
+     "value": 0.5
+    },
+    {
+     "label": "Sim, mais parcerias com empresas privadas",
+     "value": 1
+    }
+   ],
    "checks": [
+    {
+     "file": "raw/l11079.htm",
+     "encoding": "cp1252",
+     "contains": [
+      "adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado",
+      "não inferior a 5 (cinco), nem superior a 35 (trinta e cinco) anos"
+     ]
+    },
     {
      "web": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "contains": [
-      "venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário",
+      "leilão da Parceria Público-Privada (PPP) de esgotamento sanitário",
       "85 cidades",
       "25 anos",
-      "único lance"
+      "O abastecimento de água segue integralmente sob responsabilidade da Cagepa"
      ],
      "published": "2026-05-15"
     },
@@ -1564,52 +1319,91 @@
    ]
   },
   {
-   "id": "pb-vale-saude",
-   "area": "social",
-   "offices": [
-    "governador",
-    "deputado_estadual"
-   ],
-   "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
-   "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
-   "sources": [
-    {
-     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-     "accessed": "2026-10-01",
-     "label": "Constituição Federal, art. 199"
-    }
-   ],
-   "checks": [
-    {
-     "file": "../alpb/raw/cf88.html",
-     "encoding": "cp1252",
-     "contains": [
-      "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "pb-empresas-publicas",
+   "id": "pb-incentivos-fiscais",
    "area": "economia",
    "offices": [
     "governador",
     "deputado_estadual"
    ],
-   "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
-   "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+   "statement": "A Paraíba deve continuar cobrando menos imposto de indústrias que vêm para o estado, exigindo em troca que gerem empregos.",
+   "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Na Paraíba, o FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba) concede crédito de ICMS, o imposto estadual sobre a circulação de mercadorias, a indústrias aprovadas pelo conselho do fundo. Os planos de governo divergem: uns mantêm os incentivos com metas de emprego, outro propõe acabar com eles.",
    "sources": [
     {
-     "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/materialegislativa/2015/49332/49332_texto_integral.pdf",
      "accessed": "2026-10-01",
-     "label": "ClickCZ, 18/05/2026"
+     "label": "ALPB, Projeto de Lei 639/2015 do Poder Executivo"
+    },
+    {
+     "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+     "accessed": "2026-10-01",
+     "label": "Diário Oficial do Estado da Paraíba nº 18.637, 25/07/2026"
+    },
+    {
+     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+     "accessed": "2026-10-01",
+     "label": "Constituição Federal, art. 155"
+    },
+    {
+     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+     "accessed": "2026-10-01",
+     "label": "Planos de governo PB 2026 registrados no TSE"
+    }
+   ],
+   "options": [
+    {
+     "label": "Não: acabar com os descontos de imposto",
+     "value": -1
+    },
+    {
+     "label": "Só para empresas pequenas e médias",
+     "value": -0.5
+    },
+    {
+     "label": "Não tenho opinião formada",
+     "value": 0
+    },
+    {
+     "label": "Sim, com metas e devolução se a empresa não cumprir",
+     "value": 0.5
+    },
+    {
+     "label": "Sim, e ampliar para atrair mais indústrias",
+     "value": 1
     }
    ],
    "checks": [
     {
-     "web": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+     "pdf": "../alpb/raw/fain/49332.pdf",
      "contains": [
-      "A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba"
+      "Conselho Deliberativo do Fundo de Apoio ao Desenvolvimento Industrial da Paraíba - FAIN"
+     ]
+    },
+    {
+     "pdf": "raw/sapl/doe_2026-07-25.pdf",
+     "page": 1,
+     "contains": [
+      "do Conselho Delibera- tivo do FAIN, que aprovam a concessão de crédito presumido de ICMS"
+     ]
+    },
+    {
+     "file": "../alpb/raw/cf88.html",
+     "encoding": "cp1252",
+     "contains": [
+      "operações relativas à circulação de mercadorias"
+     ]
+    },
+    {
+     "pdf": "../raw/plans/2026PB150002540204_01.pdf",
+     "page": 2,
+     "contains": [
+      "Fim imediato de todos os subsídios e incentivos fiscais"
+     ]
+    },
+    {
+     "pdf": "../raw/plans/2026PB150002544133_01.pdf",
+     "page": 55,
+     "contains": [
+      "metas públicas de investimento, empregos e salários"
      ]
     }
    ]

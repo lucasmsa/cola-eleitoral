@@ -56,7 +56,8 @@ def main():
         ("NEG yt title says Lucas Ribeiro deixa disputa", holds(notices[0]["sources"][0], "Lucas Ribeiro deixa disputa")),
         ("NEG law says 30 dias", holds(notices[0]["sources"][1], "até 30 (trinta) dias antes do pleito")),
         ("NEG TSE says DEFERIDO", norm(source_text(notices[0]["sources"][2])) == "deferido"),
-        ("NEG JP says Cícero cannot run", holds(notices[1]["sources"][1], "Cícero Lucena não pode concorrer")),
+        ("NEG score was four votes", holds(notices[1]["sources"][2], "o placar já contava quatro votos pelo indefer")),
+        ("NEG destaque by another minister", holds(notices[1]["sources"][2], "pedido de destaque do ministro Nunes Marques")),
         ("NEG Cícero status INDEFERIDO", norm(source_text(notices[1]["sources"][0])) == "indeferido"),
     ]
     for name, passed in controls:

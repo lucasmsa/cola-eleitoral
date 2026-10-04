@@ -1304,159 +1304,96 @@
  {
   "id": "exp-pb-concessoes-ppp-whatItIs-0",
   "status": "PASS",
-  "claim": "Concessão é quando o governo passa uma obra ou serviço para uma empresa operar por contrato. PPP (parceria público-privada) é um tipo de concessão em que o governo também paga parte da remuneração da empresa.",
+  "claim": "Concessão é um contrato em que uma empresa privada constrói ou opera um serviço público por vários anos. Na PPP (parceria público-privada), além da tarifa paga pelos usuários, o governo também paga a empresa.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-whatItIs-1",
   "status": "PASS",
-  "claim": "Na PPP administrativa, o próprio governo é o usuário do serviço e paga por ele, mesmo que a empresa também construa a obra.",
+  "claim": "Em 15/05/2026 o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia de água e esgoto do governo da Paraíba.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-inPractice-0",
   "status": "PASS",
-  "claim": "Concessão não é venda: a empresa continua sendo do governo, ou o serviço continua público, mas a operação passa a uma empresa privada por prazo definido.",
+  "claim": "O contrato da Cagepa dura 25 anos e prevê R$ 3 bilhões em obras de esgoto.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-inPractice-1",
   "status": "PASS",
-  "claim": "Em 2026 a Paraíba passou a uma empresa privada, por PPP de 25 anos, o esgoto de 85 cidades atendidas pela Cagepa.",
+  "claim": "A água continua com a Cagepa, que também fiscaliza a empresa. A empresa privada cuida da coleta e do tratamento de esgoto.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-concessoes-ppp-inPractice-2",
+  "status": "PASS",
+  "claim": "Hoje o esgoto chega a 6,71% das casas urbanas no Alto Piranhas e a 46,43% no Litoral.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-argsFor-0",
   "status": "PASS",
-  "claim": "O economista Armando Castelar (FGV) argumenta que o poder público não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
+  "claim": "O economista Armando Castelar (FGV) argumenta que o governo não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-argsFor-1",
   "status": "PASS",
-  "claim": "O consultor do Senado Pedro Fernando Nery lembra que, com uma agência reguladora forte, o governo mantém poder para exigir obrigações sociais das empresas.",
+  "claim": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-argsAgainst-0",
   "status": "PASS",
-  "claim": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e Nordeste.",
+  "claim": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e do Nordeste.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-argsAgainst-1",
   "status": "PASS",
-  "claim": "O senador Rogério Carvalho avaliou que abrir o setor pode desvalorizar as empresas públicas e prejudicar o patrimônio delas.",
+  "claim": "O senador Rogério Carvalho avaliou que abrir o setor a empresas privadas pode desvalorizar as empresas públicas de saneamento.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-nuance-0",
   "status": "PASS",
-  "claim": "Especialistas ouvidos pelo Senado dizem que o tema ficou menos ideológico: a esquerda aceita concessões e a direita aceita algumas estatais.",
+  "claim": "Concessão não é venda da empresa: a Cagepa continua do governo. O que passa à empresa privada é a obra e a operação do esgoto, por prazo definido.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-concessoes-ppp-nuance-1",
   "status": "PASS",
-  "claim": "Concessões também dão problema: o consultor Pedro Nery cita concessionária de aeroporto que pediu para devolver a operação ao governo.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-whatItIs-0",
-  "status": "PASS",
-  "claim": "Em 15/05/2026, o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia estadual de água e esgoto da Paraíba.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-whatItIs-1",
-  "status": "PASS",
-  "claim": "O contrato cobre 85 municípios, incluindo João Pessoa, dura 25 anos e prevê R$ 3 bilhões em investimentos.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-inPractice-0",
-  "status": "PASS",
-  "claim": "A água continua com a Cagepa, que também fiscaliza a parceria. A empresa privada cuida da coleta e do tratamento de esgoto.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-inPractice-1",
-  "status": "PASS",
-  "claim": "Hoje o esgoto urbano atende 6,71% no Alto Piranhas e 46,43% no Litoral. A meta é chegar a 90% até 2039.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-inPractice-2",
-  "status": "PASS",
-  "claim": "Só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-argsFor-0",
-  "status": "PASS",
-  "claim": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-argsFor-1",
-  "status": "PASS",
-  "claim": "Luciene Machado, do BNDES, que estruturou o projeto, disse que o modelo transforma investimentos em benefícios concretos.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-argsAgainst-0",
-  "status": "PASS",
-  "claim": "Críticos do modelo nacional, como o senador Weverton, dizem que o investimento privado em saneamento tende a não chegar às cidades pequenas.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-argsAgainst-1",
-  "status": "PASS",
-  "claim": "O senador Rogério Carvalho avaliou que a entrada de empresas privadas pode desvalorizar as estatais de saneamento.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-nuance-0",
-  "status": "PASS",
-  "claim": "A PPP é consequência do marco nacional do saneamento de 2020, que obriga licitação aberta a empresas públicas e privadas e fixa metas de universalização.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-ppp-cagepa-nuance-1",
-  "status": "PASS",
-  "claim": "O prazo da Paraíba (2039) é mais longo que o padrão do marco nacional (2033), por decisão do colegiado regional para segurar a tarifa.",
+  "claim": "No leilão da Cagepa só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-incentivos-fiscais-whatItIs-0",
   "status": "PASS",
-  "claim": "Incentivo fiscal é quando o estado cobra menos ICMS de uma empresa para atrair investimento para seu território.",
+  "claim": "Incentivo fiscal é quando o estado cobra menos ICMS, o imposto estadual sobre mercadorias, de uma empresa para atraí-la ao estado.",
   "why": [],
   "live": false
  },
  {
   "id": "exp-pb-incentivos-fiscais-whatItIs-1",
+  "status": "PASS",
+  "claim": "Na Paraíba, esse desconto vem do FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba): um conselho do governo aprova, por resolução, o benefício de cada indústria.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-pb-incentivos-fiscais-whatItIs-2",
   "status": "PASS",
   "claim": "Quando vários estados fazem isso ao mesmo tempo, disputando empresas, chama-se guerra fiscal.",
   "why": [],
@@ -1515,76 +1452,6 @@
   "id": "exp-pb-incentivos-fiscais-nuance-1",
   "status": "PASS",
   "claim": "Para o consultor, o ganho para a população do próprio estado tende a ser menor que o da empresa beneficiada.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-whatItIs-0",
-  "status": "PASS",
-  "claim": "Pela Constituição, as polícias militares são forças auxiliares e reserva do Exército e ficam sob o comando dos governadores.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-whatItIs-1",
-  "status": "PASS",
-  "claim": "Desmilitarizar é transformar a PM em polícia civil, sem a estrutura e a justiça militares. A proposta mais conhecida é a PEC 51/2013.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-inPractice-0",
-  "status": "PASS",
-  "claim": "Como o caráter militar das PMs está na Constituição, mudá-lo exige uma emenda constitucional votada no Congresso. O governador comanda a PM, mas não a desmilitariza sozinho.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-inPractice-1",
-  "status": "PASS",
-  "claim": "A PEC 51 também prevê o \"ciclo completo\": a mesma polícia patrulharia e investigaria, tarefas hoje divididas entre PM e Polícia Civil.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-argsFor-0",
-  "status": "PASS",
-  "claim": "A defensora pública Fernanda Rudolfo disse que treinar policiais com \"visão de guerra\" para lidar com civis não cabe num estado democrático.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-argsFor-1",
-  "status": "PASS",
-  "claim": "O autor da PEC, então senador Lindbergh Farias, citou pesquisa da FGV segundo a qual 74% dos brasileiros não confiam nas polícias.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-argsAgainst-0",
-  "status": "PASS",
-  "claim": "O deputado Subtenente Gonzaga (PDT-MG) argumentou que o problema não é a militarização, e sim a violência da sociedade, que qualquer polícia enfrentaria.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-argsAgainst-1",
-  "status": "PASS",
-  "claim": "Uma cidadã que comentou a proposta no DataSenado, Elzana de Oliveira Moreira Moraes, defendeu que o militarismo \"impõe respeito\" e ajuda a manter a ordem.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-nuance-0",
-  "status": "PASS",
-  "claim": "Há quem apoie a mudança devagar: o deputado Delegado Edson Moreira defendeu desmilitarizar de forma gradual, sem prejudicar a carreira dos policiais.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-desmilitarizar-pm-nuance-1",
-  "status": "PASS",
-  "claim": "Numa enquete do DataSenado (sem valor científico), 54% foram contra e 46% a favor.",
   "why": [],
   "live": false
  },
@@ -1725,146 +1592,6 @@
   "id": "exp-pb-nome-social-nuance-1",
   "status": "PASS",
   "claim": "Usar o nome social é opcional e não muda o registro civil: o nome do registro continua existindo para fins administrativos.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-whatItIs-0",
-  "status": "PASS",
-  "claim": "A ideia de um vale-saúde (ou voucher) é dar ao paciente um crédito público para ser atendido num hospital particular, em vez de esperar na rede pública.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-whatItIs-1",
-  "status": "PASS",
-  "claim": "A Constituição já permite que hospitais privados atendam pelo SUS de forma complementar, por contrato ou convênio, com preferência para filantrópicos.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-inPractice-0",
-  "status": "PASS",
-  "claim": "A mesma Constituição proíbe dar dinheiro público como auxílio ou subvenção a instituições privadas com fins lucrativos. Um vale teria de caber nessas regras.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-inPractice-1",
-  "status": "PASS",
-  "claim": "Em 2020, o governo federal chegou a incluir postos de saúde no programa de parcerias com empresas, mas revogou a medida depois da repercussão.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-argsFor-0",
-  "status": "PASS",
-  "claim": "O então ministro da Economia, Paulo Guedes, defendeu um \"voucher saúde\" dizendo que o paciente atendido na rede privada fica melhor do que sem atendimento.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-argsFor-1",
-  "status": "PASS",
-  "claim": "Guedes argumentou que o setor público sozinho não tem capacidade financeira para atender todo mundo.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-argsAgainst-0",
-  "status": "PASS",
-  "claim": "Christine Alves, da Escola Nacional de Saúde Pública (ENSP/Fiocruz), disse que as ineficiências do Estado não justificam transferir recursos ao setor privado.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-argsAgainst-1",
-  "status": "PASS",
-  "claim": "Para Christine Alves, mesmo com estímulo do governo, os planos privados não reduziram a demanda sobre o SUS.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-nuance-0",
-  "status": "PASS",
-  "claim": "Mesmo defensores do voucher dizem não querer acabar com o SUS: Guedes chamou de \"contrassenso\" privatizar o sistema durante a pandemia.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-vale-saude-nuance-1",
-  "status": "PASS",
-  "claim": "A diferença entre vale-saúde e convênio é quem escolhe: no convênio o SUS escolhe e contrata o hospital; no vale, o paciente escolhe entre os credenciados.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-whatItIs-0",
-  "status": "PASS",
-  "claim": "Empresa pública (estatal) é uma empresa controlada pelo governo. No Brasil elas começaram a ser criadas em série nos anos 1940, como Petrobras, CSN e Vale.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-whatItIs-1",
-  "status": "PASS",
-  "claim": "Na Paraíba, a principal estatal é a Cagepa, que leva água a 201 dos 223 municípios.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-inPractice-0",
-  "status": "PASS",
-  "claim": "Criar uma estatal exige lei e dinheiro do governo. Uma estatal precisa fazer concurso público para contratar e licitação para comprar, o que a deixa mais lenta que uma empresa privada.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-inPractice-1",
-  "status": "PASS",
-  "claim": "Governos de orientações diferentes já criaram estatais: o governo federal de 2019 a 2022, que vendia empresas, criou a NAV Brasil para controle aéreo.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-argsFor-0",
-  "status": "PASS",
-  "claim": "O senador Paulo Paim defende explorar o potencial das estatais produtivas e diz que corrupção em casos isolados não justifica fechar empresas que dão lucro.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-argsFor-1",
-  "status": "PASS",
-  "claim": "Jean Paul Prates, ex-presidente da Petrobras, defendeu que há privatizações ruins e que vender refinarias penalizou o consumidor.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-argsAgainst-0",
-  "status": "PASS",
-  "claim": "O economista Armando Castelar (FGV) diz que estatais eram necessárias quando faltava capital privado, o que não é mais o caso.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-argsAgainst-1",
-  "status": "PASS",
-  "claim": "O senador Marcio Bittar avalia que raras empresas precisam ser do Estado e cita o uso político de indicações em estatais.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-nuance-0",
-  "status": "PASS",
-  "claim": "O consultor do Senado Pedro Nery defende avaliar caso a caso: cada modelo, estatal ou privado, tem vantagens e desvantagens.",
-  "why": [],
-  "live": false
- },
- {
-  "id": "exp-pb-empresas-publicas-nuance-1",
-  "status": "PASS",
-  "claim": "Para Castelar, uma estatal só se justifica se tiver papel social além do comercial, como cobrar mais dos ricos para subsidiar os pobres.",
   "why": [],
   "live": false
  },
@@ -2021,21 +1748,6 @@
   "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque passa a operação de serviços públicos a empresas privadas."
  },
  {
-  "id": "axis-pb-ppp-cagepa",
-  "status": "PASS",
-  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque mantém um serviço público operado por empresa privada."
- },
- {
-  "id": "axis-pb-vale-saude",
-  "status": "PASS",
-  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais mercado, porque leva dinheiro público da saúde para a rede privada por escolha do paciente."
- },
- {
-  "id": "axis-pb-empresas-publicas",
-  "status": "PASS",
-  "claim": "Convenção de método, não fato: no eixo econômico, concordar aponta para mais Estado, porque cria empresas controladas pelo governo."
- },
- {
   "id": "axis-seg-saidinha",
   "status": "PASS",
   "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para conservador, na convenção usual que associa punição mais dura a ordem e tradição."
@@ -2069,11 +1781,6 @@
   "id": "axis-soc-cotas",
   "status": "PASS",
   "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, porque mantém ação afirmativa racial e social."
- },
- {
-  "id": "axis-pb-desmilitarizar-pm",
-  "status": "PASS",
-  "claim": "Convenção de método, não fato: no eixo de costumes, concordar aponta para progressista, na convenção usual que associa a estrutura militar da polícia ao campo da ordem."
  },
  {
   "id": "axis-pb-cac-arma",

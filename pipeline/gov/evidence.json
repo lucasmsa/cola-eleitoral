@@ -98,26 +98,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
-  "questionId": "pb-concessoes-ppp",
-  "kind": "platform",
-  "position": -1,
-  "detail": "No debate da Rádio 98 FM, respondendo sobre a PPP de saneamento da Cagepa, prometeu cancelar o leilão.",
-  "quote": "você me dá uma oportunidade muito importante, porque eu já assumi de público que eu cancelarei esse leilão",
-  "date": "2026-09-28",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5505s",
-   "label": "Debate da Rádio 98 FM (Portal Correio), 28/09/2026, YouTube, 01:31:45, legenda automática",
-   "accessed": "2026-10-01"
-  },
-  "subject": {
-   "type": "candidate",
-   "id": "governador-15"
-  },
-  "checkId": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
-  "lowDiscrimination": false
- },
- {
   "id": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
   "questionId": "soc-aborto",
   "kind": "platform",
@@ -135,26 +115,6 @@
    "id": "governador-29"
   },
   "checkId": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
-  "lowDiscrimination": false
- },
- {
-  "id": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
-  "questionId": "pb-concessoes-ppp",
-  "kind": "platform",
-  "position": -1,
-  "detail": "Na TV Correio, perguntado se desfaria a PPP de saneamento da Cagepa, respondeu que sim e que é contra qualquer privatização.",
-  "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização.",
-  "date": "2026-09-16",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
-   "label": "Entrevista com Camilo Duarte, TV Correio (parte 2), 16/09/2026, YouTube, 00:03:30, legenda automática",
-   "accessed": "2026-10-01"
-  },
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "checkId": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
   "lowDiscrimination": false
  },
  {

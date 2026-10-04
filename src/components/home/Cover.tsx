@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { COPY } from '@/config/copy';
 import type { CoverState } from '@/hooks/useCover';
+import { ReturnMark } from '../shell/icons';
 
 export function Cover({ cover }: { cover: CoverState }) {
   const { poster, video, ended, attachVideo, onEnded, replay } = cover;
@@ -31,9 +32,11 @@ export function Cover({ cover }: { cover: CoverState }) {
         <button
           type="button"
           onClick={replay}
-          className="absolute bottom-3 right-3 min-h-11 rounded-md border-2 border-ink bg-paper/95 px-3 font-hand text-lg font-bold text-ink hover:bg-fact"
+          aria-label={COPY.home.replayCover}
+          title={COPY.home.replayCover}
+          className="absolute bottom-3 right-3 inline-flex size-11 items-center justify-center rounded-full border-2 border-ink bg-paper/95 text-xl font-bold text-ink shadow-[0_2px_0_#9aa6c2] hover:bg-fact"
         >
-          {COPY.home.replayCover}
+          <ReturnMark className="size-6" />
         </button>
       )}
     </motion.figure>

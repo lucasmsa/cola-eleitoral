@@ -318,6 +318,60 @@
   "why": "ok"
  },
  {
+  "id": "pol-lucas-tre-conduta-c0",
+  "status": "PASS",
+  "claim": "O TRE-PB julgou procedente uma representação do MDB e reconheceu conduta vedada numa reunião político-eleitoral no gabinete da Vice-Governadoria, em abril de 2026.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-tre-conduta-c1",
+  "status": "PASS",
+  "claim": "Ele foi responsabilizado como beneficiário do ato e multado em R$ 5 mil.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-tre-conduta-status-termo_lucas_tre",
+  "status": "PASS",
+  "claim": "status 'o TRE-PB aplicou multa no valor de R$ 5 mil' in termo_lucas_tre",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-folha-c0",
+  "status": "PASS",
+  "claim": "A coligação de Cícero Lucena acusa o governo estadual de abuso de poder e condutas vedadas pela contratação de mais de 6 mil servidores em ano eleitoral.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-folha-c1",
+  "status": "PASS",
+  "claim": "A ação pede a inelegibilidade por oito anos de Lucas Ribeiro e João Azevêdo.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-lucas-aije-folha-status-jp_aije_folha",
+  "status": "PASS",
+  "claim": "status 'Ação de Investigação Judicial Eleitoral' in jp_aije_folha",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-aije-folha-c0",
+  "status": "PASS",
+  "claim": "A coligação de Cícero Lucena acusa o governo estadual de abuso de poder e condutas vedadas pela contratação de mais de 6 mil servidores em ano eleitoral.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-aije-folha-c1",
+  "status": "PASS",
+  "claim": "A ação pede a inelegibilidade por oito anos de Lucas Ribeiro e João Azevêdo.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-joao-aije-folha-status-jp_aije_folha",
+  "status": "PASS",
+  "claim": "status 'Ação de Investigação Judicial Eleitoral' in jp_aije_folha",
+  "why": "ok"
+ },
+ {
   "id": "pol-efraim-suplente-c0",
   "status": "PASS",
   "claim": "Seu suplente no Senado, Erik Marinho, é investigado pela PF por suspeita de ocultar patrimônio ligado ao chamado Careca do INSS.",
@@ -374,7 +428,7 @@
  {
   "id": "pol-cicero-registro-tse-c0",
   "status": "PASS",
-  "claim": "O TSE formou maioria pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
+  "claim": "No julgamento virtual de 02/10/2026, já havia votos pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
   "why": "ok"
  },
  {
@@ -386,11 +440,17 @@
  {
   "id": "pol-cicero-registro-tse-c2",
   "status": "PASS",
-  "claim": "Um pedido de vista suspendeu o julgamento; ele pode disputar no domingo, e a decisão não é definitiva.",
+  "claim": "O ministro André Mendonça pediu destaque e o julgamento foi suspenso, sem decisão final.",
   "why": "ok"
  },
  {
   "id": "pol-cicero-registro-tse-c3",
+  "status": "PASS",
+  "claim": "Ele pode disputar a eleição neste domingo.",
+  "why": "ok"
+ },
+ {
+  "id": "pol-cicero-registro-tse-c4",
   "status": "PASS",
   "claim": "Ele não tem condenação criminal nem denúncia formal contra si.",
   "why": "ok"
@@ -398,13 +458,13 @@
  {
   "id": "pol-cicero-registro-tse-r0",
   "status": "PASS",
-  "claim": "A defesa disse que o pedido de vista reinicia a discussão do caso.",
+  "claim": "A defesa disse que, com o destaque, os votos já dados caem e o julgamento recomeça do zero.",
   "why": "ok"
  },
  {
-  "id": "pol-cicero-registro-tse-status-jp_cicero_tse",
+  "id": "pol-cicero-registro-tse-status-pbo_cicero_destaque",
   "status": "PASS",
-  "claim": "status 'pedido de vista' in jp_cicero_tse",
+  "claim": "status 'pedido de destaque do ministro Mendonça' in pbo_cicero_destaque",
   "why": "ok"
  },
  {

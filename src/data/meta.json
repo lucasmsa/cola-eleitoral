@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-10-03",
+ "builtAt": "2026-10-04",
  "electionDate": "2026-10-04",
  "streams": {
   "record": {
@@ -13,14 +13,14 @@
    "new": 84
   },
   "alpb": {
-   "rows": 58,
-   "passed": 58,
-   "new": 58
+   "rows": 56,
+   "passed": 56,
+   "new": 56
   },
   "exec": {
-   "rows": 35,
-   "passed": 35,
-   "new": 35
+   "rows": 26,
+   "passed": 26,
+   "new": 26
   },
   "senate": {
    "rows": 58,
@@ -28,9 +28,9 @@
    "new": 58
   },
   "gov": {
-   "rows": 9,
-   "passed": 9,
-   "new": 9
+   "rows": 7,
+   "passed": 7,
+   "new": 7
   },
   "pres2": {
    "rows": 12,
@@ -53,7 +53,7 @@
    "new": 22
   }
  },
- "evidence": 536,
- "questions": 35,
+ "evidence": 523,
+ "questions": 31,
  "droppedOffice": 17
 }

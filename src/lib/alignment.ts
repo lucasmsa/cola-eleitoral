@@ -6,7 +6,9 @@ import { blendPosition, type Answers, type Weights } from './score';
  * on `social`, +1 is "conservador" and -1 "progressista". An assignment's
  * `direction` says which pole "concordo" with the question points to.
  */
-export const MIN_PER_AXIS = 3;
+export const MIN_PER_AXIS = 2;
+/** Neutral pseudo-answers added to every axis so few positions cannot reach the edge. */
+export const AXIS_SHRINK = 2;
 export const MIN_COMMON = 3;
 
 export type PositionMap = Map<string, number>;
@@ -75,7 +77,7 @@ function axisPoint(positions: PositionMap, axes: AxisAssignment[]): AxisPoint {
     sum += p * a.direction;
     n += 1;
   }
-  return { value: n === 0 ? 0 : sum / n, n };
+  return { value: sum / (n + AXIS_SHRINK), n };
 }
 
 export function placeOnAxes(positions: PositionMap, axes: AxisAssignment[]): Placement {

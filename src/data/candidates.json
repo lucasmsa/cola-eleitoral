@@ -156,7 +156,7 @@
   "planUrl": "/plans/2026BR280002554479_01.pdf",
   "planSource": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -428,22 +428,32 @@
   "planUrl": "/plans/2026PB150002544133_01.pdf",
   "planSource": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
   "notice": {
-   "text": "O registro está deferido, mas sob recurso (TSE, dados de 03/10/2026, 12:30). Segundo o Jornal da Paraíba, o TSE formou maioria pelo indeferimento em 02/10/2026, e um pedido de vista suspendeu o julgamento; ele pode concorrer no domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A).",
+   "text": "O registro está deferido, mas sob recurso (TSE, dados de 04/10/2026, 08:30). Em 02/10/2026 o julgamento do recurso foi suspenso por pedido de destaque do ministro André Mendonça, quando já havia votos pelo indeferimento; segundo a defesa, os votos dados caem e o julgamento recomeça do zero. Ele concorre neste domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A).",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
-     "accessed": "2026-10-03",
-     "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 03/10/2026 12:30"
-    },
-    {
-     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
-     "accessed": "2026-10-03",
-     "label": "Jornal da Paraíba, 02/10/2026"
+     "accessed": "2026-10-04",
+     "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 04/10/2026 08:30"
     },
     {
      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
      "accessed": "2026-10-03",
      "label": "Lei 9.504/1997, art. 16-A"
+    },
+    {
+     "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+     "accessed": "2026-10-04",
+     "label": "Paraíba Online, 03/10/2026"
+    },
+    {
+     "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+     "accessed": "2026-10-04",
+     "label": "Paraíba Online, 03/10/2026"
+    },
+    {
+     "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+     "accessed": "2026-10-04",
+     "label": "Paraíba Online, 03/10/2026"
     }
    ]
   }
@@ -1511,7 +1521,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553966"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -2041,7 +2051,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002549764"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -2282,7 +2292,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553965"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -2463,7 +2473,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544005"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -2778,7 +2788,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553623"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -2946,7 +2956,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544175"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -3071,7 +3081,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544172"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -3245,7 +3255,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553964"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -3559,7 +3569,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544179"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -3993,7 +4003,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002549637"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -4289,7 +4299,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002533577"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -4335,7 +4345,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553963"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -4568,7 +4578,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553620"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -4596,7 +4606,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002553616"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -4770,7 +4780,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002550470"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -5915,7 +5925,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002549746"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -6218,7 +6228,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002551588"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -6576,7 +6586,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002541199"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -6958,7 +6968,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002548937"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -7773,7 +7783,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544664"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -7977,7 +7987,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002541177"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -8346,7 +8356,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002541198"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -8568,7 +8578,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002540241"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -9302,7 +9312,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002548952"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
@@ -9829,7 +9839,7 @@
    "label": "TSE, consulta_cand_2026_PB.csv, SQ 150002544665"
   },
   "notice": {
-   "text": "O TSE registrou a renúncia desta candidatura (dados de 03/10/2026 12:30). Ela não concorre mais.",
+   "text": "O TSE registrou a renúncia desta candidatura (dados de 04/10/2026 08:30). Ela não concorre mais.",
    "sources": [
     {
      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",

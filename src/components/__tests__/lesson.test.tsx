@@ -40,4 +40,23 @@ describe('lesson flow', () => {
     expect(useAnswersStore.getState().answers[unit.questions[0]!.id]).toBe('skip');
     expect(await screen.findByText(/fica fora da conta/)).toBeInTheDocument();
   });
+
+  it('goes back to the previous question with its answer preselected and editable', async () => {
+    const user = userEvent.setup();
+    render(<LessonScreen unitId={unit.id} />);
+    expect(screen.queryByRole('button', { name: 'Voltar' })).not.toBeInTheDocument();
+    await user.click(screen.getByRole('radio', { name: 'Concordo' }));
+    await user.click(screen.getByRole('radio', { name: 'Muito' }));
+    await user.click(screen.getByRole('button', { name: 'Confirmar' }));
+    await user.click(await screen.findByRole('button', { name: 'Próxima pergunta' }));
+
+    await user.click(await screen.findByRole('button', { name: 'Voltar' }));
+    expect(await screen.findByRole('heading', { level: 1, name: unit.questions[0]!.statement })).toBeInTheDocument();
+    expect(screen.getByRole('radio', { name: 'Concordo' })).toBeChecked();
+    expect(screen.getByRole('radio', { name: 'Muito' })).toBeChecked();
+
+    await user.click(screen.getByRole('radio', { name: 'Discordo' }));
+    await user.click(screen.getByRole('button', { name: 'Confirmar' }));
+    expect(useAnswersStore.getState().answers[unit.questions[0]!.id]).toEqual({ stance: -0.5, importance: 2 });
+  });
 });

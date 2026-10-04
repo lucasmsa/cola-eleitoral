@@ -2,7 +2,7 @@ export const COPY = {
   appName: 'Cola Eleitoral',
   credits: { madeBy: 'feito por lucasmsa', coffee: 'me paga um café ☕', source: 'código-fonte', github: 'Código-fonte no GitHub' },
   home: {
-    replayCover: 'ver de novo',
+    replayCover: 'Ver de novo',
     lead: 'Diga o que você pensa sobre temas que o Congresso e os candidatos já enfrentaram. O app compara suas respostas com votos registrados e planos de governo e, no fim, monta a sua cola para o 1º turno.',
     privacy: 'Suas respostas ficam só neste navegador. Nada é enviado para servidor nenhum.',
     trail: 'Trilha de lições',
@@ -18,6 +18,8 @@ export const COPY = {
     resultsHint: 'Seu alinhamento, quem concorda mais com você e o perfil dos principais candidatos.',
   },
   lesson: {
+    back: 'Voltar',
+    backToLast: 'Voltar à última pergunta',
     ask: 'Você concorda?',
     askScale: 'Qual destas posições está mais perto da sua?',
     importance: 'Quanto isso pesa no seu voto?',
@@ -63,7 +65,7 @@ export const COPY = {
   },
   alignment: {
     lead:
-      'Aqui você se vê ao lado de políticos, partidos e países, usando só posições checadas: votos, atos de governo, planos registrados e leis em vigor. Cada ponto é a média das posições em perguntas daquele eixo.',
+      'Aqui você se vê ao lado de políticos, partidos e países, usando só posições checadas: votos, atos de governo, planos registrados e leis em vigor. Cada ponto resume as posições em perguntas daquele eixo, puxado para o centro quando há poucas.',
     noAxes: 'O método dos eixos ainda está em checagem. Enquanto isso, veja abaixo quem mais concorda com você.',
     chartTitle: 'Gráfico de alinhamento',
     chartLabel: 'Gráfico com dois eixos: econômico na horizontal e de costumes na vertical',
@@ -90,7 +92,8 @@ export const COPY = {
     methodTag: 'método',
     methodBody: (min: number) => [
       'Cada pergunta foi ligada a um eixo, com uma direção: concordar com a frase puxa para um dos polos. Essa ligação é uma escolha de método, explicada abaixo pergunta por pergunta. Ela não é um fato sobre ninguém.',
-      `A posição de cada pessoa, partido ou país em um eixo é a média das posições checadas nas perguntas daquele eixo. Quem tem menos de ${min} perguntas em um eixo não aparece no gráfico.`,
+      `A posição de cada pessoa, partido ou país em um eixo vem das posições checadas nas perguntas daquele eixo. Quem tem menos de ${min} perguntas em um eixo não aparece no gráfico.`,
+      'Para não exagerar quem tem poucas posições checadas, cada eixo conta como se tivesse mais 2 respostas neutras; com muitas posições na mesma direção, o ponto se aproxima da borda.',
       'Os eixos resumem muito. Duas pessoas no mesmo ponto podem discordar em temas que nenhuma pergunta cobre.',
     ],
     noAxisRows: 'Nenhuma pergunta ligada a este eixo.',

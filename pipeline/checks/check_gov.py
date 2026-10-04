@@ -13,7 +13,7 @@ GOV = ROOT / "pipeline" / "gov"
 sys.path.insert(0, str(GOV))
 import captions  # noqa: E402
 import fetch  # noqa: E402
-from draft import ACCESSED, ROWS  # noqa: E402
+from draft import ACCESSED, CONTROL_TEMPLATES, ROWS  # noqa: E402
 
 WINDOW = 1500
 TURN = 400
@@ -133,7 +133,7 @@ def common(row):
     if "quote" in row and len(row["quote"]) > 300:
         return False, "quote over 300 chars"
     for e in SHIPPED:
-        if e["subject"]["id"] == row["subject"] and e["questionId"] == row["questionId"] and e.get("quote") == row.get("quote") and e["kind"] == row["kind"]:
+        if not e["id"].startswith("gov-") and e["subject"]["id"] == row["subject"] and e["questionId"] == row["questionId"] and e.get("quote") == row.get("quote") and e["kind"] == row["kind"]:
             return False, "duplicate of shipped evidence"
     return True, ""
 
@@ -146,7 +146,7 @@ def run(row, live=False):
 
 
 def controls():
-    by_id = {r["id"]: r for r in ROWS}
+    by_id = {r["id"]: r for r in ROWS + CONTROL_TEMPLATES}
     out = []
     c1 = deepcopy(by_id["gov-governador-22-seg-armas-cd2209381-100"]); c1["check"]["expect"] = "Não"
     out.append(("NEG Efraim voted NÃO on PL 3723/2019", c1))

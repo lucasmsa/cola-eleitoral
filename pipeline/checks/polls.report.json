@@ -2,194 +2,212 @@
  {
   "id": "president:Datafolha:Lula",
   "status": "PASS",
-  "claim": "Lula 40% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Lula 42% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:Flávio Bolsonaro",
   "status": "PASS",
-  "claim": "Flávio Bolsonaro 36% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
- },
- {
-  "id": "president:Datafolha:Augusto Cury",
-  "status": "PASS",
-  "claim": "Augusto Cury 5% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Flávio Bolsonaro 40% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:Ronaldo Caiado",
   "status": "PASS",
-  "claim": "Ronaldo Caiado 4% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Ronaldo Caiado 4% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:Renan Santos",
   "status": "PASS",
-  "claim": "Renan Santos 3% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Renan Santos 3% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Escritor Augusto Cury",
+  "status": "PASS",
+  "claim": "Escritor Augusto Cury 3% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:Romeu Zema",
   "status": "PASS",
-  "claim": "Romeu Zema 1% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Romeu Zema 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
-  "id": "president:Datafolha:Samara",
+  "id": "president:Datafolha:Samara Martins",
   "status": "PASS",
-  "claim": "Samara 1% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "Samara Martins 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Rui Costa Pimenta",
+  "status": "PASS",
+  "claim": "Rui Costa Pimenta 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Edmilson Costa",
+  "status": "PASS",
+  "claim": "Edmilson Costa 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Veterinário Wilson Grassi",
+  "status": "PASS",
+  "claim": "Veterinário Wilson Grassi 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Clariana Barão",
+  "status": "PASS",
+  "claim": "Clariana Barão 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
+ },
+ {
+  "id": "president:Datafolha:Hertz Dias",
+  "status": "PASS",
+  "claim": "Hertz Dias 0% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:branco/nulo/nenhum",
   "status": "PASS",
-  "claim": "branco/nulo/nenhum 5% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "branco/nulo/nenhum 4% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
   "id": "president:Datafolha:indecisos",
   "status": "PASS",
-  "claim": "indecisos 2% (Datafolha 2026-09-22/23)",
-  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-setembro-2026-4/"
+  "claim": "indecisos 3% (Datafolha 2026-10-02/03)",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
-  "id": "president:Quaest:Lula",
+  "id": "president:Datafolha:meta:4.006",
   "status": "PASS",
-  "claim": "Lula 39% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "fonte contém '4.006'",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
-  "id": "president:Quaest:Flávio Bolsonaro",
+  "id": "president:Datafolha:meta:BR-01708/2026",
   "status": "PASS",
-  "claim": "Flávio Bolsonaro 34% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "fonte contém 'BR-01708/2026'",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
-  "id": "president:Quaest:Augusto Cury",
+  "id": "president:Datafolha:meta:2 pontos percentuais",
   "status": "PASS",
-  "claim": "Augusto Cury 4% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "fonte contém '2 pontos percentuais'",
+  "source": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/"
  },
  {
-  "id": "president:Quaest:Ronaldo Caiado",
+  "id": "president:Quaest (votos válidos):Lula",
   "status": "PASS",
-  "claim": "Ronaldo Caiado 4% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "Lula 46% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:Quaest:Renan Santos",
+  "id": "president:Quaest (votos válidos):Flávio Bolsonaro",
   "status": "PASS",
-  "claim": "Renan Santos 3% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "Flávio Bolsonaro 45% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:Quaest:Romeu Zema",
+  "id": "president:Quaest (votos válidos):Escritor Augusto Cury",
   "status": "PASS",
-  "claim": "Romeu Zema 1% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "Escritor Augusto Cury 3% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:Quaest:indecisos",
+  "id": "president:Quaest (votos válidos):Ronaldo Caiado",
   "status": "PASS",
-  "claim": "indecisos 5% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "Ronaldo Caiado 3% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:Quaest:branco/nulo/não vai votar",
+  "id": "president:Quaest (votos válidos):Renan Santos",
   "status": "PASS",
-  "claim": "branco/nulo/não vai votar 10% (Quaest 2026-09-24/27)",
-  "source": "https://m.imirante.com/noticias/brasil/2026/09/28/ipolitica-quaest-lula-tem-39-e-flavio-bolsonaro-34"
+  "claim": "Renan Santos 3% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Lula",
+  "id": "president:Quaest (votos válidos):Zema",
   "status": "PASS",
-  "claim": "Lula 45.3% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "Zema 0% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Flávio Bolsonaro",
+  "id": "president:Quaest (votos válidos):Samara",
   "status": "PASS",
-  "claim": "Flávio Bolsonaro 42.2% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "Samara 0% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Renan Santos",
+  "id": "president:Quaest (votos válidos):meta:3.702",
   "status": "PASS",
-  "claim": "Renan Santos 5.2% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "fonte contém '3.702'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Augusto Cury",
+  "id": "president:Quaest (votos válidos):meta:BR-02197/2026",
   "status": "PASS",
-  "claim": "Augusto Cury 2.0% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "fonte contém 'BR-02197/2026'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Ronaldo Caiado",
+  "id": "president:Quaest (votos válidos):meta:2 pontos percentuais",
   "status": "PASS",
-  "claim": "Ronaldo Caiado 1.8% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "fonte contém '2 pontos percentuais'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:Romeu Zema",
+  "id": "president:AtlasIntel (votos válidos):Lula",
   "status": "PASS",
-  "claim": "Romeu Zema 0.9% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "Lula 47% (AtlasIntel (votos válidos) 2026-09-27/10-02)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "president:AtlasIntel/Bloomberg:indecisos",
+  "id": "president:AtlasIntel (votos válidos):Flávio Bolsonaro",
   "status": "PASS",
-  "claim": "indecisos 1.1% (AtlasIntel/Bloomberg 2026-09-23/28)",
-  "source": "https://www.brasildefato.com.br/2026/09/29/pesquisa-atlas-lula-tem-45-contra-42-de-flavio-bolsonaro-no-1o-turno-2o-turno-esta-empatado/"
+  "claim": "Flávio Bolsonaro 44.1% (AtlasIntel (votos válidos) 2026-09-27/10-02)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Lucas Ribeiro",
+  "id": "president:AtlasIntel (votos válidos):Renan Santos",
   "status": "PASS",
-  "claim": "Lucas Ribeiro 49% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "Renan Santos 4.6% (AtlasIntel (votos válidos) 2026-09-27/10-02)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Efraim Filho",
+  "id": "president:AtlasIntel (votos válidos):Escritor Augusto Cury",
   "status": "PASS",
-  "claim": "Efraim Filho 16% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "Escritor Augusto Cury 2.1% (AtlasIntel (votos válidos) 2026-09-27/10-02)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Cícero Lucena",
+  "id": "president:AtlasIntel (votos válidos):Ronaldo Caiado",
   "status": "PASS",
-  "claim": "Cícero Lucena 15% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "Ronaldo Caiado 1.4% (AtlasIntel (votos válidos) 2026-09-27/10-02)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Pedro Coutinho",
+  "id": "president:AtlasIntel (votos válidos):meta:4.945",
   "status": "PASS",
-  "claim": "Pedro Coutinho 1% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "fonte contém '4.945'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Camilo Duarte",
+  "id": "president:AtlasIntel (votos válidos):meta:BR-00999/2026",
   "status": "PASS",
-  "claim": "Camilo Duarte 0% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "fonte contém 'BR-00999/2026'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
-  "id": "governor_PB:Quaest:Yuri Ezequiel",
+  "id": "president:AtlasIntel (votos válidos):meta:1 ponto percentual",
   "status": "PASS",
-  "claim": "Yuri Ezequiel 0% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
- },
- {
-  "id": "governor_PB:Quaest:indecisos",
-  "status": "PASS",
-  "claim": "indecisos 12% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
- },
- {
-  "id": "governor_PB:Quaest:branco/nulo/não vai votar",
-  "status": "PASS",
-  "claim": "branco/nulo/não vai votar 7% (Quaest 2026-09-18/21)",
-  "source": "https://www.portalnoticiaja.com/noticia/paraiba/2026/09/22/pesquisa-quaest-lucas-tem-49-efraim-16-e-cicero-15-na-disputa-pelo-governo-do-estado/77330.html"
+  "claim": "fonte contém '1 ponto percentual'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/"
  },
  {
   "id": "governor_PB:AtlasIntel",
@@ -197,63 +215,152 @@
   "claim": "Fonte inconsistente: Poder360 traz 42,5% no título e 42,4% no corpo para Lucas Ribeiro; outros veículos trazem outros valores."
  },
  {
-  "id": "senate_PB:Quaest:João Azevêdo",
+  "id": "governor_PB:Quaest:Lucas Ribeiro",
   "status": "PASS",
-  "claim": "João Azevêdo 28% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Lucas Ribeiro 52% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:Veneziano",
+  "id": "governor_PB:Quaest:Efraim Filho",
   "status": "PASS",
-  "claim": "Veneziano 18% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Efraim Filho 19% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:Nabor",
+  "id": "governor_PB:Quaest:Cícero Lucena",
   "status": "PASS",
-  "claim": "Nabor 12% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Cícero Lucena 13% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:Dr. Marcelo Queiroga",
+  "id": "governor_PB:Quaest:Yuri Ezequiel",
   "status": "PASS",
-  "claim": "Dr. Marcelo Queiroga 7% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Yuri Ezequiel 0% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:Major Fábio",
+  "id": "governor_PB:Quaest:Camilo Duarte",
   "status": "PASS",
-  "claim": "Major Fábio 3% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Camilo Duarte 0% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:André Gadelha",
+  "id": "governor_PB:Quaest:Votos brancos, nulos e não vai votar",
   "status": "PASS",
-  "claim": "André Gadelha 1% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Votos brancos, nulos e não vai votar 6% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:João Batista",
+  "id": "governor_PB:Quaest:Indecisos",
   "status": "PASS",
-  "claim": "João Batista 1% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "Indecisos 9% (Quaest 2026-10-02/03)",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:indecisos",
+  "id": "governor_PB:Quaest:meta:1.800",
   "status": "PASS",
-  "claim": "indecisos 14% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "fonte contém '1.800'",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "senate_PB:Quaest:branco/nulo/não vai votar",
+  "id": "governor_PB:Quaest:meta:PB-05048/2026",
   "status": "PASS",
-  "claim": "branco/nulo/não vai votar 16% (Quaest 2026-09-18/21)",
-  "source": "https://jornaldaparaiba.com.br/politica/conversa-politica/quaest--senado-pb-joao-veneziano-nabor-queiroga-major-fabio"
+  "claim": "fonte contém 'PB-05048/2026'",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
  },
  {
-  "id": "NEG president:Datafolha: Lula at 63%",
+  "id": "governor_PB:Quaest:meta:dois pontos percentuais",
+  "status": "PASS",
+  "claim": "fonte contém 'dois pontos percentuais'",
+  "source": "https://paraibaonline.com.br/eleicoes/2026/10/03/pesquisa-quaest-para-governador-da-paraiba-saiba-o-resultado/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):João Azevêdo",
+  "status": "PASS",
+  "claim": "João Azevêdo 35% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Veneziano",
+  "status": "PASS",
+  "claim": "Veneziano 25% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Nabor Wanderley",
+  "status": "PASS",
+  "claim": "Nabor Wanderley 20% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Marcelo Queiroga",
+  "status": "PASS",
+  "claim": "Marcelo Queiroga 15% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Major Fábio",
+  "status": "PASS",
+  "claim": "Major Fábio 3% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):André Gadelha",
+  "status": "PASS",
+  "claim": "André Gadelha 1% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):João Batista",
+  "status": "PASS",
+  "claim": "João Batista 1% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Adriano Trajano",
+  "status": "PASS",
+  "claim": "Adriano Trajano 0% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Rinaldo Júnior",
+  "status": "PASS",
+  "claim": "Rinaldo Júnior 0% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):Rosilene Santana",
+  "status": "PASS",
+  "claim": "Rosilene Santana 0% (Quaest (votos válidos) 2026-10-02/03)",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):meta:1.800",
+  "status": "PASS",
+  "claim": "fonte contém '1.800'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):meta:PB-05048/2026",
+  "status": "PASS",
+  "claim": "fonte contém 'PB-05048/2026'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "senate_PB:Quaest (votos válidos):meta:2 pontos percentuais",
+  "status": "PASS",
+  "claim": "fonte contém '2 pontos percentuais'",
+  "source": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-senador-paraiba-outubro-2026/"
+ },
+ {
+  "id": "NEG president:Datafolha: registration BR-99999/2026",
   "status": "FAIL",
-  "claim": "NEG president:Datafolha: Lula at 63%"
+  "claim": "NEG president:Datafolha: registration BR-99999/2026"
+ },
+ {
+  "id": "NEG president:Datafolha: Lula at 65%",
+  "status": "FAIL",
+  "claim": "NEG president:Datafolha: Lula at 65%"
  },
  {
   "id": "NEG president:Datafolha: Pablo Marçal 31%",
@@ -261,29 +368,44 @@
   "claim": "NEG president:Datafolha: Pablo Marçal 31%"
  },
  {
-  "id": "NEG president:Quaest: Lula at 62%",
+  "id": "NEG president:Quaest (votos válidos): registration BR-99999/2026",
   "status": "FAIL",
-  "claim": "NEG president:Quaest: Lula at 62%"
+  "claim": "NEG president:Quaest (votos válidos): registration BR-99999/2026"
  },
  {
-  "id": "NEG president:Quaest: Pablo Marçal 31%",
+  "id": "NEG president:Quaest (votos válidos): Lula at 69%",
   "status": "FAIL",
-  "claim": "NEG president:Quaest: Pablo Marçal 31%"
+  "claim": "NEG president:Quaest (votos válidos): Lula at 69%"
  },
  {
-  "id": "NEG president:AtlasIntel/Bloomberg: Lula at 68.3%",
+  "id": "NEG president:Quaest (votos válidos): Pablo Marçal 31%",
   "status": "FAIL",
-  "claim": "NEG president:AtlasIntel/Bloomberg: Lula at 68.3%"
+  "claim": "NEG president:Quaest (votos válidos): Pablo Marçal 31%"
  },
  {
-  "id": "NEG president:AtlasIntel/Bloomberg: Pablo Marçal 31%",
+  "id": "NEG president:AtlasIntel (votos válidos): registration BR-99999/2026",
   "status": "FAIL",
-  "claim": "NEG president:AtlasIntel/Bloomberg: Pablo Marçal 31%"
+  "claim": "NEG president:AtlasIntel (votos válidos): registration BR-99999/2026"
  },
  {
-  "id": "NEG governor_PB:Quaest: Lucas Ribeiro at 72%",
+  "id": "NEG president:AtlasIntel (votos válidos): Lula at 70%",
   "status": "FAIL",
-  "claim": "NEG governor_PB:Quaest: Lucas Ribeiro at 72%"
+  "claim": "NEG president:AtlasIntel (votos válidos): Lula at 70%"
+ },
+ {
+  "id": "NEG president:AtlasIntel (votos válidos): Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG president:AtlasIntel (votos válidos): Pablo Marçal 31%"
+ },
+ {
+  "id": "NEG governor_PB:Quaest: registration BR-99999/2026",
+  "status": "FAIL",
+  "claim": "NEG governor_PB:Quaest: registration BR-99999/2026"
+ },
+ {
+  "id": "NEG governor_PB:Quaest: Lucas Ribeiro at 75%",
+  "status": "FAIL",
+  "claim": "NEG governor_PB:Quaest: Lucas Ribeiro at 75%"
  },
  {
   "id": "NEG governor_PB:Quaest: Pablo Marçal 31%",
@@ -291,13 +413,18 @@
   "claim": "NEG governor_PB:Quaest: Pablo Marçal 31%"
  },
  {
-  "id": "NEG senate_PB:Quaest: João Azevêdo at 51%",
+  "id": "NEG senate_PB:Quaest (votos válidos): registration BR-99999/2026",
   "status": "FAIL",
-  "claim": "NEG senate_PB:Quaest: João Azevêdo at 51%"
+  "claim": "NEG senate_PB:Quaest (votos válidos): registration BR-99999/2026"
  },
  {
-  "id": "NEG senate_PB:Quaest: Pablo Marçal 31%",
+  "id": "NEG senate_PB:Quaest (votos válidos): João Azevêdo at 58%",
   "status": "FAIL",
-  "claim": "NEG senate_PB:Quaest: Pablo Marçal 31%"
+  "claim": "NEG senate_PB:Quaest (votos válidos): João Azevêdo at 58%"
+ },
+ {
+  "id": "NEG senate_PB:Quaest (votos válidos): Pablo Marçal 31%",
+  "status": "FAIL",
+  "claim": "NEG senate_PB:Quaest (votos válidos): Pablo Marçal 31%"
  }
 ]

@@ -59,6 +59,11 @@ def main():
     for p in polls["governor_PB"]:
         if p.get("institute") == "AtlasIntel":
             p["drop"] = "Fonte inconsistente: Poder360 traz 42,5% no título e 42,4% no corpo para Lucas Ribeiro; outros veículos trazem outros valores."
+    final = json.loads((RAW / "polls_final.json").read_text())
+    base = lambda name: re.split(r"[ /(]", name)[0].lower()
+    for key, items in final.items():
+        newer = {base(p["institute"]) for p in items}
+        polls[key] = [p for p in polls.get(key, []) if base(p.get("institute", "")) not in newer] + items
     report, shipped = [], []
     controls = []
     for key, items in polls.items():
@@ -76,6 +81,13 @@ def main():
                 rid = f"{key}:{p['institute']}:{label}"
                 rows.append(ok)
                 report.append({"id": rid, "status": "PASS" if ok else "FAIL", "claim": f"{label} {pct}% ({p['institute']} {p['field']})", "source": url})
+            norm_text = re.sub(r"\s+", " ", text)
+            for meta in p.get("verifyMeta", []):
+                ok = meta in norm_text
+                rows.append(ok)
+                report.append({"id": f"{key}:{p['institute']}:meta:{meta}", "status": "PASS" if ok else "FAIL", "claim": f"fonte contém '{meta}'", "source": url})
+            if p.get("verifyMeta"):
+                controls.append((f"NEG {key}:{p['institute']}: registration BR-99999/2026", "BR-99999/2026" in norm_text))
             first_label, first_pct = next(iter(p["results"].items()))
             controls.append((f"NEG {key}:{p['institute']}: {first_label} at {first_pct + 23}%", near(text, first_label, first_pct + 23)))
             controls.append((f"NEG {key}:{p['institute']}: Pablo Marçal 31%", near(text, "Pablo Marçal", 31)))
@@ -83,7 +95,7 @@ def main():
                 start, _, end = p["field"].partition("/")
                 end_full = start[: len(start) - len(end)] + end if end else start
                 shipped.append({
-                    "id": f"{OFFICE[key]}-{p['institute'].split('/')[0].lower()}-{start}",
+                    "id": f"{OFFICE[key]}-{base(p['institute'])}-{start}",
                     "office": OFFICE[key],
                     "institute": p["institute"],
                     "fieldStart": start,

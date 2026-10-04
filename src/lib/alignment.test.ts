@@ -25,16 +25,23 @@ const axes: AxisAssignment[] = [
 const weights = { record: 0.8, platform: 0.2 };
 
 describe('placeOnAxes', () => {
-  it('averages position times direction per axis and counts the questions used', () => {
+  it('shrinks each axis toward the center with 2 neutral pseudo-answers', () => {
     const p = placeOnAxes(new Map([['e1', 1], ['e2', 1], ['e3', 1], ['s1', -1], ['s2', -1], ['s3', 1]]), axes);
-    expect(p.x).toEqual({ value: 1 / 3, n: 3 });
-    expect(p.y).toEqual({ value: -1, n: 3 });
+    expect(p.x).toEqual({ value: 1 / 5, n: 3 });
+    expect(p.y).toEqual({ value: -3 / 5, n: 3 });
     expect(p.visible).toBe(true);
   });
 
-  it('hides a placement with fewer than 3 questions on either axis', () => {
-    const p = placeOnAxes(new Map([['e1', 1], ['e2', 1], ['e3', 1], ['s1', 1], ['s2', 1]]), axes);
-    expect(p.y.n).toBe(2);
+  it('only nears the edge with many consistent positions', () => {
+    const many: AxisAssignment[] = Array.from({ length: 10 }, (_, i) => ({ questionId: `m${i}`, axis: 'economico', direction: 1, rationale: 'r' }));
+    const p = placeOnAxes(new Map(many.map((a) => [a.questionId, 1])), many);
+    expect(p.x.value).toBeCloseTo(10 / 12);
+  });
+
+  it('shows a placement with 2 questions per axis and hides it with 1', () => {
+    expect(placeOnAxes(new Map([['e1', 1], ['e2', 1], ['s1', 1], ['s2', 1]]), axes).visible).toBe(true);
+    const p = placeOnAxes(new Map([['e1', 1], ['e2', 1], ['e3', 1], ['s1', 1]]), axes);
+    expect(p.y.n).toBe(1);
     expect(p.visible).toBe(false);
   });
 });

@@ -2097,7 +2097,7 @@
   "questionId": "pb-concessoes-ppp",
   "whatItIs": [
    {
-    "text": "Concessão é quando o governo passa uma obra ou serviço para uma empresa operar por contrato. PPP (parceria público-privada) é um tipo de concessão em que o governo também paga parte da remuneração da empresa.",
+    "text": "Concessão é um contrato em que uma empresa privada constrói ou opera um serviço público por vários anos. Na PPP (parceria público-privada), além da tarifa paga pelos usuários, o governo também paga a empresa.",
     "support": "Concessão patrocinada é a concessão de serviços públicos ou de obras públicas de que trata a Lei nº 8.987, de 13 de fevereiro de 1995, quando envolver, adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado.",
     "source": {
      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
@@ -2107,41 +2107,51 @@
     "checkId": "exp-pb-concessoes-ppp-whatItIs-0"
    },
    {
-    "text": "Na PPP administrativa, o próprio governo é o usuário do serviço e paga por ele, mesmo que a empresa também construa a obra.",
-    "support": "Concessão administrativa é o contrato de prestação de serviços de que a Administração Pública seja a usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens.",
+    "text": "Em 15/05/2026 o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia de água e esgoto do governo da Paraíba.",
+    "support": "O grupo espanhol Acciona venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário da Companhia de Água e Esgotos da Paraíba ( Cagepa )",
     "source": {
-     "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "accessed": "2026-10-03",
-     "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+     "label": "Movimento Econômico, 15/05/2026"
     },
     "checkId": "exp-pb-concessoes-ppp-whatItIs-1"
    }
   ],
   "inPractice": [
    {
-    "text": "Concessão não é venda: a empresa continua sendo do governo, ou o serviço continua público, mas a operação passa a uma empresa privada por prazo definido.",
-    "support": "Privatização, hoje em dia, não é apenas vender os ativos de uma empresa estatal, mas também trazer o investidor privado para fazer coisas que o setor público antes fazia, seja por meio de parcerias público-privadas, seja por meio de concessões.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-concessoes-ppp-inPractice-0"
-   },
-   {
-    "text": "Em 2026 a Paraíba passou a uma empresa privada, por PPP de 25 anos, o esgoto de 85 cidades atendidas pela Cagepa.",
+    "text": "O contrato da Cagepa dura 25 anos e prevê R$ 3 bilhões em obras de esgoto.",
     "support": "O contrato, com prazo de 25 anos, prevê R$ 3 bilhões em investimentos.",
     "source": {
      "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "accessed": "2026-10-03",
      "label": "Movimento Econômico, 15/05/2026"
     },
+    "checkId": "exp-pb-concessoes-ppp-inPractice-0"
+   },
+   {
+    "text": "A água continua com a Cagepa, que também fiscaliza a empresa. A empresa privada cuida da coleta e do tratamento de esgoto.",
+    "support": "O abastecimento de água segue integralmente sob responsabilidade da Cagepa , que também permanecerá responsável pela gestão e fiscalização da parceria.",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
     "checkId": "exp-pb-concessoes-ppp-inPractice-1"
+   },
+   {
+    "text": "Hoje o esgoto chega a 6,71% das casas urbanas no Alto Piranhas e a 46,43% no Litoral.",
+    "support": "Os índices atuais de atendimento de esgoto urbano nas microrregiões são de 6,71% no Alto Piranhas e 46,43% no Litoral .",
+    "source": {
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
+     "accessed": "2026-10-03",
+     "label": "Movimento Econômico, 15/05/2026"
+    },
+    "checkId": "exp-pb-concessoes-ppp-inPractice-2"
    }
   ],
   "argsFor": [
    {
-    "text": "O economista Armando Castelar (FGV) argumenta que o poder público não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
+    "text": "O economista Armando Castelar (FGV) argumenta que o governo não tem dinheiro para tantas obras e que, nos contratos com empresas, o serviço não pode parar.",
     "support": "Nos contratos com a iniciativa privada, os serviços não podem parar.",
     "source": {
      "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
@@ -2151,19 +2161,19 @@
     "checkId": "exp-pb-concessoes-ppp-argsFor-0"
    },
    {
-    "text": "O consultor do Senado Pedro Fernando Nery lembra que, com uma agência reguladora forte, o governo mantém poder para exigir obrigações sociais das empresas.",
-    "support": "As agências reguladoras, como a das telecomunicações (Anatel), a da energia elétrica (Aneel) e a das águas e saneamento básico (ANA), têm poderes para impor sanções aos grupos empresariais que não cumpram com suas obrigações sociais.",
+    "text": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
+    "support": "Essa parceria representa uma virada de chave para a Cagepa e para o estado, garantindo sustentabilidade financeira, fortalecimento da governança",
     "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
+     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
+     "label": "Movimento Econômico, 15/05/2026"
     },
     "checkId": "exp-pb-concessoes-ppp-argsFor-1"
    }
   ],
   "argsAgainst": [
    {
-    "text": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e Nordeste.",
+    "text": "No debate do marco do saneamento, o senador Weverton disse que o investimento privado tende a ficar nas grandes cidades e não chegar às pequenas do Norte e do Nordeste.",
     "support": "Sabemos que, infelizmente quanto às cidades pequenas, principalmente do Norte e do Nordeste, esses investimentos não vão chegar, como foi aqui falado.",
     "source": {
      "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
@@ -2173,7 +2183,7 @@
     "checkId": "exp-pb-concessoes-ppp-argsAgainst-0"
    },
    {
-    "text": "O senador Rogério Carvalho avaliou que abrir o setor pode desvalorizar as empresas públicas e prejudicar o patrimônio delas.",
+    "text": "O senador Rogério Carvalho avaliou que abrir o setor a empresas privadas pode desvalorizar as empresas públicas de saneamento.",
     "support": "Em sua avaliação, as mudanças previstas pelo projeto poderão gerar desvalorização das empresas públicas de saneamento, o que pode prejudicar o patrimônio dessas estatais.",
     "source": {
      "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
@@ -2185,8 +2195,8 @@
   ],
   "nuance": [
    {
-    "text": "Especialistas ouvidos pelo Senado dizem que o tema ficou menos ideológico: a esquerda aceita concessões e a direita aceita algumas estatais.",
-    "support": "Enquanto a esquerda agora aceita que empresas privadas prestem certos serviços públicos à população, a direita admite que o governo permaneça comandando determinadas empresas.",
+    "text": "Concessão não é venda da empresa: a Cagepa continua do governo. O que passa à empresa privada é a obra e a operação do esgoto, por prazo definido.",
+    "support": "Privatização, hoje em dia, não é apenas vender os ativos de uma empresa estatal, mas também trazer o investidor privado para fazer coisas que o setor público antes fazia, seja por meio de parcerias público-privadas, seja por meio de concessões.",
     "source": {
      "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
      "accessed": "2026-10-03",
@@ -2195,137 +2205,14 @@
     "checkId": "exp-pb-concessoes-ppp-nuance-0"
    },
    {
-    "text": "Concessões também dão problema: o consultor Pedro Nery cita concessionária de aeroporto que pediu para devolver a operação ao governo.",
-    "support": "As concessões de aeroportos, por exemplo, têm enfrentado problemas.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-concessoes-ppp-nuance-1"
-   }
-  ]
- },
- {
-  "questionId": "pb-ppp-cagepa",
-  "whatItIs": [
-   {
-    "text": "Em 15/05/2026, o grupo espanhol Acciona venceu o leilão da PPP de esgoto da Cagepa, a companhia estadual de água e esgoto da Paraíba.",
-    "support": "O grupo espanhol Acciona venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário da Companhia de Água e Esgotos da Paraíba ( Cagepa )",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-whatItIs-0"
-   },
-   {
-    "text": "O contrato cobre 85 municípios, incluindo João Pessoa, dura 25 anos e prevê R$ 3 bilhões em investimentos.",
-    "support": "O contrato, com prazo de 25 anos, prevê R$ 3 bilhões em investimentos.",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-whatItIs-1"
-   }
-  ],
-  "inPractice": [
-   {
-    "text": "A água continua com a Cagepa, que também fiscaliza a parceria. A empresa privada cuida da coleta e do tratamento de esgoto.",
-    "support": "O abastecimento de água segue integralmente sob responsabilidade da Cagepa , que também permanecerá responsável pela gestão e fiscalização da parceria.",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-inPractice-0"
-   },
-   {
-    "text": "Hoje o esgoto urbano atende 6,71% no Alto Piranhas e 46,43% no Litoral. A meta é chegar a 90% até 2039.",
-    "support": "Os índices atuais de atendimento de esgoto urbano nas microrregiões são de 6,71% no Alto Piranhas e 46,43% no Litoral .",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-inPractice-1"
-   },
-   {
-    "text": "Só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
+    "text": "No leilão da Cagepa só uma empresa deu lance, com desconto de 1% sobre o valor máximo que o estado aceitava pagar.",
     "support": "A empresa foi a única a apresentar proposta no certame paraibano e ofereceu deságio de 1% sobre a contraprestação pública máxima fixada em edital.",
     "source": {
      "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
      "accessed": "2026-10-03",
      "label": "Movimento Econômico, 15/05/2026"
     },
-    "checkId": "exp-pb-ppp-cagepa-inPractice-2"
-   }
-  ],
-  "argsFor": [
-   {
-    "text": "O presidente da Cagepa, Marcus Vinícius, disse que a parceria dá à companhia sustentabilidade financeira e mais capacidade de investir.",
-    "support": "Essa parceria representa uma virada de chave para a Cagepa e para o estado, garantindo sustentabilidade financeira, fortalecimento da governança",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-argsFor-0"
-   },
-   {
-    "text": "Luciene Machado, do BNDES, que estruturou o projeto, disse que o modelo transforma investimentos em benefícios concretos.",
-    "support": "É um modelo capaz de transformar investimentos em benefícios concretos para a população",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-argsFor-1"
-   }
-  ],
-  "argsAgainst": [
-   {
-    "text": "Críticos do modelo nacional, como o senador Weverton, dizem que o investimento privado em saneamento tende a não chegar às cidades pequenas.",
-    "support": "É um projeto que vai beneficiar os grandes centros, claro, onde as grandes empresas têm interesse de investir",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 24/06/2020"
-    },
-    "checkId": "exp-pb-ppp-cagepa-argsAgainst-0"
-   },
-   {
-    "text": "O senador Rogério Carvalho avaliou que a entrada de empresas privadas pode desvalorizar as estatais de saneamento.",
-    "support": "Em sua avaliação, as mudanças previstas pelo projeto poderão gerar desvalorização das empresas públicas de saneamento",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/para-a-maioria-dos-senadores-o-novo-marco-legal-vai-melhorar-o-saneamento-basico-no-pais",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 24/06/2020"
-    },
-    "checkId": "exp-pb-ppp-cagepa-argsAgainst-1"
-   }
-  ],
-  "nuance": [
-   {
-    "text": "A PPP é consequência do marco nacional do saneamento de 2020, que obriga licitação aberta a empresas públicas e privadas e fixa metas de universalização.",
-    "support": "O texto também torna obrigatória a abertura de licitação, envolvendo empresas públicas e privadas.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2020/06/24/senado-aprova-novo-marco-legal-do-saneamento-basico",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 24/06/2020"
-    },
-    "checkId": "exp-pb-ppp-cagepa-nuance-0"
-   },
-   {
-    "text": "O prazo da Paraíba (2039) é mais longo que o padrão do marco nacional (2033), por decisão do colegiado regional para segurar a tarifa.",
-    "support": "O prazo-padrão do Novo Marco Legal do Saneamento (Lei 14.026/2020) é 2033 .",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-ppp-cagepa-nuance-1"
+    "checkId": "exp-pb-concessoes-ppp-nuance-1"
    }
   ]
  },
@@ -2333,7 +2220,7 @@
   "questionId": "pb-incentivos-fiscais",
   "whatItIs": [
    {
-    "text": "Incentivo fiscal é quando o estado cobra menos ICMS de uma empresa para atrair investimento para seu território.",
+    "text": "Incentivo fiscal é quando o estado cobra menos ICMS, o imposto estadual sobre mercadorias, de uma empresa para atraí-la ao estado.",
     "support": "mediante concessões de isenções fiscais para atrair o investimento produtivo das empresas",
     "source": {
      "url": "https://www12.senado.leg.br/noticias/materias/2013/03/11/isencoes-do-icms-na-guerra-fiscal-afetam-a-produtividade-da-economia-no-longo-prazo-diz-consultor",
@@ -2343,6 +2230,16 @@
     "checkId": "exp-pb-incentivos-fiscais-whatItIs-0"
    },
    {
+    "text": "Na Paraíba, esse desconto vem do FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba): um conselho do governo aprova, por resolução, o benefício de cada indústria.",
+    "support": "Condiciona a fruição do benefício previsto em Resolução do Conselho Deliberativo do Fundo de Apoio ao Desenvolvimento Industrial da Paraíba - FAIN",
+    "source": {
+     "url": "https://sapl.al.pb.leg.br/media/sapl/public/materialegislativa/2015/49332/49332_texto_integral.pdf",
+     "accessed": "2026-10-03",
+     "label": "ALPB, Projeto de Lei 639/2015 do Poder Executivo"
+    },
+    "checkId": "exp-pb-incentivos-fiscais-whatItIs-1"
+   },
+   {
     "text": "Quando vários estados fazem isso ao mesmo tempo, disputando empresas, chama-se guerra fiscal.",
     "support": "A guerra fiscal é resultado da concessão unilateral de isenções e benefícios fiscais do ICMS por parte de estados que buscam atrair investimentos para seus territórios.",
     "source": {
@@ -2350,7 +2247,7 @@
      "accessed": "2026-10-03",
      "label": "Agência Senado, 06/10/2021"
     },
-    "checkId": "exp-pb-incentivos-fiscais-whatItIs-1"
+    "checkId": "exp-pb-incentivos-fiscais-whatItIs-2"
    }
   ],
   "inPractice": [
@@ -2439,119 +2336,6 @@
      "label": "Agência Senado, 11/03/2013"
     },
     "checkId": "exp-pb-incentivos-fiscais-nuance-1"
-   }
-  ]
- },
- {
-  "questionId": "pb-desmilitarizar-pm",
-  "whatItIs": [
-   {
-    "text": "Pela Constituição, as polícias militares são forças auxiliares e reserva do Exército e ficam sob o comando dos governadores.",
-    "support": "As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados",
-    "source": {
-     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-     "accessed": "2026-10-03",
-     "label": "Constituição Federal, Planalto"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-whatItIs-0"
-   },
-   {
-    "text": "Desmilitarizar é transformar a PM em polícia civil, sem a estrutura e a justiça militares. A proposta mais conhecida é a PEC 51/2013.",
-    "support": "O texto prevê ainda que os estados organizem suas polícias em carreira única, ao passo que define a polícia como instituição de natureza civil.",
-    "source": {
-     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
-     "accessed": "2026-10-03",
-     "label": "DataSenado, enquete sobre a PEC 51/2013"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-whatItIs-1"
-   }
-  ],
-  "inPractice": [
-   {
-    "text": "Como o caráter militar das PMs está na Constituição, mudá-lo exige uma emenda constitucional votada no Congresso. O governador comanda a PM, mas não a desmilitariza sozinho.",
-    "support": "O tema da enquete é apenas uma das mudanças contidas na proposta de emenda à Constituição ( PEC 51/2013 )",
-    "source": {
-     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
-     "accessed": "2026-10-03",
-     "label": "DataSenado, enquete sobre a PEC 51/2013"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-inPractice-0"
-   },
-   {
-    "text": "A PEC 51 também prevê o \"ciclo completo\": a mesma polícia patrulharia e investigaria, tarefas hoje divididas entre PM e Polícia Civil.",
-    "support": "Dispõe também sobre o chamado “ciclo completo” da atividade policial",
-    "source": {
-     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
-     "accessed": "2026-10-03",
-     "label": "DataSenado, enquete sobre a PEC 51/2013"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-inPractice-1"
-   }
-  ],
-  "argsFor": [
-   {
-    "text": "A defensora pública Fernanda Rudolfo disse que treinar policiais com \"visão de guerra\" para lidar com civis não cabe num estado democrático.",
-    "support": "Até porque se tem um treinamento militar para lidar com civis, para enfrentar questões ligadas ao povo com um treinamento com uma visão de guerra.",
-    "source": {
-     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
-     "accessed": "2026-10-03",
-     "label": "Agência Câmara, audiência pública"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-argsFor-0"
-   },
-   {
-    "text": "O autor da PEC, então senador Lindbergh Farias, citou pesquisa da FGV segundo a qual 74% dos brasileiros não confiam nas polícias.",
-    "support": "pesquisa da Fundação Getúlio Vargas (FGV) revelou que 74% dos brasileiros não confiam nas polícias.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2014/03/20/lindberg-farias-defende-proposta-de-reformulacao-da-policia",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 20/03/2014"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-argsFor-1"
-   }
-  ],
-  "argsAgainst": [
-   {
-    "text": "O deputado Subtenente Gonzaga (PDT-MG) argumentou que o problema não é a militarização, e sim a violência da sociedade, que qualquer polícia enfrentaria.",
-    "support": "Já o deputado Subtenente Gonzaga (PDT-MG) defende que o problema da PM não é a militarização porque, segundo ele, as outras polícias têm hierarquias semelhantes.",
-    "source": {
-     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
-     "accessed": "2026-10-03",
-     "label": "Agência Câmara, audiência pública"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-argsAgainst-0"
-   },
-   {
-    "text": "Uma cidadã que comentou a proposta no DataSenado, Elzana de Oliveira Moreira Moraes, defendeu que o militarismo \"impõe respeito\" e ajuda a manter a ordem.",
-    "support": "“o militarismo impõe respeito, não é autoritarismo.",
-    "source": {
-     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
-     "accessed": "2026-10-03",
-     "label": "DataSenado, enquete sobre a PEC 51/2013"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-argsAgainst-1"
-   }
-  ],
-  "nuance": [
-   {
-    "text": "Há quem apoie a mudança devagar: o deputado Delegado Edson Moreira defendeu desmilitarizar de forma gradual, sem prejudicar a carreira dos policiais.",
-    "support": "acredita que a desmilitarização das polícias é necessária, mas deve ser feita de forma gradual, sem prejuízo para a carreira dos policiais.",
-    "source": {
-     "url": "https://www.camara.leg.br/noticias/486465-desmilitarizacao-da-policia-divide-opinioes-em-audiencia-publica-na-camara/",
-     "accessed": "2026-10-03",
-     "label": "Agência Câmara, audiência pública"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-nuance-0"
-   },
-   {
-    "text": "Numa enquete do DataSenado (sem valor científico), 54% foram contra e 46% a favor.",
-    "support": "Ao todo, 54% dos votos foram contrários à mudança e 46%, a favor.",
-    "source": {
-     "url": "https://www12.senado.leg.br/institucional/datasenado/materias/enquetes/desmilitarizacao-da-pm",
-     "accessed": "2026-10-03",
-     "label": "DataSenado, enquete sobre a PEC 51/2013"
-    },
-    "checkId": "exp-pb-desmilitarizar-pm-nuance-1"
    }
   ]
  },
@@ -2778,232 +2562,6 @@
      "label": "Senado Federal, Equidade"
     },
     "checkId": "exp-pb-nome-social-nuance-1"
-   }
-  ]
- },
- {
-  "questionId": "pb-vale-saude",
-  "whatItIs": [
-   {
-    "text": "A ideia de um vale-saúde (ou voucher) é dar ao paciente um crédito público para ser atendido num hospital particular, em vez de esperar na rede pública.",
-    "support": "o governo ofereceria aos usuários um voucher para atendimento médico na rede privada, para suplementar o setor de saúde pública.",
-    "source": {
-     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
-     "accessed": "2026-10-03",
-     "label": "Agência Brasil, 29/10/2020"
-    },
-    "checkId": "exp-pb-vale-saude-whatItIs-0"
-   },
-   {
-    "text": "A Constituição já permite que hospitais privados atendam pelo SUS de forma complementar, por contrato ou convênio, com preferência para filantrópicos.",
-    "support": "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos.",
-    "source": {
-     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-     "accessed": "2026-10-03",
-     "label": "Constituição Federal, Planalto"
-    },
-    "checkId": "exp-pb-vale-saude-whatItIs-1"
-   }
-  ],
-  "inPractice": [
-   {
-    "text": "A mesma Constituição proíbe dar dinheiro público como auxílio ou subvenção a instituições privadas com fins lucrativos. Um vale teria de caber nessas regras.",
-    "support": "É vedada a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com fins lucrativos.",
-    "source": {
-     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-     "accessed": "2026-10-03",
-     "label": "Constituição Federal, Planalto"
-    },
-    "checkId": "exp-pb-vale-saude-inPractice-0"
-   },
-   {
-    "text": "Em 2020, o governo federal chegou a incluir postos de saúde no programa de parcerias com empresas, mas revogou a medida depois da repercussão.",
-    "support": "Diante das repercussões, ontem (28), a medida foi revogada",
-    "source": {
-     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
-     "accessed": "2026-10-03",
-     "label": "Agência Brasil, 29/10/2020"
-    },
-    "checkId": "exp-pb-vale-saude-inPractice-1"
-   }
-  ],
-  "argsFor": [
-   {
-    "text": "O então ministro da Economia, Paulo Guedes, defendeu um \"voucher saúde\" dizendo que o paciente atendido na rede privada fica melhor do que sem atendimento.",
-    "support": "Aí a pessoa vai ser atendida, é melhor do que não ter [atendimento]”, disse",
-    "source": {
-     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
-     "accessed": "2026-10-03",
-     "label": "Agência Brasil, 29/10/2020"
-    },
-    "checkId": "exp-pb-vale-saude-argsFor-0"
-   },
-   {
-    "text": "Guedes argumentou que o setor público sozinho não tem capacidade financeira para atender todo mundo.",
-    "support": "porque o setor público sozinho não tem a capacidade financeira de atender todo mundo",
-    "source": {
-     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
-     "accessed": "2026-10-03",
-     "label": "Agência Brasil, 29/10/2020"
-    },
-    "checkId": "exp-pb-vale-saude-argsFor-1"
-   }
-  ],
-  "argsAgainst": [
-   {
-    "text": "Christine Alves, da Escola Nacional de Saúde Pública (ENSP/Fiocruz), disse que as ineficiências do Estado não justificam transferir recursos ao setor privado.",
-    "support": "De acordo com ela, as ineficiências do Estado na saúde pública não podem ser utilizadas como justificativa para a política de renúncia fiscal ao setor privado.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2018/08/13/incentivo-fiscal-e-politica-de-precos-de-planos-de-saude-agravam-a-situacao-dos-sus-dizem-debatedores",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 13/08/2018"
-    },
-    "checkId": "exp-pb-vale-saude-argsAgainst-0"
-   },
-   {
-    "text": "Para Christine Alves, mesmo com estímulo do governo, os planos privados não reduziram a demanda sobre o SUS.",
-    "support": "Para Christine Alves, apesar de todo o estímulo do governo, os planos de saúde não auxiliam na redução da demanda ao Sistema Único de Saúde (SUS).",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/materias/2018/08/13/incentivo-fiscal-e-politica-de-precos-de-planos-de-saude-agravam-a-situacao-dos-sus-dizem-debatedores",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, 13/08/2018"
-    },
-    "checkId": "exp-pb-vale-saude-argsAgainst-1"
-   }
-  ],
-  "nuance": [
-   {
-    "text": "Mesmo defensores do voucher dizem não querer acabar com o SUS: Guedes chamou de \"contrassenso\" privatizar o sistema durante a pandemia.",
-    "support": "e que seria um contrassenso a privatização",
-    "source": {
-     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/jamais-esteve-sob-analise-privatizar-o-sus-diz-guedes",
-     "accessed": "2026-10-03",
-     "label": "Agência Brasil, 29/10/2020"
-    },
-    "checkId": "exp-pb-vale-saude-nuance-0"
-   },
-   {
-    "text": "A diferença entre vale-saúde e convênio é quem escolhe: no convênio o SUS escolhe e contrata o hospital; no vale, o paciente escolhe entre os credenciados.",
-    "support": "mediante contrato de direito público ou convênio",
-    "source": {
-     "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-     "accessed": "2026-10-03",
-     "label": "Constituição Federal, Planalto"
-    },
-    "checkId": "exp-pb-vale-saude-nuance-1"
-   }
-  ]
- },
- {
-  "questionId": "pb-empresas-publicas",
-  "whatItIs": [
-   {
-    "text": "Empresa pública (estatal) é uma empresa controlada pelo governo. No Brasil elas começaram a ser criadas em série nos anos 1940, como Petrobras, CSN e Vale.",
-    "support": "Estatais começaram a ser criadas em série no Brasil na década de 1940, no governo do presidente Getúlio Vargas.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-whatItIs-0"
-   },
-   {
-    "text": "Na Paraíba, a principal estatal é a Cagepa, que leva água a 201 dos 223 municípios.",
-    "support": "Atualmente, a companhia atende 201 dos 223 municípios paraibanos",
-    "source": {
-     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-     "accessed": "2026-10-03",
-     "label": "Movimento Econômico, 15/05/2026"
-    },
-    "checkId": "exp-pb-empresas-publicas-whatItIs-1"
-   }
-  ],
-  "inPractice": [
-   {
-    "text": "Criar uma estatal exige lei e dinheiro do governo. Uma estatal precisa fazer concurso público para contratar e licitação para comprar, o que a deixa mais lenta que uma empresa privada.",
-    "support": "O que ocorre é que uma empresa privada não precisa carregar os vários pesos que uma empresa estatal é obrigada a carregar, como organizar concurso público para contratar pessoal e abrir licitação para fazer compras.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-inPractice-0"
-   },
-   {
-    "text": "Governos de orientações diferentes já criaram estatais: o governo federal de 2019 a 2022, que vendia empresas, criou a NAV Brasil para controle aéreo.",
-    "support": "Nery lembra que até o governo Bolsonaro criou uma estatal, a NAV Brasil, vinculada à Aeronáutica e dedicada aos serviços de controle aéreo.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-inPractice-1"
-   }
-  ],
-  "argsFor": [
-   {
-    "text": "O senador Paulo Paim defende explorar o potencial das estatais produtivas e diz que corrupção em casos isolados não justifica fechar empresas que dão lucro.",
-    "support": "Não se devem prejudicar cadeias produtivas inteiras e empresas que dão lucro, como é o caso da Petrobras.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-argsFor-0"
-   },
-   {
-    "text": "Jean Paul Prates, ex-presidente da Petrobras, defendeu que há privatizações ruins e que vender refinarias penalizou o consumidor.",
-    "support": "Eu acredito que há privatizações boas e más, necessárias e totalmente desnecessárias.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-argsFor-1"
-   }
-  ],
-  "argsAgainst": [
-   {
-    "text": "O economista Armando Castelar (FGV) diz que estatais eram necessárias quando faltava capital privado, o que não é mais o caso.",
-    "support": "Faz algum tempo que essa presença grande do poder público não é mais necessária e justificável — continua Castelar.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-argsAgainst-0"
-   },
-   {
-    "text": "O senador Marcio Bittar avalia que raras empresas precisam ser do Estado e cita o uso político de indicações em estatais.",
-    "support": "A Petrobras mostrou o estrago que as indicações políticas para as estatais podem fazer.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-argsAgainst-1"
-   }
-  ],
-  "nuance": [
-   {
-    "text": "O consultor do Senado Pedro Nery defende avaliar caso a caso: cada modelo, estatal ou privado, tem vantagens e desvantagens.",
-    "support": "O importante é saber que cada modelo, o estatal e o privado, tem vantagens e desvantagens. Nenhum é perfeito.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-nuance-0"
-   },
-   {
-    "text": "Para Castelar, uma estatal só se justifica se tiver papel social além do comercial, como cobrar mais dos ricos para subsidiar os pobres.",
-    "support": "hoje uma estatal só se justifica se cumprir algum papel social, além do comercial, como cobrar mais dos ricos de modo a subsidiar o serviço oferecido aos pobres.",
-    "source": {
-     "url": "https://www12.senado.leg.br/noticias/infomaterias/2023/02/privatizacao-desmonte-do-estado-ou-modernizacao-de-empresas-ineficientes",
-     "accessed": "2026-10-03",
-     "label": "Agência Senado, especial de 02/2023"
-    },
-    "checkId": "exp-pb-empresas-publicas-nuance-1"
    }
   ]
  },

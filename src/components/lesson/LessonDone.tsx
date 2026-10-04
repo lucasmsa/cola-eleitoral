@@ -9,9 +9,10 @@ interface Props {
   onResults: () => void;
   onHome: () => void;
   onRestart: () => void;
+  onBack: () => void;
 }
 
-export function LessonDone({ unitLabel, nextUnitLabel, onNext, onResults, onHome, onRestart }: Props) {
+export function LessonDone({ unitLabel, nextUnitLabel, onNext, onResults, onHome, onRestart, onBack }: Props) {
   return (
     <main className="mx-auto grid max-w-2xl justify-items-center gap-6 px-4 py-12 text-center">
       <Mascot mood="happy" size={160} />
@@ -29,6 +30,9 @@ export function LessonDone({ unitLabel, nextUnitLabel, onNext, onResults, onHome
         </Button>
         <Button variant="quiet" onClick={onHome}>
           {COPY.lesson.home}
+        </Button>
+        <Button variant="quiet" onClick={onBack}>
+          {COPY.lesson.backToLast}
         </Button>
         <Button variant="quiet" onClick={onRestart}>
           {COPY.home.redo}

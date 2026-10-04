@@ -31,23 +31,16 @@
  },
  {
   "candidateId": "governador-15",
-  "text": "O registro está deferido, mas sob recurso (TSE, dados de 03/10/2026, 12:30). Segundo o Jornal da Paraíba, o TSE formou maioria pelo indeferimento em 02/10/2026, e um pedido de vista suspendeu o julgamento; ele pode concorrer no domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A).",
+  "text": "O registro está deferido, mas sob recurso (TSE, dados de 04/10/2026, 08:30). Em 02/10/2026 o julgamento do recurso foi suspenso por pedido de destaque do ministro André Mendonça, quando já havia votos pelo indeferimento; segundo a defesa, os votos dados caem e o julgamento recomeça do zero. Ele concorre neste domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A).",
   "sources": [
    {
     "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
-    "accessed": "2026-10-03",
-    "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 03/10/2026 12:30",
+    "accessed": "2026-10-04",
+    "label": "TSE, consulta_cand_complementar_2026_PB.csv, gerado em 04/10/2026 08:30",
     "kind": "tse-status",
     "cache": "pipeline/raw/tse/comp_PB.csv",
     "sq": "150002544133",
     "expect": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
-   },
-   {
-    "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
-    "accessed": "2026-10-03",
-    "label": "Jornal da Paraíba, 02/10/2026",
-    "kind": "web",
-    "expect": "Cícero Lucena pode concorrer ao cargo de governador no domingo (4), isso porque houve um pedido de vista"
    },
    {
     "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
@@ -56,6 +49,27 @@
     "kind": "law",
     "cache": "pipeline/raw/laws/L9504.htm",
     "expect": "ficando a validade dos votos a ele atribuídos condicionada ao deferimento de seu registro por instância superior"
+   },
+   {
+    "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+    "accessed": "2026-10-04",
+    "label": "Paraíba Online, 03/10/2026",
+    "kind": "web",
+    "expect": "ficou suspenso após também um pedido de destaque do ministro Mendonça"
+   },
+   {
+    "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+    "accessed": "2026-10-04",
+    "label": "Paraíba Online, 03/10/2026",
+    "kind": "web",
+    "expect": "Amanhã caem todos os votos que foram dados e recomeça do zero"
+   },
+   {
+    "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+    "accessed": "2026-10-04",
+    "label": "Paraíba Online, 03/10/2026",
+    "kind": "web",
+    "expect": "o placar já contava três votos pelo indefer"
    }
   ]
  }

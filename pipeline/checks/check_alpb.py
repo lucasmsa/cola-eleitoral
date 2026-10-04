@@ -78,6 +78,9 @@ def html_text(b):
 cf = curl('https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm')
 CF_LIVE = html_text(cf) if cf else None
 CF_LOCAL = html_text(open('alpb/raw/cf88.html', 'rb').read())
+_est = curl('https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm')
+ESTATUTO_LIVE = html_text(_est) if _est else None
+ESTATUTO_LOCAL = html_text(open('alpb/raw/l10826.htm', 'rb').read())
 VOTE_META = {
     22453: {'pauta': 'https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf',
             'ata': 'https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/ata/1187_ata_sessao.pdf',
@@ -199,13 +202,14 @@ def check_questions(qs):
     for vid in VOTE_META:
         add(f'q:rule:{vid}', 'SIM rejeita o veto e aprova o projeto', both(VOTE_META[vid]['pauta'], re.escape(RULE)))
     rs = []
-    for needle in [r'§ 6º As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores',
-                   r'XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação[^;]{0,80}das polícias militares']:
-        if not re.search(needle, CF_LOCAL):
-            rs.append(f'cached CF lacks /{needle[:40]}/')
-        if CF_LIVE is None or not re.search(needle, CF_LIVE):
-            rs.append(f'live CF lacks /{needle[:40]}/')
-    add('q:pb-desmilitarizar-pm', by['pb-desmilitarizar-pm']['context'], rs)
+    needle = r'demonstrar a sua efetiva necessidade por exercício de atividade profissional de risco'
+    if not re.search(needle, ESTATUTO_LOCAL):
+        rs.append('cached Estatuto lacks art. 10 needle')
+    if ESTATUTO_LIVE is None or not re.search(needle, ESTATUTO_LIVE):
+        rs.append('live Estatuto lacks art. 10 needle')
+    if 'efetiva necessidade por atividade profissional de risco (Estatuto do Desarmamento, art. 10)' not in by['pb-cac-arma']['context']:
+        rs.append('context lacks the Estatuto sentence')
+    add('q:pb-cac-arma:estatuto', by['pb-cac-arma']['context'], rs)
     return out
 
 
@@ -264,7 +268,7 @@ if __name__ == '__main__':
     summary['harness_ok'] = harness_ok
     json.dump({'claims': claims, 'questions': qres, 'controls': ctls, 'summary': summary}, open('checks/alpb.report.json', 'w'), ensure_ascii=False, indent=1)
     ok_ids = {c['id'] for c in claims if c['status'] == 'PASS'}
-    q_fail = {c['i'][2:] for c in qres if c['status'] == 'FAIL' and not c['i'].startswith('q:rule')}
+    q_fail = {c['i'].split(':')[1] for c in qres if c['status'] == 'FAIL' and not c['i'].startswith('q:rule')}
     if harness_ok:
         ev = [{k: v for k, v in r.items() if k != '_check'} | {'checkId': f'check_alpb:{i}'} for i, r in enumerate(rows) if r['id'] in ok_ids and r['questionId'] not in q_fail]
         used = {e['questionId'] for e in ev}

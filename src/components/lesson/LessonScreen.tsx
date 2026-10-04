@@ -4,7 +4,7 @@ import { IMPORTANCES, STANCES } from '@/config/answers';
 import { useLesson } from '@/hooks/useLesson';
 import { explainerSections } from '@/lib/explainers';
 import { stanceOptionsFor } from '@/lib/positions';
-import { CloseMark } from '../shell/icons';
+import { Chevron, CloseMark } from '../shell/icons';
 import { Mascot } from '../shell/Mascot';
 import { Button, ProgressBar } from '../shell/ui';
 import { ExplainerPanel } from './ExplainerPanel';
@@ -26,6 +26,7 @@ export function LessonScreen({ unitId }: { unitId: string }) {
         onResults={lesson.openResults}
         onHome={lesson.exit}
         onRestart={lesson.restart}
+        onBack={lesson.back}
       />
     );
   }
@@ -72,6 +73,12 @@ export function LessonScreen({ unitId }: { unitId: string }) {
               <StanceOptions options={stanceOptionsFor(lesson.question, STANCES)} selected={lesson.stance} onSelect={lesson.chooseStance} />
               <ImportanceChips label={COPY.lesson.importance} options={IMPORTANCES} selected={lesson.importance} onSelect={lesson.chooseImportance} />
               <div className="flex flex-wrap gap-3">
+                {lesson.canGoBack && (
+                  <Button variant="quiet" onClick={lesson.back}>
+                    <Chevron className="size-5 rotate-180" />
+                    {COPY.lesson.back}
+                  </Button>
+                )}
                 <Button variant="ghost" onClick={lesson.dontKnow}>
                   {COPY.lesson.dontKnow}
                 </Button>

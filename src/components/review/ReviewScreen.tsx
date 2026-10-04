@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from 'motion/react';
 import { COPY } from '@/config/copy';
 import { useReview } from '@/hooks/useReview';
 import { optionState } from '@/lib/review';
-import { CloseMark } from '../shell/icons';
+import { Chevron, CloseMark } from '../shell/icons';
 import { Mascot } from '../shell/Mascot';
 import { Portrait } from '../shell/Portrait';
 import { Button, Hand, ProgressBar, SourceLink } from '../shell/ui';
@@ -108,6 +108,11 @@ export function ReviewScreen() {
         <button type="button" onClick={r.exit} aria-label={COPY.review.exit} className="-ml-2 inline-flex size-11 shrink-0 items-center justify-center text-muted hover:text-ink">
           <CloseMark className="size-7" />
         </button>
+        {r.canGoBack && (
+          <button type="button" onClick={r.back} aria-label={COPY.lesson.back} className="inline-flex size-11 shrink-0 items-center justify-center text-muted hover:text-ink">
+            <Chevron className="size-6 rotate-180" />
+          </button>
+        )}
         <ProgressBar value={r.progress} label="Progresso do quiz" />
         <span className="tabular text-lg text-muted">
           {r.position} de {r.total}

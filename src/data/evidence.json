@@ -5697,48 +5697,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "plat-governador-80-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe desmilitarizar a PM e criar uma Polícia Cidadã (p. 5).",
-  "quote": "desmilitarização da Polícia Militar: Criação da Polícia Cidadã, fundamentada nos direitos humanos",
-  "page": 5,
-  "date": "2026-08-06",
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 5), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "checkId": "check_alpb:8",
-  "lowDiscrimination": false
- },
- {
-  "id": "plat-governador-29-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe dissolver a Polícia Militar (p. 5).",
-  "quote": "Dissolução da polícia militar e de todo o aparato repressivo",
-  "page": 5,
-  "date": "2026-08-14",
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 5), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "checkId": "check_alpb:9",
-  "lowDiscrimination": false
- },
- {
   "id": "rec-alpb-22453-deputado_estadual-43789",
   "subject": {
    "type": "candidate",
@@ -5754,7 +5712,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:10",
+  "checkId": "check_alpb:8",
   "lowDiscrimination": false
  },
  {
@@ -5773,7 +5731,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:11",
+  "checkId": "check_alpb:9",
   "lowDiscrimination": false
  },
  {
@@ -5792,7 +5750,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:12",
+  "checkId": "check_alpb:10",
   "lowDiscrimination": false
  },
  {
@@ -5811,7 +5769,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:13",
+  "checkId": "check_alpb:11",
   "lowDiscrimination": false
  },
  {
@@ -5830,7 +5788,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:14",
+  "checkId": "check_alpb:12",
   "lowDiscrimination": false
  },
  {
@@ -5849,7 +5807,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:16",
+  "checkId": "check_alpb:14",
   "lowDiscrimination": false
  },
  {
@@ -5868,7 +5826,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:17",
+  "checkId": "check_alpb:15",
   "lowDiscrimination": false
  },
  {
@@ -5887,7 +5845,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:18",
+  "checkId": "check_alpb:16",
   "lowDiscrimination": false
  },
  {
@@ -5906,7 +5864,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:19",
+  "checkId": "check_alpb:17",
   "lowDiscrimination": false
  },
  {
@@ -5925,7 +5883,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:20",
+  "checkId": "check_alpb:18",
   "lowDiscrimination": false
  },
  {
@@ -5944,7 +5902,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:21",
+  "checkId": "check_alpb:19",
   "lowDiscrimination": false
  },
  {
@@ -5963,7 +5921,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:22",
+  "checkId": "check_alpb:20",
   "lowDiscrimination": false
  },
  {
@@ -5982,7 +5940,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:23",
+  "checkId": "check_alpb:21",
   "lowDiscrimination": false
  },
  {
@@ -6001,7 +5959,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:24",
+  "checkId": "check_alpb:22",
   "lowDiscrimination": false
  },
  {
@@ -6020,7 +5978,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:25",
+  "checkId": "check_alpb:23",
   "lowDiscrimination": false
  },
  {
@@ -6039,7 +5997,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:26",
+  "checkId": "check_alpb:24",
   "lowDiscrimination": false
  },
  {
@@ -6058,7 +6016,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:27",
+  "checkId": "check_alpb:25",
   "lowDiscrimination": false
  },
  {
@@ -6077,7 +6035,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 22453)"
   },
-  "checkId": "check_alpb:29",
+  "checkId": "check_alpb:27",
   "lowDiscrimination": false
  },
  {
@@ -6096,7 +6054,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:30",
+  "checkId": "check_alpb:28",
   "lowDiscrimination": false
  },
  {
@@ -6115,7 +6073,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:31",
+  "checkId": "check_alpb:29",
   "lowDiscrimination": false
  },
  {
@@ -6134,7 +6092,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:32",
+  "checkId": "check_alpb:30",
   "lowDiscrimination": false
  },
  {
@@ -6153,7 +6111,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:33",
+  "checkId": "check_alpb:31",
   "lowDiscrimination": false
  },
  {
@@ -6172,7 +6130,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:34",
+  "checkId": "check_alpb:32",
   "lowDiscrimination": false
  },
  {
@@ -6191,7 +6149,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:35",
+  "checkId": "check_alpb:33",
   "lowDiscrimination": false
  },
  {
@@ -6210,7 +6168,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:36",
+  "checkId": "check_alpb:34",
   "lowDiscrimination": false
  },
  {
@@ -6229,7 +6187,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:37",
+  "checkId": "check_alpb:35",
   "lowDiscrimination": false
  },
  {
@@ -6248,7 +6206,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:38",
+  "checkId": "check_alpb:36",
   "lowDiscrimination": false
  },
  {
@@ -6267,7 +6225,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:39",
+  "checkId": "check_alpb:37",
   "lowDiscrimination": false
  },
  {
@@ -6286,7 +6244,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:40",
+  "checkId": "check_alpb:38",
   "lowDiscrimination": false
  },
  {
@@ -6305,7 +6263,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:41",
+  "checkId": "check_alpb:39",
   "lowDiscrimination": false
  },
  {
@@ -6324,7 +6282,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:42",
+  "checkId": "check_alpb:40",
   "lowDiscrimination": false
  },
  {
@@ -6343,7 +6301,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:43",
+  "checkId": "check_alpb:41",
   "lowDiscrimination": false
  },
  {
@@ -6362,7 +6320,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:45",
+  "checkId": "check_alpb:43",
   "lowDiscrimination": false
  },
  {
@@ -6381,7 +6339,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:46",
+  "checkId": "check_alpb:44",
   "lowDiscrimination": false
  },
  {
@@ -6400,7 +6358,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:47",
+  "checkId": "check_alpb:45",
   "lowDiscrimination": false
  },
  {
@@ -6419,7 +6377,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:48",
+  "checkId": "check_alpb:46",
   "lowDiscrimination": false
  },
  {
@@ -6438,7 +6396,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:49",
+  "checkId": "check_alpb:47",
   "lowDiscrimination": false
  },
  {
@@ -6457,7 +6415,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:50",
+  "checkId": "check_alpb:48",
   "lowDiscrimination": false
  },
  {
@@ -6476,7 +6434,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:51",
+  "checkId": "check_alpb:49",
   "lowDiscrimination": false
  },
  {
@@ -6495,7 +6453,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:52",
+  "checkId": "check_alpb:50",
   "lowDiscrimination": false
  },
  {
@@ -6514,7 +6472,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:53",
+  "checkId": "check_alpb:51",
   "lowDiscrimination": false
  },
  {
@@ -6533,7 +6491,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:54",
+  "checkId": "check_alpb:52",
   "lowDiscrimination": false
  },
  {
@@ -6552,7 +6510,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:56",
+  "checkId": "check_alpb:54",
   "lowDiscrimination": false
  },
  {
@@ -6571,7 +6529,7 @@
    "accessed": "2026-09-30",
    "label": "ALPB, SAPL, voto nominal (votação 49945)"
   },
-  "checkId": "check_alpb:57",
+  "checkId": "check_alpb:55",
   "lowDiscrimination": false
  },
  {
@@ -6715,46 +6673,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "exec-governador-11-pb-concessoes-ppp-me-2026",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-11"
-  },
-  "questionId": "pb-concessoes-ppp",
-  "kind": "platform",
-  "position": 1,
-  "detail": "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
-  "date": "2026-05-15",
-  "source": {
-   "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-   "accessed": "2026-10-01",
-   "label": "Movimento Econômico, 15/05/2026"
-  },
-  "checkId": "exec-governador-11-pb-concessoes-ppp-me-2026",
-  "quote": "Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população.",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-11"
-  },
-  "questionId": "pb-concessoes-ppp",
-  "kind": "record",
-  "position": 1,
-  "detail": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
-  "date": "2026-05-15",
-  "source": {
-   "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
-   "accessed": "2026-10-01",
-   "label": "Movimento Econômico, 15/05/2026"
-  },
-  "checkId": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
-  "quote": "O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado.",
-  "lowDiscrimination": false
- },
- {
   "id": "exec-governador-11-pb-incentivos-fiscais-plano",
   "subject": {
    "type": "candidate",
@@ -6861,10 +6779,10 @@
    "type": "candidate",
    "id": "governador-11"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "platform",
   "position": 1,
-  "detail": "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.",
+  "detail": "No leilão da PPP do esgoto da Cagepa, defendeu a parceria com a empresa vencedora.",
   "date": "2026-05-15",
   "source": {
    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
@@ -6881,10 +6799,10 @@
    "type": "candidate",
    "id": "governador-11"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "record",
   "position": 1,
-  "detail": "Seu governo levou a PPP a leilão na B3 em 15/05/2026.",
+  "detail": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP do esgoto de 85 cidades atendidas pela Cagepa.",
   "date": "2026-05-15",
   "source": {
    "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
@@ -6901,10 +6819,10 @@
    "type": "candidate",
    "id": "governador-22"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "platform",
   "position": -1,
-  "detail": "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+  "detail": "Na sabatina da CBN, disse que cancelaria a PPP do esgoto da Cagepa no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
   "date": "2026-07-15",
   "source": {
    "url": "https://www.youtube.com/watch?v=IWccMOrxe2o&t=907s",
@@ -6921,10 +6839,10 @@
    "type": "candidate",
    "id": "governador-15"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "platform",
   "position": -1,
-  "detail": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
+  "detail": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP do esgoto da Cagepa.",
   "date": "2026-09-28",
   "source": {
    "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5507s",
@@ -6941,10 +6859,10 @@
    "type": "candidate",
    "id": "governador-80"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "platform",
   "position": -1,
-  "detail": "Disse que acabará com a PPP e não fará PPPs no governo.",
+  "detail": "Disse que acabará com a PPP do esgoto da Cagepa e não fará PPPs no governo.",
   "date": "2026-09-01",
   "source": {
    "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=2835s",
@@ -6961,10 +6879,10 @@
    "type": "candidate",
    "id": "governador-29"
   },
-  "questionId": "pb-ppp-cagepa",
+  "questionId": "pb-concessoes-ppp",
   "kind": "platform",
   "position": -1,
-  "detail": "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
+  "detail": "Perguntado se desfaria a PPP do esgoto da Cagepa, respondeu que sim e que é contra qualquer privatização.",
   "date": "2026-09-16",
   "source": {
    "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
@@ -6973,106 +6891,6 @@
   },
   "checkId": "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
   "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-27"
-  },
-  "questionId": "pb-vale-saude",
-  "kind": "platform",
-  "position": 1,
-  "detail": "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
-  "date": "2026-08-18",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=3692s",
-   "accessed": "2026-10-01",
-   "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 1:01:32 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-  "quote": "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "questionId": "pb-vale-saude",
-  "kind": "platform",
-  "position": -1,
-  "detail": "Disse que dinheiro público deve ir para órgão público.",
-  "date": "2026-09-16",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=218s",
-   "accessed": "2026-10-01",
-   "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:03:38 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
-  "quote": "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-empresas-publicas",
-  "kind": "platform",
-  "position": 1,
-  "detail": "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
-  "date": "2026-09-01",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=W1Vm4q95CHY&t=750s",
-   "accessed": "2026-10-01",
-   "label": "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026, em 0:12:30 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
-  "quote": "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-empresas-publicas",
-  "kind": "platform",
-  "position": 1,
-  "detail": "Defendeu uma empresa pública de transporte intermunicipal.",
-  "date": "2026-08-18",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=2Ufs3qhUig8&t=989s",
-   "accessed": "2026-10-01",
-   "label": "O Norte Debate, sabatina com Yuri Ezequiel, 18/08/2026, em 0:16:29 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
-  "quote": "nós defendemos uma empresa pública de transporte intermunicipal",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-27"
-  },
-  "questionId": "pb-empresas-publicas",
-  "kind": "platform",
-  "position": -1,
-  "detail": "Defendeu o estado mínimo em todas as áreas fora da segurança.",
-  "date": "2026-08-18",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=6tt_yulTpJ0&t=1542s",
-   "accessed": "2026-10-01",
-   "label": "ClickPB, sabatina com Pedro Coutinho, 18/08/2026, em 0:25:42 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
-  "quote": "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação",
   "lowDiscrimination": false
  },
  {
@@ -7233,46 +7051,6 @@
   },
   "checkId": "exec-governador-29-soc-aborto-LvPKwMJdVbE-5234",
   "quote": "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "Defendeu a desmilitarização da Polícia Militar.",
-  "date": "2026-09-21",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=1Qu4nlbt1G8&t=40s",
-   "accessed": "2026-10-01",
-   "label": "TV Correio, entrevista com Yuri Ezequiel (parte 2), 21/09/2026, em 0:00:40 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
-  "quote": "Nós defendemos a desmilitarização da Polícia Militar",
-  "lowDiscrimination": false
- },
- {
-  "id": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
-  "date": "2026-09-16",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=122s",
-   "accessed": "2026-10-01",
-   "label": "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026, em 0:02:02 (legenda automática do YouTube)"
-  },
-  "checkId": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
-  "quote": "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje",
   "lowDiscrimination": false
  },
  {
@@ -8498,26 +8276,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
-  "questionId": "pb-concessoes-ppp",
-  "kind": "platform",
-  "position": -1,
-  "detail": "No debate da Rádio 98 FM, respondendo sobre a PPP de saneamento da Cagepa, prometeu cancelar o leilão.",
-  "quote": "você me dá uma oportunidade muito importante, porque eu já assumi de público que eu cancelarei esse leilão",
-  "date": "2026-09-28",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=s56ijpZa39Y&t=5505s",
-   "label": "Debate da Rádio 98 FM (Portal Correio), 28/09/2026, YouTube, 01:31:45, legenda automática",
-   "accessed": "2026-10-01"
-  },
-  "subject": {
-   "type": "candidate",
-   "id": "governador-15"
-  },
-  "checkId": "gov-governador-15-pb-concessoes-ppp-98fm-2026-09-28",
-  "lowDiscrimination": false
- },
- {
   "id": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
   "questionId": "soc-aborto",
   "kind": "platform",
@@ -8535,26 +8293,6 @@
    "id": "governador-29"
   },
   "checkId": "gov-governador-29-soc-aborto-sofesta-2026-08-25",
-  "lowDiscrimination": false
- },
- {
-  "id": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
-  "questionId": "pb-concessoes-ppp",
-  "kind": "platform",
-  "position": -1,
-  "detail": "Na TV Correio, perguntado se desfaria a PPP de saneamento da Cagepa, respondeu que sim e que é contra qualquer privatização.",
-  "quote": "Sim, nós somos totalmente contrários a qualquer tipo de privatização.",
-  "date": "2026-09-16",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=dvfM_oTDPwQ&t=210s",
-   "label": "Entrevista com Camilo Duarte, TV Correio (parte 2), 16/09/2026, YouTube, 00:03:30, legenda automática",
-   "accessed": "2026-10-01"
-  },
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "checkId": "gov-governador-29-pb-concessoes-ppp-tvcorreio-2026-09-16",
   "lowDiscrimination": false
  },
  {

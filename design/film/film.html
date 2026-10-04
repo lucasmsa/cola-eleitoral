@@ -178,7 +178,7 @@ function drawWord(t) {
 
 // ---------------------------------------------------------------- subtitle (masked word rise)
 const SUB = 'Descubra quem pensa como você, com fonte em cada fato';
-const subEl = $('sub'); const words = [];
+const subEl = $('sub'); const words = []; const wordPts = [];
 function buildSub() {
   Object.assign(subEl.style, { left: L.sub.x + 'px', top: L.sub.y + 'px', width: L.sub.w + 'px', fontSize: L.sub.fs + 'px', textAlign: L.sub.center ? 'center' : 'left' });
   SUB.split(' ').forEach((w, i) => {
@@ -188,6 +188,7 @@ function buildSub() {
     subEl.appendChild(w.endsWith(',') ? document.createElement('br') : document.createTextNode(' '));
     words.push(inner);
   });
+  subEl.querySelectorAll('.w').forEach((o) => wordPts.push({ x: L.sub.x + o.offsetLeft + o.offsetWidth / 2, y: L.sub.y + o.offsetTop + o.offsetHeight * 0.55 }));
 }
 const SUB_T0 = 5.75;
 function drawSub(t) {
@@ -214,6 +215,7 @@ class Sim {
     this.ab.bindViewModelInstance(this.vmi); this.sm.bindViewModelInstance(this.vmi);
     this.time = 0; this.done = new Set();
     this.sm.advanceAndApply(0);
+    if (this.opts.onReset) this.opts.onReset(this);
   }
   advanceTo(t) {
     if (t < this.time - 1e-9) this.reset();
@@ -260,8 +262,8 @@ async function buildRive() {
     { t: ARRIVE + 0.04, fn: (v) => v.trigger('nod').trigger() },
     { t: ARRIVE + 0.3, fn: mood(3) },
     { t: 5.7, fn: mood(0) },
-    { t: STAMP_T + 0.02, fn: mood(4) },
-  ]);
+    { t: STAMP_T + 0.02, fn: (v) => v.trigger('nod').trigger() },
+  ], { onReset: rigGaze });
   // the stamp freezes once it has landed (its own clip would fade it out at 0.33 s)
   stamp = new Sim(sf, 'Carimbo', 'Stamp', stampC, [{ t: 0, fn: (v) => v.trigger('stamp').trigger() }], { freezeAt: 0.3, inset: 0.25 });
   turn = new Sim(tf, 'Pagina', 'Turn', turnC, [{ t: 0, fn: (v) => v.trigger('turn').trigger() }]);
@@ -276,6 +278,64 @@ function camera(t) {
   lz += 0.008 * io(seg(t, 7.2, T_FILM));
   const shake = t > STAMP_T ? Math.exp(-(t - STAMP_T) * 18) * H * 0.004 * Math.sin((t - STAMP_T) * 90) : 0;
   $('cam').style.transform = `translateY(${shake}px) scale(${Math.exp(lz)})`;
+}
+
+// ---------------------------------------------------------------- gaze: the Calango watches the writing
+// Pure in t: the target is averaged over a short trailing window, so any seek(t) gives the same frame.
+const GAZE_ON = WRITE_T0 - 0.3, GAZE_OFF = STAMP_T + 0.8, GAZE_REST = STAMP_T + 1.35;
+function penAt(t) {
+  for (const l of letters) {
+    const s = seg(t, l.t0, l.t0 + STROKE_T);
+    if (s > 0 && s < 1) return { x: l.x + l.w * out(s), y: l.y - L.word.fs * (0.55 - 0.45 * out(s)) };
+  }
+  const len = underline.getTotalLength(), u = io(seg(t, UL_T0(), UL_T0() + 0.42));
+  if (u > 0 && u < 1) { const p = underline.getPointAtLength(len * u); return { x: p.x, y: p.y }; }
+  return null;
+}
+function lastWritten(t) {
+  let last = null;
+  for (const l of letters) if (l.t0 <= t) last = { x: l.x + l.w, y: l.y - L.word.fs * 0.1 };
+  if (last) return last;
+  const f = letters[0]; return { x: f.x, y: f.y - L.word.fs * 0.3 };
+}
+function rawTarget(t) {
+  if (t >= STAMP_T - 0.04) return { x: L.stamp.cx, y: L.stamp.cy };
+  if (t >= SUB_T0) {
+    const i = Math.min(wordPts.length - 1, Math.max(0, Math.floor((t - SUB_T0) / 0.055)));
+    return wordPts[i];
+  }
+  return penAt(t) || lastWritten(t);
+}
+function gazeAt(t) {
+  const w = io(seg(t, GAZE_ON, GAZE_ON + 0.35)) * (1 - io(seg(t, GAZE_OFF, GAZE_REST)));
+  if (w <= 0) return { px: 0, py: 0, hx: 0, hr: 0 };
+  let x = 0, y = 0; const N = 7;
+  for (let k = 0; k < N; k++) { const p = rawTarget(t - k * 0.02); x += p.x; y += p.y; }
+  x /= N; y /= N;
+  const m = L.mascot, ex = m.cx, ey = m.base - m.size * 0.62;
+  const fx = clamp((x - ex) / (W * 0.6), -1, 1), fy = clamp((y - ey) / (H * 0.18), -1, 1);
+  return { px: w * fx * 9, py: w * fy * 7, hx: w * fx * 5, hr: w * fy * 0.05 };
+}
+let rig = null;
+function rigGaze(sim) {
+  const ab = sim.ab;
+  const pupils = [ab.node('Pupil 0'), ab.node('Pupil 1')];
+  rig = { ab, pupils, heads: [ab.node('Head'), ab.node('Head rim')], rest: pupils.map((p) => ({ x: p.x, y: p.y })), applied: { hx: 0, hr: 0 } };
+}
+function undoGaze() {
+  if (!rig) return;
+  for (const h of rig.heads) { h.x -= rig.applied.hx; h.rotation -= rig.applied.hr; }
+  rig.applied = { hx: 0, hr: 0 };
+}
+function applyGaze(t) {
+  const g = gazeAt(t);
+  rig.pupils.forEach((p, k) => {
+    p.x = clamp(rig.rest[k].x + g.px, -8.5, 8.5);
+    p.y = clamp(rig.rest[k].y + g.py, -7.5, 7.5);
+  });
+  for (const h of rig.heads) { h.x += g.hx; h.rotation += g.hr; }
+  rig.applied = { hx: g.hx, hr: g.hr };
+  rig.ab.advance(0);
 }
 
 // ---------------------------------------------------------------- mascot walk (transform) + Rive
@@ -300,7 +360,9 @@ function drawMascot(t) {
   mascotC.style.transform = `rotate(${rock}deg) scale(${sx}, ${sy})`;
   const sw = m.size * 0.5 * (1 + bob / (m.size * 0.2));
   Object.assign(shadowEl.style, { width: sw + 'px', height: m.size * 0.05 + 'px', left: (x - sw / 2) + 'px', top: (m.base - m.size * 0.035) + 'px', opacity: 0.09 * (1 + bob / (m.size * 0.15)) });
+  undoGaze();
   mascot.advanceTo(t);
+  applyGaze(t);
   mascot.draw();
 }
 

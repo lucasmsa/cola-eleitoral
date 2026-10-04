@@ -91,18 +91,6 @@ rows = [
         "2026-05-18", src(U["cagepa"], "ClickCZ, 18/05/2026"),
         [{"web": U["cagepa"], "contains": ["Não privatizamos, nem vamos privatizar a Cagepa"], "near": ["Lucas Ribeiro"], "published": "2026-05-18"}],
         quote="Não privatizamos, nem vamos privatizar a Cagepa. A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba e continuará comandando o abastecimento de água e esgotamento sanitário do Estado"),
-    row("exec-governador-11-pb-concessoes-ppp-me-2026", LUCAS, "pb-concessoes-ppp", "platform", 1,
-        "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
-        "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
-        [{"web": U["ppp"], "contains": ["Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população"],
-          "near": ["Lucas Ribeiro"], "published": "2026-05-15"}],
-        quote="Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população."),
-    row("exec-governador-11-pb-concessoes-ppp-leilao-2026", LUCAS, "pb-concessoes-ppp", "record", 1,
-        "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
-        "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
-        [{"web": U["ppp"], "contains": ["O governador Lucas Ribeiro participou do certame na B3", "85 cidades"], "published": "2026-05-15"},
-         {"governor_on": "2026-05-15", "expect": "LUCAS"}],
-        quote="O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado."),
     row("exec-governador-11-pb-incentivos-fiscais-plano", LUCAS, "pb-incentivos-fiscais", "platform", 1,
         "O plano de governo registrado no TSE propõe atrair indústrias com uma política de incentivos fiscais orientada à geração de emprego e renda (p. 21).",
         "2026-08-13", src(TSE_PLAN_PB, "Plano de governo registrado no TSE (LUCAS RIBEIRO, p. 21), arquivo 2026PB150002551789_01.pdf"),
@@ -180,23 +168,43 @@ LUCAS, EFRAIM, CICERO, YURI, CAMILO, PEDRO = (f"governador-{n}" for n in (11, 22
 CF88 = "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
 CLICKCZ = U["cagepa"]
 
+PPP_LAW = "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm"
+FAIN_PL = "https://sapl.al.pb.leg.br/media/sapl/public/materialegislativa/2015/49332/49332_texto_integral.pdf"
+TSE_PLAN_ZIP = "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip"
+
 questions = [
-    {"id": "pb-ppp-cagepa", "area": "economia", "offices": ["governador", "deputado_estadual"],
-     "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
-     "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
-     "sources": [src(U["ppp"], "Movimento Econômico, 15/05/2026"), src(CLICKCZ, "ClickCZ, 18/05/2026")],
-     "checks": [{"web": U["ppp"], "contains": ["venceu nesta sexta-feira (15) o leilão da Parceria Público-Privada (PPP) de esgotamento sanitário", "85 cidades", "25 anos", "único lance"], "published": "2026-05-15"},
+    {"id": "pb-concessoes-ppp", "area": "economia", "offices": ["governador", "deputado_estadual"],
+     "statement": "A Paraíba deve passar mais obras e serviços públicos, como o esgoto das cidades, para empresas privadas fazerem por contrato, recebendo tarifa ou pagamento do governo.",
+     "context": "Concessão e PPP (parceria público-privada) são contratos em que uma empresa privada constrói ou opera um serviço público e recebe tarifa dos usuários. Na PPP, o governo também paga a empresa, e o contrato dura de 5 a 35 anos. Em 15/05/2026 a Paraíba leiloou a PPP do esgoto de 85 cidades atendidas pela Cagepa, num contrato de 25 anos. A Cagepa continua pública e segue cuidando da água.",
+     "sources": [src(PPP_LAW, "Lei 11.079/2004 (Lei das PPPs), Planalto"), src(U["ppp"], "Movimento Econômico, 15/05/2026"), src(CLICKCZ, "ClickCZ, 18/05/2026")],
+     "options": [
+         {"label": "Não: obras e serviços como o esgoto devem ficar com o governo", "value": -1},
+         {"label": "Só em casos pontuais, com regras mais duras", "value": -0.5},
+         {"label": "Depende do caso, não sei", "value": 0},
+         {"label": "Sim, mas revendo contratos como o da Cagepa", "value": 0.5},
+         {"label": "Sim, mais parcerias com empresas privadas", "value": 1}],
+     "checks": [{"file": "raw/l11079.htm", "encoding": "cp1252",
+                 "contains": ["adicionalmente à tarifa cobrada dos usuários contraprestação pecuniária do parceiro público ao parceiro privado",
+                              "não inferior a 5 (cinco), nem superior a 35 (trinta e cinco) anos"]},
+                {"web": U["ppp"], "contains": ["leilão da Parceria Público-Privada (PPP) de esgotamento sanitário", "85 cidades", "25 anos",
+                                               "O abastecimento de água segue integralmente sob responsabilidade da Cagepa"], "published": "2026-05-15"},
                 {"web": CLICKCZ, "contains": ["A Cagepa continuará pública"]}]},
-    {"id": "pb-vale-saude", "area": "social", "offices": ["governador", "deputado_estadual"],
-     "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
-     "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
-     "sources": [src(CF88, "Constituição Federal, art. 199")],
-     "checks": [{"file": "../alpb/raw/cf88.html", "encoding": "cp1252", "contains": ["As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio"]}]},
-    {"id": "pb-empresas-publicas", "area": "economia", "offices": ["governador", "deputado_estadual"],
-     "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
-     "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
-     "sources": [src(CLICKCZ, "ClickCZ, 18/05/2026")],
-     "checks": [{"web": CLICKCZ, "contains": ["A Cagepa continuará pública, continuará pertencendo ao Governo da Paraíba"]}]},
+    {"id": "pb-incentivos-fiscais", "area": "economia", "offices": ["governador", "deputado_estadual"],
+     "statement": "A Paraíba deve continuar cobrando menos imposto de indústrias que vêm para o estado, exigindo em troca que gerem empregos.",
+     "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Na Paraíba, o FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba) concede crédito de ICMS, o imposto estadual sobre a circulação de mercadorias, a indústrias aprovadas pelo conselho do fundo. Os planos de governo divergem: uns mantêm os incentivos com metas de emprego, outro propõe acabar com eles.",
+     "sources": [src(FAIN_PL, "ALPB, Projeto de Lei 639/2015 do Poder Executivo"), src(U["doe_fain"], "Diário Oficial do Estado da Paraíba nº 18.637, 25/07/2026"),
+                 src(CF88, "Constituição Federal, art. 155"), src(TSE_PLAN_ZIP, "Planos de governo PB 2026 registrados no TSE")],
+     "options": [
+         {"label": "Não: acabar com os descontos de imposto", "value": -1},
+         {"label": "Só para empresas pequenas e médias", "value": -0.5},
+         {"label": "Não tenho opinião formada", "value": 0},
+         {"label": "Sim, com metas e devolução se a empresa não cumprir", "value": 0.5},
+         {"label": "Sim, e ampliar para atrair mais indústrias", "value": 1}],
+     "checks": [{"pdf": "../alpb/raw/fain/49332.pdf", "contains": ["Conselho Deliberativo do Fundo de Apoio ao Desenvolvimento Industrial da Paraíba - FAIN"]},
+                {"pdf": "raw/sapl/doe_2026-07-25.pdf", "page": 1, "contains": ["do Conselho Delibera- tivo do FAIN, que aprovam a concessão de crédito presumido de ICMS"]},
+                {"file": "../alpb/raw/cf88.html", "encoding": "cp1252", "contains": ["operações relativas à circulação de mercadorias"]},
+                {"pdf": "../raw/plans/2026PB150002540204_01.pdf", "page": 2, "contains": ["Fim imediato de todos os subsídios e incentivos fiscais"]},
+                {"pdf": "../raw/plans/2026PB150002544133_01.pdf", "page": 55, "contains": ["metas públicas de investimento, empregos e salários"]}]},
 ]
 
 
@@ -224,41 +232,31 @@ CUE_CAM = [{"phrase": "desfaria esse trato", "within": [-20, 0]}]
 CUE_EF_TAM = [{"phrase": "Efraim Filho, o senhor tem 2 minutos para responder", "within": [-30, 0]}]
 
 
-def trow(subject, qid, pos, detail, date, v, at, phrase, label, cues=()):
+def trow(subject, qid, pos, detail, date, v, at, phrase, label, cues=(), idq=None):
     vid, title, channel = v
-    rid = f"exec-{subject}-{qid}-{vid.strip('-')}-{at}"
+    rid = f"exec-{subject}-{idq or qid}-{vid.strip('-')}-{at}"
     return row(rid, subject, qid, "platform", pos, detail, date, yt(vid, at, label),
                [cap(vid, at, phrase, title, channel, cues)], quote=phrase)
 
 
 rows += [
-    row("exec-governador-11-pb-ppp-cagepa-me-2026", LUCAS, "pb-ppp-cagepa", "platform", 1,
-        "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.", "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
+    row("exec-governador-11-pb-ppp-cagepa-me-2026", LUCAS, "pb-concessoes-ppp", "platform", 1,
+        "No leilão da PPP do esgoto da Cagepa, defendeu a parceria com a empresa vencedora.", "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
         [{"web": U["ppp"], "contains": ["Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento"], "near": ["Lucas Ribeiro"], "published": "2026-05-15"}],
         quote="Estamos dando mais um passo no caminho do desenvolvimento, com uma parceria que vai acelerar a expansão do saneamento e garantir mais qualidade de vida para a nossa população."),
-    row("exec-governador-11-pb-ppp-cagepa-leilao-2026", LUCAS, "pb-ppp-cagepa", "record", 1,
-        "Seu governo levou a PPP a leilão na B3 em 15/05/2026.", "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
-        [{"web": U["ppp"], "contains": ["O governador Lucas Ribeiro participou do certame na B3"], "published": "2026-05-15"},
+    row("exec-governador-11-pb-ppp-cagepa-leilao-2026", LUCAS, "pb-concessoes-ppp", "record", 1,
+        "Seu governo levou a leilão na B3, em 15/05/2026, a PPP do esgoto de 85 cidades atendidas pela Cagepa.", "2026-05-15", src(U["ppp"], "Movimento Econômico, 15/05/2026"),
+        [{"web": U["ppp"], "contains": ["O governador Lucas Ribeiro participou do certame na B3", "85 cidades"], "published": "2026-05-15"},
          {"governor_on": "2026-05-15", "expect": "LUCAS"}],
         quote="O governador Lucas Ribeiro participou do certame na B3 e classificou o resultado como um marco para o estado."),
-    trow(EFRAIM, "pb-ppp-cagepa", -1, "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
-         "2026-07-15", EF_CBN, 907, "Não só critico como vou cancelar ela no primeiro dia de governo, se isso já me for possível fazer", "CBN Paraíba, sabatina com Efraim Filho, 15/07/2026"),
-    trow(CICERO, "pb-ppp-cagepa", -1, "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
-         "2026-09-28", DEB_98, 5507, "eu já assumi de público que eu cancelarei esse leilão", "Debate 98 FM e Portal Correio, 28/09/2026", CUE_CIC),
-    trow(YURI, "pb-ppp-cagepa", -1, "Disse que acabará com a PPP e não fará PPPs no governo.",
-         "2026-09-01", YURI_SOF, 2835, "Nós vamos acabar com a PPP. Não vai ter PPP no governo da unidade popular aqui na Paraíba", "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026"),
-    trow(CAMILO, "pb-ppp-cagepa", -1, "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
-         "2026-09-16", CAM_COR, 210, "Sim, nós somos totalmente contrários a qualquer tipo de privatização", "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026", CUE_CAM),
-    trow(PEDRO, "pb-vale-saude", 1, "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
-         "2026-08-18", PED_CLK, 3692, "usar esse recurso para alimentar o cartão Vale Saúde. E aí o paraibano pode optar aonde ele vai fazer o tratamento dele, se é no hospital particular", "ClickPB, sabatina com Pedro Coutinho, 18/08/2026"),
-    trow(CAMILO, "pb-vale-saude", -1, "Disse que dinheiro público deve ir para órgão público.",
-         "2026-09-16", CAM_COR, 218, "Nós acreditamos que dinheiro público tem que ser em órgão público para atender a necessidade da população", "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026"),
-    trow(YURI, "pb-empresas-publicas", 1, "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
-         "2026-09-01", YURI_SOF, 750, "A primeira proposta nossa é a criação de empresas públicas para atuar em setores estratégicos da indústria e do serviço", "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026"),
-    trow(YURI, "pb-empresas-publicas", 1, "Defendeu uma empresa pública de transporte intermunicipal.",
-         "2026-08-18", YURI_NOR, 989, "nós defendemos uma empresa pública de transporte intermunicipal", "O Norte Debate, sabatina com Yuri Ezequiel, 18/08/2026"),
-    trow(PEDRO, "pb-empresas-publicas", -1, "Defendeu o estado mínimo em todas as áreas fora da segurança.",
-         "2026-08-18", PED_CLK, 1542, "eu prego o afastamento do Estado, ele se tornar mínimo ou zero em todas as áreas, inclusive saúde e educação", "ClickPB, sabatina com Pedro Coutinho, 18/08/2026"),
+    trow(EFRAIM, "pb-concessoes-ppp", -1, "Na sabatina da CBN, disse que cancelaria a PPP do esgoto da Cagepa no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+         "2026-07-15", EF_CBN, 907, "Não só critico como vou cancelar ela no primeiro dia de governo, se isso já me for possível fazer", "CBN Paraíba, sabatina com Efraim Filho, 15/07/2026", idq="pb-ppp-cagepa"),
+    trow(CICERO, "pb-concessoes-ppp", -1, "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP do esgoto da Cagepa.",
+         "2026-09-28", DEB_98, 5507, "eu já assumi de público que eu cancelarei esse leilão", "Debate 98 FM e Portal Correio, 28/09/2026", CUE_CIC, idq="pb-ppp-cagepa"),
+    trow(YURI, "pb-concessoes-ppp", -1, "Disse que acabará com a PPP do esgoto da Cagepa e não fará PPPs no governo.",
+         "2026-09-01", YURI_SOF, 2835, "Nós vamos acabar com a PPP. Não vai ter PPP no governo da unidade popular aqui na Paraíba", "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026", idq="pb-ppp-cagepa"),
+    trow(CAMILO, "pb-concessoes-ppp", -1, "Perguntado se desfaria a PPP do esgoto da Cagepa, respondeu que sim e que é contra qualquer privatização.",
+         "2026-09-16", CAM_COR, 210, "Sim, nós somos totalmente contrários a qualquer tipo de privatização", "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026", CUE_CAM, idq="pb-ppp-cagepa"),
     trow(YURI, "pb-incentivos-fiscais", -1, "Criticou as isenções fiscais a grandes empresas, como no polo turístico do Cabo Branco.",
          "2026-09-01", YURI_SOF, 728, "políticas de isenção fiscal para as grandes empresas, como no polo turístico do Cabo Branco", "Sofesta FM, entrevista com Yuri Ezequiel, 01/09/2026"),
     trow(CICERO, "pb-incentivos-fiscais", 1, "Citou a redução do ICMS em São Bento como incentivo que atraiu indústria e aumentou a arrecadação.",
@@ -275,16 +273,12 @@ rows += [
          "2026-08-24", CAM_SOF, 4597, "sim, nós defendemos que toda a população tem acesso a armamento", "Sofesta FM, entrevista com Camilo Duarte, 24/08/2026"),
     trow(CAMILO, "soc-aborto", 1, "Disse que a decisão sobre o aborto cabe à mulher grávida.",
          "2026-08-24", CAM_SOF, 5234, "é a favor que a mulher que tá grávida possa decidir. Cabe a ela essa decisão", "Sofesta FM, entrevista com Camilo Duarte, 24/08/2026"),
-    trow(YURI, "pb-desmilitarizar-pm", 1, "Defendeu a desmilitarização da Polícia Militar.",
-         "2026-09-21", YURI_COR, 40, "Nós defendemos a desmilitarização da Polícia Militar", "TV Correio, entrevista com Yuri Ezequiel (parte 2), 21/09/2026"),
-    trow(CAMILO, "pb-desmilitarizar-pm", 1, "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
-         "2026-09-16", CAM_COR, 122, "Não só a desmitalização, nós defendemos o fim das polícias, como a conhecemos hoje", "TV Correio, entrevista com Camilo Duarte (parte 2), 16/09/2026"),
 ]
 
 controls += [
-    row("NEG-yuri-ppp-quote-as-cicero", CICERO, "pb-ppp-cagepa", "platform", -1, "control", "2026-09-28", src(YT + "s56ijpZa39Y", "x"),
+    row("NEG-yuri-ppp-quote-as-cicero", CICERO, "pb-concessoes-ppp", "platform", -1, "control", "2026-09-28", src(YT + "s56ijpZa39Y", "x"),
         [cap("s56ijpZa39Y", 5600, "É fundamental enfrentar a precarização da CAJEP a partir desse leilão", "DEBATE - GOVERNO DA PARAÍBA", "Portal Correio", CUE_CIC)]),
-    row("NEG-efraim-keeps-ppp-fabricated", EFRAIM, "pb-ppp-cagepa", "platform", 1, "control", "2026-07-15", src(YT + "IWccMOrxe2o", "x"),
+    row("NEG-efraim-keeps-ppp-fabricated", EFRAIM, "pb-concessoes-ppp", "platform", 1, "control", "2026-07-15", src(YT + "IWccMOrxe2o", "x"),
         [cap("IWccMOrxe2o", 907, "vou manter a PPP da Cajepa", "Sabatina com Efraim Filho", "CBN Paraíba")]),
     row("NEG-camilo-quote-wrong-video", CAMILO, "seg-armas", "platform", 1, "control", "2026-08-24", src(YT + "dvfM_oTDPwQ", "x"),
         [cap("dvfM_oTDPwQ", 4597, "sim, nós defendemos que toda a população tem acesso a armamento", "Camilo Duarte", "TV Correio")]),

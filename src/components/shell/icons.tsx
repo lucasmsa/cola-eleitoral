@@ -29,3 +29,12 @@ export function GitHubMark({ className = '' }: { className?: string }) {
     </svg>
   );
 }
+
+export function ReturnMark({ className = '' }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} aria-hidden="true" fill="none" stroke="currentColor" strokeWidth={2.6} strokeLinecap="round" strokeLinejoin="round">
+      <path d="M19 5v6a3 3 0 0 1-3 3H6" />
+      <path d="M10 10l-4 4 4 4" />
+    </svg>
+  );
+}

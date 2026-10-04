@@ -32,15 +32,19 @@ export function useLesson(unitId: string) {
   const explainer = question ? explainerFor(explainers, question.id) : null;
 
   const advance = useCallback(() => {
-    setStance(null);
-    setImportance(DEFAULT_IMPORTANCE);
     if (index + 1 >= total) {
+      setStance(null);
+      setImportance(DEFAULT_IMPORTANCE);
       setPhase('done');
       return;
     }
+    const nextId = unit?.questions[index + 1]?.id;
+    const saved = nextId ? answers[nextId] : undefined;
+    setStance(saved && saved !== 'skip' ? saved.stance : null);
+    setImportance(saved && saved !== 'skip' ? saved.importance : DEFAULT_IMPORTANCE);
     setIndex(index + 1);
     setPhase('answer');
-  }, [index, total]);
+  }, [index, total, unit, answers]);
 
   useEffect(() => {
     if (phase !== 'recorded' || import.meta.env.MODE === 'test') return;
@@ -59,6 +63,21 @@ export function useLesson(unitId: string) {
   function confirm() {
     if (stance === null) return;
     record({ stance, importance });
+  }
+
+  function loadSaved(i: number) {
+    const id = unit?.questions[i]?.id;
+    const saved = id ? answers[id] : undefined;
+    setStance(saved && saved !== 'skip' ? saved.stance : null);
+    setImportance(saved && saved !== 'skip' ? saved.importance : DEFAULT_IMPORTANCE);
+  }
+
+  function back() {
+    const target = phase === 'done' ? total - 1 : index - 1;
+    if (target < 0) return;
+    loadSaved(target);
+    setIndex(target);
+    setPhase('answer');
   }
 
   function restart() {
@@ -90,6 +109,8 @@ export function useLesson(unitId: string) {
     confirm,
     dontKnow: () => record('skip'),
     next: advance,
+    back,
+    canGoBack: phase === 'done' ? total > 0 : phase === 'answer' && index > 0,
     restart,
     exit: nav.goHome,
     openNextUnit: () => nextUnit && nav.goLesson(nextUnit.id),

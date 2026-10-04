@@ -200,56 +200,6 @@
   }
  },
  {
-  "id": "plat-governador-80-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-80"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe desmilitarizar a PM e criar uma Polícia Cidadã (p. 5).",
-  "quote": "desmilitarização da Polícia Militar: Criação da Polícia Cidadã, fundamentada nos direitos humanos",
-  "page": 5,
-  "date": "2026-08-06",
-  "lowDiscrimination": false,
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (YURI EZEQUIEL, p. 5), arquivo 2026PB150002540204_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "_check": {
-   "type": "plan_quote",
-   "file": "2026PB150002540204_01.pdf",
-   "nr": "80"
-  }
- },
- {
-  "id": "plat-governador-29-pb-desmilitarizar-pm-p5",
-  "subject": {
-   "type": "candidate",
-   "id": "governador-29"
-  },
-  "questionId": "pb-desmilitarizar-pm",
-  "kind": "platform",
-  "position": 1,
-  "detail": "O plano propõe dissolver a Polícia Militar (p. 5).",
-  "quote": "Dissolução da polícia militar e de todo o aparato repressivo",
-  "page": 5,
-  "date": "2026-08-14",
-  "lowDiscrimination": false,
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (CAMILO DUARTE, p. 5), arquivo 2026PB150002552603_01.pdf em proposta_governo_2026_PB.zip"
-  },
-  "_check": {
-   "type": "plan_quote",
-   "file": "2026PB150002552603_01.pdf",
-   "nr": "29"
-  }
- },
- {
   "id": "rec-alpb-22453-deputado_estadual-43789",
   "subject": {
    "type": "candidate",

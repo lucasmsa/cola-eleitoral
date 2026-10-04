@@ -1,14 +1,19 @@
 [
  {
-  "id": "pb-ppp-cagepa",
+  "id": "pb-concessoes-ppp",
   "area": "economia",
   "offices": [
    "governador",
    "deputado_estadual"
   ],
-  "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
-  "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+  "statement": "A Paraíba deve passar mais obras e serviços públicos, como o esgoto das cidades, para empresas privadas fazerem por contrato, recebendo tarifa ou pagamento do governo.",
+  "context": "Concessão e PPP (parceria público-privada) são contratos em que uma empresa privada constrói ou opera um serviço público e recebe tarifa dos usuários. Na PPP, o governo também paga a empresa, e o contrato dura de 5 a 35 anos. Em 15/05/2026 a Paraíba leiloou a PPP do esgoto de 85 cidades atendidas pela Cagepa, num contrato de 25 anos. A Cagepa continua pública e segue cuidando da água.",
   "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+    "accessed": "2026-10-01",
+    "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+   },
    {
     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
     "accessed": "2026-10-01",
@@ -19,39 +24,81 @@
     "accessed": "2026-10-01",
     "label": "ClickCZ, 18/05/2026"
    }
-  ]
- },
- {
-  "id": "pb-vale-saude",
-  "area": "social",
-  "offices": [
-   "governador",
-   "deputado_estadual"
   ],
-  "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
-  "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
-  "sources": [
+  "options": [
    {
-    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-    "accessed": "2026-10-01",
-    "label": "Constituição Federal, art. 199"
+    "label": "Não: obras e serviços como o esgoto devem ficar com o governo",
+    "value": -1
+   },
+   {
+    "label": "Só em casos pontuais, com regras mais duras",
+    "value": -0.5
+   },
+   {
+    "label": "Depende do caso, não sei",
+    "value": 0
+   },
+   {
+    "label": "Sim, mas revendo contratos como o da Cagepa",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, mais parcerias com empresas privadas",
+    "value": 1
    }
   ]
  },
  {
-  "id": "pb-empresas-publicas",
+  "id": "pb-incentivos-fiscais",
   "area": "economia",
   "offices": [
    "governador",
    "deputado_estadual"
   ],
-  "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
-  "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+  "statement": "A Paraíba deve continuar cobrando menos imposto de indústrias que vêm para o estado, exigindo em troca que gerem empregos.",
+  "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Na Paraíba, o FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba) concede crédito de ICMS, o imposto estadual sobre a circulação de mercadorias, a indústrias aprovadas pelo conselho do fundo. Os planos de governo divergem: uns mantêm os incentivos com metas de emprego, outro propõe acabar com eles.",
   "sources": [
    {
-    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/materialegislativa/2015/49332/49332_texto_integral.pdf",
     "accessed": "2026-10-01",
-    "label": "ClickCZ, 18/05/2026"
+    "label": "ALPB, Projeto de Lei 639/2015 do Poder Executivo"
+   },
+   {
+    "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+    "accessed": "2026-10-01",
+    "label": "Diário Oficial do Estado da Paraíba nº 18.637, 25/07/2026"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, art. 155"
+   },
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+    "accessed": "2026-10-01",
+    "label": "Planos de governo PB 2026 registrados no TSE"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não: acabar com os descontos de imposto",
+    "value": -1
+   },
+   {
+    "label": "Só para empresas pequenas e médias",
+    "value": -0.5
+   },
+   {
+    "label": "Não tenho opinião formada",
+    "value": 0
+   },
+   {
+    "label": "Sim, com metas e devolução se a empresa não cumprir",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, e ampliar para atrair mais indústrias",
+    "value": 1
    }
   ]
  }

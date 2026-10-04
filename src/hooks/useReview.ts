@@ -17,18 +17,27 @@ export function useReview() {
   const cards = useMemo(() => generateReview({ evidence, catalog, profiles, questions, seed, limit: REVIEW_LENGTH }), [seed]);
   const [phase, setPhase] = useState<ReviewPhase>('intro');
   const [index, setIndex] = useState(0);
-  const [picked, setPicked] = useState<number | null>(null);
-  const [mistakes, setMistakes] = useState<{ card: ReviewCard; picked: number }[]>([]);
+  const [picks, setPicks] = useState<Record<number, number>>({});
   const card = cards[index] ?? null;
+  const picked = picks[index] ?? null;
+  const mistakes: { card: ReviewCard; picked: number }[] = cards.flatMap((c, i) =>
+    picks[i] !== undefined && picks[i] !== c.correct ? [{ card: c, picked: picks[i]! }] : [],
+  );
 
   function pick(option: number) {
     if (picked !== null || !card) return;
-    setPicked(option);
-    if (option !== card.correct) setMistakes((m) => [...m, { card, picked: option }]);
+    setPicks((p) => ({ ...p, [index]: option }));
+  }
+
+  function back() {
+    if (phase === 'done') {
+      setPhase('card');
+      return;
+    }
+    if (index > 0) setIndex((i) => i - 1);
   }
 
   function next() {
-    setPicked(null);
     if (index + 1 >= cards.length) {
       setPhase('done');
       return;
@@ -39,8 +48,7 @@ export function useReview() {
   function again() {
     setSeed((s) => s + 1);
     setIndex(0);
-    setPicked(null);
-    setMistakes([]);
+    setPicks({});
     setPhase('card');
   }
 
@@ -59,6 +67,8 @@ export function useReview() {
     start: () => setPhase('card'),
     pick,
     next,
+    back,
+    canGoBack: phase === 'card' && index > 0,
     again,
     showMistakes: () => setPhase('mistakes'),
     backToScore: () => setPhase('done'),

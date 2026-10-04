@@ -51,20 +51,6 @@
    "live": true
   },
   {
-   "id": "exec-governador-11-pb-concessoes-ppp-me-2026",
-   "status": "PASS",
-   "claim": "No leilão da PPP de esgotamento sanitário da Cagepa, defendeu a parceria com a empresa vencedora.",
-   "why": "ok",
-   "live": true
-  },
-  {
-   "id": "exec-governador-11-pb-concessoes-ppp-leilao-2026",
-   "status": "PASS",
-   "claim": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP de esgotamento sanitário da Cagepa para 85 municípios, vencida pelo grupo Acciona.",
-   "why": "ok; ALPB ata 07/04/2026 'atual Governador Lucas Ribeiro'",
-   "live": true
-  },
-  {
    "id": "exec-governador-11-pb-incentivos-fiscais-plano",
    "status": "PASS",
    "claim": "O plano de governo registrado no TSE propõe atrair indústrias com uma política de incentivos fiscais orientada à geração de emprego e renda (p. 21).",
@@ -102,78 +88,43 @@
   {
    "id": "exec-governador-11-pb-ppp-cagepa-me-2026",
    "status": "PASS",
-   "claim": "No leilão, defendeu a PPP do esgotamento sanitário da Cagepa.",
+   "claim": "No leilão da PPP do esgoto da Cagepa, defendeu a parceria com a empresa vencedora.",
    "why": "ok",
    "live": true
   },
   {
    "id": "exec-governador-11-pb-ppp-cagepa-leilao-2026",
    "status": "PASS",
-   "claim": "Seu governo levou a PPP a leilão na B3 em 15/05/2026.",
+   "claim": "Seu governo levou a leilão na B3, em 15/05/2026, a PPP do esgoto de 85 cidades atendidas pela Cagepa.",
    "why": "ok; ALPB ata 07/04/2026 'atual Governador Lucas Ribeiro'",
    "live": true
   },
   {
    "id": "exec-governador-22-pb-ppp-cagepa-IWccMOrxe2o-907",
    "status": "PASS",
-   "claim": "Na sabatina da CBN, disse que cancelaria a PPP no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
+   "claim": "Na sabatina da CBN, disse que cancelaria a PPP do esgoto da Cagepa no primeiro dia de governo, se fosse possível, alegando falta de transparência.",
    "why": "caption at 907s",
    "live": true
   },
   {
    "id": "exec-governador-15-pb-ppp-cagepa-s56ijpZa39Y-5507",
    "status": "PASS",
-   "claim": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP.",
+   "claim": "No debate da 98 FM e Portal Correio, disse que cancelará o leilão da PPP do esgoto da Cagepa.",
    "why": "caption at 5507s",
    "live": true
   },
   {
    "id": "exec-governador-80-pb-ppp-cagepa-W1Vm4q95CHY-2835",
    "status": "PASS",
-   "claim": "Disse que acabará com a PPP e não fará PPPs no governo.",
+   "claim": "Disse que acabará com a PPP do esgoto da Cagepa e não fará PPPs no governo.",
    "why": "caption at 2835s",
    "live": true
   },
   {
    "id": "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
    "status": "PASS",
-   "claim": "Perguntado se desfaria a PPP, respondeu que sim e que é contra qualquer privatização.",
+   "claim": "Perguntado se desfaria a PPP do esgoto da Cagepa, respondeu que sim e que é contra qualquer privatização.",
    "why": "caption at 210s",
-   "live": true
-  },
-  {
-   "id": "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-   "status": "PASS",
-   "claim": "Propôs um cartão vale-saúde para o paciente escolher tratamento em hospital particular.",
-   "why": "caption at 3692s",
-   "live": true
-  },
-  {
-   "id": "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
-   "status": "PASS",
-   "claim": "Disse que dinheiro público deve ir para órgão público.",
-   "why": "caption at 218s",
-   "live": true
-  },
-  {
-   "id": "exec-governador-80-pb-empresas-publicas-W1Vm4q95CHY-750",
-   "status": "PASS",
-   "claim": "Propôs criar empresas públicas em setores estratégicos da indústria e dos serviços.",
-   "why": "caption at 750s",
-   "live": true
-  },
-  {
-   "id": "exec-governador-80-pb-empresas-publicas-2Ufs3qhUig8-989",
-   "status": "PASS",
-   "claim": "Defendeu uma empresa pública de transporte intermunicipal.",
-   "why": "caption at 989s",
-   "live": true
-  },
-  {
-   "id": "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542",
-   "status": "PASS",
-   "claim": "Defendeu o estado mínimo em todas as áreas fora da segurança.",
-   "why": "caption at 1542s",
    "live": true
   },
   {
@@ -233,36 +184,16 @@
    "live": true
   },
   {
-   "id": "exec-governador-80-pb-desmilitarizar-pm-1Qu4nlbt1G8-40",
+   "id": "question:pb-concessoes-ppp",
    "status": "PASS",
-   "claim": "Defendeu a desmilitarização da Polícia Militar.",
-   "why": "caption at 40s",
-   "live": true
+   "claim": "Concessão e PPP (parceria público-privada) são contratos em que uma empresa privada constrói ou opera um serviço público e recebe tarifa dos usuários. Na PPP, o governo também paga a empresa, e o contrato dura de 5 a 35 anos. Em 15/05/2026 a Paraíba leiloou a PPP do esgoto de 85 cidades atendidas pela Cagepa, num contrato de 25 anos. A Cagepa continua pública e segue cuidando da água.",
+   "why": "ok; ok; ok"
   },
   {
-   "id": "exec-governador-29-pb-desmilitarizar-pm-dvfM_oTDPwQ-122",
+   "id": "question:pb-incentivos-fiscais",
    "status": "PASS",
-   "claim": "Defendeu a desmilitarização e o fim das polícias como existem hoje.",
-   "why": "caption at 122s",
-   "live": true
-  },
-  {
-   "id": "question:pb-ppp-cagepa",
-   "status": "PASS",
-   "claim": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
-   "why": "ok; ok"
-  },
-  {
-   "id": "question:pb-vale-saude",
-   "status": "PASS",
-   "claim": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
-   "why": "ok"
-  },
-  {
-   "id": "question:pb-empresas-publicas",
-   "status": "PASS",
-   "claim": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
-   "why": "ok"
+   "claim": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Na Paraíba, o FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba) concede crédito de ICMS, o imposto estadual sobre a circulação de mercadorias, a indústrias aprovadas pelo conselho do fundo. Os planos de governo divergem: uns mantêm os incentivos com metas de emprego, outro propõe acabar com eles.",
+   "why": "ok; ok; ok; ok; ok"
   },
   {
    "id": "NEG-gadelha-stf-mandato-as-joao",

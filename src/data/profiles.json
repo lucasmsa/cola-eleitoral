@@ -458,7 +458,7 @@
  {
   "candidateId": "presidente-70",
   "office": "presidente",
-  "pollRank": 4,
+  "pollRank": 5,
   "defends": [
    "plat-presidente-70-seg-stf-mandato",
    "pres-presidente-70-seg-8-janeiro-4",
@@ -575,7 +575,7 @@
  {
   "candidateId": "presidente-55",
   "office": "presidente",
-  "pollRank": 5,
+  "pollRank": 4,
   "defends": [
    "pres-presidente-55-eco-privatizacao-17",
    "pres-presidente-55-amb-licenciamento-19",
@@ -746,7 +746,6 @@
   "office": "governador",
   "pollRank": 1,
   "defends": [
-   "exec-governador-11-pb-concessoes-ppp-leilao-2026",
    "exec-governador-11-pb-incentivos-fiscais-decreto-48520",
    "exec-governador-11-amb-licenciamento-lei-14657",
    "exec-governador-11-pb-ppp-cagepa-leilao-2026",
@@ -896,7 +895,6 @@
   "defends": [
    "rec-governador-22-amb-licenciamento-sf6935",
    "rec-governador-22-eco-privatizacao-cd2270789-73",
-   "gov-governador-22-seg-armas-cd2209381-100",
    "plat-governador-22-pb-concessoes-ppp-p8",
    "plat-governador-22-pb-incentivos-fiscais-p4",
    "exec-governador-22-pb-ppp-cagepa-IWccMOrxe2o-907"
@@ -1053,7 +1051,6 @@
   "office": "governador",
   "pollRank": 3,
   "defends": [
-   "gov-governador-15-pb-concessoes-ppp-etp-cemiterios",
    "plat-governador-15-pb-incentivos-fiscais-p55",
    "exec-governador-15-pb-ppp-cagepa-s56ijpZa39Y-5507",
    "exec-governador-15-eco-privatizacao-s56ijpZa39Y-5550"
@@ -1188,13 +1185,12 @@
  {
   "candidateId": "governador-80",
   "office": "governador",
-  "pollRank": 6,
+  "pollRank": 4,
   "defends": [
    "plat-governador-80-eco-privatizacao",
    "plat-governador-80-soc-aborto",
    "plat-governador-80-pb-concessoes-ppp-p3",
    "plat-governador-80-pb-incentivos-fiscais-p2",
-   "plat-governador-80-pb-desmilitarizar-pm-p5",
    "exec-governador-80-pb-ppp-cagepa-W1Vm4q95CHY-2835"
   ],
   "presents": [
@@ -1301,9 +1297,7 @@
   "defends": [
    "plat-governador-29-eco-privatizacao",
    "plat-governador-29-seg-armas",
-   "plat-governador-29-pb-desmilitarizar-pm-p5",
    "exec-governador-29-pb-ppp-cagepa-dvfM_oTDPwQ-210",
-   "exec-governador-29-pb-vale-saude-dvfM_oTDPwQ-218",
    "exec-governador-29-soc-aborto-LvPKwMJdVbE-5234"
   ],
   "presents": [
@@ -1416,12 +1410,10 @@
  {
   "candidateId": "governador-27",
   "office": "governador",
-  "pollRank": 4,
+  "pollRank": 6,
   "defends": [
    "plat-governador-27-eco-privatizacao",
-   "plat-governador-27-pb-concessoes-ppp-p2",
-   "exec-governador-27-pb-vale-saude-6tt_yulTpJ0-3692",
-   "exec-governador-27-pb-empresas-publicas-6tt_yulTpJ0-1542"
+   "plat-governador-27-pb-concessoes-ppp-p2"
   ],
   "presents": [
    {

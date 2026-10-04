@@ -77,7 +77,7 @@
    "id": "prof-presidente-13-proposals-4",
    "status": "PASS",
    "claim": "“Ampliaremos o Programa Cisternas em regiões com estresse hídrico, garantindo água para consumo e produção.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-13-proposals-5",
@@ -137,13 +137,13 @@
    "id": "prof-presidente-22-experience-5",
    "status": "PASS",
    "claim": "Senador pelo Rio de Janeiro em exercício desde 1º/02/2019, com mandato até 31/01/2027.",
-   "why": "Senado API mandate matches"
+   "why": "Senado API mandate matches (live)"
   },
   {
    "id": "prof-presidente-22-proposals-1",
    "status": "PASS",
    "claim": "“Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-22-proposals-2",
@@ -155,7 +155,7 @@
    "id": "prof-presidente-22-proposals-3",
    "status": "PASS",
    "claim": "“Vamos implantar o Muralha Brasileira - um sistema nacional de reconhecimento facial integrado a bancos de dados criminais”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-22-proposals-4",
@@ -173,7 +173,7 @@
    "id": "prof-presidente-22-proposals-6",
    "status": "PASS",
    "claim": "“Manteremos e aperfeiçoaremos os programas sociais, porque nenhum brasileiro pode ficar para trás”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-14-presents-1",
@@ -227,13 +227,13 @@
    "id": "prof-presidente-14-proposals-3",
    "status": "PASS",
    "claim": "“desde o primeiro dia do governo, estaremos em campanha contra o crime organizado, utilizando os mecanismos da GLO e do Estado de Defesa para romper o controle territorial das facções.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-14-proposals-4",
    "status": "PASS",
    "claim": "“a fusão de Ministério da Cultura e Ministério da Educação”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-14-proposals-5",
@@ -245,13 +245,13 @@
    "id": "prof-presidente-70-presents-1",
    "status": "PASS",
    "claim": "“Não queremos ser voz do ódio, mas a voz da cultura da paz.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-70-presents-2",
    "status": "PASS",
    "claim": "“Queremos defender ideias sem destruir pessoas e construir pontes onde muitos constroem muros.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-70-presents-3",
@@ -275,13 +275,13 @@
    "id": "prof-presidente-70-proposals-1",
    "status": "PASS",
    "claim": "“Implantaremos uma ampla rede nacional de Escolas de Empreendedorismo, formando milhões de jovens e adultos para criar empresas, inovar, administrar recursos e gerar empregos.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-70-proposals-2",
    "status": "PASS",
    "claim": "“Criaremos um banco especializado em financiar pequenos empreendedores, microempresas e startups, oferecendo crédito acessível, orientação técnica e educação financeira.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-70-proposals-3",
@@ -353,7 +353,7 @@
    "id": "prof-presidente-55-experience-5",
    "status": "PASS",
    "claim": "Senador por Goiás de 1º/02/2015 até renunciar ao mandato em 1º/01/2019.",
-   "why": "Senado API mandate matches"
+   "why": "Senado API mandate matches (live)"
   },
   {
    "id": "prof-presidente-55-experience-6",
@@ -383,7 +383,7 @@
    "id": "prof-presidente-55-proposals-4",
    "status": "PASS",
    "claim": "“Aplicaremos esse método em escala nacional, combinando firmeza, tecnologia, integridade e respeito à lei para devolver a paz às famílias brasileiras.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-presidente-55-proposals-5",
@@ -455,19 +455,19 @@
    "id": "prof-governador-11-proposals-3",
    "status": "PASS",
    "claim": "“implantar unidade prisional com modelo RDD”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-11-proposals-4",
    "status": "PASS",
    "claim": "“Implantar, ainda, uma política estadual de prevenção e cuidado relacionados ao vício em apostas on-line, com atendimento aos usuários e seus familiares.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-11-proposals-5",
    "status": "PASS",
    "claim": "“ampliar o socorro aeromédico com um helicóptero equipado com UTI aérea e integrado ao Corpo de Bombeiros”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-22-presents-1",
@@ -551,13 +551,13 @@
    "id": "prof-governador-22-proposals-5",
    "status": "PASS",
    "claim": "“Queremos cidades feitas para pessoas, com calçadas largas, ciclovias conectadas e um transporte público que seja a primeira escolha do cidadão pela sua eficiência e conforto.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-15-presents-1",
    "status": "PASS",
    "claim": "“Queremos uma Paraíba que inspire confiança.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-15-presents-2",
@@ -617,7 +617,7 @@
    "id": "prof-governador-15-proposals-4",
    "status": "PASS",
    "claim": "“Garantir Passe Livre Estudantil para estudantes da Rede Pública.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-15-proposals-5",
@@ -635,7 +635,7 @@
    "id": "prof-governador-80-presents-2",
    "status": "PASS",
    "claim": "“Defendemos a retomada do controle público sobre os setores fundamentais da economia, garantindo planejamento estatal, eficiência social e acesso universal à população.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-80-presents-3",
@@ -659,7 +659,7 @@
    "id": "prof-governador-80-proposals-1",
    "status": "PASS",
    "claim": "“Fim das Organizações Sociais e da terceirização do serviço público.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-80-proposals-2",
@@ -683,13 +683,13 @@
    "id": "prof-governador-29-presents-1",
    "status": "PASS",
    "claim": "“Por salário, trabalho e terra”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-29-presents-2",
    "status": "PASS",
    "claim": "“O PCO não participa das eleições para fazer promessas”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-29-presents-3",
@@ -719,13 +719,13 @@
    "id": "prof-governador-29-proposals-1",
    "status": "PASS",
    "claim": "“Revogar todas as \"reformas\" contra os trabalhadores da ativa e aposentados, em todos os níveis (federal, estadual e municipal)”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-29-proposals-2",
    "status": "PASS",
    "claim": "“Fim do teto de gastos e da Lei de Responsabilidade Fiscal”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-29-proposals-3",
@@ -737,7 +737,7 @@
    "id": "prof-governador-29-proposals-4",
    "status": "PASS",
    "claim": "“Fim dos privilégios de oficiais militares, juízes e familiares”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-27-presents-4",
@@ -773,7 +773,7 @@
    "id": "prof-governador-27-proposals-2",
    "status": "PASS",
    "claim": "“Queremos transformar nosso sol e nossos ventos em emprego, renda e desenvolvimento.”",
-   "why": "pdf ok"
+   "why": "pdf ok + live"
   },
   {
    "id": "prof-governador-27-proposals-3",

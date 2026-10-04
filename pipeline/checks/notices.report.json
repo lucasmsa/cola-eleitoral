@@ -7,7 +7,7 @@
  {
   "id": "governador-15",
   "status": "PASS",
-  "claim": "O registro está deferido, mas sob recurso (TSE, dados de 03/10/2026, 12:30). Segundo o Jornal da Paraíba, o TSE formou maioria pelo indeferimento em 02/10/2026, e um pedido de vista suspendeu o julgamento; ele pode concorrer no domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A)."
+  "claim": "O registro está deferido, mas sob recurso (TSE, dados de 04/10/2026, 08:30). Em 02/10/2026 o julgamento do recurso foi suspenso por pedido de destaque do ministro André Mendonça, quando já havia votos pelo indeferimento; segundo a defesa, os votos dados caem e o julgamento recomeça do zero. Ele concorre neste domingo. Os votos em candidato com registro sob recurso só valem se o registro for mantido (Lei 9.504, art. 16-A)."
  },
  {
   "id": "NEG yt title says Lucas Ribeiro deixa disputa",
@@ -25,9 +25,14 @@
   "claim": "NEG TSE says DEFERIDO"
  },
  {
-  "id": "NEG JP says Cícero cannot run",
+  "id": "NEG score was four votes",
   "status": "FAIL",
-  "claim": "NEG JP says Cícero cannot run"
+  "claim": "NEG score was four votes"
+ },
+ {
+  "id": "NEG destaque by another minister",
+  "status": "FAIL",
+  "claim": "NEG destaque by another minister"
  },
  {
   "id": "NEG Cícero status INDEFERIDO",

@@ -398,65 +398,19 @@
   ]
  },
  {
-  "id": "pb-concessoes-ppp",
-  "area": "economia",
-  "offices": [
-   "governador",
-   "deputado_estadual"
-  ],
-  "statement": "O governo da Paraíba deve ampliar concessões e parcerias público-privadas (PPPs) em obras e serviços públicos.",
-  "context": "Concessões e PPPs passam a construção ou a operação de um serviço público para empresas privadas, por contrato. Os planos de governo registrados no TSE divergem: uns propõem ampliar, outros acabar com elas.",
-  "sources": [
-   {
-    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-    "accessed": "2026-09-30",
-    "label": "Planos de governo PB 2026 registrados no TSE"
-   }
-  ]
- },
- {
-  "id": "pb-incentivos-fiscais",
-  "area": "economia",
-  "offices": [
-   "governador",
-   "deputado_estadual"
-  ],
-  "statement": "A Paraíba deve continuar dando incentivos fiscais a empresas, cobrando em troca metas de investimento e emprego.",
-  "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Alguns planos registrados no TSE mantêm os incentivos com metas; outro propõe acabar com eles.",
-  "sources": [
-   {
-    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
-    "accessed": "2026-09-30",
-    "label": "Planos de governo PB 2026 registrados no TSE"
-   }
-  ]
- },
- {
-  "id": "pb-desmilitarizar-pm",
-  "area": "seguranca",
-  "offices": [
-   "governador",
-   "deputado_estadual"
-  ],
-  "statement": "A Polícia Militar da Paraíba deve ser desmilitarizada.",
-  "context": "A Constituição Federal define as PMs como forças auxiliares e reserva do Exército, subordinadas aos governadores (art. 144, § 6º), e reserva à União as normas gerais de sua organização (art. 22, XXI). Mudar isso depende do Congresso; o governo estadual comanda a PM e define prioridades.",
-  "sources": [
-   {
-    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-    "accessed": "2026-09-30",
-    "label": "Constituição Federal, art. 144 § 6º e art. 22 XXI"
-   }
-  ]
- },
- {
   "id": "pb-cac-arma",
   "area": "seguranca",
   "offices": [
    "deputado_estadual"
   ],
-  "statement": "Uma lei estadual deve reconhecer que atiradores esportivos precisam ter arma de fogo pelo risco da atividade.",
-  "context": "Em 14/02/2023 a ALPB votou o veto do governador ao PL 3.536/2022, que fazia esse reconhecimento. O veto, por inconstitucionalidade, foi mantido com 9 votos SIM (derrubar o veto) e 15 NÃO. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+  "statement": "A Paraíba deve ter uma lei dizendo que atiradores esportivos (os chamados CACs) precisam de arma de fogo por causa do risco da atividade.",
+  "context": "Para ter porte de arma, a lei federal exige demonstrar efetiva necessidade por atividade profissional de risco (Estatuto do Desarmamento, art. 10). Um projeto da Assembleia declarava essa necessidade para atiradores esportivos. Em 14/02/2023 a Assembleia manteve o veto do governador ao projeto, com 9 votos SIM (derrubar o veto) e 15 NÃO. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Por isso o voto num veto também mostra o alinhamento de cada deputado com o governo, não só a opinião sobre o tema.",
   "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+    "accessed": "2026-10-04",
+    "label": "Lei 10.826/2003 (Estatuto do Desarmamento), art. 10"
+   },
    {
     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1187/pauta/1187_pauta_sessao.pdf",
     "accessed": "2026-09-30",
@@ -467,6 +421,28 @@
     "accessed": "2026-09-30",
     "label": "ALPB, ata da 3ª Sessão Ordinária de 2023"
    }
+  ],
+  "options": [
+   {
+    "label": "Não: arma deve ser cada vez mais restrita",
+    "value": -1
+   },
+   {
+    "label": "Não: isso cabe à lei federal, não ao estado",
+    "value": -0.5
+   },
+   {
+    "label": "Não tenho opinião formada",
+    "value": 0
+   },
+   {
+    "label": "Sim, com fiscalização dos clubes de tiro",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, sem condições extras",
+    "value": 1
+   }
   ]
  },
  {
@@ -475,8 +451,8 @@
   "offices": [
    "deputado_estadual"
   ],
-  "statement": "As empresas de água, luz e gás devem poder usar o nome social do consumidor nas contas e comunicações.",
-  "context": "Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica. Em 23/09/2025 a ALPB manteve o veto do governador ao PL 2.496/2024, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.",
+  "statement": "Pessoas trans devem poder receber as contas de água, luz e gás com o nome social, o nome pelo qual se identificam.",
+  "context": "Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica, diferente do nome no registro civil. Em 23/09/2025 a Assembleia manteve o veto do governador ao projeto que permitia isso, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial). Por isso o voto num veto também mostra o alinhamento de cada deputado com o governo, não só a opinião sobre o tema.",
   "sources": [
    {
     "url": "https://sapl.al.pb.leg.br/media/sapl/public/sessaoplenaria/1350/pauta/ordem_do_dia_23.09.2025_3a_sessao_ordinaria_itinerante.pdf",
@@ -488,18 +464,45 @@
     "accessed": "2026-09-30",
     "label": "ALPB, ata de 23/09/2025"
    }
+  ],
+  "options": [
+   {
+    "label": "Não: as contas devem usar só o nome de registro",
+    "value": -1
+   },
+   {
+    "label": "Não por lei; cada empresa decide",
+    "value": -0.5
+   },
+   {
+    "label": "Não tenho opinião formada",
+    "value": 0
+   },
+   {
+    "label": "Sim, quando a pessoa pedir",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, como direito garantido em lei",
+    "value": 1
+   }
   ]
  },
  {
-  "id": "pb-ppp-cagepa",
+  "id": "pb-concessoes-ppp",
   "area": "economia",
   "offices": [
    "governador",
    "deputado_estadual"
   ],
-  "statement": "A PPP que passou o esgotamento sanitário de 85 cidades da Cagepa a uma empresa privada deve ser mantida.",
-  "context": "Em 15/05/2026, na B3, o grupo Acciona venceu com lance único o leilão da PPP de esgotamento sanitário da Cagepa, que cobre 85 cidades, num contrato de 25 anos. A Cagepa segue pública e responsável pela cobrança.",
+  "statement": "A Paraíba deve passar mais obras e serviços públicos, como o esgoto das cidades, para empresas privadas fazerem por contrato, recebendo tarifa ou pagamento do governo.",
+  "context": "Concessão e PPP (parceria público-privada) são contratos em que uma empresa privada constrói ou opera um serviço público e recebe tarifa dos usuários. Na PPP, o governo também paga a empresa, e o contrato dura de 5 a 35 anos. Em 15/05/2026 a Paraíba leiloou a PPP do esgoto de 85 cidades atendidas pela Cagepa, num contrato de 25 anos. A Cagepa continua pública e segue cuidando da água.",
   "sources": [
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11079.htm",
+    "accessed": "2026-10-01",
+    "label": "Lei 11.079/2004 (Lei das PPPs), Planalto"
+   },
    {
     "url": "https://movimentoeconomico.com.br/saneamento/2026/05/15/acciona-vence-ppp-da-cagepa-com-r-3-bilhoes-e-unico-lance-na-b3/",
     "accessed": "2026-10-01",
@@ -510,39 +513,81 @@
     "accessed": "2026-10-01",
     "label": "ClickCZ, 18/05/2026"
    }
-  ]
- },
- {
-  "id": "pb-vale-saude",
-  "area": "social",
-  "offices": [
-   "governador",
-   "deputado_estadual"
   ],
-  "statement": "O estado deve criar um vale-saúde para o paciente usar dinheiro público da saúde em hospitais particulares.",
-  "context": "A Constituição permite que instituições privadas participem do SUS de forma complementar, por contrato ou convênio (art. 199, § 1º). Um vale-saúde daria ao paciente um crédito público para escolher um hospital particular credenciado.",
-  "sources": [
+  "options": [
    {
-    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-    "accessed": "2026-10-01",
-    "label": "Constituição Federal, art. 199"
+    "label": "Não: obras e serviços como o esgoto devem ficar com o governo",
+    "value": -1
+   },
+   {
+    "label": "Só em casos pontuais, com regras mais duras",
+    "value": -0.5
+   },
+   {
+    "label": "Depende do caso, não sei",
+    "value": 0
+   },
+   {
+    "label": "Sim, mas revendo contratos como o da Cagepa",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, mais parcerias com empresas privadas",
+    "value": 1
    }
   ]
  },
  {
-  "id": "pb-empresas-publicas",
+  "id": "pb-incentivos-fiscais",
   "area": "economia",
   "offices": [
    "governador",
    "deputado_estadual"
   ],
-  "statement": "O governo da Paraíba deve criar novas empresas públicas estaduais, por exemplo na indústria e no transporte intermunicipal.",
-  "context": "A Cagepa, de água e esgoto, é uma empresa do governo estadual. A proposta em debate é criar outras empresas estatais, por exemplo para industrializar o estado e operar linhas de ônibus entre cidades.",
+  "statement": "A Paraíba deve continuar cobrando menos imposto de indústrias que vêm para o estado, exigindo em troca que gerem empregos.",
+  "context": "Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Na Paraíba, o FAIN (Fundo de Apoio ao Desenvolvimento Industrial da Paraíba) concede crédito de ICMS, o imposto estadual sobre a circulação de mercadorias, a indústrias aprovadas pelo conselho do fundo. Os planos de governo divergem: uns mantêm os incentivos com metas de emprego, outro propõe acabar com eles.",
   "sources": [
    {
-    "url": "https://www.clickcz.com.br/2026/05/18/lucas-ribeiro-diz-que-cagepa-seguira-publica-e-acusa-adversarios-de-espalharem-mentiras-sobre-ppp-do-saneamento/",
+    "url": "https://sapl.al.pb.leg.br/media/sapl/public/materialegislativa/2015/49332/49332_texto_integral.pdf",
     "accessed": "2026-10-01",
-    "label": "ClickCZ, 18/05/2026"
+    "label": "ALPB, Projeto de Lei 639/2015 do Poder Executivo"
+   },
+   {
+    "url": "https://auniao.pb.gov.br/servicos/doe/2026/julho/diario-oficial-25-07-2026-portal.pdf",
+    "accessed": "2026-10-01",
+    "label": "Diário Oficial do Estado da Paraíba nº 18.637, 25/07/2026"
+   },
+   {
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed": "2026-10-01",
+    "label": "Constituição Federal, art. 155"
+   },
+   {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_PB.zip",
+    "accessed": "2026-10-01",
+    "label": "Planos de governo PB 2026 registrados no TSE"
+   }
+  ],
+  "options": [
+   {
+    "label": "Não: acabar com os descontos de imposto",
+    "value": -1
+   },
+   {
+    "label": "Só para empresas pequenas e médias",
+    "value": -0.5
+   },
+   {
+    "label": "Não tenho opinião formada",
+    "value": 0
+   },
+   {
+    "label": "Sim, com metas e devolução se a empresa não cumprir",
+    "value": 0.5
+   },
+   {
+    "label": "Sim, e ampliar para atrair mais indústrias",
+    "value": 1
    }
   ]
  },

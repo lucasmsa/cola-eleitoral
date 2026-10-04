@@ -553,6 +553,99 @@
   ]
  },
  {
+  "id": "lucas-tre-conduta",
+  "candidateId": "governador-11",
+  "category": "justica",
+  "title": "Multa por reunião política em espaço oficial",
+  "status": "TRE-PB aplicou multa de R$ 5 mil por conduta vedada (jul/2026), processo nº 0600060-87.2026.6.15.0000",
+  "date": "2026-07-10",
+  "claims": [
+   {
+    "text": "O TRE-PB julgou procedente uma representação do MDB e reconheceu conduta vedada numa reunião político-eleitoral no gabinete da Vice-Governadoria, em abril de 2026.",
+    "support": "O Tribunal Regional Eleitoral da Paraíba (TRE-PB) julgou procedente representação movida pelo MDB estadual contra o governador Lucas Ribeiro.",
+    "source": {
+     "url": "https://www.termometrodapolitica.com.br/eleicoes/noticia/2026/07/10/tre-pb-condena-governador-lucas-ribeiro-por-uso-de-espaco-oficial-em-reuniao-politica/",
+     "accessed": "2026-10-03",
+     "label": "Termômetro da Política, 10/07/2026"
+    },
+    "checkId": "pol-lucas-tre-conduta-c0"
+   },
+   {
+    "text": "Ele foi responsabilizado como beneficiário do ato e multado em R$ 5 mil.",
+    "support": "O governador foi responsabilizado na condição de beneficiário do ato, nos termos do artigo 73, § 8º, da Lei das Eleições.",
+    "source": {
+     "url": "https://www.termometrodapolitica.com.br/eleicoes/noticia/2026/07/10/tre-pb-condena-governador-lucas-ribeiro-por-uso-de-espaco-oficial-em-reuniao-politica/",
+     "accessed": "2026-10-03",
+     "label": "Termômetro da Política, 10/07/2026"
+    },
+    "checkId": "pol-lucas-tre-conduta-c1"
+   }
+  ],
+  "response": []
+ },
+ {
+  "id": "lucas-aije-folha",
+  "candidateId": "governador-11",
+  "category": "justica",
+  "title": "Ação eleitoral sobre contratações temporárias",
+  "status": "Ação de Investigação Judicial Eleitoral proposta em 10/09/2026 no TRE-PB; nenhum julgamento localizado até 04/10/2026",
+  "date": "2026-09-10",
+  "claims": [
+   {
+    "text": "A coligação de Cícero Lucena acusa o governo estadual de abuso de poder e condutas vedadas pela contratação de mais de 6 mil servidores em ano eleitoral.",
+    "support": "A acusação é de que governo praticou suposto abuso de poder político e econômico e condutas vedadas com contratação de mais de 6 mil servidores.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/cicero-aciona-tre-pb-lucas-ribeiro-joao-azevedo-inchaco-folha-eleitoral",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 10/09/2026"
+    },
+    "checkId": "pol-lucas-aije-folha-c0"
+   },
+   {
+    "text": "A ação pede a inelegibilidade por oito anos de Lucas Ribeiro e João Azevêdo.",
+    "support": "pede a declaração de inelegibilidade por oito anos de Lucas Ribeiro, João Azevêdo",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/cicero-aciona-tre-pb-lucas-ribeiro-joao-azevedo-inchaco-folha-eleitoral",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 10/09/2026"
+    },
+    "checkId": "pol-lucas-aije-folha-c1"
+   }
+  ],
+  "response": []
+ },
+ {
+  "id": "joao-aije-folha",
+  "candidateId": "senador-400",
+  "category": "justica",
+  "title": "Ação eleitoral sobre contratações temporárias",
+  "status": "Ação de Investigação Judicial Eleitoral proposta em 10/09/2026 no TRE-PB; nenhum julgamento localizado até 04/10/2026",
+  "date": "2026-09-10",
+  "claims": [
+   {
+    "text": "A coligação de Cícero Lucena acusa o governo estadual de abuso de poder e condutas vedadas pela contratação de mais de 6 mil servidores em ano eleitoral.",
+    "support": "A acusação é de que governo praticou suposto abuso de poder político e econômico e condutas vedadas com contratação de mais de 6 mil servidores.",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/cicero-aciona-tre-pb-lucas-ribeiro-joao-azevedo-inchaco-folha-eleitoral",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 10/09/2026"
+    },
+    "checkId": "pol-joao-aije-folha-c0"
+   },
+   {
+    "text": "A ação pede a inelegibilidade por oito anos de Lucas Ribeiro e João Azevêdo.",
+    "support": "pede a declaração de inelegibilidade por oito anos de Lucas Ribeiro, João Azevêdo",
+    "source": {
+     "url": "https://jornaldaparaiba.com.br/politica/conversa-politica/cicero-aciona-tre-pb-lucas-ribeiro-joao-azevedo-inchaco-folha-eleitoral",
+     "accessed": "2026-10-03",
+     "label": "Jornal da Paraíba, 10/09/2026"
+    },
+    "checkId": "pol-joao-aije-folha-c1"
+   }
+  ],
+  "response": []
+ },
+ {
   "id": "efraim-suplente",
   "candidateId": "governador-22",
   "category": "investigacao",
@@ -651,11 +744,11 @@
   "candidateId": "governador-15",
   "category": "justica",
   "title": "Registro de candidatura contestado no TSE",
-  "status": "Registro sub judice: maioria no TSE pelo indeferimento em 02/10/2026; julgamento suspenso por pedido de vista",
+  "status": "Registro sub judice: julgamento no TSE suspenso em 02/10/2026 por pedido de destaque do ministro André Mendonça; sem decisão final",
   "date": "2026-10-02",
   "claims": [
    {
-    "text": "O TSE formou maioria pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
+    "text": "No julgamento virtual de 02/10/2026, já havia votos pelo indeferimento do registro dele, em recurso do Ministério Público Eleitoral.",
     "support": "O Tribunal Superior Eleitoral (TSE) formou maioria pelo indeferimento da candidatura de Cícero Lucena (MDB) ao governo da Paraíba nas eleições de 2026.",
     "source": {
      "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
@@ -675,14 +768,24 @@
     "checkId": "pol-cicero-registro-tse-c1"
    },
    {
-    "text": "Um pedido de vista suspendeu o julgamento; ele pode disputar no domingo, e a decisão não é definitiva.",
-    "support": "Mesmo com a maioria, no entanto, Cícero Lucena pode concorrer ao cargo de governador no domingo (4), isso porque houve um pedido de vista",
+    "text": "O ministro André Mendonça pediu destaque e o julgamento foi suspenso, sem decisão final.",
+    "support": "ficou suspenso após também um pedido de destaque do ministro Mendonça",
+    "source": {
+     "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
+     "accessed": "2026-10-03",
+     "label": "Paraíba Online, 03/10/2026"
+    },
+    "checkId": "pol-cicero-registro-tse-c2"
+   },
+   {
+    "text": "Ele pode disputar a eleição neste domingo.",
+    "support": "Cícero Lucena pode concorrer ao cargo de governador no domingo (4)",
     "source": {
      "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
      "accessed": "2026-10-03",
      "label": "Jornal da Paraíba, 02/10/2026"
     },
-    "checkId": "pol-cicero-registro-tse-c2"
+    "checkId": "pol-cicero-registro-tse-c3"
    },
    {
     "text": "Ele não tem condenação criminal nem denúncia formal contra si.",
@@ -692,17 +795,17 @@
      "accessed": "2026-10-03",
      "label": "Jornal da Paraíba, 02/10/2026"
     },
-    "checkId": "pol-cicero-registro-tse-c3"
+    "checkId": "pol-cicero-registro-tse-c4"
    }
   ],
   "response": [
    {
-    "text": "A defesa disse que o pedido de vista reinicia a discussão do caso.",
+    "text": "A defesa disse que, com o destaque, os votos já dados caem e o julgamento recomeça do zero.",
     "support": "Amanhã caem todos os votos que foram dados e recomeça do zero",
     "source": {
-     "url": "https://jornaldaparaiba.com.br/politica/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba",
+     "url": "https://paraibaonline.com.br/eleicoes/2026/10/03/defesa-de-cicero-lucena-comemora-pedido-de-vista-em-julgamento-no-tse/",
      "accessed": "2026-10-03",
-     "label": "Jornal da Paraíba, 02/10/2026"
+     "label": "Paraíba Online, 03/10/2026"
     },
     "checkId": "pol-cicero-registro-tse-r0"
    }

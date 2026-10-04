@@ -28,41 +28,40 @@ VOTES = {
 
 VOTE_RULE = 'Na ALPB, votar SIM num veto rejeita o veto e aprova o projeto; votar NÃO mantém o veto (regra impressa na pauta oficial).'
 
+ESTATUTO = 'https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm'
+
 QUESTIONS = [
     {
-        'id': 'pb-concessoes-ppp', 'area': 'economia', 'offices': ['governador', 'deputado_estadual'],
-        'statement': 'O governo da Paraíba deve ampliar concessões e parcerias público-privadas (PPPs) em obras e serviços públicos.',
-        'context': 'Concessões e PPPs passam a construção ou a operação de um serviço público para empresas privadas, por contrato. Os planos de governo registrados no TSE divergem: uns propõem ampliar, outros acabar com elas.',
-        'sources': [{'url': PLAN_ZIP, 'accessed': ACCESSED, 'label': 'Planos de governo PB 2026 registrados no TSE'}],
-    },
-    {
-        'id': 'pb-incentivos-fiscais', 'area': 'economia', 'offices': ['governador', 'deputado_estadual'],
-        'statement': 'A Paraíba deve continuar dando incentivos fiscais a empresas, cobrando em troca metas de investimento e emprego.',
-        'context': 'Incentivo fiscal é imposto que o estado deixa de cobrar para atrair empresas. Alguns planos registrados no TSE mantêm os incentivos com metas; outro propõe acabar com eles.',
-        'sources': [{'url': PLAN_ZIP, 'accessed': ACCESSED, 'label': 'Planos de governo PB 2026 registrados no TSE'}],
-    },
-    {
-        'id': 'pb-desmilitarizar-pm', 'area': 'seguranca', 'offices': ['governador', 'deputado_estadual'],
-        'statement': 'A Polícia Militar da Paraíba deve ser desmilitarizada.',
-        'context': 'A Constituição Federal define as PMs como forças auxiliares e reserva do Exército, subordinadas aos governadores (art. 144, § 6º), e reserva à União as normas gerais de sua organização (art. 22, XXI). Mudar isso depende do Congresso; o governo estadual comanda a PM e define prioridades.',
-        'sources': [{'url': CF88, 'accessed': ACCESSED, 'label': 'Constituição Federal, art. 144 § 6º e art. 22 XXI'}],
-    },
-    {
         'id': 'pb-cac-arma', 'area': 'seguranca', 'offices': ['deputado_estadual'],
-        'statement': 'Uma lei estadual deve reconhecer que atiradores esportivos precisam ter arma de fogo pelo risco da atividade.',
-        'context': 'Em 14/02/2023 a ALPB votou o veto do governador ao PL 3.536/2022, que fazia esse reconhecimento. O veto, por inconstitucionalidade, foi mantido com 9 votos SIM (derrubar o veto) e 15 NÃO. ' + VOTE_RULE + ' Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.',
+        'statement': 'A Paraíba deve ter uma lei dizendo que atiradores esportivos (os chamados CACs) precisam de arma de fogo por causa do risco da atividade.',
+        'context': 'Para ter porte de arma, a lei federal exige demonstrar efetiva necessidade por atividade profissional de risco (Estatuto do Desarmamento, art. 10). Um projeto da Assembleia declarava essa necessidade para atiradores esportivos. Em 14/02/2023 a Assembleia manteve o veto do governador ao projeto, com 9 votos SIM (derrubar o veto) e 15 NÃO. ' + VOTE_RULE + ' Por isso o voto num veto também mostra o alinhamento de cada deputado com o governo, não só a opinião sobre o tema.',
         'sources': [
+            {'url': ESTATUTO, 'accessed': '2026-10-04', 'label': 'Lei 10.826/2003 (Estatuto do Desarmamento), art. 10'},
             {'url': VOTES[22453]['pauta'], 'accessed': ACCESSED, 'label': 'ALPB, pauta da 3ª Sessão Ordinária de 2023'},
             {'url': VOTES[22453]['ata'], 'accessed': ACCESSED, 'label': 'ALPB, ata da 3ª Sessão Ordinária de 2023'},
+        ],
+        'options': [
+            {'label': 'Não: arma deve ser cada vez mais restrita', 'value': -1},
+            {'label': 'Não: isso cabe à lei federal, não ao estado', 'value': -0.5},
+            {'label': 'Não tenho opinião formada', 'value': 0},
+            {'label': 'Sim, com fiscalização dos clubes de tiro', 'value': 0.5},
+            {'label': 'Sim, sem condições extras', 'value': 1},
         ],
     },
     {
         'id': 'pb-nome-social', 'area': 'social', 'offices': ['deputado_estadual'],
-        'statement': 'As empresas de água, luz e gás devem poder usar o nome social do consumidor nas contas e comunicações.',
-        'context': 'Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica. Em 23/09/2025 a ALPB manteve o veto do governador ao PL 2.496/2024, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. ' + VOTE_RULE + ' Votações de veto também refletem o alinhamento com o governo estadual, não só a opinião sobre o tema.',
+        'statement': 'Pessoas trans devem poder receber as contas de água, luz e gás com o nome social, o nome pelo qual se identificam.',
+        'context': 'Nome social é o nome pelo qual uma pessoa trans ou travesti se identifica, diferente do nome no registro civil. Em 23/09/2025 a Assembleia manteve o veto do governador ao projeto que permitia isso, com 7 votos SIM (derrubar o veto), 24 NÃO e 1 abstenção. ' + VOTE_RULE + ' Por isso o voto num veto também mostra o alinhamento de cada deputado com o governo, não só a opinião sobre o tema.',
         'sources': [
             {'url': VOTES[49945]['pauta'], 'accessed': ACCESSED, 'label': 'ALPB, ordem do dia de 23/09/2025'},
             {'url': VOTES[49945]['ata'], 'accessed': ACCESSED, 'label': 'ALPB, ata de 23/09/2025'},
+        ],
+        'options': [
+            {'label': 'Não: as contas devem usar só o nome de registro', 'value': -1},
+            {'label': 'Não por lei; cada empresa decide', 'value': -0.5},
+            {'label': 'Não tenho opinião formada', 'value': 0},
+            {'label': 'Sim, quando a pessoa pedir', 'value': 0.5},
+            {'label': 'Sim, como direito garantido em lei', 'value': 1},
         ],
     },
 ]
@@ -86,10 +85,6 @@ PLATFORM = [
      'O plano mantém os incentivos fiscais, avaliados por resultado em empregos e renda (p. 4).'),
     ('80', 'pb-incentivos-fiscais', -1, 2, 'Fim imediato de todos os subsídios e incentivos fiscais e financeiros concedidos pelo Estado aos monopólios, grandes empresários e agroexportadores, substituídos por auditoria popular.',
      'O plano propõe o fim imediato dos incentivos fiscais a grandes empresas e agroexportadores (p. 2).'),
-    ('80', 'pb-desmilitarizar-pm', 1, 5, 'desmilitarização da Polícia Militar: Criação da Polícia Cidadã, fundamentada nos direitos humanos',
-     'O plano propõe desmilitarizar a PM e criar uma Polícia Cidadã (p. 5).'),
-    ('29', 'pb-desmilitarizar-pm', 1, 5, 'Dissolução da polícia militar e de todo o aparato repressivo',
-     'O plano propõe dissolver a Polícia Militar (p. 5).'),
 ]
 
 
