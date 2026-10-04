@@ -390,7 +390,7 @@ ITEMS = [
                "não foi possível identificar indícios mínimos da participação de João Azevêdo nos crimes investigados", "jp_calvario"),
          ], response=[], responseExpected=False),
     dict(id="joao-propaganda-2022", candidateId="senador-400", category="declaracao",
-         title="Propaganda de 2022 suspensa por informação falsa",
+         title="Propaganda de 2022 suspensa pelo TRE-PB, que a considerou falsa",
          status="Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
          statusKeys=[("jp_joao_2022", "determinou a imediata suspensão")],
          date="2022-10-25", name="João Azevêdo",
