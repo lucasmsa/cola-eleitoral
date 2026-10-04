@@ -1,0 +1,136 @@
+diff --git a/README.md b/README.md
+index ab1a79f..5fedd91 100644
+--- a/README.md
++++ b/README.md
+@@ -23,4 +23,4 @@ python3 pipeline/build.py   # rebuild src/data from checked evidence
+ scripts/deploy.sh           # build and deploy dist/ to Vercel
+ ```
+ 
+-Made by [lucasmsa](https://github.com/lucasmsa). [Buy me a coffee](https://buymeacoffee.com/lmsamoreirt).
++Made by [lucasmsa](https://github.com/lucasmsa). Independent personal project: no affiliation with candidates, parties or federations, and no funding or donations. Corrections: lucasmsea@outlook.com.
+diff --git a/pipeline/polemicas/build_polemicas.py b/pipeline/polemicas/build_polemicas.py
+index a001a62..eb95907 100644
+--- a/pipeline/polemicas/build_polemicas.py
++++ b/pipeline/polemicas/build_polemicas.py
+@@ -390,7 +390,7 @@ ITEMS = [
+                "não foi possível identificar indícios mínimos da participação de João Azevêdo nos crimes investigados", "jp_calvario"),
+          ], response=[], responseExpected=False),
+     dict(id="joao-propaganda-2022", candidateId="senador-400", category="declaracao",
+-         title="Propaganda de 2022 suspensa por informação falsa",
++         title="Propaganda de 2022 suspensa pelo TRE-PB, que a considerou falsa",
+          status="Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
+          statusKeys=[("jp_joao_2022", "determinou a imediata suspensão")],
+          date="2022-10-25", name="João Azevêdo",
+diff --git a/pipeline/polemicas/draft.json b/pipeline/polemicas/draft.json
+index 320046c..0675c51 100644
+--- a/pipeline/polemicas/draft.json
++++ b/pipeline/polemicas/draft.json
+@@ -1312,7 +1312,7 @@
+   "id": "joao-propaganda-2022",
+   "candidateId": "senador-400",
+   "category": "declaracao",
+-  "title": "Propaganda de 2022 suspensa por informação falsa",
++  "title": "Propaganda de 2022 suspensa pelo TRE-PB, que a considerou falsa",
+   "status": "Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
+   "statusKeys": [
+    [
+diff --git a/pipeline/polemicas/polemicas.json b/pipeline/polemicas/polemicas.json
+index 973b23f..c2f3d91 100644
+--- a/pipeline/polemicas/polemicas.json
++++ b/pipeline/polemicas/polemicas.json
+@@ -1024,7 +1024,7 @@
+   "id": "joao-propaganda-2022",
+   "candidateId": "senador-400",
+   "category": "declaracao",
+-  "title": "Propaganda de 2022 suspensa por informação falsa",
++  "title": "Propaganda de 2022 suspensa pelo TRE-PB, que a considerou falsa",
+   "status": "Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
+   "date": "2022-10-25",
+   "claims": [
+diff --git a/src/components/__tests__/Credits.test.tsx b/src/components/__tests__/Credits.test.tsx
+index 3e584f2..4ce5dd7 100644
+--- a/src/components/__tests__/Credits.test.tsx
++++ b/src/components/__tests__/Credits.test.tsx
+@@ -3,13 +3,12 @@ import { describe, expect, it } from 'vitest';
+ import { Credits } from '../shell/Credits';
+ 
+ describe('Credits', () => {
+-  it('links to the GitHub profile and the coffee page in a new tab', () => {
++  it('links to the GitHub profile, the source and a correction e-mail, with no donation link', () => {
+     render(<Credits />);
+-    const github = screen.getByRole('link', { name: 'feito por lucasmsa' });
+-    const coffee = screen.getByRole('link', { name: 'me paga um café ☕' });
+-    expect(github).toHaveAttribute('href', 'https://github.com/lucasmsa');
+-    expect(coffee).toHaveAttribute('href', 'https://buymeacoffee.com/lmsamoreirt');
+-    expect(coffee).toHaveAttribute('target', '_blank');
++    expect(screen.getByRole('link', { name: 'feito por lucasmsa' })).toHaveAttribute('href', 'https://github.com/lucasmsa');
+     expect(screen.getByRole('link', { name: 'código-fonte' })).toHaveAttribute('href', 'https://github.com/lucasmsa/cola-eleitoral');
++    expect(screen.getByRole('link', { name: 'lucasmsea@outlook.com' })).toHaveAttribute('href', 'mailto:lucasmsea@outlook.com');
++    expect(screen.getByText(/sem vínculo com candidatos, partidos ou federações/)).toBeInTheDocument();
++    expect(screen.queryByRole('link', { name: /café/ })).not.toBeInTheDocument();
+   });
+ });
+diff --git a/src/components/shell/Credits.tsx b/src/components/shell/Credits.tsx
+index ce295ca..b0648ff 100644
+--- a/src/components/shell/Credits.tsx
++++ b/src/components/shell/Credits.tsx
+@@ -12,9 +12,13 @@ export function Credits() {
+       <a href={LINKS.repo} target="_blank" rel="noreferrer" className={LINK}>
+         {COPY.credits.source}
+       </a>
+-      <a href={LINKS.coffee} target="_blank" rel="noreferrer" className={LINK}>
+-        {COPY.credits.coffee}
+-      </a>
++      <p className="w-full text-base text-ink/80">
++        {COPY.credits.disclaimer} {COPY.credits.correction}{' '}
++        <a href={`mailto:${COPY.credits.email}`} className={LINK}>
++          {COPY.credits.email}
++        </a>
++        .
++      </p>
+     </footer>
+   );
+ }
+diff --git a/src/config/copy.ts b/src/config/copy.ts
+index b9db7f7..f67e4d6 100644
+--- a/src/config/copy.ts
++++ b/src/config/copy.ts
+@@ -1,6 +1,14 @@
+ export const COPY = {
+   appName: 'Cola Eleitoral',
+-  credits: { madeBy: 'feito por lucasmsa', coffee: 'me paga um café ☕', source: 'código-fonte', github: 'Código-fonte no GitHub' },
++  credits: {
++    madeBy: 'feito por lucasmsa',
++    source: 'código-fonte',
++    github: 'Código-fonte no GitHub',
++    disclaimer:
++      'Projeto pessoal e independente, sem vínculo com candidatos, partidos ou federações e sem financiamento ou doações. Não é propaganda eleitoral.',
++    correction: 'Achou um erro? Escreva para',
++    email: 'lucasmsea@outlook.com',
++  },
+   home: {
+     replayCover: 'Ver de novo',
+     lead: 'Diga o que você pensa sobre temas que o Congresso e os candidatos já enfrentaram. O app compara suas respostas com votos registrados e planos de governo e, no fim, monta a sua cola para o 1º turno.',
+diff --git a/src/config/links.ts b/src/config/links.ts
+index 19c5a72..34ed32e 100644
+--- a/src/config/links.ts
++++ b/src/config/links.ts
+@@ -1,5 +1,4 @@
+ export const LINKS = {
+   github: 'https://github.com/lucasmsa',
+   repo: 'https://github.com/lucasmsa/cola-eleitoral',
+-  coffee: 'https://buymeacoffee.com/lmsamoreirt',
+ } as const;
+diff --git a/src/data/controversies.json b/src/data/controversies.json
+index 973b23f..c2f3d91 100644
+--- a/src/data/controversies.json
++++ b/src/data/controversies.json
+@@ -1024,7 +1024,7 @@
+   "id": "joao-propaganda-2022",
+   "candidateId": "senador-400",
+   "category": "declaracao",
+-  "title": "Propaganda de 2022 suspensa por informação falsa",
++  "title": "Propaganda de 2022 suspensa pelo TRE-PB, que a considerou falsa",
+   "status": "Inserção suspensa por decisão de juíza do TRE-PB (out/2022)",
+   "date": "2022-10-25",
+   "claims": [

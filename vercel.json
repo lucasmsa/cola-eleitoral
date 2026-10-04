@@ -1,4 +1,9 @@
 {
+  "git": {
+    "deploymentEnabled": {
+      "fix/compliance-pos-1o-turno": false
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",

@@ -1,0 +1,54 @@
+name: Apply and verify compliance patch (no deploy)
+
+on:
+  push:
+    branches:
+      - fix/compliance-pos-1o-turno
+    paths:
+      - .github/workflows/compliance-pos-1o-turno.yml
+      - .compliance-pos-1o-turno.patch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compliance-pos-1o-turno
+  cancel-in-progress: false
+
+jobs:
+  apply-and-verify:
+    if: github.repository == 'lucasmsa/cola-eleitoral' && github.ref == 'refs/heads/fix/compliance-pos-1o-turno'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/compliance-pos-1o-turno
+      - name: Apply the user-provided patch
+        shell: bash
+        run: |
+          git apply --check .compliance-pos-1o-turno.patch
+          git apply .compliance-pos-1o-turno.patch
+          git diff --check
+          test -z "$(git diff -- src/data/polls.json)"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install the repository's pinned package manager
+        run: npm install --global pnpm@11.21.0
+      - name: Install locked dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Typecheck
+        run: pnpm typecheck
+      - name: Tests
+        run: pnpm test
+      - name: Commit and push only the validated patch to the draft branch
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md pipeline/polemicas/build_polemicas.py pipeline/polemicas/polemicas.json pipeline/polemicas/draft.json src/components/__tests__/Credits.test.tsx src/components/shell/Credits.tsx src/config/copy.ts src/config/links.ts src/data/controversies.json
+          git diff --cached --check
+          git commit -m 'fix: compliance pos-1o turno'
+          git push origin HEAD:refs/heads/fix/compliance-pos-1o-turno
+          git rev-parse HEAD
