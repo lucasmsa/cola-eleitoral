@@ -8,7 +8,7 @@
      "statement": "O arcabouço fiscal atual deve ser mantido.",
      "vote_hints": ["Câmara PLP 93/2023 ~23/05/2023 (SIM = +1)", "Senado PLP 93/2023 ~21/06/2023", "Executivo: sanção LC 200/2023"]},
     {"id": "eco-privatizacao", "area": "economia", "offices": ["presidente", "governador", "senador", "deputado_federal"],
-     "statement": "Empresas estatais como a Eletrobras devem ser privatizadas.",
+     "statement": "Empresas estatais devem ser privatizadas.",
      "vote_hints": ["Câmara MP 1031/2021 ~19/05/2021 and ~21/06/2021 (SIM = +1)", "Senado MP 1031/2021 ~17/06/2021"]},
     {"id": "eco-bc-autonomo", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
      "statement": "O Banco Central deve ter autonomia formal, com mandato fixo para seus diretores.",
