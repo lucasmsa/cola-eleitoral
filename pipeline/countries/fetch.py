@@ -18,7 +18,7 @@ def cache_path(url):
 def fetch(url, refresh=False):
     p = cache_path(url)
     if refresh or not p.exists() or p.stat().st_size < 500:
-        subprocess.run(["curl", "-sL", "--max-time", "60", "-A", UA, "-o", str(p), url], check=False)
+        subprocess.run(["curl", "-sL", "--compressed", "--max-time", "60", "-A", UA, "-o", str(p), url], check=False)
     return p
 
 

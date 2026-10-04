@@ -610,6 +610,104 @@
    "live": null
   },
   {
+   "id": "ctry-canad-eco-6x1-60816c",
+   "status": "PASS",
+   "claim": "Canadá / eco-6x1: O Código do Trabalho federal (art. 169) limita a jornada padrão a 8 horas por dia e 40 horas por semana.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-alemanha-eco-6x1-efe7a3",
+   "status": "PASS",
+   "claim": "Alemanha / eco-6x1: A Lei do Tempo de Trabalho (ArbZG, § 3) limita a jornada a 8 horas por dia útil (werktäglich), sem prever dois dias de descanso por semana.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-japo-eco-6x1-502bfd",
+   "status": "PASS",
+   "claim": "Japão / eco-6x1: A Lei de Normas Trabalhistas (art. 32) proíbe jornadas acima de 40 horas por semana; o art. 35 exige ao menos um dia de folga semanal.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-frana-eco-6x1-776934",
+   "status": "PASS",
+   "claim": "França / eco-6x1: O Código do Trabalho (art. L3121-27) fixa a duração legal do trabalho em 35 horas por semana.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-reinounido-eco-6x1-417d5e",
+   "status": "PASS",
+   "claim": "Reino Unido / eco-6x1: As Working Time Regulations 1998 (reg. 4) limitam a jornada a uma média de 48 horas por semana, e o trabalhador pode aceitar por escrito trabalhar mais.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-chile-eco-6x1-3421cd",
+   "status": "PASS",
+   "claim": "Chile / eco-6x1: A Lei 21.561 reduz a jornada aos poucos: 44 horas no 1º ano, 42 no 3º e 40 no 5º ano após a publicação.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-japo-eco-bc-autonomo-b85e99",
+   "status": "PASS",
+   "claim": "Japão / eco-bc-autonomo: A Lei do Banco do Japão (art. 3) manda respeitar a autonomia do banco na política monetária, e o art. 24 dá mandato de 5 anos ao presidente e diretores.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-reinounido-eco-bc-autonomo-6ded73",
+   "status": "PASS",
+   "claim": "Reino Unido / eco-bc-autonomo: O Banco da Inglaterra conduz a política monetária, mas o Tesouro pode dar ordens a ele em circunstâncias econômicas extremas (Bank of England Act 1998, s. 19).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-ndia-eco-bc-autonomo-6332b9",
+   "status": "PASS",
+   "claim": "Índia / eco-bc-autonomo: A Lei do Banco Central da Índia (art. 7) permite ao governo dar ordens ao banco, depois de consultar o presidente dele.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-ndia-q3-grandes-fortunas-a55ff5",
+   "status": "PASS",
+   "claim": "Índia / q3-grandes-fortunas: O orçamento de 2015-16 acabou com o imposto sobre a riqueza e o trocou por uma sobretaxa de 2% no imposto de renda dos mais ricos.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-espanha-q3-grandes-fortunas-24da9c",
+   "status": "PASS",
+   "claim": "Espanha / q3-grandes-fortunas: A Espanha cobra o Imposto sobre o Patrimônio, que incide sobre o patrimônio líquido das pessoas físicas (Lei 19/1991, art. 1).",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-reinounido-seg-drogas-b5d633",
+   "status": "PASS",
+   "claim": "Reino Unido / seg-drogas: A Lei de Uso Indevido de Drogas de 1971 (seção 5) faz da posse de droga controlada um crime.",
+   "why": [],
+   "live": true
+  },
+  {
+   "id": "ctry-reinounido-soc-aborto-3bb929",
+   "status": "PASS",
+   "claim": "Reino Unido / soc-aborto: A Lei do Aborto de 1967 permite o aborto até a 24ª semana, mas só com a avaliação de dois médicos sobre risco à saúde, não a pedido.",
+   "why": [],
+   "live": null
+  },
+  {
+   "id": "ctry-mxico-seg-armas-6f3ef4",
+   "status": "PASS",
+   "claim": "México / seg-armas: A Constituição (art. 10) garante ter armas em casa para defesa, com exceções da lei federal; portar fora de casa depende de autorização.",
+   "why": [],
+   "live": null
+  },
+  {
    "id": "NEG fabricated snippet: Suécia aborto até 12 semanas",
    "status": "CONTROL-FAIL(ok)",
    "claim": "NEG fabricated snippet: Suécia aborto até 12 semanas",
@@ -655,6 +753,22 @@
    "claim": "NEG wrong number in detail: Suécia aborto 22ª semana",
    "why": [
     "numbers in detail not in source: ['22']"
+   ]
+  },
+  {
+   "id": "NEG flipped position: Reino Unido drogas as -1",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG flipped position: Reino Unido drogas as -1",
+   "why": [
+    "position -1 but rule derives 1"
+   ]
+  },
+  {
+   "id": "NEG other country's law: Japão BoJ snippet on the RBI Act",
+   "status": "CONTROL-FAIL(ok)",
+   "claim": "NEG other country's law: Japão BoJ snippet on the RBI Act",
+   "why": [
+    "support not in cached source"
    ]
   }
  ],
