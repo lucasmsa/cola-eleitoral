@@ -6,7 +6,7 @@ const LINK = 'inline-flex min-h-11 items-center whitespace-nowrap font-semibold 
 export function Credits() {
   return (
     <footer className="screen-only mx-auto flex w-full max-w-5xl flex-wrap gap-x-6 gap-y-2 px-4 pb-10 pt-4 text-lg md:pl-24">
-      <a href={LINKS.github} target="_blank" rel="noreferrer" className={LINK}>
+      <a href={LINKS.author} target="_blank" rel="author noreferrer" className={LINK}>
         {COPY.credits.madeBy}
       </a>
       <a href={LINKS.repo} target="_blank" rel="noreferrer" className={LINK}>
