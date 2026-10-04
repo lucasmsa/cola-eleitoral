@@ -23,4 +23,4 @@ python3 pipeline/build.py   # rebuild src/data from checked evidence
 scripts/deploy.sh           # build and deploy dist/ to Vercel
 ```
 
-Made by [lucasmsa](https://github.com/lucasmsa). [Buy me a coffee](https://buymeacoffee.com/lmsamoreirt).
+Made by [lucasmsa](https://github.com/lucasmsa). Independent personal project: no affiliation with candidates, parties or federations, and no funding or donations. Corrections: lucasmsea@outlook.com.

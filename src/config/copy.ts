@@ -1,6 +1,14 @@
 export const COPY = {
   appName: 'Cola Eleitoral',
-  credits: { madeBy: 'feito por lucasmsa', coffee: 'me paga um café ☕', source: 'código-fonte', github: 'Código-fonte no GitHub' },
+  credits: {
+    madeBy: 'feito por lucasmsa',
+    source: 'código-fonte',
+    github: 'Código-fonte no GitHub',
+    disclaimer:
+      'Projeto pessoal e independente, sem vínculo com candidatos, partidos ou federações e sem financiamento ou doações. Não é propaganda eleitoral.',
+    correction: 'Achou um erro? Escreva para',
+    email: 'lucasmsea@outlook.com',
+  },
   home: {
     replayCover: 'Ver de novo',
     lead: 'Diga o que você pensa sobre temas que o Congresso e os candidatos já enfrentaram. O app compara suas respostas com votos registrados e planos de governo e, no fim, monta a sua cola para o 1º turno.',

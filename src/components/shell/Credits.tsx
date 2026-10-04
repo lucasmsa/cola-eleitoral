@@ -12,9 +12,13 @@ export function Credits() {
       <a href={LINKS.repo} target="_blank" rel="noreferrer" className={LINK}>
         {COPY.credits.source}
       </a>
-      <a href={LINKS.coffee} target="_blank" rel="noreferrer" className={LINK}>
-        {COPY.credits.coffee}
-      </a>
+      <p className="w-full text-base text-ink/80">
+        {COPY.credits.disclaimer} {COPY.credits.correction}{' '}
+        <a href={`mailto:${COPY.credits.email}`} className={LINK}>
+          {COPY.credits.email}
+        </a>
+        .
+      </p>
     </footer>
   );
 }
