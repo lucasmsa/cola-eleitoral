@@ -168,6 +168,20 @@
   "live": false
  },
  {
+  "id": "exp-eco-privatizacao-whatItIs-2",
+  "status": "PASS",
+  "claim": "A desestatização da Eletrobras virou lei (Lei 14.182/2021). Por isso a pergunta trata de vender outras estatais.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-privatizacao-whatItIs-3",
+  "status": "PASS",
+  "claim": "Os Correios estão entre as empresas que o Decreto 11.478/2023 tirou do Programa Nacional de Desestatização, a lista oficial de estatais a vender.",
+  "why": [],
+  "live": false
+ },
+ {
   "id": "exp-eco-privatizacao-inPractice-0",
   "status": "PASS",
   "claim": "A União manteve uma \"golden share\", ação especial com poder de veto, para impedir que um acionista ou grupo tenha mais de 10% do capital votante.",
@@ -302,6 +316,13 @@
  },
  {
   "id": "exp-eco-ir-alta-renda-whatItIs-1",
+  "status": "PASS",
+  "claim": "O projeto foi sancionado e virou a Lei 15.270, de 26 de novembro de 2025.",
+  "why": [],
+  "live": false
+ },
+ {
+  "id": "exp-eco-ir-alta-renda-whatItIs-2",
   "status": "PASS",
   "claim": "Para compensar, cria um imposto mínimo para quem ganha a partir de R$ 600 mil por ano, que sobe gradualmente até 10% para rendas acima de R$ 1,2 milhão, contando dividendos.",
   "why": [],

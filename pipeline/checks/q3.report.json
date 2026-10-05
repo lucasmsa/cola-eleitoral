@@ -44,12 +44,6 @@
    "why": []
   },
   {
-   "id": "q3-question-q3-estabilidade",
-   "status": "PASS",
-   "claim": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
-   "why": []
-  },
-  {
    "id": "q3-options-soc-aborto",
    "status": "PASS",
    "claim": "escala de respostas de soc-aborto",
@@ -500,66 +494,6 @@
    "why": []
   },
   {
-   "id": "q3-exp-q3-estabilidade-whatItIs-0",
-   "status": "PASS",
-   "claim": "A reforma administrativa mais recente, apresentada na Câmara, mantém a estabilidade, mas endurece o estágio probatório.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-whatItIs-1",
-   "status": "PASS",
-   "claim": "Uma versão anterior, a PEC 32/2020, reduzia a estabilidade e abria brechas para corte de salários.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-inPractice-0",
-   "status": "PASS",
-   "claim": "Na versão anterior, duas avaliações ruins seguidas ou três alternadas abririam processo de exoneração.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-inPractice-1",
-   "status": "PASS",
-   "claim": "Na proposta mais recente, a aquisição da estabilidade depende de comprovar desempenho no estágio probatório.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-argsFor-0",
-   "status": "PASS",
-   "claim": "O relator Pedro Paulo defende avaliações regulares como \"meritocracia\" voltada a resultados.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-argsFor-1",
-   "status": "PASS",
-   "claim": "Ele argumenta que o cidadão tem péssima percepção da qualidade do serviço diante dos impostos que paga.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-argsAgainst-0",
-   "status": "PASS",
-   "claim": "O consultor do Senado Luiz Alberto dos Santos previu que a versão anterior da reforma aumentaria a corrupção e reduziria a transparência.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-argsAgainst-1",
-   "status": "PASS",
-   "claim": "Para ele, reduzir a estabilidade fragiliza e precariza o funcionalismo.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-nuance-0",
-   "status": "PASS",
-   "claim": "O relator da proposta mais recente diz que a lei não vai fixar um número de avaliações ruins que leve automaticamente à demissão.",
-   "why": []
-  },
-  {
-   "id": "q3-exp-q3-estabilidade-nuance-1",
-   "status": "PASS",
-   "claim": "A proposta mais recente trata a estabilidade como salvaguarda institucional.",
-   "why": []
-  },
-  {
    "id": "q3-plat-presidente-22-q3-fim-reeleicao",
    "status": "PASS",
    "claim": "O plano de governo registrado no TSE propõe o fim da reeleição para presidente (p. 66).",
@@ -677,12 +611,6 @@
    "id": "q3-plat-presidente-13-q3-pec-seguranca",
    "status": "PASS",
    "claim": "O plano de governo registrado no TSE defende a PEC da Segurança Pública proposta pelo governo (p. 30).",
-   "why": []
-  },
-  {
-   "id": "q3-plat-presidente-29-q3-estabilidade",
-   "status": "PASS",
-   "claim": "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4).",
    "why": []
   },
   {

@@ -4443,27 +4443,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "plat-presidente-80-seg-8-janeiro",
-  "subject": {
-   "type": "candidate",
-   "id": "presidente-80"
-  },
-  "questionId": "seg-8-janeiro",
-  "kind": "platform",
-  "position": -1,
-  "detail": "O plano de governo registrado no TSE se opõe à anistia aos envolvidos nos atos golpistas, incluindo os de 8 de janeiro (p. 54).",
-  "quote": "é contra a anistia de fascista e blindagem de bandido político.",
-  "date": "2026-08-15",
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
-   "accessed": "2026-09-30",
-   "label": "Plano de governo registrado no TSE (SAMARA, p. 54), arquivo 2026BR280002538811_01.pdf em proposta_governo_2026_BR.zip"
-  },
-  "checkId": "check_platform:29",
-  "page": 54,
-  "lowDiscrimination": false
- },
- {
   "id": "plat-presidente-13-seg-armas",
   "subject": {
    "type": "candidate",
@@ -6573,26 +6552,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "exec-senador-400-seg-8-janeiro-pbagora-2025",
-  "subject": {
-   "type": "candidate",
-   "id": "senador-400"
-  },
-  "questionId": "seg-8-janeiro",
-  "kind": "platform",
-  "position": -1,
-  "detail": "Em entrevista em setembro de 2025, disse ser contra anistiar quem atentou contra a democracia e contra uma anistia geral e irrestrita.",
-  "date": "2025-09-18",
-  "source": {
-   "url": "https://www.pbagora.com.br/noticia/politica/ouca-joao-azevedo-avalia-como-absurda-pec-da-blindagem-e-critica-pl-da-anistia-e-preciso-punir-os-que-cometeram-crimes/",
-   "accessed": "2026-10-01",
-   "label": "PB Agora, 18/09/2025"
-  },
-  "checkId": "exec-senador-400-seg-8-janeiro-pbagora-2025",
-  "quote": "Não se pode, de forma nenhuma, anistiar quem atentou contra a democracia.",
-  "lowDiscrimination": false
- },
- {
   "id": "exec-senador-400-seg-blindagem-clickpb-2025",
   "subject": {
    "type": "candidate",
@@ -8376,26 +8335,6 @@
   "lowDiscrimination": false
  },
  {
-  "id": "pres2-presidente-29-seg-8-janeiro-3",
-  "subject": {
-   "type": "candidate",
-   "id": "presidente-29"
-  },
-  "questionId": "seg-8-janeiro",
-  "kind": "platform",
-  "position": 0,
-  "detail": "No Metrópoles, disse que a anistia seria uma forma de remediar, mas que o correto seria revisar os processos do 8 de janeiro, que chamou de antidemocráticos.",
-  "date": "2026-09-03",
-  "source": {
-   "url": "https://www.youtube.com/watch?v=BEgmPNuJkew&t=580s",
-   "accessed": "2026-10-03",
-   "label": "Metrópoles, Comunista candidato à presidência, Rui Costa Pimenta diz não confiar nas urnas|BEgmPNuJkew.pt-orig.vtt (legenda automática, 00:09:40)"
-  },
-  "checkId": "pres2-presidente-29-seg-8-janeiro-3",
-  "quote": "A anistia seria uma forma de remediar, né? O correto seria uma revisão do processo. Isso seria mais democrático, eu acho, porque o processo foi claramente antidemocrático.",
-  "lowDiscrimination": false
- },
- {
   "id": "pres2-presidente-55-eco-arcabouco-4",
   "subject": {
    "type": "candidate",
@@ -9112,27 +9051,6 @@
    "label": "Plano de governo registrado no TSE (LULA, p. 30), arquivo 2026BR280002542548_01.pdf"
   },
   "checkId": "q3-plat-presidente-13-q3-pec-seguranca",
-  "lowDiscrimination": false
- },
- {
-  "id": "q3-plat-presidente-29-q3-estabilidade",
-  "subject": {
-   "type": "candidate",
-   "id": "presidente-29"
-  },
-  "questionId": "q3-estabilidade",
-  "kind": "platform",
-  "position": -1,
-  "detail": "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4).",
-  "quote": "Não ao fim da estabilidade dos servidores públicos",
-  "page": 4,
-  "date": "2026-08-15",
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
-   "accessed": "2026-10-03",
-   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 4), arquivo 2026BR280002552487_01.pdf"
-  },
-  "checkId": "q3-plat-presidente-29-q3-estabilidade",
   "lowDiscrimination": false
  },
  {

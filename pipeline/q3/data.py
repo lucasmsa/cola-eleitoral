@@ -368,53 +368,6 @@ QUESTIONS = [
         },
         "axis": None,
     },
-    {
-        "id": "q3-estabilidade", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
-        "statement": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
-        "context": "A reforma administrativa apresentada na Câmara em outubro de 2025 mantém a estabilidade, mas torna o estágio probatório mais rigoroso e prevê avaliações de desempenho.",
-        "contextChecks": [('03/10/2025 10:22', E3), ('O deputado federal Pedro Paulo (PSD-RJ) protocolou, nessa quinta-feira (2/10), a PEC que sugere uma reforma administrativa no Estado.', E3), ('A estabilidade está mantida, mas o estágio probatório, que é o período “pré-estabilidade” passa a ser mais rigoroso.', E3), ('os servidores públicos terão que passar por avaliações de desempenho regulares', E2)],
-        "sources": [E3],
-        "options": [
-            {"label": "Manter a estabilidade como está", "value": -1},
-            {"label": "Manter, com avaliações só para melhorar o serviço", "value": -0.5},
-            {"label": "Meio-termo, depende das regras", "value": 0},
-            {"label": "Permitir demissão por mau desempenho, com regras claras", "value": 0.5},
-            {"label": "Acabar com a estabilidade, exceto carreiras de Estado", "value": 1},
-        ],
-        "explainer": {
-            "whatItIs": [
-                C("A reforma administrativa mais recente, apresentada na Câmara, mantém a estabilidade, mas endurece o estágio probatório.",
-                  "A estabilidade está mantida, mas o estágio probatório, que é o período “pré-estabilidade” passa a ser mais rigoroso.", E3),
-                C("Uma versão anterior, a PEC 32/2020, reduzia a estabilidade e abria brechas para corte de salários.",
-                  "A Proposta de Emenda à Constituição (PEC) nº 32/2020 , que trata da reforma administrativa, foi aprovada na última quinta-feira (23) na comissão especial da Câmara dos Deputados. O texto-base reduz a estabilidade dos servidores públicos e abre brechas para corte de salários.", E1),
-            ],
-            "inPractice": [
-                C("Na versão anterior, duas avaliações ruins seguidas ou três alternadas abririam processo de exoneração.",
-                  "Duas avaliações insatisfatórias consecutivas ou três intercaladas serão suficientes para a abertura do processo administrativo para exoneração do cargo.", E1),
-                C("Na proposta mais recente, a aquisição da estabilidade depende de comprovar desempenho no estágio probatório.",
-                  "com “comprovação do desempenho das atribuições do cargo e para a aquisição da estabilidade”", E3),
-            ],
-            "argsFor": [
-                C("O relator Pedro Paulo defende avaliações regulares como \"meritocracia\" voltada a resultados.",
-                  "É meritocracia na veia do serviço público. Costumo dizer que a reforma é voltada para resultados", E2),
-                C("Ele argumenta que o cidadão tem péssima percepção da qualidade do serviço diante dos impostos que paga.",
-                  "existe uma péssima percepção do cidadão em relação a qualidade do serviço que se presta por volume de impostos que ele paga", E2),
-            ],
-            "argsAgainst": [
-                C("O consultor do Senado Luiz Alberto dos Santos previu que a versão anterior da reforma aumentaria a corrupção e reduziria a transparência.",
-                  "Isso vai aumentar a corrupção e reduzir a transparência da gestão.", E1),
-                C("Para ele, reduzir a estabilidade fragiliza e precariza o funcionalismo.",
-                  "A redução da estabilidade, o fim da irredutibilidade salarial, a retirada de direitos, e a ampliação da precarização pelo uso de contratos temporários e entidades privadas para prestar serviços públicos são os maiores riscos.", E1),
-            ],
-            "nuance": [
-                C("O relator da proposta mais recente diz que a lei não vai fixar um número de avaliações ruins que leve automaticamente à demissão.",
-                  "Não estou colocando na lei que, por exemplo, duas avaliações seriam suficientes para perder a estabilidade ou ser passível de demissão", E2),
-                C("A proposta mais recente trata a estabilidade como salvaguarda institucional.",
-                  "a PEC preserva a estabilidade como salvaguarda institucional", E3),
-            ],
-        },
-        "axis": {"axis": "economico", "direction": 1, "rationale": "Convenção de método: aproximar as regras do servidor às do emprego privado aponta para o polo de mais mercado."},
-    },
 ]
 
 # Nuanced scales for existing questions; values keep each statement's stance mapping.
@@ -493,8 +446,6 @@ PLATFORM = [
      "O plano de governo registrado no TSE propõe mais responsabilidade das plataformas só para conteúdo prejudicial a crianças e adolescentes (p. 91)."),
     ("presidente-13", "q3-pec-seguranca", 1, "2026BR280002542548_01.pdf", 30, "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública",
      "O plano de governo registrado no TSE defende a PEC da Segurança Pública proposta pelo governo (p. 30)."),
-    ("presidente-29", "q3-estabilidade", -1, "2026BR280002552487_01.pdf", 4, "Não ao fim da estabilidade dos servidores públicos",
-     "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4)."),
 ]
 
 # Executive act: (candidateId, questionId, position, source, date, detail, phrases)

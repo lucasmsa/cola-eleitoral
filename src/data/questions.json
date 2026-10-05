@@ -54,7 +54,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "Empresas estatais como a Eletrobras devem ser privatizadas.",
+  "statement": "O governo deve vender mais empresas estatais para a iniciativa privada, como os Correios.",
   "context": "MP 1.031/2021 (privatização da Eletrobras) na Câmara: aprovada em 19/05/2021 (313 sim, 166 não, 5 abstenção). MP 1.031/2021 (privatização da Eletrobras) no Senado: votação em 16/06/2021 (42 sim, 37 não).",
   "sources": [
    {
@@ -99,7 +99,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "O Banco Central deve ter autonomia formal, com mandato fixo para seus diretores.",
+  "statement": "A autonomia do Banco Central, em vigor desde 2021 com mandato fixo para a diretoria, deve ser mantida.",
   "context": "PLP 19/2019 (autonomia do Banco Central) na Câmara: aprovada em 10/02/2021 (339 sim, 114 não, 1 abstenção). PLP 19/2019 (autonomia do Banco Central) no Senado: votação em 03/11/2020 (56 sim, 12 não).",
   "sources": [
    {
@@ -122,7 +122,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "A isenção do IR para quem ganha até R$ 5 mil deve ser paga com um imposto mínimo sobre altas rendas.",
+  "statement": "A isenção do IR para quem ganha até R$ 5 mil, paga com um imposto mínimo sobre altas rendas (Lei 15.270/2025), deve ser mantida.",
   "context": "PL 1.087/2025 (isenção do IR até R$ 5 mil e tributação mínima de altas rendas) na Câmara: aprovada em 01/10/2025 (493 sim).",
   "sources": [
    {
@@ -141,7 +141,7 @@
    "deputado_federal",
    "governador"
   ],
-  "statement": "A saída temporária de presos em feriados (saidinha) deve acabar.",
+  "statement": "O fim da saída temporária de presos para visitar a família (saidinha), aprovado em 2024, deve ser mantido.",
   "context": "PL 2.253/2022 (restrição da saída temporária de presos) no Senado: votação em 20/02/2024 (62 sim, 2 não, 1 abstenção).",
   "sources": [
    {
@@ -199,7 +199,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "Condenados pelos atos de 8 de janeiro de 2023 devem ter as penas reduzidas ou ser anistiados.",
+  "statement": "A redução das penas dos condenados pelos atos de 8 de janeiro, aprovada pelo Congresso na Lei 15.402/2026, deve ser mantida.",
   "context": "PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) na Câmara: aprovada em 09/12/2025 (291 sim, 148 não, 1 abstenção). PL 2.162/2023 (PL da dosimetria, penas dos atos de 8 de janeiro) no Senado: votação em 17/12/2025 (48 sim, 25 não, 1 abstenção).",
   "sources": [
    {
@@ -347,7 +347,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "O licenciamento ambiental deve ser simplificado, com autolicenciamento para mais tipos de obra.",
+  "statement": "A lei geral do licenciamento ambiental de 2025 (Lei 15.190/2025), que simplificou licenças e criou o autolicenciamento para obras menores, deve ser mantida.",
   "context": "PL 3.729/2004 (lei geral do licenciamento ambiental) na Câmara: aprovada em 12/05/2021 (300 sim, 122 não). emendas do Senado ao PL 2.159/2021 (lei geral do licenciamento ambiental) na Câmara: aprovada em 16/07/2025 (267 sim, 116 não). PL 2.159/2021 (lei geral do licenciamento ambiental) no Senado: votação em 21/05/2025 (54 sim, 13 não).",
   "sources": [
    {
@@ -387,7 +387,7 @@
    "senador",
    "deputado_federal"
   ],
-  "statement": "O registro de agrotóxicos deve ficar mais rápido, com o Ministério da Agricultura no comando.",
+  "statement": "A lei de agrotóxicos de 2023 (Lei 14.785/2023), que deu prazos ao registro de novos produtos, deve ser mantida.",
   "context": "PL 6.299/2002 (registro de agrotóxicos) na Câmara: aprovada em 09/02/2022 (301 sim, 150 não, 2 abstenção).",
   "sources": [
    {
@@ -958,46 +958,6 @@
    },
    {
     "label": "Sim, com a União no comando da política de segurança",
-    "value": 1
-   }
-  ]
- },
- {
-  "id": "q3-estabilidade",
-  "area": "economia",
-  "offices": [
-   "presidente",
-   "senador",
-   "deputado_federal"
-  ],
-  "statement": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
-  "context": "A reforma administrativa apresentada na Câmara em outubro de 2025 mantém a estabilidade, mas torna o estágio probatório mais rigoroso e prevê avaliações de desempenho.",
-  "sources": [
-   {
-    "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
-    "accessed": "2026-10-03",
-    "label": "Metrópoles, 03/10/2025"
-   }
-  ],
-  "options": [
-   {
-    "label": "Manter a estabilidade como está",
-    "value": -1
-   },
-   {
-    "label": "Manter, com avaliações só para melhorar o serviço",
-    "value": -0.5
-   },
-   {
-    "label": "Meio-termo, depende das regras",
-    "value": 0
-   },
-   {
-    "label": "Permitir demissão por mau desempenho, com regras claras",
-    "value": 0.5
-   },
-   {
-    "label": "Acabar com a estabilidade, exceto carreiras de Estado",
     "value": 1
    }
   ]

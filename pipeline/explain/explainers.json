@@ -267,6 +267,26 @@
      "label": "Agência Câmara, 20/05/2021"
     },
     "checkId": "exp-eco-privatizacao-whatItIs-1"
+   },
+   {
+    "text": "A desestatização da Eletrobras virou lei (Lei 14.182/2021). Por isso a pergunta trata de vender outras estatais.",
+    "support": "Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras)",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14182.htm",
+     "accessed": "2026-10-03",
+     "label": "Lei 14.182/2021, Planalto"
+    },
+    "checkId": "exp-eco-privatizacao-whatItIs-2"
+   },
+   {
+    "text": "Os Correios estão entre as empresas que o Decreto 11.478/2023 tirou do Programa Nacional de Desestatização, a lista oficial de estatais a vender.",
+    "support": "Ficam excluídos do PND e revogadas as qualificações no PPI: I - da Empresa Brasileira de Correios e Telégrafos - ECT",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11478.htm",
+     "accessed": "2026-10-03",
+     "label": "Decreto 11.478/2023, Planalto"
+    },
+    "checkId": "exp-eco-privatizacao-whatItIs-3"
    }
   ],
   "inPractice": [
@@ -485,6 +505,16 @@
     "checkId": "exp-eco-ir-alta-renda-whatItIs-0"
    },
    {
+    "text": "O projeto foi sancionado e virou a Lei 15.270, de 26 de novembro de 2025.",
+    "support": "LEI Nº 15.270, DE 26 DE NOVEMBRO DE 2025",
+    "source": {
+     "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm",
+     "accessed": "2026-10-03",
+     "label": "Lei 15.270/2025, Planalto"
+    },
+    "checkId": "exp-eco-ir-alta-renda-whatItIs-1"
+   },
+   {
     "text": "Para compensar, cria um imposto mínimo para quem ganha a partir de R$ 600 mil por ano, que sobe gradualmente até 10% para rendas acima de R$ 1,2 milhão, contando dividendos.",
     "support": "Haverá uma alíquota mínima de IR para quem ganha a partir de R$ 600 mil por ano. O texto prevê uma progressão, partindo de 0% e chegando a 10% para rendimentos acima de R$ 1,2 milhão por ano, incluindo dividendos.",
     "source": {
@@ -492,7 +522,7 @@
      "accessed": "2026-10-03",
      "label": "Agência Senado, 05/11/2025"
     },
-    "checkId": "exp-eco-ir-alta-renda-whatItIs-1"
+    "checkId": "exp-eco-ir-alta-renda-whatItIs-2"
    }
   ],
   "inPractice": [

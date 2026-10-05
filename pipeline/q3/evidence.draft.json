@@ -540,33 +540,6 @@
   }
  },
  {
-  "id": "q3-plat-presidente-29-q3-estabilidade",
-  "subject": {
-   "type": "candidate",
-   "id": "presidente-29"
-  },
-  "questionId": "q3-estabilidade",
-  "kind": "platform",
-  "position": -1,
-  "detail": "O plano de governo registrado no TSE é contra o fim da estabilidade dos servidores (p. 4).",
-  "quote": "Não ao fim da estabilidade dos servidores públicos",
-  "page": 4,
-  "date": "2026-08-15",
-  "source": {
-   "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
-   "accessed": "2026-10-03",
-   "label": "Plano de governo registrado no TSE (RUI COSTA PIMENTA, p. 4), arquivo 2026BR280002552487_01.pdf"
-  },
-  "checkId": "q3-plat-presidente-29-q3-estabilidade",
-  "lowDiscrimination": false,
-  "_ref": {
-   "type": "plan",
-   "pdf": "2026BR280002552487_01.pdf",
-   "page": 4,
-   "candidateId": "presidente-29"
-  }
- },
- {
   "id": "q3-exec-presidente-13-q3-civico-militar",
   "subject": {
    "type": "candidate",

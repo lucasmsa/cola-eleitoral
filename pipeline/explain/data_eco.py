@@ -21,6 +21,12 @@ SOURCES = {
                    "Agência Senado, 05/11/2025"),
     "ir-senado": ("https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
                   "Agência Senado, 05/11/2025"),
+    "ele-lei": ("https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14182.htm",
+                "Lei 14.182/2021, Planalto"),
+    "correios-dec": ("https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11478.htm",
+                     "Decreto 11.478/2023, Planalto"),
+    "ir-lei": ("https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15270.htm",
+               "Lei 15.270/2025, Planalto"),
     "ir-camara": ("https://www.camara.leg.br/noticias/1206672-camara-aprova-projeto-que-isenta-do-imposto-de-renda-quem-ganha-ate-r$-5-mil-por-mes",
                   "Agência Câmara, 01/10/2025"),
 }
@@ -100,6 +106,10 @@ EXPLAINERS = {
              "viabiliza a desestatização da Eletrobras, estatal vinculada ao Ministério de Minas e Energia que responde por 30% da energia gerada no País.", "ele-mp"),
             ("O modelo usado foi a emissão de novas ações vendidas no mercado sem a participação do governo, que assim perdeu o controle de voto.",
              "O modelo de desestatização prevê a emissão de novas ações da Eletrobras, a serem vendidas no mercado sem a participação do governo, resultando na perda do controle acionário de voto mantido atualmente pela União.", "ele-mp"),
+            ("A desestatização da Eletrobras virou lei (Lei 14.182/2021). Por isso a pergunta trata de vender outras estatais.",
+             "Dispõe sobre a desestatização da empresa Centrais Elétricas Brasileiras S.A. (Eletrobras)", "ele-lei"),
+            ("Os Correios estão entre as empresas que o Decreto 11.478/2023 tirou do Programa Nacional de Desestatização, a lista oficial de estatais a vender.",
+             "Ficam excluídos do PND e revogadas as qualificações no PPI: I - da Empresa Brasileira de Correios e Telégrafos - ECT", "correios-dec"),
         ],
         "inPractice": [
             ("A União manteve uma \"golden share\", ação especial com poder de veto, para impedir que um acionista ou grupo tenha mais de 10% do capital votante.",
@@ -162,6 +172,8 @@ EXPLAINERS = {
         "whatItIs": [
             ("O PL 1.087/2025 zera, na prática, o Imposto de Renda de quem ganha até R$ 5 mil por mês a partir de 2026 e reduz parcialmente para quem ganha até R$ 7.350.",
              "isenta do imposto os rendimentos mensais de até R$ 5 mil de pessoas físicas, e reduz parcialmente a tributação de rendas entre R$ 5.000,01 a R$ 7.350.", "ir-entenda"),
+            ("O projeto foi sancionado e virou a Lei 15.270, de 26 de novembro de 2025.",
+             "LEI Nº 15.270, DE 26 DE NOVEMBRO DE 2025", "ir-lei"),
             ("Para compensar, cria um imposto mínimo para quem ganha a partir de R$ 600 mil por ano, que sobe gradualmente até 10% para rendas acima de R$ 1,2 milhão, contando dividendos.",
              "Haverá uma alíquota mínima de IR para quem ganha a partir de R$ 600 mil por ano. O texto prevê uma progressão, partindo de 0% e chegando a 10% para rendimentos acima de R$ 1,2 milhão por ano, incluindo dividendos.", "ir-entenda"),
         ],

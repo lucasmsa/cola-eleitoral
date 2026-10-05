@@ -1,0 +1,18 @@
+{
+ "note": "Evidence re-derived after question statements changed to match current law (2026-10-05). drop = mapping no longer clean under the new wording; flip = position inverted because the new wording inverts polarity.",
+ "questions": {
+  "eco-privatizacao": "Was 'Empresas estatais como a Eletrobras devem ser privatizadas' (Eletrobras already privatized, Lei 14.182/2021). Same polarity: support for privatizing = +1.",
+  "eco-bc-autonomo": "Now asks to keep the autonomy in force since LC 179/2021. Same polarity.",
+  "eco-ir-alta-renda": "Now asks to keep Lei 15.270/2025. Same polarity.",
+  "seg-saidinha": "Now asks to keep the end of the family-visit leave (Lei 14.843/2024). Same polarity.",
+  "seg-8-janeiro": "Now asks to keep the penalty reduction of Lei 15.402/2026. Pro-anistia = +1 (wants at least the reduction); explicit anti-dosimetria = -1; anti-anistia-only statements do not say whether the reduction should stay, so they are dropped.",
+  "amb-licenciamento": "Now asks to keep Lei 15.190/2025. Same polarity.",
+  "amb-agrotoxicos": "Now asks to keep Lei 14.785/2023. Same polarity."
+ },
+ "drop": {
+  "plat-presidente-80-seg-8-janeiro": "Quote opposes anistia only; says nothing on keeping the Lei 15.402/2026 reduction.",
+  "exec-senador-400-seg-8-janeiro-pbagora-2025": "Quote opposes anistia only; says nothing on keeping the Lei 15.402/2026 reduction.",
+  "pres2-presidente-29-seg-8-janeiro-3": "Quote asks for a review of the trials, not for or against the reduction."
+ },
+ "flip": {}
+}

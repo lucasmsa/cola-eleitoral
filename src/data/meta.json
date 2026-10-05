@@ -43,9 +43,9 @@
    "new": 7
   },
   "q3": {
-   "rows": 57,
-   "passed": 57,
-   "new": 57
+   "rows": 56,
+   "passed": 56,
+   "new": 56
   },
   "news5": {
    "rows": 1,
@@ -58,7 +58,7 @@
    "new": 22
   }
  },
- "evidence": 524,
- "questions": 31,
+ "evidence": 520,
+ "questions": 30,
  "droppedOffice": 17
 }

@@ -131,6 +131,12 @@ def build():
         cand = by_id.get(e["subject"]["id"])
         return bool(cand) and cand["office"] in q["offices"]
 
+    rederive = load("rederive.json") or {"drop": {}, "flip": {}}
+    evidence = [e for e in evidence if e["id"] not in rederive["drop"]]
+    for e in evidence:
+        if e["id"] in rederive["flip"]:
+            e["position"] = -e["position"]
+            e["rederived"] = rederive["flip"][e["id"]]
     shipped = [{k: v for k, v in e.items() if k != "lowDiscrimination"} | {"lowDiscrimination": bool(e.get("lowDiscrimination"))} for e in evidence if fits(e)]
     used = {e["questionId"] for e in shipped}
     questions = [q for q in questions if q["id"] in used]

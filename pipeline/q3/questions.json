@@ -301,45 +301,5 @@
     "value": 1
    }
   ]
- },
- {
-  "id": "q3-estabilidade",
-  "area": "economia",
-  "offices": [
-   "presidente",
-   "senador",
-   "deputado_federal"
-  ],
-  "statement": "A estabilidade no emprego dos servidores públicos deve ser reduzida, com demissão por mau desempenho em avaliações.",
-  "context": "A reforma administrativa apresentada na Câmara em outubro de 2025 mantém a estabilidade, mas torna o estágio probatório mais rigoroso e prevê avaliações de desempenho.",
-  "sources": [
-   {
-    "url": "https://www.metropoles.com/brasil/reforma-administrativa-preve-mudancas-no-periodo-pre-estabilidade",
-    "accessed": "2026-10-03",
-    "label": "Metrópoles, 03/10/2025"
-   }
-  ],
-  "options": [
-   {
-    "label": "Manter a estabilidade como está",
-    "value": -1
-   },
-   {
-    "label": "Manter, com avaliações só para melhorar o serviço",
-    "value": -0.5
-   },
-   {
-    "label": "Meio-termo, depende das regras",
-    "value": 0
-   },
-   {
-    "label": "Permitir demissão por mau desempenho, com regras claras",
-    "value": 0.5
-   },
-   {
-    "label": "Acabar com a estabilidade, exceto carreiras de Estado",
-    "value": 1
-   }
-  ]
  }
 ]

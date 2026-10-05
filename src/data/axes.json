@@ -118,11 +118,5 @@
   "direction": -1,
   "rationale": "Convenção de método: financiar com dinheiro público um serviço hoje pago pelo usuário aponta para o polo de mais Estado.",
   "questionId": "q3-tarifa-zero"
- },
- {
-  "axis": "economico",
-  "direction": 1,
-  "rationale": "Convenção de método: aproximar as regras do servidor às do emprego privado aponta para o polo de mais mercado.",
-  "questionId": "q3-estabilidade"
  }
 ]

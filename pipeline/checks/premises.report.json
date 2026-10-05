@@ -1,0 +1,64 @@
+{
+ "rows": [
+  {
+   "id": "eletrobras-privatizada",
+   "status": "PASS",
+   "claim": "Lei 14.182/2021 autoriza a desestatização da Eletrobras"
+  },
+  {
+   "id": "bc-autonomia-lei",
+   "status": "PASS",
+   "claim": "LC 179/2021 define autonomia e mandatos fixos do Banco Central"
+  },
+  {
+   "id": "ir-lei-15270",
+   "status": "PASS",
+   "claim": "Lei 15.270/2025 reduz o IR e institui tributação mínima de altas rendas"
+  },
+  {
+   "id": "saidinha-sem-visita-familia",
+   "status": "PASS",
+   "claim": "Art. 122 da LEP em vigor só prevê saída temporária para estudo (visita à família revogada)"
+  },
+  {
+   "id": "dosimetria-lei-15402",
+   "status": "PASS",
+   "claim": "Lei 15.402/2026 existe e trata dos crimes contra o Estado Democrático de Direito"
+  },
+  {
+   "id": "licenciamento-lei-15190",
+   "status": "PASS",
+   "claim": "Lei 15.190/2025 é a Lei Geral do Licenciamento Ambiental"
+  },
+  {
+   "id": "agrotoxicos-lei-14785",
+   "status": "PASS",
+   "claim": "Lei 14.785/2023 é a lei de agrotóxicos"
+  },
+  {
+   "id": "correios-fora-pnd",
+   "status": "PASS",
+   "claim": "Decreto 11.478/2023 tirou os Correios do Programa Nacional de Desestatização"
+  },
+  {
+   "id": "NEG LC 179 is from 2019",
+   "status": "FAIL",
+   "claim": "NEG LC 179 is from 2019"
+  },
+  {
+   "id": "NEG Lei 15.402 is from 2025",
+   "status": "FAIL",
+   "claim": "NEG Lei 15.402 is from 2025"
+  },
+  {
+   "id": "NEG Eletrobras law is Lei 14.183",
+   "status": "FAIL",
+   "claim": "NEG Eletrobras law is Lei 14.183"
+  },
+  {
+   "id": "NEG LEP art. 122 still lists visita à família",
+   "status": "FAIL",
+   "claim": "NEG LEP art. 122 still lists visita à família"
+  }
+ ]
+}

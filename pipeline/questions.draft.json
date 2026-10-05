@@ -1,54 +1,245 @@
 {
   "note": "Draft. vote_hints are leads from memory, NOT facts. Each must be confirmed in the Câmara/Senado open-data API (votação id, date, result) or dropped. Statements are written so that 'concordo' = position +1.",
   "questions": [
-    {"id": "eco-reforma-tributaria", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "A reforma tributária que troca vários impostos sobre consumo por IBS e CBS deve ser mantida.",
-     "vote_hints": ["Câmara PEC 45/2019 1º turno ~06/07/2023 (SIM = +1)", "Senado PEC 45/2019 ~08/11/2023 (SIM = +1)", "Executivo: promulgada EC 132/2023"]},
-    {"id": "eco-arcabouco", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "O arcabouço fiscal atual deve ser mantido.",
-     "vote_hints": ["Câmara PLP 93/2023 ~23/05/2023 (SIM = +1)", "Senado PLP 93/2023 ~21/06/2023", "Executivo: sanção LC 200/2023"]},
-    {"id": "eco-privatizacao", "area": "economia", "offices": ["presidente", "governador", "senador", "deputado_federal"],
-     "statement": "Empresas estatais como a Eletrobras devem ser privatizadas.",
-     "vote_hints": ["Câmara MP 1031/2021 ~19/05/2021 and ~21/06/2021 (SIM = +1)", "Senado MP 1031/2021 ~17/06/2021"]},
-    {"id": "eco-bc-autonomo", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "O Banco Central deve ter autonomia formal, com mandato fixo para seus diretores.",
-     "vote_hints": ["Câmara PLP 19/2019 ~10/02/2021 (SIM = +1)", "Senado PLP 19/2019 ~03/11/2020"]},
-    {"id": "eco-ir-alta-renda", "area": "economia", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "A isenção do IR para quem ganha até R$ 5 mil deve ser paga com um imposto mínimo sobre altas rendas.",
-     "vote_hints": ["Câmara PL 1087/2025 ~01/10/2025 (possibly unanimous: low discrimination, keep only if platforms diverge)", "Senado PL 1087/2025 ~11/2025"]},
-    {"id": "seg-saidinha", "area": "seguranca", "offices": ["presidente", "senador", "deputado_federal", "governador"],
-     "statement": "A saída temporária de presos em feriados (saidinha) deve acabar.",
-     "vote_hints": ["Senado PL 2253/2022 ~20/02/2024", "Câmara PL 2253/2022 ~20/03/2024 (SIM = +1)", "Executivo: veto parcial Lei 14.843/2024 (veto = -1 on that part)", "Congresso: derrubada do veto ~28/05/2024"]},
-    {"id": "seg-drogas", "area": "seguranca", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "Portar droga em qualquer quantidade deve ser crime previsto na Constituição.",
-     "vote_hints": ["Senado PEC 45/2023 ~16/04/2024 (SIM = +1)"]},
-    {"id": "seg-8-janeiro", "area": "seguranca", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "Condenados pelos atos de 8 de janeiro de 2023 devem ter as penas reduzidas ou ser anistiados.",
-     "vote_hints": ["Câmara urgência PL 2162/2023 ~17/09/2025", "Câmara PL da dosimetria ~12/2025", "Senado PL da dosimetria ~12/2025", "Executivo: veto?"]},
-    {"id": "seg-blindagem", "area": "seguranca", "offices": ["senador", "deputado_federal"],
-     "statement": "Processar criminalmente um parlamentar deve depender de autorização do Congresso.",
-     "vote_hints": ["Câmara PEC 3/2021 1º turno ~16/09/2025 (SIM = +1)", "Senado CCJ rejeitou ~24/09/2025"]},
-    {"id": "seg-armas", "area": "seguranca", "offices": ["presidente", "governador", "senador", "deputado_federal"],
-     "statement": "O acesso de civis a armas de fogo deve ser ampliado.",
-     "vote_hints": ["Executivo: Decreto 11.615/2023 restringe (Lula = -1)", "Câmara/Senado PDLs para sustar decreto? confirm roll call"]},
-    {"id": "soc-marco-temporal", "area": "social", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "Terras indígenas só devem ser demarcadas se estavam ocupadas em 5 de outubro de 1988 (marco temporal).",
-     "vote_hints": ["Câmara PL 490/2007 ~30/05/2023 (SIM = +1)", "Senado PL 2903/2023 ~27/09/2023", "Executivo: veto parcial Lei 14.701/2023", "Congresso: derrubada ~14/12/2023"]},
-    {"id": "soc-aborto", "area": "social", "offices": ["presidente", "governador", "senador", "deputado_federal", "deputado_estadual"],
-     "statement": "O aborto deve deixar de ser crime nas primeiras 12 semanas de gestação.",
-     "vote_hints": ["PL 1904/2024 urgência foi votação simbólica: no roll call. Platform/declaration evidence only."]},
-    {"id": "soc-cotas", "area": "social", "offices": ["presidente", "senador", "deputado_federal", "deputado_estadual"],
-     "statement": "As cotas raciais e sociais nas universidades públicas devem continuar.",
-     "vote_hints": ["Câmara PL 5384/2020 ~09/08/2023 (check if roll call)", "Senado ~24/10/2023", "Executivo: sanção Lei 14.723/2023"]},
-    {"id": "amb-licenciamento", "area": "ambiente", "offices": ["presidente", "governador", "senador", "deputado_federal"],
-     "statement": "O licenciamento ambiental deve ser simplificado, com autolicenciamento para mais tipos de obra.",
-     "vote_hints": ["Senado PL 2159/2021 ~21/05/2025 (SIM = +1)", "Câmara PL 2159/2021 ~17/07/2025", "Executivo: vetos Lei 15.190/2025", "Congresso: derrubada de vetos ~11/2025?"]},
-    {"id": "amb-margem-equatorial", "area": "ambiente", "offices": ["presidente", "governador", "senador"],
-     "statement": "O Brasil deve explorar petróleo na Margem Equatorial, na foz do Amazonas.",
-     "vote_hints": ["No roll call. Platform/declaration only. Executivo: Ibama licença Petrobras FZA-M-59 ~10/2025"]},
-    {"id": "amb-agrotoxicos", "area": "ambiente", "offices": ["presidente", "senador", "deputado_federal"],
-     "statement": "O registro de agrotóxicos deve ficar mais rápido, com o Ministério da Agricultura no comando.",
-     "vote_hints": ["Câmara PL 6299/2002 ~09/02/2022 (SIM = +1)", "Senado PL 1459/2022 ~28/11/2023 (check roll call)", "Executivo: vetos Lei 14.785/2023"]}
+    {
+      "id": "eco-reforma-tributaria",
+      "area": "economia",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A reforma tributária que troca vários impostos sobre consumo por IBS e CBS deve ser mantida.",
+      "vote_hints": [
+        "Câmara PEC 45/2019 1º turno ~06/07/2023 (SIM = +1)",
+        "Senado PEC 45/2019 ~08/11/2023 (SIM = +1)",
+        "Executivo: promulgada EC 132/2023"
+      ]
+    },
+    {
+      "id": "eco-arcabouco",
+      "area": "economia",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "O arcabouço fiscal atual deve ser mantido.",
+      "vote_hints": [
+        "Câmara PLP 93/2023 ~23/05/2023 (SIM = +1)",
+        "Senado PLP 93/2023 ~21/06/2023",
+        "Executivo: sanção LC 200/2023"
+      ]
+    },
+    {
+      "id": "eco-privatizacao",
+      "area": "economia",
+      "offices": [
+        "presidente",
+        "governador",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "O governo deve vender mais empresas estatais para a iniciativa privada, como os Correios.",
+      "vote_hints": [
+        "Câmara MP 1031/2021 ~19/05/2021 and ~21/06/2021 (SIM = +1)",
+        "Senado MP 1031/2021 ~17/06/2021"
+      ]
+    },
+    {
+      "id": "eco-bc-autonomo",
+      "area": "economia",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A autonomia do Banco Central, em vigor desde 2021 com mandato fixo para a diretoria, deve ser mantida.",
+      "vote_hints": [
+        "Câmara PLP 19/2019 ~10/02/2021 (SIM = +1)",
+        "Senado PLP 19/2019 ~03/11/2020"
+      ]
+    },
+    {
+      "id": "eco-ir-alta-renda",
+      "area": "economia",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A isenção do IR para quem ganha até R$ 5 mil, paga com um imposto mínimo sobre altas rendas (Lei 15.270/2025), deve ser mantida.",
+      "vote_hints": [
+        "Câmara PL 1087/2025 ~01/10/2025 (possibly unanimous: low discrimination, keep only if platforms diverge)",
+        "Senado PL 1087/2025 ~11/2025"
+      ]
+    },
+    {
+      "id": "seg-saidinha",
+      "area": "seguranca",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal",
+        "governador"
+      ],
+      "statement": "O fim da saída temporária de presos para visitar a família (saidinha), aprovado em 2024, deve ser mantido.",
+      "vote_hints": [
+        "Senado PL 2253/2022 ~20/02/2024",
+        "Câmara PL 2253/2022 ~20/03/2024 (SIM = +1)",
+        "Executivo: veto parcial Lei 14.843/2024 (veto = -1 on that part)",
+        "Congresso: derrubada do veto ~28/05/2024"
+      ]
+    },
+    {
+      "id": "seg-drogas",
+      "area": "seguranca",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "Portar droga em qualquer quantidade deve ser crime previsto na Constituição.",
+      "vote_hints": [
+        "Senado PEC 45/2023 ~16/04/2024 (SIM = +1)"
+      ]
+    },
+    {
+      "id": "seg-8-janeiro",
+      "area": "seguranca",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A redução das penas dos condenados pelos atos de 8 de janeiro, aprovada pelo Congresso na Lei 15.402/2026, deve ser mantida.",
+      "vote_hints": [
+        "Câmara urgência PL 2162/2023 ~17/09/2025",
+        "Câmara PL da dosimetria ~12/2025",
+        "Senado PL da dosimetria ~12/2025",
+        "Executivo: veto?"
+      ]
+    },
+    {
+      "id": "seg-blindagem",
+      "area": "seguranca",
+      "offices": [
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "Processar criminalmente um parlamentar deve depender de autorização do Congresso.",
+      "vote_hints": [
+        "Câmara PEC 3/2021 1º turno ~16/09/2025 (SIM = +1)",
+        "Senado CCJ rejeitou ~24/09/2025"
+      ]
+    },
+    {
+      "id": "seg-armas",
+      "area": "seguranca",
+      "offices": [
+        "presidente",
+        "governador",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "O acesso de civis a armas de fogo deve ser ampliado.",
+      "vote_hints": [
+        "Executivo: Decreto 11.615/2023 restringe (Lula = -1)",
+        "Câmara/Senado PDLs para sustar decreto? confirm roll call"
+      ]
+    },
+    {
+      "id": "soc-marco-temporal",
+      "area": "social",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "Terras indígenas só devem ser demarcadas se estavam ocupadas em 5 de outubro de 1988 (marco temporal).",
+      "vote_hints": [
+        "Câmara PL 490/2007 ~30/05/2023 (SIM = +1)",
+        "Senado PL 2903/2023 ~27/09/2023",
+        "Executivo: veto parcial Lei 14.701/2023",
+        "Congresso: derrubada ~14/12/2023"
+      ]
+    },
+    {
+      "id": "soc-aborto",
+      "area": "social",
+      "offices": [
+        "presidente",
+        "governador",
+        "senador",
+        "deputado_federal",
+        "deputado_estadual"
+      ],
+      "statement": "O aborto deve deixar de ser crime nas primeiras 12 semanas de gestação.",
+      "vote_hints": [
+        "PL 1904/2024 urgência foi votação simbólica: no roll call. Platform/declaration evidence only."
+      ]
+    },
+    {
+      "id": "soc-cotas",
+      "area": "social",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal",
+        "deputado_estadual"
+      ],
+      "statement": "As cotas raciais e sociais nas universidades públicas devem continuar.",
+      "vote_hints": [
+        "Câmara PL 5384/2020 ~09/08/2023 (check if roll call)",
+        "Senado ~24/10/2023",
+        "Executivo: sanção Lei 14.723/2023"
+      ]
+    },
+    {
+      "id": "amb-licenciamento",
+      "area": "ambiente",
+      "offices": [
+        "presidente",
+        "governador",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A lei geral do licenciamento ambiental de 2025 (Lei 15.190/2025), que simplificou licenças e criou o autolicenciamento para obras menores, deve ser mantida.",
+      "vote_hints": [
+        "Senado PL 2159/2021 ~21/05/2025 (SIM = +1)",
+        "Câmara PL 2159/2021 ~17/07/2025",
+        "Executivo: vetos Lei 15.190/2025",
+        "Congresso: derrubada de vetos ~11/2025?"
+      ]
+    },
+    {
+      "id": "amb-margem-equatorial",
+      "area": "ambiente",
+      "offices": [
+        "presidente",
+        "governador",
+        "senador"
+      ],
+      "statement": "O Brasil deve explorar petróleo na Margem Equatorial, na foz do Amazonas.",
+      "vote_hints": [
+        "No roll call. Platform/declaration only. Executivo: Ibama licença Petrobras FZA-M-59 ~10/2025"
+      ]
+    },
+    {
+      "id": "amb-agrotoxicos",
+      "area": "ambiente",
+      "offices": [
+        "presidente",
+        "senador",
+        "deputado_federal"
+      ],
+      "statement": "A lei de agrotóxicos de 2023 (Lei 14.785/2023), que deu prazos ao registro de novos produtos, deve ser mantida.",
+      "vote_hints": [
+        "Câmara PL 6299/2002 ~09/02/2022 (SIM = +1)",
+        "Senado PL 1459/2022 ~28/11/2023 (check roll call)",
+        "Executivo: vetos Lei 14.785/2023"
+      ]
+    }
   ],
   "pb_questions_todo": "alpb fork proposes 3-5 PB-specific questions from contested ALPB roll calls or contested points across PB governor plans."
 }
