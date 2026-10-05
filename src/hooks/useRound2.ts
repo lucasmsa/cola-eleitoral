@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { COLA2_SLOTS, type ColaSlot } from '@/config/election';
 import { COPY } from '@/config/copy';
-import { candidates, evidence, portraits, questions, round2 } from '@/data';
+import { candidates, endorsements, evidence, polls2, portraits, questions, round2 } from '@/data';
 import { lookupSlot, sanitizeDigits } from '@/lib/cola';
 import { longDate } from '@/lib/days';
 import { buildUnits } from '@/lib/lessons';
@@ -10,9 +10,9 @@ import { answerLabel, positionTone, POSITION_LABEL, type PositionTone } from '@/
 import { measuredLabel } from '@/lib/results';
 import { finalistCoverage, firstMissingUnit, headToHead, missingQuestions, round2Candidates, winnerOf } from '@/lib/round2';
 import type { SubjectScore } from '@/lib/score';
-import { titleCase } from '@/lib/text';
+import { brDate, titleCase } from '@/lib/text';
 import { useAnswersStore } from '@/stores/answers';
-import type { Evidence, Question } from '@/data/schema';
+import type { Evidence, Poll, Question } from '@/data/schema';
 import type { ColaSlotView } from './useCola';
 import { useNav } from './useNav';
 
@@ -112,7 +112,12 @@ export function useRound2() {
   });
   const sources = round2.offices.flatMap((o) => o.sources);
 
+  const pollCaption = (p: Poll) =>
+    COPY.round2.pollCaption(brDate(p.fieldStart), brDate(p.fieldEnd), COPY.round2.pollBasis(p.institute));
   return {
+    endorsements,
+    polls2,
+    pollCaption,
     finalists,
     rows,
     missingCount: missing.length,

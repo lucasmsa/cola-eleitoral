@@ -1,10 +1,11 @@
 import { COPY } from '@/config/copy';
 import { useRound2 } from '@/hooks/useRound2';
-import { ColaCard } from '../cola/ColaCard';
-import { ColaSlotEditor } from '../cola/ColaSlotEditor';
+import { PollPanel } from '../results/PollPanel';
 import { Button, Hand, SourceLink } from '../shell/ui';
 import { ComparisonRow } from './ComparisonRow';
+import { Endorsements } from './Endorsements';
 import { FinalistCard } from './FinalistCard';
+import { Round2Cola, Round2ColaPrint } from './Round2Cola';
 
 export function Round2Screen() {
   const r = useRound2();
@@ -58,35 +59,11 @@ export function Round2Screen() {
           </Button>
         </div>
 
-        <section className="grid gap-4" aria-labelledby="cola2">
-          <h2 id="cola2" className="text-3xl font-bold">
-            {COPY.round2.colaTitle}
-          </h2>
-          <p className="max-w-[65ch] text-lg text-muted">{COPY.round2.colaLead(r.numbers)}</p>
-          <div className="grid items-start gap-6 lg:grid-cols-[1fr_auto]">
-            <ol className="grid min-w-0 gap-3">
-              {r.colaViews.map((v) => (
-                <ColaSlotEditor
-                  key={v.slot.id}
-                  view={v}
-                  onType={(raw) => r.typeDigits(v.slot, raw)}
-                  onBranco={() => r.setBranco(v.slot)}
-                  onClear={() => r.clear(v.slot)}
-                  notFoundText={r.notFoundText}
-                />
-              ))}
-            </ol>
-            <div className="grid min-w-0 justify-items-start gap-3">
-              <div className="max-w-full overflow-x-auto" data-testid="cola2-card">
-                <ColaCard views={r.colaViews} title={r.colaTitle} note={r.colaNote} />
-              </div>
-              <Button variant="primary" onClick={r.print}>
-                {COPY.cola.print}
-              </Button>
-              <p className="max-w-sm text-base text-muted">{COPY.cola.printHint}</p>
-            </div>
-          </div>
-        </section>
+        <Endorsements items={r.endorsements} />
+
+        <PollPanel polls={r.polls2} title={COPY.round2.pollsTitle} explain={COPY.round2.pollsExplain} caption={r.pollCaption} />
+
+        <Round2Cola />
 
         <p className="text-base text-muted">
           {COPY.round2.resultsSource}:{' '}
@@ -98,10 +75,7 @@ export function Round2Screen() {
           ))}
         </p>
       </main>
-      <div className="print-only">
-        <ColaCard views={r.colaViews} title={r.colaTitle} note={r.colaNote} />
-        <ColaCard views={r.colaViews} title={r.colaTitle} note={r.colaNote} />
-      </div>
+      <Round2ColaPrint />
     </>
   );
 }

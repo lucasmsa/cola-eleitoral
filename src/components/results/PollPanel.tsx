@@ -4,11 +4,18 @@ import { Disclosure } from '../shell/Disclosure';
 import { brDate, brNumber, hostname, pollValue } from '@/lib/text';
 import { SourceLink, Tag } from '../shell/ui';
 
-export function PollPanel({ polls }: { polls: Poll[] }) {
+interface Props {
+  polls: Poll[];
+  title?: string;
+  explain?: string;
+  caption?: (poll: Poll) => string;
+}
+
+export function PollPanel({ polls, title = COPY.polls.title, explain = COPY.polls.explain, caption }: Props) {
   return (
-    <Disclosure summary={<>{COPY.polls.title}</>}>
+    <Disclosure summary={<>{title}</>}>
       <div className="grid gap-5">
-        <p className="max-w-[70ch] text-lg text-muted">{COPY.polls.explain}</p>
+        <p className="max-w-[70ch] text-lg text-muted">{explain}</p>
         {polls.length === 0 && <p className="text-lg text-muted">{COPY.polls.none}</p>}
         {polls.map((p) => (
           <article key={p.id} className="grid gap-2">
@@ -21,6 +28,7 @@ export function PollPanel({ polls }: { polls: Poll[] }) {
               </span>
               <Tag>{COPY.polls.pressChecked}</Tag>
             </div>
+            {caption && <p className="text-lg font-semibold">{caption(p)}</p>}
             <ul className="grid gap-1 sm:grid-cols-2">
               {p.results.map((r) => (
                 <li

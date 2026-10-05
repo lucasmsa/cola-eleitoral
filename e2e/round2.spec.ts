@@ -14,8 +14,11 @@ test('answer 3 questions, compare the runoff finalists, fill the 2nd-round cola'
   }
   await page.getByRole('button', { name: 'Sair da lição' }).click();
 
-  await page.locator('nav').getByRole('button', { name: '2º turno' }).click();
+  await page.locator('nav').getByRole('button', { name: 'Comparar' }).click();
   await expect(page.getByRole('heading', { level: 1, name: 'Flavio Bolsonaro x Lula' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Apoios declarados' })).toBeVisible();
+  await page.getByText('Pesquisas de 2º turno (não entram na conta)').click();
+  await expect(page.getByText(/^Cenário medido antes do 1º turno \(campo: \d{2}\/\d{2}\/2026 a \d{2}\/\d{2}\/2026\), votos (totais|válidos)\.$/).first()).toBeVisible();
   await expect(page.getByTestId('finalist-22')).toContainText('47,03% dos votos válidos no Brasil');
   await expect(page.getByTestId('finalist-13')).toContainText('61,31% na Paraíba');
   await expect(page.getByRole('heading', { name: 'Pergunta por pergunta' })).toBeVisible();
@@ -30,8 +33,9 @@ test('answer 3 questions, compare the runoff finalists, fill the 2nd-round cola'
   await expect(card).toContainText('Governador eleito no 1º turno: Lucas Ribeiro');
 
   await page.reload();
-  await page.locator('nav').getByRole('button', { name: '2º turno' }).click();
+  await page.locator('nav').getByRole('button', { name: 'Cola' }).click();
   await expect(page.getByLabel('Presidente')).toHaveValue('13');
+  await page.getByRole('group', { name: 'Turno' }).getByRole('button', { name: '1º turno' }).click();
   await page.locator('nav').getByRole('button', { name: 'Cola' }).click();
   await expect(page.getByLabel('Presidente')).toHaveValue('');
 });

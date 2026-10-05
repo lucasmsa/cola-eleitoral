@@ -7,6 +7,7 @@ import { Mascot } from '../shell/Mascot';
 import { RestartQuiz } from '../shell/RestartQuiz';
 import { Button, Hand, ProgressBar } from '../shell/ui';
 import { Cover } from './Cover';
+import { Round1Card } from './Round1Card';
 import { Round2Card } from './Round2Card';
 import { UnitStop } from './UnitStop';
 
@@ -17,7 +18,7 @@ export function HomeScreen() {
   const hasCover = Boolean(cover.poster || cover.video);
   return (
     <main className="mx-auto grid max-w-3xl grid-cols-[minmax(0,1fr)] gap-10 px-4 py-8 md:pl-24">
-      <Round2Card />
+      {home.turno === 2 ? <Round2Card /> : <Round1Card />}
       <Cover cover={cover} />
       <section className="flex flex-col items-start gap-5 sm:flex-row">
         {!hasCover && <Mascot mood="idle" size={96} />}

@@ -185,6 +185,13 @@ def build_claim_files(evidence_ids):
             stats["round2.json"] = "shipped"
         else:
             stats["round2.json"] = "check failing, not shipped"
+    round1, r1rep = load("round1/round1.json"), load("checks/round1.report.json")
+    if round1 is not None and r1rep is not None:
+        if r1rep.get("harness_ok") and r1rep.get("rows") and all(r["status"] == "PASS" for r in r1rep["rows"]):
+            (DATA / "round1.json").write_text(json.dumps(round1, ensure_ascii=False, indent=1))
+            stats["round1.json"] = "shipped"
+        else:
+            stats["round1.json"] = "check failing, not shipped"
     news_ok = passed_ids(load("checks/news5.report.json") or {})
     endorsements = load("news5/endorsements.json")
     if endorsements is not None:

@@ -4,6 +4,7 @@ test('answer three questions, see the result sequence, put a senator in the cola
   const hosts = new Set<string>();
   page.on('request', (r) => hosts.add(new URL(r.url()).host));
   await page.goto('/');
+  await page.getByRole('group', { name: 'Turno' }).getByRole('button', { name: '1º turno' }).click();
   await expect.poll(() => page.evaluate(() => document.fonts.check("700 20px 'Kalam'", 'Falta é ção'))).toBe(true);
   await page.getByRole('button', { name: 'Começar: Economia' }).click();
 
@@ -41,6 +42,12 @@ test('answer three questions, see the result sequence, put a senator in the cola
   await page.reload();
   await page.locator('nav').getByRole('button', { name: 'Cola' }).click();
   await expect(page.getByLabel('Senador, 1ª vaga')).toHaveValue(digits);
+
+  await page.locator('nav').getByRole('button', { name: 'Como foi' }).click();
+  await expect(page.getByRole('heading', { level: 1, name: 'Como foi o 1º turno' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Seus votos no 1º turno' })).toBeVisible();
+  await expect(page.getByText('Senador, 1ª vaga').first()).toBeVisible();
+  await expect(page.getByText(/^fonte: TSE, gerado em \d{2}\/10\/2026 \d{2}:\d{2}$/).first()).toBeVisible();
 
   await page.locator('nav').getByRole('button', { name: 'Quiz' }).click();
   await expect(page.getByRole('heading', { name: 'Quiz: quem defende o quê' })).toBeVisible();

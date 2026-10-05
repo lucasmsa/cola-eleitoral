@@ -1,0 +1,2477 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "TSE, presidente no Brasil:22",
+   "status": "PASS",
+   "claim": "FLAVIO BOLSONARO 47,03% 2º turno"
+  },
+  {
+   "id": "TSE, presidente no Brasil:13",
+   "status": "PASS",
+   "claim": "LULA 45,16% 2º turno"
+  },
+  {
+   "id": "TSE, presidente no Brasil:70",
+   "status": "PASS",
+   "claim": "ESCRITOR AUGUSTO CURY 2,89% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:14",
+   "status": "PASS",
+   "claim": "RENAN SANTOS 2,24% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:55",
+   "status": "PASS",
+   "claim": "RONALDO CAIADO 2,18% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:30",
+   "status": "PASS",
+   "claim": "ZEMA 0,27% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:80",
+   "status": "PASS",
+   "claim": "SAMARA 0,10% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:16",
+   "status": "PASS",
+   "claim": "HERTZ DIAS 0,04% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:27",
+   "status": "PASS",
+   "claim": "CLARIANA BARAO 0,03% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:21",
+   "status": "PASS",
+   "claim": "EDMILSON COSTA 0,02% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:35",
+   "status": "PASS",
+   "claim": "VETERINÁRIO WILSON GRASSI 0,01% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:29",
+   "status": "PASS",
+   "claim": "RUI COSTA PIMENTA 0,01% Não eleito"
+  },
+  {
+   "id": "TSE, presidente no Brasil:count",
+   "status": "PASS",
+   "claim": "12 candidates"
+  },
+  {
+   "id": "TSE, presidente no Brasil:generated",
+   "status": "PASS",
+   "claim": "05/10/2026 12:51"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:13",
+   "status": "PASS",
+   "claim": "LULA 61,31% 2º turno"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:22",
+   "status": "PASS",
+   "claim": "FLAVIO BOLSONARO 33,07% 2º turno"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:70",
+   "status": "PASS",
+   "claim": "ESCRITOR AUGUSTO CURY 2,94% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:14",
+   "status": "PASS",
+   "claim": "RENAN SANTOS 1,68% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:55",
+   "status": "PASS",
+   "claim": "RONALDO CAIADO 0,78% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:30",
+   "status": "PASS",
+   "claim": "ZEMA 0,08% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:80",
+   "status": "PASS",
+   "claim": "SAMARA 0,06% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:16",
+   "status": "PASS",
+   "claim": "HERTZ DIAS 0,02% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:27",
+   "status": "PASS",
+   "claim": "CLARIANA BARAO 0,02% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:21",
+   "status": "PASS",
+   "claim": "EDMILSON COSTA 0,01% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:29",
+   "status": "PASS",
+   "claim": "RUI COSTA PIMENTA 0,01% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:35",
+   "status": "PASS",
+   "claim": "VETERINÁRIO WILSON GRASSI 0,01% Não eleito"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:count",
+   "status": "PASS",
+   "claim": "12 candidates"
+  },
+  {
+   "id": "TSE, presidente na Paraíba:generated",
+   "status": "PASS",
+   "claim": "05/10/2026 12:51"
+  },
+  {
+   "id": "BR:turnout:eleitores",
+   "status": "PASS",
+   "claim": "eleitores 158745502"
+  },
+  {
+   "id": "BR:turnout:eleitoresSecoesNaoInstaladas",
+   "status": "PASS",
+   "claim": "eleitoresSecoesNaoInstaladas 423"
+  },
+  {
+   "id": "BR:turnout:comparecimento",
+   "status": "PASS",
+   "claim": "comparecimento 125275835"
+  },
+  {
+   "id": "BR:turnout:comparecimentoPct",
+   "status": "PASS",
+   "claim": "comparecimentoPct 78,92"
+  },
+  {
+   "id": "BR:turnout:abstencao",
+   "status": "PASS",
+   "claim": "abstencao 33469244"
+  },
+  {
+   "id": "BR:turnout:abstencaoPct",
+   "status": "PASS",
+   "claim": "abstencaoPct 21,08"
+  },
+  {
+   "id": "BR:turnout:validos",
+   "status": "PASS",
+   "claim": "validos 119300788"
+  },
+  {
+   "id": "BR:turnout:brancos",
+   "status": "PASS",
+   "claim": "brancos 2300798"
+  },
+  {
+   "id": "BR:turnout:brancosPct",
+   "status": "PASS",
+   "claim": "brancosPct 1,84"
+  },
+  {
+   "id": "BR:turnout:nulos",
+   "status": "PASS",
+   "claim": "nulos 3674249"
+  },
+  {
+   "id": "BR:turnout:nulosPct",
+   "status": "PASS",
+   "claim": "nulosPct 2,93"
+  },
+  {
+   "id": "BR:turnout:sum",
+   "status": "PASS",
+   "claim": "comparecimento + abstenção = eleitores de seções instaladas"
+  },
+  {
+   "id": "PB:turnout:eleitores",
+   "status": "PASS",
+   "claim": "eleitores 3248531"
+  },
+  {
+   "id": "PB:turnout:eleitoresSecoesNaoInstaladas",
+   "status": "PASS",
+   "claim": "eleitoresSecoesNaoInstaladas 0"
+  },
+  {
+   "id": "PB:turnout:comparecimento",
+   "status": "PASS",
+   "claim": "comparecimento 2683988"
+  },
+  {
+   "id": "PB:turnout:comparecimentoPct",
+   "status": "PASS",
+   "claim": "comparecimentoPct 82,62"
+  },
+  {
+   "id": "PB:turnout:abstencao",
+   "status": "PASS",
+   "claim": "abstencao 564543"
+  },
+  {
+   "id": "PB:turnout:abstencaoPct",
+   "status": "PASS",
+   "claim": "abstencaoPct 17,38"
+  },
+  {
+   "id": "PB:turnout:validos",
+   "status": "PASS",
+   "claim": "validos 2513747"
+  },
+  {
+   "id": "PB:turnout:brancos",
+   "status": "PASS",
+   "claim": "brancos 52297"
+  },
+  {
+   "id": "PB:turnout:brancosPct",
+   "status": "PASS",
+   "claim": "brancosPct 1,95"
+  },
+  {
+   "id": "PB:turnout:nulos",
+   "status": "PASS",
+   "claim": "nulos 117944"
+  },
+  {
+   "id": "PB:turnout:nulosPct",
+   "status": "PASS",
+   "claim": "nulosPct 4,39"
+  },
+  {
+   "id": "PB:turnout:sum",
+   "status": "PASS",
+   "claim": "comparecimento + abstenção = eleitores de seções instaladas"
+  },
+  {
+   "id": "TSE, governador na Paraíba:11",
+   "status": "PASS",
+   "claim": "LUCAS RIBEIRO 64,30% Eleito"
+  },
+  {
+   "id": "TSE, governador na Paraíba:22",
+   "status": "PASS",
+   "claim": "EFRAIM FILHO 24,18% Não eleito"
+  },
+  {
+   "id": "TSE, governador na Paraíba:15",
+   "status": "PASS",
+   "claim": "CÍCERO LUCENA 11,06% Não eleito"
+  },
+  {
+   "id": "TSE, governador na Paraíba:80",
+   "status": "PASS",
+   "claim": "YURI EZEQUIEL 0,36% Não eleito"
+  },
+  {
+   "id": "TSE, governador na Paraíba:29",
+   "status": "PASS",
+   "claim": "CAMILO DUARTE 0,10% Não eleito"
+  },
+  {
+   "id": "TSE, governador na Paraíba:count",
+   "status": "PASS",
+   "claim": "5 candidates"
+  },
+  {
+   "id": "TSE, governador na Paraíba:generated",
+   "status": "PASS",
+   "claim": "04/10/2026 23:23"
+  },
+  {
+   "id": "TSE, senador na Paraíba:400",
+   "status": "PASS",
+   "claim": "JOAO AZEVÊDO 32,50% Eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:155",
+   "status": "PASS",
+   "claim": "VENEZIANO 22,76% Eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:100",
+   "status": "PASS",
+   "claim": "NABOR 20,91% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:222",
+   "status": "PASS",
+   "claim": "DR. MARCELO QUEIROGA 12,46% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:300",
+   "status": "PASS",
+   "claim": "MAJOR FÁBIO 7,69% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:151",
+   "status": "PASS",
+   "claim": "ANDRÉ GADELHA 2,83% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:800",
+   "status": "PASS",
+   "claim": "ROSILENE SANTANA 0,50% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:272",
+   "status": "PASS",
+   "claim": "RINALDO JÚNIOR 0,20% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:801",
+   "status": "PASS",
+   "claim": "JOÃO BATISTA 0,10% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:290",
+   "status": "PASS",
+   "claim": "ADRIANO TRAJANO 0,06% Não eleito"
+  },
+  {
+   "id": "TSE, senador na Paraíba:count",
+   "status": "PASS",
+   "claim": "10 candidates"
+  },
+  {
+   "id": "TSE, senador na Paraíba:generated",
+   "status": "PASS",
+   "claim": "04/10/2026 23:23"
+  },
+  {
+   "id": "senado:two-elected",
+   "status": "PASS",
+   "claim": "2 senadores eleitos"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:elected-set",
+   "status": "PASS",
+   "claim": "12 eleitos"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:2222",
+   "status": "PASS",
+   "claim": "CABO GILBERTO SILVA 267142 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1111",
+   "status": "PASS",
+   "claim": "AGUINALDO RIBEIRO 180720 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1313",
+   "status": "PASS",
+   "claim": "RICARDO COUTINHO 163277 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1044",
+   "status": "PASS",
+   "claim": "MURILO GALDINO 149302 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1011",
+   "status": "PASS",
+   "claim": "HUGO 124339 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1010",
+   "status": "PASS",
+   "claim": "WILSON SANTIAGO 112050 por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:2030",
+   "status": "PASS",
+   "claim": "RUY CARNEIRO 102885 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:6565",
+   "status": "PASS",
+   "claim": "GERVÁSIO MAIA 96918 por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:5522",
+   "status": "PASS",
+   "claim": "WELLINGTON ROBERTO 84419 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:4444",
+   "status": "PASS",
+   "claim": "DR° DAMIÃO 74632 por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:2211",
+   "status": "PASS",
+   "claim": "GEORGE MORAIS 57454 por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:1133",
+   "status": "PASS",
+   "claim": "POLLYANNA 50922 por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2222",
+   "status": "PASS",
+   "claim": "CABO GILBERTO SILVA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1111",
+   "status": "PASS",
+   "claim": "AGUINALDO RIBEIRO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1313",
+   "status": "PASS",
+   "claim": "RICARDO COUTINHO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1044",
+   "status": "PASS",
+   "claim": "MURILO GALDINO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1011",
+   "status": "PASS",
+   "claim": "HUGO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1010",
+   "status": "PASS",
+   "claim": "WILSON SANTIAGO Eleito por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2030",
+   "status": "PASS",
+   "claim": "RUY CARNEIRO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:6565",
+   "status": "PASS",
+   "claim": "GERVÁSIO MAIA Eleito por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2026",
+   "status": "PASS",
+   "claim": "ROMERO RODRIGUES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5522",
+   "status": "PASS",
+   "claim": "WELLINGTON ROBERTO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4040",
+   "status": "PASS",
+   "claim": "FÁBIO TYRONE Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4444",
+   "status": "PASS",
+   "claim": "DR° DAMIÃO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5555",
+   "status": "PASS",
+   "claim": "MERSINHO LUCENA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1345",
+   "status": "PASS",
+   "claim": "LUIZ COUTO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2211",
+   "status": "PASS",
+   "claim": "GEORGE MORAIS Eleito por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1133",
+   "status": "PASS",
+   "claim": "POLLYANNA Eleito por média"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1033",
+   "status": "PASS",
+   "claim": "TIÃO GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5540",
+   "status": "PASS",
+   "claim": "DOUTOR JHONY Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1303",
+   "status": "PASS",
+   "claim": "GABI BENVENUTTY Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2020",
+   "status": "PASS",
+   "claim": "LÉO GADELHA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1123",
+   "status": "PASS",
+   "claim": "GUGA PET Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1015",
+   "status": "PASS",
+   "claim": "RANIERY PAULINO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1000",
+   "status": "PASS",
+   "claim": "CAPITÃ REBECA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1100",
+   "status": "PASS",
+   "claim": "ELIZA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4045",
+   "status": "PASS",
+   "claim": "JAILMA CARVALHO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1177",
+   "status": "PASS",
+   "claim": "JULIAN LEMOS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1001",
+   "status": "PASS",
+   "claim": "RENAN DA RESENHA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1077",
+   "status": "PASS",
+   "claim": "VALDIR TRINDADE Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2233",
+   "status": "PASS",
+   "claim": "ANDRÉ AMARAL FILHO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1112",
+   "status": "PASS",
+   "claim": "DR° EMERSON PANTA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5533",
+   "status": "PASS",
+   "claim": "RAONI MENDES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4050",
+   "status": "PASS",
+   "claim": "SARGENTO WELLINGTON COBRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2055",
+   "status": "PASS",
+   "claim": "JACÓ MACIEL Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2223",
+   "status": "PASS",
+   "claim": "CANTORA MUNIQUE MARINHO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2255",
+   "status": "PASS",
+   "claim": "CAROL GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2000",
+   "status": "PASS",
+   "claim": "SILVIA DA PESCA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4000",
+   "status": "PASS",
+   "claim": "ZEZINHO BOTAFOGO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1166",
+   "status": "PASS",
+   "claim": "CICINHA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1107",
+   "status": "PASS",
+   "claim": "TARCÍSIO JARDIM Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1066",
+   "status": "PASS",
+   "claim": "MAÍSA CARTAXO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5566",
+   "status": "PASS",
+   "claim": "SAMUKA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1045",
+   "status": "PASS",
+   "claim": "NILSON LACERDA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5550",
+   "status": "PASS",
+   "claim": "JOÃO DOS SANTOS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1311",
+   "status": "PASS",
+   "claim": "PEDRO MATIAS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1144",
+   "status": "PASS",
+   "claim": "HERMERSON CAMINHONEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2277",
+   "status": "PASS",
+   "claim": "ALEXANDRE DO SINDICATO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2022",
+   "status": "PASS",
+   "claim": "NELSON GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2266",
+   "status": "PASS",
+   "claim": "DANIEL CONHECE Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4013",
+   "status": "PASS",
+   "claim": "LÍDIA MOURA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2212",
+   "status": "PASS",
+   "claim": "GERANA GOUVEIA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5013",
+   "status": "PASS",
+   "claim": "TATY PARAÍBA FEMININA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2012",
+   "status": "PASS",
+   "claim": "AMANDA CSI Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2010",
+   "status": "PASS",
+   "claim": "CILOCA BARROZO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1333",
+   "status": "PASS",
+   "claim": "ENFERMEIRA MARY PRISCILA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2288",
+   "status": "PASS",
+   "claim": "DEDA CLAUDINO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1022",
+   "status": "PASS",
+   "claim": "SILVIA BENJAMIN Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2244",
+   "status": "PASS",
+   "claim": "ARLEY MOURA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1222",
+   "status": "PASS",
+   "claim": "AIRTON PIRES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2767",
+   "status": "PASS",
+   "claim": "KRISNA GOPAL Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1212",
+   "status": "PASS",
+   "claim": "JULIANA ALMEIDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1234",
+   "status": "PASS",
+   "claim": "ERIKA VON SOHSTEN Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1414",
+   "status": "PASS",
+   "claim": "CATARINA NEVES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1020",
+   "status": "PASS",
+   "claim": "JANNY MILANES Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3003",
+   "status": "PASS",
+   "claim": "EMERSON WALLACE Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1813",
+   "status": "PASS",
+   "claim": "EDUARDA ALMEIDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1477",
+   "status": "PASS",
+   "claim": "ALINE GREY Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5508",
+   "status": "PASS",
+   "claim": "HELENA HOLANDA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:6500",
+   "status": "PASS",
+   "claim": "PERCIVAL Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5511",
+   "status": "PASS",
+   "claim": "PROFESSORA LEILA FONSECA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1088",
+   "status": "PASS",
+   "claim": "POLICIAL CAIO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2200",
+   "status": "PASS",
+   "claim": "ALEXANDRO COCO SECO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5515",
+   "status": "PASS",
+   "claim": "NETTO LIMA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2011",
+   "status": "PASS",
+   "claim": "SANDRA MARROCOS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:6555",
+   "status": "PASS",
+   "claim": "ROSI CRUZ Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1211",
+   "status": "PASS",
+   "claim": "INALDO ANDRADE Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1300",
+   "status": "PASS",
+   "claim": "ÁLEX ANDRADE Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4001",
+   "status": "PASS",
+   "claim": "CRIS FURTADO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1444",
+   "status": "PASS",
+   "claim": "EDUARDO WILLIAM Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4015",
+   "status": "PASS",
+   "claim": "RACHEL MAROJA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3012",
+   "status": "PASS",
+   "claim": "NILDO TERRA BOA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3000",
+   "status": "PASS",
+   "claim": "RODRIGO LIMA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5050",
+   "status": "PASS",
+   "claim": "ANDRÉA MIRANDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2202",
+   "status": "PASS",
+   "claim": "NÁGILA SANTANA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5556",
+   "status": "PASS",
+   "claim": "LANA DANTAS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7777",
+   "status": "PASS",
+   "claim": "ADRIANA ALMEIDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1200",
+   "status": "PASS",
+   "claim": "TENENTE JAIR Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2077",
+   "status": "PASS",
+   "claim": "MIGUEL PIMENTA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1213",
+   "status": "PASS",
+   "claim": "WELLINGTON SILVA SOUSA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2500",
+   "status": "PASS",
+   "claim": "CORONEL ALMEIDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3022",
+   "status": "PASS",
+   "claim": "DR. DANILLO RAMALHO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4022",
+   "status": "PASS",
+   "claim": "REPÓRTER CARLOS SANTOS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2269",
+   "status": "PASS",
+   "claim": "TIA MILA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5000",
+   "status": "PASS",
+   "claim": "SOUSA NETO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:8080",
+   "status": "PASS",
+   "claim": "ISABELE DO CORRENTEZA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4004",
+   "status": "PASS",
+   "claim": "ROBERTO BURITY Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7796",
+   "status": "PASS",
+   "claim": "GENILSON LUCENYAH Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4422",
+   "status": "PASS",
+   "claim": "MARÍLIA DANTAS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5510",
+   "status": "PASS",
+   "claim": "JULLYANA RIBEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5512",
+   "status": "PASS",
+   "claim": "GERMANA WANDERLEY Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5055",
+   "status": "PASS",
+   "claim": "EDINHO MENDES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4055",
+   "status": "PASS",
+   "claim": "DR. LEVY DA HABITAÇÃO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1400",
+   "status": "PASS",
+   "claim": "FRANCISCO MENDONÇA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1483",
+   "status": "PASS",
+   "claim": "LUAN BRASILIANO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1310",
+   "status": "PASS",
+   "claim": "SAULO DANTAS Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7788",
+   "status": "PASS",
+   "claim": "NILTON MAIA DA SHALON Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3066",
+   "status": "PASS",
+   "claim": "LUCENILDO BRANCO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1245",
+   "status": "PASS",
+   "claim": "GILSON ROBERTO (OVÃO) Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:8000",
+   "status": "PASS",
+   "claim": "JONAS SOUZA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4011",
+   "status": "PASS",
+   "claim": "SARGENTO HELMUT Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3030",
+   "status": "PASS",
+   "claim": "DIEGO BRAYTNNER Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1800",
+   "status": "PASS",
+   "claim": "ALEXANDRE FERNANDES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1215",
+   "status": "PASS",
+   "claim": "MOCA MEDEIROS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1210",
+   "status": "PASS",
+   "claim": "MÁRCIO LINS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2722",
+   "status": "PASS",
+   "claim": "FREITAS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3033",
+   "status": "PASS",
+   "claim": "TC EDILSON BERNARDO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3500",
+   "status": "PASS",
+   "claim": "EARLY Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1236",
+   "status": "PASS",
+   "claim": "MAZUREIK RODRIGUES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7713",
+   "status": "PASS",
+   "claim": "BETINHO DA RS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7733",
+   "status": "PASS",
+   "claim": "POLLY DO ADOTA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3347",
+   "status": "PASS",
+   "claim": "LULA DA TAPIOCA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3300",
+   "status": "PASS",
+   "claim": "SERGIO DO REAL PREÇO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:5507",
+   "status": "PASS",
+   "claim": "JÚLIA VENERANDO Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:4410",
+   "status": "PASS",
+   "claim": "SERGIO RAFAEL Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7711",
+   "status": "PASS",
+   "claim": "PATRÍCIA MOTA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2507",
+   "status": "PASS",
+   "claim": "PATRÍCIA BERGER Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1899",
+   "status": "PASS",
+   "claim": "BOCA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3510",
+   "status": "PASS",
+   "claim": "PASTOR ROBSON Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3311",
+   "status": "PASS",
+   "claim": "LUMITÂNIA DIAS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2555",
+   "status": "PASS",
+   "claim": "RAY ALENCAR Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1811",
+   "status": "PASS",
+   "claim": "WALKÍRIA LINS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2512",
+   "status": "PASS",
+   "claim": "SILVIO SOARES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3333",
+   "status": "PASS",
+   "claim": "MARCOS OLIVEIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3520",
+   "status": "PASS",
+   "claim": "CRISTINA ACS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1822",
+   "status": "PASS",
+   "claim": "SARGENTO AGLAIR Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1833",
+   "status": "PASS",
+   "claim": "CATIER FERREIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1818",
+   "status": "PASS",
+   "claim": "CRISTINA GUERREIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3535",
+   "status": "PASS",
+   "claim": "JANDIR FERRAZ Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1240",
+   "status": "PASS",
+   "claim": "SARGENTO LEE Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3313",
+   "status": "PASS",
+   "claim": "MARILENE ALVES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:7710",
+   "status": "PASS",
+   "claim": "GERLANE FREITAS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1217",
+   "status": "PASS",
+   "claim": "ALLANA RODRIGUES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3055",
+   "status": "PASS",
+   "claim": "HENRIQUE QUEIROZ Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3088",
+   "status": "PASS",
+   "claim": "MISSIONÁRIA IVONE DO HU Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1415",
+   "status": "PASS",
+   "claim": "BETO LIMA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3077",
+   "status": "PASS",
+   "claim": "JUNIOR DO TREM Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3511",
+   "status": "PASS",
+   "claim": "NÊM DOS ÓCULOS Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1267",
+   "status": "PASS",
+   "claim": "SARGENTO KARLA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2711",
+   "status": "PASS",
+   "claim": "HERICK Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2007",
+   "status": "PASS",
+   "claim": "ALINE MARKINNA Suplente"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3001",
+   "status": "PASS",
+   "claim": "DJANEIDE ALMEIDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2900",
+   "status": "PASS",
+   "claim": "LATIFI ABOU HAIKAL Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2599",
+   "status": "PASS",
+   "claim": "ELI MANSUR Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3555",
+   "status": "PASS",
+   "claim": "NININHO MANGABEIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3007",
+   "status": "PASS",
+   "claim": "ANDREA ARAUJO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3310",
+   "status": "PASS",
+   "claim": "O PROFETA IVANILDO Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2929",
+   "status": "PASS",
+   "claim": "VAL ALVES Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3044",
+   "status": "PASS",
+   "claim": "CATARINA ROCHA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:1819",
+   "status": "PASS",
+   "claim": "MARCELA KELLY Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3522",
+   "status": "PASS",
+   "claim": "RAIMUNDA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3577",
+   "status": "PASS",
+   "claim": "MÃE GORETTI Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:3512",
+   "status": "PASS",
+   "claim": "ANA ZÉLIA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2710",
+   "status": "PASS",
+   "claim": "SAMARA STEFANE Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2755",
+   "status": "PASS",
+   "claim": "SANDRO DE SANTA RITA Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand:2780",
+   "status": "PASS",
+   "claim": "MONIK EVELLYN Não eleito"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:cand-count",
+   "status": "PASS",
+   "claim": "164 candidatos"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:seats",
+   "status": "PASS",
+   "claim": "{\"REPUBLICANOS\": 3, \"FEDERAÇÃO UNIÃO PROGRESSISTA\": 3, \"FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL\": 2, \"PARTIDO LIBERAL\": 2, \"PARTIDO SOCIAL DEMOCRÁTICO\": 1, \"PODEMOS\": 1}"
+  },
+  {
+   "id": "TSE, deputado federal na Paraíba:seats-total",
+   "status": "PASS",
+   "claim": "12 vagas"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:elected-set",
+   "status": "PASS",
+   "claim": "36 eleitos"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22222",
+   "status": "PASS",
+   "claim": "NILVAN FERREIRA 77089 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10444",
+   "status": "PASS",
+   "claim": "ADRIANO GALDINO 75366 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10111",
+   "status": "PASS",
+   "claim": "OLÍVIA MOTTA 67991 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10110",
+   "status": "PASS",
+   "claim": "WILSON FILHO 61388 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:15999",
+   "status": "PASS",
+   "claim": "FELIPE LEITÃO 58278 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22422",
+   "status": "PASS",
+   "claim": "DEPUTA MANÉ BUCHADA 53641 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11333",
+   "status": "PASS",
+   "claim": "EDUARDO CARNEIRO 52291 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:44123",
+   "status": "PASS",
+   "claim": "MARIA PORTO 50463 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10777",
+   "status": "PASS",
+   "claim": "DR. JARQUES 47560 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11369",
+   "status": "PASS",
+   "claim": "JOÃO PAULO SEGUNDO 47492 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:40000",
+   "status": "PASS",
+   "claim": "TIBERIO LIMEIRA 46732 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11211",
+   "status": "PASS",
+   "claim": "LORENA 46138 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:13400",
+   "status": "PASS",
+   "claim": "CIDA RAMOS 46083 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:15555",
+   "status": "PASS",
+   "claim": "FÁBIO RAMALHO 44187 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11611",
+   "status": "PASS",
+   "claim": "JOÃO GONÇALVES 43720 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:40456",
+   "status": "PASS",
+   "claim": "NIL MENDES 42488 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22999",
+   "status": "PASS",
+   "claim": "SARGENTO NETO 42452 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:65000",
+   "status": "PASS",
+   "claim": "JÔ OLIVEIRA 42110 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22000",
+   "status": "PASS",
+   "claim": "FÁBIO LOPES 40291 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11011",
+   "status": "PASS",
+   "claim": "MICHEL HENRIQUE 39790 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11789",
+   "status": "PASS",
+   "claim": "TANILSON SOARES 37561 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:15123",
+   "status": "PASS",
+   "claim": "HERVAZIO BEZERRA 36215 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22456",
+   "status": "PASS",
+   "claim": "SEGUNDO DOMICIANO 35622 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10456",
+   "status": "PASS",
+   "claim": "DANIELLE DO VALE 35505 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10222",
+   "status": "PASS",
+   "claim": "FELIPE COUTINHO 33917 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11777",
+   "status": "PASS",
+   "claim": "JÚNIOR ARAÚJO 33850 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10888",
+   "status": "PASS",
+   "claim": "BRANCO MENDES 33817 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:22190",
+   "status": "PASS",
+   "claim": "WALLBER VIRGOLINO 32490 por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:40123",
+   "status": "PASS",
+   "claim": "NELINHO COSTA 31327 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:44555",
+   "status": "PASS",
+   "claim": "GILBERTINHO 30918 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:15111",
+   "status": "PASS",
+   "claim": "CAMILA TOSCANO 30389 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:43147",
+   "status": "PASS",
+   "claim": "ANDERSON MONTEIRO 29541 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:11000",
+   "status": "PASS",
+   "claim": "DIEGO TAVARES 29245 por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:10123",
+   "status": "PASS",
+   "claim": "JUTAY MENESES 28151 por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:43789",
+   "status": "PASS",
+   "claim": "CHIÓ 27228 por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:13333",
+   "status": "PASS",
+   "claim": "FLÁVIO BRASILEIRO 23756 por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22222",
+   "status": "PASS",
+   "claim": "NILVAN FERREIRA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10444",
+   "status": "PASS",
+   "claim": "ADRIANO GALDINO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10111",
+   "status": "PASS",
+   "claim": "OLÍVIA MOTTA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10110",
+   "status": "PASS",
+   "claim": "WILSON FILHO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15999",
+   "status": "PASS",
+   "claim": "FELIPE LEITÃO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22422",
+   "status": "PASS",
+   "claim": "DEPUTA MANÉ BUCHADA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11333",
+   "status": "PASS",
+   "claim": "EDUARDO CARNEIRO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44123",
+   "status": "PASS",
+   "claim": "MARIA PORTO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10777",
+   "status": "PASS",
+   "claim": "DR. JARQUES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11369",
+   "status": "PASS",
+   "claim": "JOÃO PAULO SEGUNDO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40000",
+   "status": "PASS",
+   "claim": "TIBERIO LIMEIRA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11211",
+   "status": "PASS",
+   "claim": "LORENA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13400",
+   "status": "PASS",
+   "claim": "CIDA RAMOS Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15555",
+   "status": "PASS",
+   "claim": "FÁBIO RAMALHO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11611",
+   "status": "PASS",
+   "claim": "JOÃO GONÇALVES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40456",
+   "status": "PASS",
+   "claim": "NIL MENDES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22999",
+   "status": "PASS",
+   "claim": "SARGENTO NETO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:65000",
+   "status": "PASS",
+   "claim": "JÔ OLIVEIRA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22000",
+   "status": "PASS",
+   "claim": "FÁBIO LOPES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11011",
+   "status": "PASS",
+   "claim": "MICHEL HENRIQUE Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11789",
+   "status": "PASS",
+   "claim": "TANILSON SOARES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15123",
+   "status": "PASS",
+   "claim": "HERVAZIO BEZERRA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22456",
+   "status": "PASS",
+   "claim": "SEGUNDO DOMICIANO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10456",
+   "status": "PASS",
+   "claim": "DANIELLE DO VALE Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10222",
+   "status": "PASS",
+   "claim": "FELIPE COUTINHO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11777",
+   "status": "PASS",
+   "claim": "JÚNIOR ARAÚJO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10888",
+   "status": "PASS",
+   "claim": "BRANCO MENDES Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22190",
+   "status": "PASS",
+   "claim": "WALLBER VIRGOLINO Eleito por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22333",
+   "status": "PASS",
+   "claim": "GESKA DE LAURINHO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40123",
+   "status": "PASS",
+   "claim": "NELINHO COSTA Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44555",
+   "status": "PASS",
+   "claim": "GILBERTINHO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15111",
+   "status": "PASS",
+   "claim": "CAMILA TOSCANO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43147",
+   "status": "PASS",
+   "claim": "ANDERSON MONTEIRO Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11000",
+   "status": "PASS",
+   "claim": "DIEGO TAVARES Eleito por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15000",
+   "status": "PASS",
+   "claim": "LARÚCIA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40777",
+   "status": "PASS",
+   "claim": "EDUARDO BRITO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10123",
+   "status": "PASS",
+   "claim": "JUTAY MENESES Eleito por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11123",
+   "status": "PASS",
+   "claim": "LINDOLFO PIRES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44444",
+   "status": "PASS",
+   "claim": "FERNANDA ALVINO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43789",
+   "status": "PASS",
+   "claim": "CHIÓ Eleito por QP"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11222",
+   "status": "PASS",
+   "claim": "GALEGO SOUZA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11007",
+   "status": "PASS",
+   "claim": "DUDU SOARES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15100",
+   "status": "PASS",
+   "claim": "TOVAR Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13333",
+   "status": "PASS",
+   "claim": "FLÁVIO BRASILEIRO Eleito por média"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11113",
+   "status": "PASS",
+   "claim": "BOSCO CARNEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:65123",
+   "status": "PASS",
+   "claim": "DR. ROMUALDO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22444",
+   "status": "PASS",
+   "claim": "CILINHA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15789",
+   "status": "PASS",
+   "claim": "DINHO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10555",
+   "status": "PASS",
+   "claim": "ZEZÉ Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:65555",
+   "status": "PASS",
+   "claim": "INÁCIO FALCÃO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10234",
+   "status": "PASS",
+   "claim": "MARCIO ROBERTO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11111",
+   "status": "PASS",
+   "claim": "DRª JANE PANTA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15222",
+   "status": "PASS",
+   "claim": "CAIO ROBERTO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12000",
+   "status": "PASS",
+   "claim": "DENISE RIBEIRO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11666",
+   "status": "PASS",
+   "claim": "ZÉ ALDEMIR Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43123",
+   "status": "PASS",
+   "claim": "MANOEL LUDGÉRIO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11444",
+   "status": "PASS",
+   "claim": "LUCAS CAÇULA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15678",
+   "status": "PASS",
+   "claim": "ANA CLÁUDIA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10660",
+   "status": "PASS",
+   "claim": "LUCIANO CARTAXO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43333",
+   "status": "PASS",
+   "claim": "LAFA GADELHA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40190",
+   "status": "PASS",
+   "claim": "TENENTE CORONEL VIVIANE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22123",
+   "status": "PASS",
+   "claim": "VITOR RIBEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43000",
+   "status": "PASS",
+   "claim": "DR. ATHAIDE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13000",
+   "status": "PASS",
+   "claim": "MARCOS HENRIQUES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22555",
+   "status": "PASS",
+   "claim": "ANDRÉ GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10190",
+   "status": "PASS",
+   "claim": "CORONEL SERGIO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10180",
+   "status": "PASS",
+   "claim": "NOBINHO ALMEIDA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43555",
+   "status": "PASS",
+   "claim": "MARCOS ERON Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40789",
+   "status": "PASS",
+   "claim": "MARINALDO CARDOSO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10144",
+   "status": "PASS",
+   "claim": "CICINHO LIMA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13123",
+   "status": "PASS",
+   "claim": "DR. JEFFERSON Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22777",
+   "status": "PASS",
+   "claim": "CARLÃO PELO BEM Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18000",
+   "status": "PASS",
+   "claim": "RICARDO LUCENA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22789",
+   "status": "PASS",
+   "claim": "CORONEL SOBREIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11083",
+   "status": "PASS",
+   "claim": "PAULO FERREIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11555",
+   "status": "PASS",
+   "claim": "FABIOLA REZENDE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10999",
+   "status": "PASS",
+   "claim": "LEONICE LOPES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11400",
+   "status": "PASS",
+   "claim": "ROSÁLIA LUCAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12123",
+   "status": "PASS",
+   "claim": "JUNIO LEANDRO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15022",
+   "status": "PASS",
+   "claim": "PR. ISAAC VENERANDO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11321",
+   "status": "PASS",
+   "claim": "RUAN MARTINS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15300",
+   "status": "PASS",
+   "claim": "PROFESSOR FRANCISCO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10000",
+   "status": "PASS",
+   "claim": "NATÁLIA RODRIGUES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10192",
+   "status": "PASS",
+   "claim": "ENFERMEIRA RAYRA BESERRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11234",
+   "status": "PASS",
+   "claim": "JADER PIMENTEL FILHO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40111",
+   "status": "PASS",
+   "claim": "KLÉCIDA RODRIGUES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40013",
+   "status": "PASS",
+   "claim": "ANÍSIO MAIA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15777",
+   "status": "PASS",
+   "claim": "JOALLISON SANTOS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15190",
+   "status": "PASS",
+   "claim": "SARGENTO RUI Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22007",
+   "status": "PASS",
+   "claim": "CAPITÃ ALINE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15321",
+   "status": "PASS",
+   "claim": "PROF. HOSANA CARNEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:80123",
+   "status": "PASS",
+   "claim": "JOZIVAN ANTERO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10193",
+   "status": "PASS",
+   "claim": "CAPITÃO MARADONA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22111",
+   "status": "PASS",
+   "claim": "WALKÍRIA ROCHA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13613",
+   "status": "PASS",
+   "claim": "PROFESSOR EDILEUDO LUCENA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22345",
+   "status": "PASS",
+   "claim": "MICHELY FARINA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:80180",
+   "status": "PASS",
+   "claim": "VITORIA OHARA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13456",
+   "status": "PASS",
+   "claim": "TERESINHA DANTAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11999",
+   "status": "PASS",
+   "claim": "ANDRÉ MATIAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22522",
+   "status": "PASS",
+   "claim": "DR. EVANDRO TRINDADE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15151",
+   "status": "PASS",
+   "claim": "ZÉ DO MUTIRÃO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15009",
+   "status": "PASS",
+   "claim": "VAL DA EDUCAÇÃO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10404",
+   "status": "PASS",
+   "claim": "CORONEL LUCAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22622",
+   "status": "PASS",
+   "claim": "ALAN DE BASTOS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40999",
+   "status": "PASS",
+   "claim": "JANINE OLIVEIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22122",
+   "status": "PASS",
+   "claim": "SAMMARA AGUIAR SAMMY Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13206",
+   "status": "PASS",
+   "claim": "ANA ARAÚJO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11456",
+   "status": "PASS",
+   "claim": "CÉLIA ALVES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22001",
+   "status": "PASS",
+   "claim": "SAMARA SUASSUNA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11177",
+   "status": "PASS",
+   "claim": "BISPO JOSÉ LUIZ Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22770",
+   "status": "PASS",
+   "claim": "PROFESSOR ARLISON Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13455",
+   "status": "PASS",
+   "claim": "VALDENICIO DA FETRAF Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15333",
+   "status": "PASS",
+   "claim": "TOINHO NASCIMENTO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40040",
+   "status": "PASS",
+   "claim": "ALDENORA BEZERRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43777",
+   "status": "PASS",
+   "claim": "DR. BRUNO DERIU Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13130",
+   "status": "PASS",
+   "claim": "PROF. STENIO SOARES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12108",
+   "status": "PASS",
+   "claim": "MONICA RODRIGUES Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15155",
+   "status": "PASS",
+   "claim": "DR. PET Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22888",
+   "status": "PASS",
+   "claim": "MELCA FARIAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40234",
+   "status": "PASS",
+   "claim": "SIBELLE BARROS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12100",
+   "status": "PASS",
+   "claim": "SÁVIO SALVADOR Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22191",
+   "status": "PASS",
+   "claim": "SARGENTO CLEBER Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22022",
+   "status": "PASS",
+   "claim": "RAQUEL FRANÇA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15919",
+   "status": "PASS",
+   "claim": "POCA CABELEIREIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15666",
+   "status": "PASS",
+   "claim": "LENA DO PARAÍBA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11100",
+   "status": "PASS",
+   "claim": "VALDILENE QUEIROZ Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40400",
+   "status": "PASS",
+   "claim": "DIVA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12444",
+   "status": "PASS",
+   "claim": "CAPITÃO PEREIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11138",
+   "status": "PASS",
+   "claim": "MARCIA DA SALADA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:10789",
+   "status": "PASS",
+   "claim": "PROFESSORA IVONETE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15015",
+   "status": "PASS",
+   "claim": "PROFESSOR RONI ANDRADE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:80800",
+   "status": "PASS",
+   "claim": "PROF. CLEBER Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40444",
+   "status": "PASS",
+   "claim": "DANIEL DA SAÚDE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11022",
+   "status": "PASS",
+   "claim": "LUCAS LUCENA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15444",
+   "status": "PASS",
+   "claim": "VITOR HUGO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:50333",
+   "status": "PASS",
+   "claim": "KALINE Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18691",
+   "status": "PASS",
+   "claim": "ANELY MÔNICA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12567",
+   "status": "PASS",
+   "claim": "JORGE MAIA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12321",
+   "status": "PASS",
+   "claim": "ANDRÉ LIMA JÚNIOR Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12111",
+   "status": "PASS",
+   "claim": "SARGENTO SÉRGIO ARAUJO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44111",
+   "status": "PASS",
+   "claim": "DANIEL GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13111",
+   "status": "PASS",
+   "claim": "SUELMA TAVARES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12223",
+   "status": "PASS",
+   "claim": "MORENA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13213",
+   "status": "PASS",
+   "claim": "NOCA RIBEIRO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13100",
+   "status": "PASS",
+   "claim": "JÂNIO PEREIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15192",
+   "status": "PASS",
+   "claim": "SUBTENENTE CRISPIM Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12678",
+   "status": "PASS",
+   "claim": "PROFESSORA KALINA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22321",
+   "status": "PASS",
+   "claim": "MARY Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11190",
+   "status": "PASS",
+   "claim": "MAJOR FERNANDO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18888",
+   "status": "PASS",
+   "claim": "MAX JÚNIOR Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18188",
+   "status": "PASS",
+   "claim": "SARGENTO IVALDO GARRINCHA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22077",
+   "status": "PASS",
+   "claim": "ALEXANDRE REI DOS TERRENOS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44333",
+   "status": "PASS",
+   "claim": "NATHALYA FERNANDA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11500",
+   "status": "PASS",
+   "claim": "KELLY DO BOTAFOGO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22100",
+   "status": "PASS",
+   "claim": "MERINHA DA CASA DE APOIO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12333",
+   "status": "PASS",
+   "claim": "JOAQUIM MORAIS Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15112",
+   "status": "PASS",
+   "claim": "MADALENA CABELEIREIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40401",
+   "status": "PASS",
+   "claim": "JOSE PEREIRA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18008",
+   "status": "PASS",
+   "claim": "THEUS CARVALHO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43111",
+   "status": "PASS",
+   "claim": "BRUNA MORAIS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40555",
+   "status": "PASS",
+   "claim": "JEANE OLIVEIRA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:50150",
+   "status": "PASS",
+   "claim": "ULISSES BARBOSA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40345",
+   "status": "PASS",
+   "claim": "DRA FLAVINA FELICIANO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11888",
+   "status": "PASS",
+   "claim": "JOÃO BATISTA DE BAYEUX Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22878",
+   "status": "PASS",
+   "claim": "CLÁUDIO O SERVENTE DE OBRAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12190",
+   "status": "PASS",
+   "claim": "SARGENTO BARLAVENTO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15150",
+   "status": "PASS",
+   "claim": "ENFERMEIRA RAQUEL PAULA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:13110",
+   "status": "PASS",
+   "claim": "ROSELY LOUZADA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18789",
+   "status": "PASS",
+   "claim": "GILBERTO CALADO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12777",
+   "status": "PASS",
+   "claim": "WAGNER NASCIMENTO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22922",
+   "status": "PASS",
+   "claim": "PROFESSOR JOSIAS MENDES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22822",
+   "status": "PASS",
+   "claim": "DANIEL SOBRINHO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12192",
+   "status": "PASS",
+   "claim": "BARBOSA DE MANDACARU Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18777",
+   "status": "PASS",
+   "claim": "NICE COSTA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:11200",
+   "status": "PASS",
+   "claim": "DANE ALENCAR Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15200",
+   "status": "PASS",
+   "claim": "ROBERTO LIMA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:50111",
+   "status": "PASS",
+   "claim": "RAIMUNDO AGENTE DE SAÚDE Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15888",
+   "status": "PASS",
+   "claim": "MANU DE SOUZA Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40196",
+   "status": "PASS",
+   "claim": "GERLANE Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15115",
+   "status": "PASS",
+   "claim": "JACI GUIMARÃES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:50123",
+   "status": "PASS",
+   "claim": "NEIDINHA Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43027",
+   "status": "PASS",
+   "claim": "LUCIENE FARIAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15556",
+   "status": "PASS",
+   "claim": "TERESA CARNEIRO FELICIANO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:50777",
+   "status": "PASS",
+   "claim": "ZÉ DE DUNCO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:43146",
+   "status": "PASS",
+   "claim": "TATIANA GOMES Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:44144",
+   "status": "PASS",
+   "claim": "MADÁ Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18456",
+   "status": "PASS",
+   "claim": "ELIEZER BENÍCIO Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22088",
+   "status": "PASS",
+   "claim": "CLOVES MALVINAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22287",
+   "status": "PASS",
+   "claim": "LAMPIÃO GAÚCHO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:18177",
+   "status": "PASS",
+   "claim": "SUELY SOARES Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15669",
+   "status": "PASS",
+   "claim": "OSVALDO SANTOS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:40640",
+   "status": "PASS",
+   "claim": "CARLOS RENATO Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:22654",
+   "status": "PASS",
+   "claim": "ZÉ MEDEIROS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:12247",
+   "status": "PASS",
+   "claim": "EVILLIANE LINS Não eleito"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand:15650",
+   "status": "PASS",
+   "claim": "CARLINHOS DE NIAS Suplente"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:cand-count",
+   "status": "PASS",
+   "claim": "195 candidatos"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:seats",
+   "status": "PASS",
+   "claim": "{\"FEDERAÇÃO UNIÃO PROGRESSISTA\": 10, \"REPUBLICANOS\": 8, \"PARTIDO LIBERAL\": 6, \"FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL\": 5, \"MOVIMENTO DEMOCRÁTICO BRASILEIRO\": 4, \"PARTIDO SOCIALISTA BRASILEIRO\": 3}"
+  },
+  {
+   "id": "TSE, deputado estadual na Paraíba:seats-total",
+   "status": "PASS",
+   "claim": "36 vagas"
+  }
+ ],
+ "controls": [
+  {
+   "id": "NEG swapped Flávio/Lula %",
+   "status": "FAIL",
+   "claim": "NEG swapped Flávio/Lula %"
+  },
+  {
+   "id": "NEG Efraim elected governor",
+   "status": "FAIL",
+   "claim": "NEG Efraim elected governor"
+  },
+  {
+   "id": "NEG third senator elected",
+   "status": "FAIL",
+   "claim": "NEG third senator elected"
+  },
+  {
+   "id": "NEG extra federal seat",
+   "status": "FAIL",
+   "claim": "NEG extra federal seat"
+  },
+  {
+   "id": "NEG QP vs média flipped",
+   "status": "FAIL",
+   "claim": "NEG QP vs média flipped"
+  },
+  {
+   "id": "NEG abstenção +1000",
+   "status": "FAIL",
+   "claim": "NEG abstenção +1000"
+  },
+  {
+   "id": "NEG runoff finalist marked elected",
+   "status": "FAIL",
+   "claim": "NEG runoff finalist marked elected"
+  }
+ ]
+}

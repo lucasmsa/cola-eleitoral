@@ -9,6 +9,9 @@ import { LessonScreen } from './lesson/LessonScreen';
 import { ResultScreen } from './results/ResultScreen';
 import { ReviewScreen } from './review/ReviewScreen';
 import { Round2Screen } from './round2/Round2Screen';
+import { Round2ColaScreen } from './round2/Round2ColaScreen';
+import { Round1Screen } from './round1/Round1Screen';
+import { useTurno } from '@/hooks/useTurno';
 import { TopBar } from './shell/TopBar';
 import { Credits } from './shell/Credits';
 
@@ -24,6 +27,10 @@ function ScreenView({ screen }: { screen: Screen }) {
       return <ColaScreen />;
     case 'round2':
       return <Round2Screen />;
+    case 'round1':
+      return <Round1Screen />;
+    case 'cola2':
+      return <Round2ColaScreen />;
     default:
       return <HomeScreen />;
   }
@@ -32,18 +39,26 @@ function ScreenView({ screen }: { screen: Screen }) {
 export function App() {
   const nav = useNav();
   const countdown = useCountdown();
+  const turno = useTurno();
   const { canvasRef, displayed: shown, turning, ready } = usePageTurn(nav.screen);
   const topKey = shown.name === 'results' ? 'results' : screenKey(shown);
   return (
     <MotionConfig reducedMotion="user">
       <TopBar
-        countdown={countdown.short}
+        countdown={turno.turno === 2 ? countdown.short : ''}
         screen={shown.name === 'lesson' ? 'home' : shown.name}
-        onHome={nav.goHome}
-        onResults={nav.goResults}
-        onReview={nav.goReview}
-        onCola={nav.goCola}
-        onRound2={nav.goRound2}
+        turno={turno.turno}
+        links={turno.links}
+        onTurno={turno.choose}
+        actions={{
+          onHome: nav.goHome,
+          onResults: nav.goResults,
+          onReview: nav.goReview,
+          onCola: nav.goCola,
+          onRound2: nav.goRound2,
+          onRound1: nav.goRound1,
+          onCola2: nav.goCola2,
+        }}
       />
       <AnimatePresence mode="wait" initial={false}>
         <motion.div

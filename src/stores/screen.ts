@@ -7,7 +7,9 @@ export type Screen =
   | { name: 'results'; step: ResultStep }
   | { name: 'review' }
   | { name: 'cola' }
-  | { name: 'round2' };
+  | { name: 'round2' }
+  | { name: 'round1' }
+  | { name: 'cola2' };
 
 interface ScreenState {
   screen: Screen;

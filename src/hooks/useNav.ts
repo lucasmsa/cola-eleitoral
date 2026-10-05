@@ -13,5 +13,7 @@ export function useNav() {
     goReview: () => go({ name: 'review' }),
     goCola: () => go({ name: 'cola' }),
     goRound2: () => go({ name: 'round2' }),
+    goRound1: () => go({ name: 'round1' }),
+    goCola2: () => go({ name: 'cola2' }),
   };
 }

@@ -186,3 +186,66 @@ export interface Round2 {
   dateSource: Source
   offices: Round2Office[]
 }
+
+export interface Endorsement {
+  id: string
+  who: string
+  supports: string
+  claims: Claim[]
+}
+
+export interface ResultSource extends Source {
+  generated: string
+}
+
+export interface ResultCandidate {
+  candidateId: string
+  number: string
+  ballotName: string
+  party: string
+  list: string
+  votes: number
+  pct: number
+  pctLabel: string
+  status: string
+  elected: boolean
+}
+
+export interface Turnout {
+  eleitores: number
+  eleitoresSecoesNaoInstaladas: number
+  comparecimento: number
+  comparecimentoPct: string
+  abstencao: number
+  abstencaoPct: string
+  validos: number
+  brancos: number
+  brancosPct: string
+  nulos: number
+  nulosPct: string
+}
+
+export interface MajoritarianResult {
+  candidates: ResultCandidate[]
+  seatsTotal: number
+  source: ResultSource
+  turnout?: Turnout
+}
+
+export interface ProportionalResult {
+  seatsTotal: number
+  seats: { list: string; parties: string; seats: number }[]
+  candidates: ResultCandidate[]
+  elected: (ResultCandidate & { how: 'QP' | 'média' })[]
+  source: ResultSource
+}
+
+export interface Round1 {
+  round: 1
+  date: string
+  presidente: { br: MajoritarianResult; pb: MajoritarianResult }
+  governador: MajoritarianResult
+  senador: MajoritarianResult
+  deputadoFederal: ProportionalResult
+  deputadoEstadual: ProportionalResult
+}
