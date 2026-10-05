@@ -3,8 +3,8 @@ export const COPY = {
   credits: { madeBy: 'feito por lucasmsa', coffee: 'me paga um café ☕', source: 'código-fonte', github: 'Código-fonte no GitHub' },
   home: {
     replayCover: 'Ver de novo',
-    lead: 'Diga o que você pensa sobre temas que o Congresso e os candidatos já enfrentaram. O app compara suas respostas com votos registrados e planos de governo e, no fim, monta a sua cola para o 1º turno.',
-    privacy: 'Suas respostas ficam só neste navegador. Nada é enviado para servidor nenhum.',
+    lead: 'Diga o que você pensa sobre temas que o Congresso e os candidatos já enfrentaram. O app compara suas respostas com votos registrados e planos de governo e, no fim, monta a sua cola para votar.',
+    privacy: 'Suas respostas ficam só neste navegador e nunca são enviadas. O site conta apenas visitas às páginas.',
     trail: 'Trilha de lições',
     start: 'Começar',
     resume: 'Continuar',
