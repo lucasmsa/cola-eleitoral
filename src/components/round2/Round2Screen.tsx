@@ -1,4 +1,5 @@
 import { COPY } from '@/config/copy';
+import { DataInfo } from '../shell/DataInfo';
 import { useRound2 } from '@/hooks/useRound2';
 import { PollPanel } from '../results/PollPanel';
 import { Button, Hand, SourceLink } from '../shell/ui';
@@ -65,15 +66,17 @@ export function Round2Screen() {
 
         <Round2Cola />
 
-        <p className="text-base text-muted">
-          {COPY.round2.resultsSource}:{' '}
-          {r.sources.map((s, i) => (
-            <span key={s.url}>
-              {i > 0 && ', '}
-              <SourceLink label={s.label} url={s.url} />
-            </span>
-          ))}
-        </p>
+        <DataInfo>
+          <p className="text-base text-muted">
+            {COPY.round2.resultsSource}:{' '}
+            {r.sources.map((s, i) => (
+              <span key={s.url}>
+                {i > 0 && ', '}
+                <SourceLink label={s.label} url={s.url} />
+              </span>
+            ))}
+          </p>
+        </DataInfo>
       </main>
       <Round2ColaPrint />
     </>

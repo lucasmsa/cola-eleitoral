@@ -312,6 +312,17 @@ export const COPY = {
     governorLine: (name: string, pct: string) => `Governador da Paraíba: ${name}, eleito com ${pct}% dos votos válidos.`,
     senatorsLine: (names: string) => `Senado pela Paraíba: ${names} eleitos.`,
   },
+  dataInfo: {
+    button: 'Sobre os dados',
+    title: 'Até quando valem estes dados',
+    candidatos: 'Candidaturas (TSE)',
+    resultados: 'Resultados (TSE)',
+    evidencias: 'Última checagem das evidências',
+    pesquisas: 'Pesquisas, datas de campo',
+    unknown: 'sem data registrada',
+    pollOffice: { presidente: 'Presidente', governador: 'Governador PB', senador: 'Senado PB' } as Record<string, string>,
+    caveat: 'Os fatos valem até essa data; decisões judiciais, renúncias e novas pesquisas posteriores podem não estar aqui.',
+  },
   footer: (n: number, date: string) =>
     `${n} fatos checados em fonte primária (TSE, Câmara, Senado, Planalto e planos de governo registrados). Dados de ${date}.`,
 };

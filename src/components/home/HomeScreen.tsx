@@ -1,4 +1,5 @@
 import { COPY } from '@/config/copy';
+import { DataInfo } from '../shell/DataInfo';
 import { useCountdown } from '@/hooks/useCountdown';
 import { useHome } from '@/hooks/useHome';
 import { useCover } from '@/hooks/useCover';
@@ -71,7 +72,9 @@ export function HomeScreen() {
       </section>
 
       {home.answered > 0 && <RestartQuiz />}
-      <p className="text-base text-muted">{COPY.footer(home.factCount, brDate(home.builtAt))}</p>
+      <DataInfo>
+        <p className="text-base text-muted">{COPY.footer(home.factCount, brDate(home.builtAt))}</p>
+      </DataInfo>
     </main>
   );
 }

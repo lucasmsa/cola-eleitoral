@@ -2,6 +2,9 @@ import type { Area, Office } from '@/data/schema';
 
 export const ELECTION_DATE = '2026-10-04';
 export const ELECTION_LABEL = '4 de outubro';
+export const ROUND_TWO_DATE = '2026-10-25';
+export const ELECTION_DAYS = [ELECTION_DATE, ROUND_TWO_DATE];
+export const ELECTION_TIMEZONE = 'America/Sao_Paulo';
 
 export interface OfficeConfig {
   id: Office;
