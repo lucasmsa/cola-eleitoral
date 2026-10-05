@@ -6,7 +6,8 @@ export type Screen =
   | { name: 'lesson'; unitId: string }
   | { name: 'results'; step: ResultStep }
   | { name: 'review' }
-  | { name: 'cola' };
+  | { name: 'cola' }
+  | { name: 'round2' };
 
 interface ScreenState {
   screen: Screen;

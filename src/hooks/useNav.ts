@@ -12,5 +12,6 @@ export function useNav() {
     goResultStep: (step: ResultStep) => go({ name: 'results', step }),
     goReview: () => go({ name: 'review' }),
     goCola: () => go({ name: 'cola' }),
+    goRound2: () => go({ name: 'round2' }),
   };
 }

@@ -176,6 +176,14 @@ def build_claim_files(evidence_ids):
     axes = (load("explain/axes.json") or []) + (load("q3/axes.json") or [])
     if axes:
         (DATA / "axes.json").write_text(json.dumps(axes, ensure_ascii=False, indent=1))
+    round2, r2rep = load("round2/round2.json"), load("checks/round2.report.json")
+    if round2 is not None and r2rep is not None:
+        rows = r2rep.get("rows", [])
+        if rows and all(r["status"] == "PASS" for r in rows):
+            (DATA / "round2.json").write_text(json.dumps(round2, ensure_ascii=False, indent=1))
+            stats["round2.json"] = "shipped"
+        else:
+            stats["round2.json"] = "check failing, not shipped"
     countries, crep = load("countries/countries.json"), load("checks/countries.report.json")
     if countries is not None and crep is not None:
         ok = passed_ids(crep)

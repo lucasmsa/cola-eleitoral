@@ -1,0 +1,59 @@
+{
+ "date": "2026-10-25",
+ "dateSource": {
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+  "accessed": "2026-10-05",
+  "label": "Constituição Federal, art. 77"
+ },
+ "offices": [
+  {
+   "office": "presidente",
+   "status": "runoff",
+   "finalists": [
+    {
+     "candidateId": "presidente-22",
+     "number": "22",
+     "ballotName": "FLAVIO BOLSONARO",
+     "pctBrasil": "47,03",
+     "pctParaiba": "33,07"
+    },
+    {
+     "candidateId": "presidente-13",
+     "number": "13",
+     "ballotName": "LULA",
+     "pctBrasil": "45,16",
+     "pctParaiba": "61,31"
+    }
+   ],
+   "sources": [
+    {
+     "url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+     "accessed": "2026-10-05",
+     "label": "TSE, presidente no Brasil, gerado em 05/10/2026 às 12:51:47"
+    },
+    {
+     "url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pb/pb-c0001-e006257-u.json",
+     "accessed": "2026-10-05",
+     "label": "TSE, presidente na Paraíba, gerado em 05/10/2026 às 12:51:44"
+    }
+   ]
+  },
+  {
+   "office": "governador",
+   "status": "decided",
+   "winner": {
+    "candidateId": "governador-11",
+    "number": "11",
+    "ballotName": "LUCAS RIBEIRO",
+    "pct": "64,30"
+   },
+   "sources": [
+    {
+     "url": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0003-e006259-u.json",
+     "accessed": "2026-10-05",
+     "label": "TSE, governador na Paraíba, gerado em 04/10/2026 às 23:23:01"
+    }
+   ]
+  }
+ ]
+}

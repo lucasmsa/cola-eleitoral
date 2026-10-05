@@ -47,6 +47,10 @@ export const COLA_SLOTS: ColaSlot[] = [
   { id: 'presidente', office: 'presidente', label: 'Presidente', digits: 2, allowsLegenda: false },
 ];
 
+export const COLA2_SLOTS: ColaSlot[] = [
+  { id: 'presidente', office: 'presidente', label: 'Presidente', digits: 2, allowsLegenda: false },
+];
+
 export interface AreaConfig {
   id: Area;
   label: string;

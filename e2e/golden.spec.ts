@@ -49,7 +49,7 @@ test('answer three questions, see the result sequence, put a senator in the cola
   await expect(page.getByText(/Isso mesmo\.|Não foi isso\./)).toBeVisible();
   await expect(page.getByText(/^Fonte:/).first()).toBeVisible();
 
-  await page.locator('nav').getByRole('button', { name: 'Início' }).click();
+  await page.getByRole('banner').getByRole('button', { name: 'Início' }).first().click();
   await page.getByRole('button', { name: 'Recomeçar o quiz do zero' }).click();
   await page.getByRole('button', { name: 'Sim, apagar e recomeçar' }).click();
   await expect(page.getByText(/^0 de \d+ perguntas/).first()).toBeVisible();

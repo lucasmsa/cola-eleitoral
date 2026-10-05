@@ -164,3 +164,25 @@ export interface Portrait {
   file: string
   photoSource: Source
 }
+
+export interface Round2Finalist {
+  candidateId: string
+  number: string
+  ballotName: string
+  pctBrasil: string
+  pctParaiba: string
+}
+
+export interface Round2Office {
+  office: Office
+  status: 'runoff' | 'decided'
+  finalists?: Round2Finalist[]
+  winner?: { candidateId: string; number: string; ballotName: string; pct: string } | null
+  sources: Source[]
+}
+
+export interface Round2 {
+  date: string
+  dateSource: Source
+  offices: Round2Office[]
+}

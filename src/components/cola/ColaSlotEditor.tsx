@@ -8,6 +8,7 @@ interface Props {
   onType: (raw: string) => void;
   onBranco: () => void;
   onClear: () => void;
+  notFoundText?: string;
 }
 
 const STATUS_STYLE: Record<ColaStatusKind, string> = {
@@ -16,9 +17,9 @@ const STATUS_STYLE: Record<ColaStatusKind, string> = {
   idle: 'text-muted',
 };
 
-export function ColaSlotEditor({ view, onType, onBranco, onClear }: Props) {
+export function ColaSlotEditor({ view, onType, onBranco, onClear, notFoundText }: Props) {
   const id = `cola-${view.slot.id}`;
-  const status = colaStatus(view.lookup, view.slot.digits);
+  const status = colaStatus(view.lookup, view.slot.digits, notFoundText);
   return (
     <li className="grid gap-2 rounded-md border-2 border-edge bg-paper p-4">
       <div className="flex flex-wrap items-baseline justify-between gap-2">

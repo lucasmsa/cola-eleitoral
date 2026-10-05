@@ -4,7 +4,7 @@ import { titleCase } from './text';
 
 export type ColaStatusKind = 'ok' | 'warn' | 'idle';
 
-export function colaStatus(lookup: SlotLookup, digits: number): { kind: ColaStatusKind; text: string } {
+export function colaStatus(lookup: SlotLookup, digits: number, notFoundText: string = COPY.cola.notFound): { kind: ColaStatusKind; text: string } {
   switch (lookup.status) {
     case 'candidate': {
       const name = `${titleCase(lookup.candidate.ballotName)}, ${lookup.candidate.party}`;
@@ -16,7 +16,7 @@ export function colaStatus(lookup: SlotLookup, digits: number): { kind: ColaStat
     case 'branco':
       return { kind: 'ok', text: COPY.cola.brancoLabel };
     case 'not-found':
-      return { kind: 'warn', text: COPY.cola.notFound };
+      return { kind: 'warn', text: notFoundText };
     case 'incomplete':
       return { kind: 'warn', text: COPY.cola.incomplete(digits) };
     default:

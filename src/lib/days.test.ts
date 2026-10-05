@@ -15,3 +15,15 @@ describe('daysUntil', () => {
     expect(countdownLabel(-2)).toBe('O 1º turno já passou');
   });
 });
+
+describe('electionHeadline', () => {
+  it('names the round and the date it counts down to', async () => {
+    const { electionHeadline } = await import('./days');
+    expect(electionHeadline({ round: 2, date: '2026-10-25', days: 20 })).toEqual({
+      short: 'Faltam 20 dias',
+      long: 'Faltam 20 dias para o 2º turno, 25 de outubro',
+    });
+    expect(electionHeadline({ round: 1, date: '2026-10-04', days: 0 }).long).toBe('É hoje: 1º turno, 4 de outubro');
+    expect(electionHeadline({ round: 2, date: '2026-10-25', days: -1 }).short).toBe('O 2º turno já passou');
+  });
+});

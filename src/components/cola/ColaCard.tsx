@@ -2,7 +2,7 @@ import { COPY } from '@/config/copy';
 import type { ColaSlotView } from '@/hooks/useCola';
 import { colaRowName } from '@/lib/colaView';
 
-export function ColaCard({ views }: { views: ColaSlotView[] }) {
+export function ColaCard({ views, title = COPY.cola.cardTitle, note }: { views: ColaSlotView[]; title?: string; note?: string | undefined }) {
   return (
     <div
       className="flex flex-col overflow-hidden rounded-[1.5mm] border border-[#111] bg-white px-[3mm] py-[2.5mm] text-[#111]"
@@ -10,7 +10,7 @@ export function ColaCard({ views }: { views: ColaSlotView[] }) {
       data-testid="cola-card"
     >
       <div className="flex items-baseline justify-between pb-[1mm]">
-        <b className="font-hand text-[13pt] leading-none">{COPY.cola.cardTitle}</b>
+        <b className="font-hand text-[13pt] leading-none">{title}</b>
         <span className="text-[6.5pt]">{COPY.cola.cardPlace}</span>
       </div>
       {views.map((v) => (
@@ -28,6 +28,7 @@ export function ColaCard({ views }: { views: ColaSlotView[] }) {
           </span>
         </div>
       ))}
+      {note && <p className="border-t border-[#bbb] pt-[1mm] text-[6.5pt] leading-tight">{note}</p>}
     </div>
   );
 }

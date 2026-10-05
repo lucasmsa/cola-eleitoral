@@ -10,6 +10,7 @@ import type {
   Profile,
   Question,
   Controversy,
+  Round2,
 } from './schema';
 import axesJson from './axes.json';
 import candidatesJson from './candidates.json';
@@ -22,6 +23,7 @@ import profilesJson from './profiles.json';
 import questionsJson from './questions.json';
 import controversiesJson from './controversies.json';
 import portraitsJson from './portraits.json';
+import round2Json from './round2.json';
 
 export const candidates = candidatesJson as Candidate[];
 export const evidence = evidenceJson as Evidence[];
@@ -34,3 +36,4 @@ export const profiles = profilesJson as unknown as Profile[];
 export const countries = countriesJson as unknown as CountryStance[];
 export const controversies = controversiesJson as unknown as Controversy[];
 export const portraits = portraitsJson as unknown as Portrait[];
+export const round2 = round2Json as unknown as Round2;

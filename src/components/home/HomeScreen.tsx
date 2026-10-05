@@ -7,6 +7,7 @@ import { Mascot } from '../shell/Mascot';
 import { RestartQuiz } from '../shell/RestartQuiz';
 import { Button, Hand, ProgressBar } from '../shell/ui';
 import { Cover } from './Cover';
+import { Round2Card } from './Round2Card';
 import { UnitStop } from './UnitStop';
 
 export function HomeScreen() {
@@ -16,11 +17,12 @@ export function HomeScreen() {
   const hasCover = Boolean(cover.poster || cover.video);
   return (
     <main className="mx-auto grid max-w-3xl grid-cols-[minmax(0,1fr)] gap-10 px-4 py-8 md:pl-24">
+      <Round2Card />
       <Cover cover={cover} />
       <section className="flex flex-col items-start gap-5 sm:flex-row">
         {!hasCover && <Mascot mood="idle" size={96} />}
         <div className="grid gap-3">
-          <Hand className="text-3xl">{countdown} para o 1º turno, 4 de outubro</Hand>
+          <Hand className="text-3xl">{countdown.long}</Hand>
           <h1 className="text-5xl font-extrabold leading-tight md:text-6xl">{COPY.appName}</h1>
           <p className="max-w-[60ch] text-xl text-muted">{COPY.home.lead}</p>
           <p className="text-base text-muted">{COPY.home.privacy}</p>

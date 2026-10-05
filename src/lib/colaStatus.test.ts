@@ -20,3 +20,9 @@ describe('colaStatus', () => {
     expect(s).toEqual({ kind: 'ok', text: 'Veneziano, MDB' });
   });
 });
+
+describe('colaStatus not-found text', () => {
+  it('uses the caller text for numbers outside the allowed list', () => {
+    expect(colaStatus({ status: 'not-found' }, 2, 'Os números são 13 e 22.')).toEqual({ kind: 'warn', text: 'Os números são 13 e 22.' });
+  });
+});

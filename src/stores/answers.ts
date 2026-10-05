@@ -9,10 +9,12 @@ interface AnswersState {
   answers: Answers;
   weights: Weights;
   cola: Partial<Record<ColaSlotId, ColaEntry>>;
+  cola2: Partial<Record<ColaSlotId, ColaEntry>>;
   setAnswer: (questionId: string, answer: Answer) => void;
   setImportance: (questionId: string, importance: Importance) => void;
   setRecordWeight: (record: number) => void;
   setCola: (slot: ColaSlotId, entry: ColaEntry | null) => void;
+  setCola2: (slot: ColaSlotId, entry: ColaEntry | null) => void;
   resetAll: () => void;
 }
 
@@ -38,6 +40,7 @@ export const useAnswersStore = create<AnswersState>()(
       answers: {},
       weights: DEFAULT_WEIGHTS,
       cola: {},
+      cola2: {},
       setAnswer: (questionId, answer) => set((s) => ({ answers: { ...s.answers, [questionId]: answer } })),
       setImportance: (questionId, importance) =>
         set((s) => {
@@ -56,7 +59,14 @@ export const useAnswersStore = create<AnswersState>()(
           else delete cola[slot];
           return { cola };
         }),
-      resetAll: () => set({ answers: {}, weights: DEFAULT_WEIGHTS, cola: {} }),
+      setCola2: (slot, entry) =>
+        set((s) => {
+          const cola2 = { ...s.cola2 };
+          if (entry) cola2[slot] = entry;
+          else delete cola2[slot];
+          return { cola2 };
+        }),
+      resetAll: () => set({ answers: {}, weights: DEFAULT_WEIGHTS, cola: {}, cola2: {} }),
     }),
     { name: 'cola-eleitoral:v1', storage: createJSONStorage(safeStorage) },
   ),

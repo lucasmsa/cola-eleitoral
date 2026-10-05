@@ -12,10 +12,12 @@ interface Props {
   onResults: () => void;
   onReview: () => void;
   onCola: () => void;
+  onRound2: () => void;
 }
 
-const LINKS: { key: Screen['name']; label: string; action: keyof Omit<Props, 'countdown' | 'screen'> }[] = [
-  { key: 'home', label: 'Início', action: 'onHome' },
+const LINKS: { key: Screen['name']; label: string; action: keyof Omit<Props, 'countdown' | 'screen'>; wideOnly?: boolean }[] = [
+  { key: 'home', label: 'Início', action: 'onHome', wideOnly: true },
+  { key: 'round2', label: '2º turno', action: 'onRound2' },
   { key: 'results', label: 'Resultado', action: 'onResults' },
   { key: 'review', label: 'Quiz', action: 'onReview' },
   { key: 'cola', label: 'Cola', action: 'onCola' },
@@ -36,7 +38,7 @@ export function TopBar(props: Props) {
               type="button"
               onClick={props[l.action]}
               aria-current={props.screen === l.key ? 'page' : undefined}
-              className={`inline-flex min-h-11 items-center rounded-md px-2 text-base font-semibold md:px-3 md:text-lg ${props.screen === l.key ? 'bg-ink text-paper' : 'text-ink hover:bg-fact'}`}
+              className={`${l.wideOnly ? 'hidden sm:inline-flex' : 'inline-flex'} min-h-11 items-center whitespace-nowrap rounded-md px-2 text-base font-semibold md:px-3 md:text-lg ${props.screen === l.key ? 'bg-ink text-paper' : 'text-ink hover:bg-fact'}`}
             >
               {l.label}
             </button>

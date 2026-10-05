@@ -8,6 +8,7 @@ import { HomeScreen } from './home/HomeScreen';
 import { LessonScreen } from './lesson/LessonScreen';
 import { ResultScreen } from './results/ResultScreen';
 import { ReviewScreen } from './review/ReviewScreen';
+import { Round2Screen } from './round2/Round2Screen';
 import { TopBar } from './shell/TopBar';
 import { Credits } from './shell/Credits';
 
@@ -21,6 +22,8 @@ function ScreenView({ screen }: { screen: Screen }) {
       return <ReviewScreen />;
     case 'cola':
       return <ColaScreen />;
+    case 'round2':
+      return <Round2Screen />;
     default:
       return <HomeScreen />;
   }
@@ -34,12 +37,13 @@ export function App() {
   return (
     <MotionConfig reducedMotion="user">
       <TopBar
-        countdown={countdown}
+        countdown={countdown.short}
         screen={shown.name === 'lesson' ? 'home' : shown.name}
         onHome={nav.goHome}
         onResults={nav.goResults}
         onReview={nav.goReview}
         onCola={nav.goCola}
+        onRound2={nav.goRound2}
       />
       <AnimatePresence mode="wait" initial={false}>
         <motion.div
