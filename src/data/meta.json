@@ -47,13 +47,18 @@
    "passed": 57,
    "new": 57
   },
+  "news5": {
+   "rows": 1,
+   "passed": 1,
+   "new": 1
+  },
   "pres": {
    "rows": 22,
    "passed": 22,
    "new": 22
   }
  },
- "evidence": 523,
+ "evidence": 524,
  "questions": 31,
  "droppedOffice": 17
 }

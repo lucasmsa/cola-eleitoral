@@ -9801,6 +9801,26 @@
   "lowDiscrimination": false
  },
  {
+  "id": "news5-presidente-22-q3-fim-reeleicao-2026-10-04",
+  "subject": {
+   "type": "candidate",
+   "id": "presidente-22"
+  },
+  "questionId": "q3-fim-reeleicao",
+  "kind": "platform",
+  "position": 1,
+  "detail": "No discurso depois do 1º turno, em 04/10/2026, voltou a defender o fim da reeleição.",
+  "quote": "Eu sou o único candidato que assumiu o compromisso pelo fim da reeleição.",
+  "date": "2026-10-04",
+  "source": {
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-resultado-das-eleicoes-decreta-fim-da-era-do-pt/",
+   "accessed": "2026-10-05",
+   "label": "Poder360, 05/10/2026"
+  },
+  "checkId": "news5-presidente-22-q3-fim-reeleicao-2026-10-04",
+  "lowDiscrimination": false
+ },
+ {
   "id": "pres-presidente-30-seg-8-janeiro-0",
   "subject": {
    "type": "candidate",

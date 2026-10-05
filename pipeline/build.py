@@ -17,6 +17,7 @@ STREAMS = {
     "pres2": ("pres2/evidence.json", "checks/pres2.report.json"),
     "pb2": ("pb2/evidence.json", "checks/pb2.report.json"),
     "q3": ("q3/evidence.json", "checks/q3.report.json"),
+    "news5": ("news5/evidence.json", "checks/news5.report.json"),
     "pres": ("pres/evidence.json", "checks/pres.report.json"),
 }
 QUESTION_FILES = ("alpb/questions.json", "exec/questions.json", "senate/questions.json", "gov/questions.json", "q3/questions.json")
@@ -184,6 +185,19 @@ def build_claim_files(evidence_ids):
             stats["round2.json"] = "shipped"
         else:
             stats["round2.json"] = "check failing, not shipped"
+    news_ok = passed_ids(load("checks/news5.report.json") or {})
+    endorsements = load("news5/endorsements.json")
+    if endorsements is not None:
+        for item in endorsements:
+            item["claims"] = [c for c in item["claims"] if c["checkId"] in news_ok]
+        endorsements = [e for e in endorsements if e["claims"]]
+        (DATA / "endorsements.json").write_text(json.dumps(endorsements, ensure_ascii=False, indent=1))
+        stats["endorsements.json"] = len(endorsements)
+    polls2 = load("news5/polls2.json")
+    if polls2 is not None:
+        polls2 = [p for p in polls2 if p["id"] in news_ok or all(f"{p['id']}:{r['label']}" in news_ok for r in p["results"])]
+        (DATA / "polls2.json").write_text(json.dumps(polls2, ensure_ascii=False, indent=1))
+        stats["polls2.json"] = len(polls2)
     countries, crep = load("countries/countries.json"), load("checks/countries.report.json")
     if countries is not None and crep is not None:
         ok = passed_ids(crep)

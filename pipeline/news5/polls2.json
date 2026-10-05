@@ -1,0 +1,62 @@
+[
+ {
+  "id": "presidente-r2-datafolha-2026-10-02",
+  "office": "presidente",
+  "institute": "Datafolha (cenário de 2º turno, votos totais, medido antes do 1º turno)",
+  "fieldStart": "2026-10-02",
+  "fieldEnd": "2026-10-03",
+  "sample": 4006,
+  "marginPp": 2.0,
+  "registration": "BR-01708/2026",
+  "results": [
+   {
+    "label": "Lula",
+    "pct": 47
+   },
+   {
+    "label": "Flávio Bolsonaro",
+    "pct": 46
+   },
+   {
+    "label": "branco/nulo/nenhum",
+    "pct": 6
+   },
+   {
+    "label": "indecisos",
+    "pct": 2
+   }
+  ],
+  "source": {
+   "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/",
+   "accessed": "2026-10-05",
+   "label": "Poder360, 03/10/2026"
+  },
+  "verified": "press"
+ },
+ {
+  "id": "presidente-r2-atlasintel-2026-09-27",
+  "office": "presidente",
+  "institute": "AtlasIntel (cenário de 2º turno, votos válidos, medido antes do 1º turno)",
+  "fieldStart": "2026-09-27",
+  "fieldEnd": "2026-10-02",
+  "sample": 4945,
+  "marginPp": 1.0,
+  "registration": "BR-00999/2026",
+  "results": [
+   {
+    "label": "Lula",
+    "pct": 50.1
+   },
+   {
+    "label": "Flávio Bolsonaro",
+    "pct": 49.9
+   }
+  ],
+  "source": {
+   "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/atlasintel-presidente-outubro-2026/",
+   "accessed": "2026-10-05",
+   "label": "Gazeta do Povo, outubro de 2026"
+  },
+  "verified": "press"
+ }
+]

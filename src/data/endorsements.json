@@ -1,0 +1,90 @@
+[
+ {
+  "id": "endo-cury",
+  "who": "Augusto Cury (Avante)",
+  "supports": "neutro",
+  "claims": [
+   {
+    "text": "Augusto Cury (Avante) disse, na noite do 1º turno, que não apoiará nenhum dos dois finalistas.",
+    "support": "Eu me silencio completamente em relação àqueles que estarão no segundo turno",
+    "source": {
+     "url": "https://midiamax.com.br/brasil/2026/cury-caiado-renan-santos-nao-declaram-apoio-2-turno-zema-vai-contra-pt/",
+     "accessed": "2026-10-05",
+     "label": "Midiamax, 05/10/2026"
+    },
+    "checkId": "endo-cury-1"
+   }
+  ]
+ },
+ {
+  "id": "endo-renan",
+  "who": "Renan Santos (Missão)",
+  "supports": "neutro",
+  "claims": [
+   {
+    "text": "Renan Santos (Missão) anunciou neutralidade e liberou os membros do partido.",
+    "support": "também anunciou neutralidade. Após a apuração dos votos, ele liberou os membros do partido",
+    "source": {
+     "url": "https://www.em.com.br/politica/2026/10/7514969-lula-x-flavio-o-que-farao-cury-renan-caiado-e-zema-no-2-turno.html",
+     "accessed": "2026-10-05",
+     "label": "Estado de Minas, 05/10/2026"
+    },
+    "checkId": "endo-renan-1"
+   }
+  ]
+ },
+ {
+  "id": "endo-caiado",
+  "who": "Ronaldo Caiado e PSD",
+  "supports": "indefinido",
+  "claims": [
+   {
+    "text": "Ronaldo Caiado (PSD) espera uma reunião com Gilberto Kassab, presidente do PSD, para decidir o 2º turno.",
+    "support": "aguarda uma reunião com o presidente do partido, Gilberto Kassab, para definir os rumos",
+    "source": {
+     "url": "https://www.em.com.br/politica/2026/10/7514969-lula-x-flavio-o-que-farao-cury-renan-caiado-e-zema-no-2-turno.html",
+     "accessed": "2026-10-05",
+     "label": "Estado de Minas, 05/10/2026"
+    },
+    "checkId": "endo-caiado-1"
+   },
+   {
+    "text": "O PSD manteve a liberação dos diretórios estaduais, sem apoio nacional formal a Lula ou Flávio.",
+    "support": "O PSD manteve a diretriz do primeiro turno de liberar os diretórios estaduais, sem um apoio nacional formal a Lula ou Flávio",
+    "source": {
+     "url": "https://www.em.com.br/politica/2026/10/7514969-lula-x-flavio-o-que-farao-cury-renan-caiado-e-zema-no-2-turno.html",
+     "accessed": "2026-10-05",
+     "label": "Estado de Minas, 05/10/2026"
+    },
+    "checkId": "endo-caiado-2"
+   }
+  ]
+ },
+ {
+  "id": "endo-zema",
+  "who": "Romeu Zema (Novo)",
+  "supports": "contra o PT, sem anúncio formal",
+  "claims": [
+   {
+    "text": "No domingo (4), Romeu Zema (Novo) disse que estará contra o PT, sem citar Flávio Bolsonaro; o Novo deve anunciar posição na segunda (5).",
+    "support": "não citou Flávio Bolsonaro, mas declarou que estará “contra o PT”",
+    "source": {
+     "url": "https://www.em.com.br/politica/2026/10/7514969-lula-x-flavio-o-que-farao-cury-renan-caiado-e-zema-no-2-turno.html",
+     "accessed": "2026-10-05",
+     "label": "Estado de Minas, 05/10/2026"
+    },
+    "checkId": "endo-zema-1"
+   },
+   {
+    "text": "Em maio de 2026, Zema prometeu apoio a Flávio, Caiado ou outro nome da direita contra o PT, caso não fosse ao 2º turno.",
+    "support": "Caso não seja eu, seja o Flávio, Caiado ou qualquer outro, eles terão meu total apoio contra o PT",
+    "source": {
+     "url": "https://www.correiodamanha.com.br/colunistas/paulo-cappelli/2026/05/289195-zema-faz-aceno-a-flavio-bolsonaro-apos-cobranca-de-aliados.html",
+     "accessed": "2026-10-05",
+     "label": "Correio da Manhã, maio de 2026"
+    },
+    "checkId": "endo-zema-2"
+   }
+  ]
+ }
+]

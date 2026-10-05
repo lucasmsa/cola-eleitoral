@@ -1,0 +1,155 @@
+{
+ "harness_ok": true,
+ "rows": [
+  {
+   "id": "presidente-r2-datafolha-2026-10-02:meta",
+   "status": "PASS",
+   "claim": "presidente-r2-datafolha-2026-10-02:meta"
+  },
+  {
+   "id": "presidente-r2-datafolha-2026-10-02:Lula",
+   "status": "PASS",
+   "claim": "presidente-r2-datafolha-2026-10-02:Lula"
+  },
+  {
+   "id": "presidente-r2-datafolha-2026-10-02:Flávio Bolsonaro",
+   "status": "PASS",
+   "claim": "presidente-r2-datafolha-2026-10-02:Flávio Bolsonaro"
+  },
+  {
+   "id": "presidente-r2-datafolha-2026-10-02:branco/nulo/nenhum",
+   "status": "PASS",
+   "claim": "presidente-r2-datafolha-2026-10-02:branco/nulo/nenhum"
+  },
+  {
+   "id": "presidente-r2-datafolha-2026-10-02:indecisos",
+   "status": "PASS",
+   "claim": "presidente-r2-datafolha-2026-10-02:indecisos"
+  },
+  {
+   "id": "presidente-r2-atlasintel-2026-09-27:meta",
+   "status": "PASS",
+   "claim": "presidente-r2-atlasintel-2026-09-27:meta"
+  },
+  {
+   "id": "presidente-r2-atlasintel-2026-09-27:Lula",
+   "status": "PASS",
+   "claim": "presidente-r2-atlasintel-2026-09-27:Lula"
+  },
+  {
+   "id": "presidente-r2-atlasintel-2026-09-27:Flávio Bolsonaro",
+   "status": "PASS",
+   "claim": "presidente-r2-atlasintel-2026-09-27:Flávio Bolsonaro"
+  },
+  {
+   "id": "endo-cury-1",
+   "status": "PASS",
+   "claim": "endo-cury-1"
+  },
+  {
+   "id": "endo-renan-1",
+   "status": "PASS",
+   "claim": "endo-renan-1"
+  },
+  {
+   "id": "endo-caiado-1",
+   "status": "PASS",
+   "claim": "endo-caiado-1"
+  },
+  {
+   "id": "endo-caiado-2",
+   "status": "PASS",
+   "claim": "endo-caiado-2"
+  },
+  {
+   "id": "endo-zema-1",
+   "status": "PASS",
+   "claim": "endo-zema-1"
+  },
+  {
+   "id": "endo-zema-2",
+   "status": "PASS",
+   "claim": "endo-zema-2"
+  },
+  {
+   "id": "news5-presidente-22-q3-fim-reeleicao-2026-10-04",
+   "status": "PASS",
+   "claim": "news5-presidente-22-q3-fim-reeleicao-2026-10-04"
+  },
+  {
+   "id": "endo-cury-1",
+   "status": "PASS",
+   "claim": "Augusto Cury (Avante) disse, na noite do 1º turno, que não apoiará nenhum dos dois finalistas."
+  },
+  {
+   "id": "endo-renan-1",
+   "status": "PASS",
+   "claim": "Renan Santos (Missão) anunciou neutralidade e liberou os membros do partido."
+  },
+  {
+   "id": "endo-caiado-1",
+   "status": "PASS",
+   "claim": "Ronaldo Caiado (PSD) espera uma reunião com Gilberto Kassab, presidente do PSD, para decidir o 2º turno."
+  },
+  {
+   "id": "endo-caiado-2",
+   "status": "PASS",
+   "claim": "O PSD manteve a liberação dos diretórios estaduais, sem apoio nacional formal a Lula ou Flávio."
+  },
+  {
+   "id": "endo-zema-1",
+   "status": "PASS",
+   "claim": "No domingo (4), Romeu Zema (Novo) disse que estará contra o PT, sem citar Flávio Bolsonaro; o Novo deve anunciar posição na segunda (5)."
+  },
+  {
+   "id": "endo-zema-2",
+   "status": "PASS",
+   "claim": "Em maio de 2026, Zema prometeu apoio a Flávio, Caiado ou outro nome da direita contra o PT, caso não fosse ao 2º turno."
+  },
+  {
+   "id": "news5-presidente-22-q3-fim-reeleicao-2026-10-04",
+   "status": "PASS",
+   "claim": "No discurso depois do 1º turno, em 04/10/2026, voltou a defender o fim da reeleição."
+  },
+  {
+   "id": "presidente-r2-datafolha-2026-10-02",
+   "status": "PASS",
+   "claim": "Datafolha (cenário de 2º turno, votos totais, medido antes do 1º turno)"
+  },
+  {
+   "id": "presidente-r2-atlasintel-2026-09-27",
+   "status": "PASS",
+   "claim": "AtlasIntel (cenário de 2º turno, votos válidos, medido antes do 1º turno)"
+  },
+  {
+   "id": "NEG Datafolha Lula 46% no 2º turno",
+   "status": "FAIL",
+   "claim": "NEG Datafolha Lula 46% no 2º turno"
+  },
+  {
+   "id": "NEG AtlasIntel registro BR-01709/2026",
+   "status": "FAIL",
+   "claim": "NEG AtlasIntel registro BR-01709/2026"
+  },
+  {
+   "id": "NEG Cury declarou apoio a Lula",
+   "status": "FAIL",
+   "claim": "NEG Cury declarou apoio a Lula"
+  },
+  {
+   "id": "NEG Renan anunciou apoio a Flávio",
+   "status": "FAIL",
+   "claim": "NEG Renan anunciou apoio a Flávio"
+  },
+  {
+   "id": "NEG quote de Zema atribuída ao Midiamax",
+   "status": "FAIL",
+   "claim": "NEG quote de Zema atribuída ao Midiamax"
+  },
+  {
+   "id": "NEG Flávio contra o fim da reeleição",
+   "status": "FAIL",
+   "claim": "NEG Flávio contra o fim da reeleição"
+  }
+ ]
+}
